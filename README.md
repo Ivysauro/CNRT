@@ -4,15 +4,15 @@
 Data base of China Rail Transit (Non-tech)
 
 ---
-已经完工的/Completed：
-- 过闸方式/Payment Methods for Passing Gate
+已经完工的/Completed🏘：
+- [过闸方式/Payment Methods for Passing Gate](./data/Payment Methods(Part 1).md)
 
-在计划中的/In Construction：
+在计划中的/In Construction🏗：
 - 购票方式/Payment Methods for Tickets
 - 充值方式/Payment Methods for Charging Transit Card
 - 手机交通卡支持情况/E-Transit Card(NFC) on mobile phone
 
 ---
-发现错误或有建议请直接提issue~
+发现错误或有建议请直接提 issue😀~
 
-If you have any questions, just open an issue~
+If you have any questions, just open an issue😉~
