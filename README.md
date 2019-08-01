@@ -5,7 +5,7 @@ Data base of China Rail Transit (Non-tech)
 
 ---
 已经完工的/Completed🏘：
-- [过闸方式/Payment Methods for Passing Gate](./data/Payment Methods(Part 1).md)
+- [过闸方式/Payment Methods for Passing Gate](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Payment%20Methods(Part%201).md)
 
 在计划中的/In Construction🏗：
 - 购票方式/Payment Methods for Tickets
