@@ -4,11 +4,11 @@
 
 〇：有条件的支持（参见备注）/Conditional Support（See Notes）
 
-| 城市/City | 交通联合/T-Union | 银联云闪付/Quickpass | 支付宝乘车码/Alipay | 微信乘车码/WeChat Pay | 银联乘车码/Unionpay | 专用乘车码/Additional Apps |
+| 城市/City | 交通联合/T-Union | 银联云闪付/Quickpass | 支付宝乘车码/Alipay | 微信乘车码/WeChat Pay | 银联乘车码/Unionpay | 官方应用乘车码/Official Apps |
 | --------  | :-------------: | :----------------:  | :----------------: | :------------------: | :----------------: | :-------:|
 | 北京/Beijing | 〇 | | | | | 亿通行 | 
 | 天津/Tianjin | ✓ | ✓ | | | | 天津地铁 | |
-| 上海/Shanghai | | 〇 | | | | Metro大都会 | |
+| 上海(含磁浮）/Shanghai(Maglev included) | | 〇 | | | | Metro大都会 | |
 | 广州/Guangzhou | ✓ | 〇 | ✓ | ✓ | | 广州地铁 | |
 | 长春/Changchun | ✓ | ✓ | | | | | |
 | 大连/Dalian | ✓ | ✓ | | | | 大连地铁e出行 | |
@@ -24,7 +24,7 @@
 | 杭州/Hangzhou | | ✓ | ✓ | | | 杭州地铁 | |
 | 哈尔滨/Harbin | 〇 | 〇 | | | | 哈尔滨城市通 | |
 | 郑州/Zhengzhou | ✓ | | ✓ | ✓ | | 郑州地铁商易行 | |
-| 长沙/Changsha | ✓ | | | | | 长沙地铁 | |
+| 长沙（含磁浮）/Changsha(Maglev included) | ✓ | | | | | 长沙地铁 | |
 | 宁波/Ningbo | ✓ | ✓ | ✓ | ✓ | | 宁波地铁 | |
 | 无锡/Wuxi | ✓ | | | | | 码上行 | |
 | 青岛/Qingdao | ✓ | | ✓ | | | 青岛地铁 | |
@@ -48,14 +48,14 @@
 ## 备注/Notes
 | 城市/City | 备注 | Notes |
 | --------- | --- | ----- |
-| 北京/Beijing | 交通联合采用专版白名单 | Special whitelist in T-Union |
+| 北京/Beijing | 交通联合采用[专版白名单](https://mp.weixin.qq.com/s/JF4pULn90EA7S5lUWaxNyw) | [Special whitelist](https://mp.weixin.qq.com/s/JF4pULn90EA7S5lUWaxNyw) in T-Union |
 | 上海/Shanghai | 仅磁悬浮支持银联信用卡闪付 | Only Shanghai Maglev accept credit card Quickpass|
-| 广州/Guangzhou | 银联云闪付仅支持信用卡和部分银行借记卡 | Special whitelist in Quickpass |
-| 哈尔滨/Harbin | 交通联合及银联云闪付均采用专版白名单 | Special whitelist in T-Union and Qucikpass |
-| 东莞/Dongguan | 银联云闪付仅支持信用卡和部分银行借记卡 | Special whitelist in Quickpass |
-| 南宁/Nanning | 银联云闪付仅支持信用卡和部分银行借记卡 | Special whitelist in Quickpass |
-| 高雄/Kaohsiung | 银联云闪付仅支持信用卡 | Only credit card are accepted in Quickpass |
-| 桃园/Taoyuan | “i搭桃捷”扫码仅支持信用卡购票后扫码过闸 | |
+| 广州/Guangzhou | 银联云闪付仅支持[信用卡](http://cs.gzmtr.com/ckfw/pwzy/201811/t20181106_60161.htm)和招行借记卡 | Only [credit card](http://cs.gzmtr.com/ckfw/pwzy/201811/t20181106_60161.htm) and CMB debit card accepted in Quickpass |
+| 哈尔滨/Harbin | 交通联合采用专版黑名单，银联云闪付仅支持工行、交行、广发、浦发、邮储借记卡信用卡和招商银行借记卡 | Special Blacklist in T-Union; Only CMB debit card and ICBC, COM, CGB, SPDB, CPG debit or credit cards accepted in Qucikpass |
+| 东莞/Dongguan | 银联云闪付IC卡支付仅支持工行、农行、中行、建行、东莞农商行、交通、平安、浦发、华夏、中信、光大、东莞银行、招行信用卡和东莞银行、招行借记卡，Apple Pay仅支持工行、农行、中行、建行、东莞银行、东莞农商行、交通、平安、浦发、华夏、光大、招行信用卡和招行的借记卡 | Only banks that cooperates with DongguanTong accepted in Quickpass |
+| 南宁/Nanning | 银联云闪付仅支持除浦发、华夏以外的信用卡和交行、招行借记卡 | Only credit card(except SPDB, HXB) and COM, CMB debit card accepted in Quickpass |
+| 高雄/Kaohsiung | 银联云闪付仅支持信用卡 | Only credit card accepted in Quickpass |
+| 桃园/Taoyuan | “i搭桃捷”扫码仅支持信用卡购票后扫码过闸 | Only support scanning QR code after buying ticket with credit card in Offical application|
 
 ## 感谢/Thanks
 部分内容参考自[地铁族](http://www.ditiezu.com/)用户@[清风雨鸽](http://www.ditiezu.com/space-uid-215526.html)的[帖子](http://www.ditiezu.com/thread-607166-1-1.html)
