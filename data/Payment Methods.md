@@ -1,5 +1,9 @@
 # 各地轨道交通支持的过闸方式/ Payment Methods for Passing Gate of Rail Transit in China
 ## 主表/Content
+✓：完全支持/Full Supprot
+
+〇：有条件的支持（参见备注）/Conditional Support（See Notes）
+
 | 城市/City | 交通联合/T-Union | 银联云闪付/Quickpass | 支付宝乘车码/Alipay | 微信乘车码/WeChat Pay | 银联乘车码/Unionpay | 专用乘车码/Additional Apps |
 | --------  | :-------------: | :----------------:  | :----------------: | :------------------: | :----------------: | :-------:|
 | 北京/Beijing | 〇 | | | | | 亿通行 | 
