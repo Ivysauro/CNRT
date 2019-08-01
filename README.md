@@ -1,5 +1,5 @@
 # ChinaRailTransit
-全国轨道交通非技术类的数据库
+全国轨道交通数据库（非技术类）
 
 Data base of China Rail Transit (Non-tech)
 
