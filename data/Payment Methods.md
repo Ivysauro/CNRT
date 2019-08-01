@@ -44,11 +44,11 @@
 ## 备注/Notes
 | 城市/City | 备注 | Notes |
 | --------- | --- | ----- |
-| 北京/Beijing | 交通联合采用专版白名单 | |
-| 上海/Shanghai | 仅磁悬浮支持银联信用卡闪付 | |
-| 广州/Guangzhou | 银联云闪付仅支持信用卡和部分银行借记卡 | |
-| 哈尔滨/Harbin | 交通联合及银联云闪付均采用专版白名单 | |
-| 东莞/Dongguan | 银联云闪付仅支持信用卡和部分银行借记卡 | |
-| 南宁/Nanning | 银联云闪付仅支持信用卡和部分银行借记卡 | |
-| 高雄/Kaohsiung | 银联云闪付仅支持信用卡 | |
+| 北京/Beijing | 交通联合采用专版白名单 | Special whitelist in T-Union |
+| 上海/Shanghai | 仅磁悬浮支持银联信用卡闪付 | Only Shanghai Maglev accept credit card Quickpass|
+| 广州/Guangzhou | 银联云闪付仅支持信用卡和部分银行借记卡 | Special whitelist in Quickpass |
+| 哈尔滨/Harbin | 交通联合及银联云闪付均采用专版白名单 | Special whitelist in T-Union and Qucikpass |
+| 东莞/Dongguan | 银联云闪付仅支持信用卡和部分银行借记卡 | Special whitelist in Quickpass |
+| 南宁/Nanning | 银联云闪付仅支持信用卡和部分银行借记卡 | Special whitelist in Quickpass |
+| 高雄/Kaohsiung | 银联云闪付仅支持信用卡 | Only credit card are accepted in Quickpass |
 | 桃园/Taoyuan | “i搭桃捷”扫码仅支持信用卡购票后扫码过闸 | |
