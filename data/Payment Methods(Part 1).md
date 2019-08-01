@@ -56,3 +56,6 @@
 | 南宁/Nanning | 银联云闪付仅支持信用卡和部分银行借记卡 | Special whitelist in Quickpass |
 | 高雄/Kaohsiung | 银联云闪付仅支持信用卡 | Only credit card are accepted in Quickpass |
 | 桃园/Taoyuan | “i搭桃捷”扫码仅支持信用卡购票后扫码过闸 | |
+
+## 感谢/Thanks
+部分内容参考自[地铁族](http://www.ditiezu.com/)用户@[清风雨鸽](http://www.ditiezu.com/space-uid-215526.html)的[帖子](http://www.ditiezu.com/thread-607166-1-1.html)
