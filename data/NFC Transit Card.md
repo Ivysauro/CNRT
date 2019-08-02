@@ -1,20 +1,22 @@
 # 手机交通卡支持情况/NFC Transit Card on mobile phone
-仅代表该品牌支持，不代表所有机型均支持/Not all phones of one brand support NFC Transit Card
+ ✓：已上线（仅代表该品牌支持，不代表所有机型均支持）/Support (Not all phones of one brand support NFC Transit Card)
+ 〇：即将支持/Coming soon
+ ×：已下线/Closed
 ## 交通联合卡/T-Union Cards
 | 卡名称/Card Name | 地区/Area | 小米/Xiaomi | 华为/Huawei | 三星/Samsung | 苹果/Apple | 魅族/Meizu | 一加/OnePlus | 欧珀/OPPO | 维沃/vivo |
 | ---------------- | :------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 绿城通/轩辕通 | 郑州/Zhengzhou | | ✓ |
-| 岭南通	| 广东/Guangdong | ✓ | ✓ | | | ✓ | ✓ | ✓ | ✓ |
+| 岭南通	| 广东/Guangdong | ✓ | 〇 | | | ✓ | ✓ | ✓ | ✓ |
 | 吉林通	| 吉林/Jilin | ✓ | ✓ | ✓ | | | | ✓ | |
 | 京津冀互联互通卡 | 京津冀/Jingjinji | ✓ | ✓ | ✓ | | ✓ | ✓ | ✓ | ✓ |
 | 江苏交通一卡通·南京（金陵通） |南京（宁镇扬）/Nanjing (Ningzhenyang) | | ✓ |
-| 江苏交通一卡通·扬州 | 扬州（宁镇扬）/Yangzhou (Ningzhenyang) | | ✓ |
+| 江苏交通一卡通·扬州 | 扬州（宁镇扬）/Yangzhou (Ningzhenyang) | | 〇 |
 | 江苏交通一卡通·苏州 | 苏州（苏锡常）/Suzhou (Suxichang) | ✓ | ✓ | ✓ | | ✓ | ✓ | ✓ | |
 | 江苏交通一卡通·无锡 | 无锡（苏锡常）/Wuxi (Suxichang) | | ✓ |
-| 江苏交通一卡通·常州 | 常州（苏锡常）/Changzhou (Suxichang) | ✓ |
+| 江苏交通一卡通·常州 | 常州（苏锡常）/Changzhou (Suxichang) | | ✓ |
 | 江苏交通一卡通·盐城（黄海通） | 盐城（盐通泰）/Yancheng (Yantongtai) | | ✓ |
 | 江苏交通一卡通·南通 | 南通（盐通泰）/Nantong (Yantongtai) | ✓ | | | | | | | ✓ |
-| 江苏交通一卡通·徐州（淮海通） | 徐州（徐淮连宿）/Xuzhou (Xuhuailiansu) | | ✓ |
+| 江苏交通一卡通·徐州（淮海通） | 徐州（徐淮连宿）/Xuzhou (Xuhuailiansu) | | 〇 |
 | 广西交通一卡通	| 广西/Guangxi | ✓ | ✓ | | | ✓ | | ✓ | |
 | 琴岛通	| 青岛/Qingdao | ✓ | ✓ | | | | | ✓ | ✓ |
 | 哈尔滨城市通	| 哈尔滨/Harbin | ✓ | ✓ | | | | | ✓ | ✓ |
@@ -23,8 +25,10 @@
 | 河北交通一卡通	| 河北/Hebei | | ✓ | ✓ | | | | | ✓ |
 | 盛京通	| 沈阳/Shenyang | | ✓ |
 | 石家庄一卡通 | 石家庄/Shijiazhuang | | ✓ | | | | | ✓ | |
-| 大连明珠卡	| 大连/Dalian | ✓ | ✓ | | | | | ✓ | |
-| 宁波甬城通 | 宁波/Ningbo | ✓ | | | | | | ✓ | |
+| 大连明珠卡	| 大连/Dalian | ✓ | 〇 | | | | | ✓ | 〇 |
+| 宁波甬城通 | 宁波/Ningbo | ✓ | 〇 | | | | | ✓ | |
+| 潇湘卡 | 长沙/Changsha | | 〇 |
+| 洪城通 | 南昌/Nanchang | | 〇 |
 
 
 ## 城市一卡通卡/City Union Cards
@@ -44,8 +48,8 @@
 | 合肥通	| 合肥/Hefei | ✓ | ✓ | ✓ | | ✓ | | ✓ | ✓ |
 | 长安通	| 西安/Xi'an | ✓ | ✓ | | | ✓ | | | |
 | 厦门e通卡	| 厦门/Xiamen | ✓ | ✓ | | | | | ✓ | |
-| 岭南通	| 广东/Guangdong | ✓ | | ✓ | | | | | |
-| 苏州市民卡	| 苏州/Suzhou | ✓ |
-| 杭州通	| 杭州/Hangzhou | ✓ |
-| 天府通	| 成都/Chengdu | | ✓ |
+| 岭南通	| 广东/Guangdong | ✓ | ✓ | ✓ | | | | | |
+| 苏州市民卡	| 苏州/Suzhou | × |
+| 杭州通	| 杭州/Hangzhou | × |
+| 天府通	| 成都/Chengdu | | 〇 |
 | 羊城通	| 广州/Guangzhou | | ✓ | | | | | ✓ | |
