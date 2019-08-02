@@ -1,7 +1,10 @@
 # 手机交通卡支持情况/NFC Transit Card on mobile phone
  ✓：已上线（仅代表该品牌支持，不代表所有机型均支持）/Support (Not all phones of one brand support NFC Transit Card)
+ 
  〇：即将支持/Coming soon
+ 
  ×：已下线/Closed
+
 ## 交通联合卡/T-Union Cards
 | 卡名称/Card Name | 地区/Area | 小米/Xiaomi | 华为/Huawei | 三星/Samsung | 苹果/Apple | 魅族/Meizu | 一加/OnePlus | 欧珀/OPPO | 维沃/vivo |
 | ---------------- | :------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
