@@ -1,4 +1,6 @@
 # 手机交通卡支持情况/NFC Transit Card on mobile phone
+❗ 由于消息来源复杂，本表有很多错漏，应以实际支持情况为准/There may be many mistakes😑
+
  ✓：已上线（仅代表该品牌支持，不代表所有机型均支持）/Support (Not all phones of one brand support NFC Transit Card)
  
  〇：即将上线/Coming soon
@@ -16,7 +18,7 @@
 | 江苏交通一卡通·扬州 | 扬州（宁镇扬）/Yangzhou (Ningzhenyang) | | 〇 |
 | 江苏交通一卡通·苏州 | 苏州（苏锡常）/Suzhou (Suxichang) | ✓ | ✓ | ✓ | | ✓ | ✓ | ✓ | |
 | 江苏交通一卡通·无锡 | 无锡（苏锡常）/Wuxi (Suxichang) | | ✓ |
-| 江苏交通一卡通·常州 | 常州（苏锡常）/Changzhou (Suxichang) | | ✓ |
+| 江苏交通一卡通·常州 | 常州（苏锡常）/Changzhou (Suxichang) | | 〇 |
 | 江苏交通一卡通·盐城（黄海通） | 盐城（盐通泰）/Yancheng (Yantongtai) | | ✓ |
 | 江苏交通一卡通·南通 | 南通（盐通泰）/Nantong (Yantongtai) | ✓ | | | | | | | ✓ |
 | 江苏交通一卡通·徐州（淮海通） | 徐州（徐淮连宿）/Xuzhou (Xuhuailiansu) | | 〇 |
