@@ -36,7 +36,7 @@
 | 温州/Wenzhou | 〇 | 〇 | ✓ | × | × | 40 | 
 | 济南/Jinan | 〇 | 〇 | × | ✓ | × | 40 |
 | 兰州/Lanzhou | 〇 | 〇 | ✓ | ✓ | × | 60 |
-| 香港/Hong Kong | 〇 | 〇 | 〇 | × | | 50 |
+| 香港/Hong Kong | 〇 | 〇 | [〇](https://www.unionpayintl.com/cn/mediaCenter/newsCenter/companyNews/4733.shtml) | × | ✓ | 50 |
 | 台北/Taipei | | | | | | - |
-| 高雄/Kaohsiung |
-| 桃园/Taoyuan |
+| 高雄/Kaohsiung | | | | | | - |
+| 桃园/Taoyuan | | | | | | - |
