@@ -58,3 +58,11 @@
 | 杭州通	| 杭州/Hangzhou | × |
 | 天府通	| 成都/Chengdu | | 〇 |
 | 羊城通	| 广州/Guangzhou | | ✓ | | | | | ✓ | |
+
+## 参考来源/References
+- http://www.miui.com/thread-17774691-1-1.html
+- http://www.mpaypass.com.cn/news/201904/20161617.html
+- https://club.huawei.com/thread-17955876-1-1.html
+- http://xiaoiwx.meizu.com/robot/imgmsgData/87d512733f4d425db4a13aed3edac704/index_1.html
+- https://www.apple.com/cn/apple-pay/transit/
+- https://support-cn.samsung.com/samsungpay/
