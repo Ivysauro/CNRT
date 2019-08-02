@@ -7,10 +7,14 @@
 | 岭南通	| 广东/Guangdong | ✓ | ✓ | | | ✓ | ✓ | ✓ | ✓ |
 | 吉林通	| 吉林/Jilin | ✓ | ✓ | ✓ | | | | ✓ | |
 | 京津冀互联互通卡 | 京津冀/Jingjinji | ✓ | ✓ | ✓ | | ✓ | ✓ | ✓ | ✓ |
-| 江苏交通一卡通·苏南通 | 苏州、无锡、常州（苏锡常）/Suzhou, Wuxi, Changzhou (Suxichang) | ✓ | ✓ | ✓ | | ✓ | ✓ | ✓ | |
-| 江苏交通一卡通·黄海通 | 盐城、南通（盐通泰）/Yancheng, Nantong (Yantongtai) | ✓ | ✓ | | | | | | ✓ |
-| 江苏交通一卡通·金陵通 | 南京（宁镇扬）/Nanjing (Ningzhenyang) | | ✓ |
-| 江苏交通一卡通·淮海通 | 徐州、连云港（徐淮连宿）/Xuzhou, Lianyungang (Xuhuailiansu) | | ✓ |
+| 江苏交通一卡通·南京（金陵通） |南京（宁镇扬）/Nanjing (Ningzhenyang) | | ✓ |
+| 江苏交通一卡通·扬州 | 扬州（宁镇扬）/Yangzhou (Ningzhenyang) | | ✓ |
+| 江苏交通一卡通·苏州 | 苏州（苏锡常）/Suzhou (Suxichang) | ✓ | ✓ | ✓ | | ✓ | ✓ | ✓ | |
+| 江苏交通一卡通·无锡 | 无锡（苏锡常）/Wuxi (Suxichang) | | ✓ |
+| 江苏交通一卡通·常州 | 常州（苏锡常）/Changzhou (Suxichang) | ✓ |
+| 江苏交通一卡通·盐城（黄海通） | 盐城（盐通泰）/Yancheng (Yantongtai) | | ✓ |
+| 江苏交通一卡通·南通 | 南通（盐通泰）/Nantong (Yantongtai) | ✓ | | | | | | | ✓ |
+| 江苏交通一卡通·徐州（淮海通） | 徐州（徐淮连宿）/Xuzhou (Xuhuailiansu) | | ✓ |
 | 广西交通一卡通	| 广西/Guangxi | ✓ | ✓ | | | ✓ | | ✓ | |
 | 琴岛通	| 青岛/Qingdao | ✓ | ✓ | | | | | ✓ | ✓ |
 | 哈尔滨城市通	| 哈尔滨/Harbin | ✓ | ✓ | | | | | ✓ | ✓ |
