@@ -11,7 +11,7 @@ Data base of China Rail Transit (Non-tech)
 - [各地轨道交通开放性评分/Open Score of China Rail Transit](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Open%20Score.md)
 
 施工中的/In Construction🏗：
-- [航空铁路枢纽的地铁站名](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Station%20Name%20of%20Airports%20and%20Railway%20Stations%20.md)
+- [航空铁路枢纽的地铁站名（中文）/Rail Transit Station Name of Airports and Railway Stations (In Chinese)](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Rail%20Transit%20Station%20Name%20of%20Airports%20and%20Railway%20Stations%20.md)
 
 计划中的/On Plan📝:
 - 充值方式/Payment Methods for Charging Transit Card
