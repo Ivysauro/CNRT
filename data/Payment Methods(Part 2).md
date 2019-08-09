@@ -30,7 +30,7 @@
 | 青岛/Qingdao | ✓ | ✓ |
 | 南昌/Nanchang | | ✓ |
 | 福州/Fuzhou |
-| 东莞/Dongguan | ✓ | ✓ | ✓ |
+| 东莞/Dongguan | ✓ | ✓ | ✓ | ✓ |
 | 南宁/Nanning | ✓ | ✓ |
 | 合肥/Hefei | ✓ | ✓ |
 | 石家庄/Shijiazhuang | ✓ | ✓ | ✓ |
@@ -41,7 +41,7 @@
 | 济南/Jinan | ✓ | ✓ |
 | 兰州/Lanzhou | ✓ | ✓ | ✓ |
 | 香港/Hong Kong | 〇 | 〇 |
-| 台北/Taipei | | | | | | | |
+| 台北/Taipei |
 | 高雄/Kaohsiung |
 | 桃园/Taoyuan |
 
