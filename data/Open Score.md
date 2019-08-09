@@ -26,7 +26,7 @@
 | 杭州/Hangzhou | ✓ | × | ✓ | × | × | 40 |
 | 哈尔滨/Harbin | 〇 | 〇 | 〇 | 〇 | ✓ | 60 | 
 | 郑州/Zhengzhou | ✓ | ✓ | × | ✓ | ✓ | 80 |
-| 长沙（含磁浮）/Changsha (Maglev included) | × | × | × | ✓ | 〇 | 30 |
+| 长沙（含磁浮）/Changsha (Maglev included) | 〇 | 〇 | 〇 | ✓ | 〇 | 60 |
 | 宁波/Ningbo | ✓ | ✓ | ✓ | ✓ | ✓ | **100** |
 | 无锡/Wuxi | × | × | × | ✓ | ✓ | 40 |
 | 青岛/Qingdao | 〇 | 〇 | × | ✓ | ✓ | 60 |
