@@ -52,7 +52,7 @@
 | 上海/Shanghai | 仅磁悬浮支持银联信用卡闪付 | Only Shanghai Maglev accept credit card Quickpass|
 | 广州/Guangzhou | 银联云闪付仅支持[信用卡](http://cs.gzmtr.com/ckfw/pwzy/201811/t20181106_60161.htm)和招行借记卡（APM无此限制） | Only [credit card](http://cs.gzmtr.com/ckfw/pwzy/201811/t20181106_60161.htm) and CMB debit card accepted in Quickpass (APM accept all cards) |
 | 哈尔滨/Harbin | 交通联合采用[专版黑名单](https://www.zhihu.com/question/312911617)；银联云闪付仅支持工行、交行、广发、浦发、邮储借记卡信用卡和招商银行借记卡 | [Special Blacklist](https://www.zhihu.com/question/312911617) in T-Union; Only CMB debit card and ICBC, COM, CGB, SPDB, CPG debit or credit cards accepted in Qucikpass |
-| 东莞/Dongguan | 银联云闪付：IC 卡支付仅支持工行、农行、中行、建行、东莞农商行、交通、平安、浦发、华夏、中信、光大、东莞银行、招行信用卡和东莞银行、招行借记卡，Apple Pay 仅支持工行、农行、中行、建行、东莞银行、东莞农商行、交通、平安、浦发、华夏、光大、招行信用卡和招行借记卡 | Only banks that cooperates with DongguanTong accepted in Quickpass |
+| 东莞/Dongguan | 银联云闪付仅支持东莞通合作银行 | Only banks that cooperates with DongguanTong accepted in Quickpass |
 | 南宁/Nanning | 银联云闪付仅支持除浦发、华夏以外的信用卡和交行、招行借记卡 | Only credit card(except SPDB, HXB) and COM, CMB debit card accepted in Quickpass |
 | 高雄/Kaohsiung | 银联云闪付仅支持信用卡 | Only credit card accepted in Quickpass |
 | 桃园/Taoyuan | “i搭桃捷”扫码仅支持信用卡购票后扫码过闸 | Only support scanning QR code after buying ticket with credit card in Offical application|
