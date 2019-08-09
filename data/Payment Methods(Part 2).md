@@ -30,7 +30,7 @@
 | 青岛/Qingdao | ✓ | ✓ |
 | 南昌/Nanchang | | ✓ |
 | 福州/Fuzhou |
-| 东莞/Dongguan | | | ✓ |
+| 东莞/Dongguan | ✓ | ✓ | ✓ |
 | 南宁/Nanning | ✓ | ✓ |
 | 合肥/Hefei | ✓ | ✓ |
 | 石家庄/Shijiazhuang | ✓ | ✓ | ✓ |
