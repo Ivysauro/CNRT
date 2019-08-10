@@ -8,7 +8,7 @@
 
 | 城市/City | 支付宝/Alipay | 微信/WeChat Pay | 银联/Unionpay | 交通联合/T-Union | 手机本地交通卡/NFC Local Card| 得分/Score |
 | --------- | :----------: | :-------------: | :----------: | :--------------: | :------------------------: | :--------: |
-| 北京/Beijing | x | x | x | 〇 | ✓ | 30 |
+| 北京/Beijing | 〇 | 〇 | x | 〇 | ✓ | 30 |
 | 天津/Tianjin | 〇 | 〇 | ✓ | ✓ | ✓ | 80 |
 | 上海（含磁浮）/Shanghai (Maglev included) | 〇 | 〇 | 〇 | x | ✓ | 50 |
 | 广州（含APM）/Guangzhou (APM included) | ✓ | ✓ | 〇 | ✓ | ✓ | 90 |
