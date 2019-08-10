@@ -8,8 +8,8 @@
  ×：已下线/Closed
 
 ## 交通联合卡/T-Union Cards
-| 卡名称/Card Name | 地区/Area | 小米/Xiaomi | 华为/Huawei | 三星/Samsung | 苹果/Apple | 魅族/Meizu | 一加/OnePlus | 欧珀/OPPO | 维沃/vivo |
-| ---------------- | :------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 卡名称/Card Name | 地区/Area | 小米/Xiaomi | 华为/Huawei | 三星/Samsung | 苹果/Apple | 魅族/Meizu | 一加/OnePlus | 欧珀/OPPO | 维沃/vivo | 腾讯HCE乘车卡/WeChat HCE |
+| ---------------- | :------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 绿城通（轩辕通） | 郑州/Zhengzhou | | ✓ |
 | 岭南通	| 广东/Guangdong | ✓ | 〇 | | | ✓ | ✓ | ✓ | ✓ |
 | 吉林通	| 吉林/Jilin | ✓ | ✓ | ✓ | | | | ✓ | |
@@ -27,25 +27,26 @@
 | 哈尔滨城市通	| 哈尔滨/Harbin | ✓ | ✓ | | | | | ✓ | ✓ |
 | 海南一卡通/海岛通	| 海南/Hainan | ✓ | ✓ | | | | | ✓ | ✓ |
 | 天津城市卡	| 天津/Tianjin | | ✓ |
-| 河北交通一卡通	| 河北/Hebei | | ✓ | ✓ | | | | | ✓ |
+| 河北交通一卡通	| 河北/Hebei | | ✓ | ✓ | | | | | ✓ | ✓ |
 | 盛京通	| 沈阳/Shenyang | ✓ | ✓ |
 | 石家庄一卡通 | 石家庄/Shijiazhuang | | ✓ | | | | | ✓ | |
 | 大连明珠卡	| 大连/Dalian | 〇  | 〇 | | | | | ✓ | 〇 |
 | 宁波甬城通 | 宁波/Ningbo | 〇 | 〇 | | | | | ✓ | |
 | 潇湘卡 | 长沙/Changsha | | 〇 |
 | 洪城通 | 南昌/Nanchang | | 〇 |
+| 长安通 | 西安/Xi'an | | | | | | | | | ✓ |
 
 
 ## 城市一卡通卡/City Union Cards
-| 卡名称/Card Name | 地区/Area | 小米/Xiaomi | 华为/Huawei | 三星/Samsung | 苹果/Apple | 魅族/Meizu | 一加/OnePlus | 欧珀/OPPO | 维沃/vivo |
-| ---------------- | :------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 卡名称/Card Name | 地区/Area | 小米/Xiaomi | 华为/Huawei | 三星/Samsung | 苹果/Apple | 魅族/Meizu | 一加/OnePlus | 欧珀/OPPO | 维沃/vivo | 腾讯HCE乘车卡/WeChat HCE |
+| ---------------- | :------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 上海公共交通卡 | 上海/Shanghai | ✓ | ✓ | ✓ | ✓ | | | ✓ | ✓ |
 | 绿城通 | 郑州/Zhengzhou | ✓ | | | | ✓ | | ✓ | ✓ |
 | 台州公共交通卡 | 台州/Taizhou, Zhejiang | ✓ | | | | | | ✓ | ✓ |
 
 ## 市民卡/Local Transit Cards
-| 卡名称/Card Name | 地区/Area | 小米/Xiaomi | 华为/Huawei | 三星/Samsung | 苹果/Apple | 魅族/Meizu | 一加/OnePlus | 欧珀/OPPO | 维沃/vivo |
-| ---------------- | :------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 卡名称/Card Name | 地区/Area | 小米/Xiaomi | 华为/Huawei | 三星/Samsung | 苹果/Apple | 魅族/Meizu | 一加/OnePlus | 欧珀/OPPO | 维沃/vivo | 腾讯HCE乘车卡/WeChat HCE |
+| ---------------- | :------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 北京市政交通一卡通 | 北京/Beijing | × | ✓ | ✓ | ✓ | | | | ✓ |
 | 深圳通	| 深圳/Shenzhen | ✓ | ✓ | ✓ | | ✓ | | ✓ | ✓ |
 | 武汉通	| 武汉/Wuhan | ✓ | ✓ | ✓ | | ✓ | ✓ | ✓ | ✓ |
