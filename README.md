@@ -16,6 +16,8 @@ Data base of China Rail Transit (Non-tech)
 
 计划中的/On Plan📝:
 - 充值方式/Payment Methods for Charging Transit Card
+- 票价对比/Prices
+- 优惠政策/Discount Policies
 
 
 ---
