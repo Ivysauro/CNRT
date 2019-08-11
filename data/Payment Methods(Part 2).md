@@ -18,7 +18,7 @@
 | 南京/Nanjing | 〇 | 〇 |
 | 沈阳/Shenyang |
 | 成都/Chengdu | ✓ | ✓ |
-| 西安/Xi'an |
+| 西安/Xi'an | 〇 | 〇 |
 | 苏州/Suzhou |
 | 昆明/Kunming |
 | 杭州/Hangzhou | | | | ✓ |
@@ -45,7 +45,7 @@
 | 高雄/Kaohsiung |
 | 桃园/Taoyuan |
 
-## 网上购票/Buying Tickets Online
+## 网上购票（线下取票）/Buying Tickets Online
 请参见各地轨道交通官方应用
 
 ## 感谢/Thanks
