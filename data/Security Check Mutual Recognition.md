@@ -1,7 +1,8 @@
 # 安检互认/Security Check Mutual Recognition
 ## 双向互认/Two-way Mutual Recognition
-- 天津/Tianjin：天津站/Tianjin Railway Station、天津西站/Tianjinxi Railway Station、天津南站/Tianjinnan Railway Station、天津滨海机场（TSN）/Tianjin Binhai Airport (TSN)
+- 天津/Tianjin：天津站/Tianjin Railway Station、天津西站/Tianjinxi Railway Station、天津南站/Tianjinnan Railway Station
 - 成都/Chengdu：犀浦站/Xipu Railway Station
+- 长沙/Changsha：开福寺站/Kaifusi Railway Station、树木岭站/Shumuling Railway Station
 
 ## 单向互认/One-way Mutual Recognition
 
