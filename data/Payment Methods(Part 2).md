@@ -20,7 +20,7 @@
 | 成都/Chengdu | ✓ | ✓ |
 | 西安/Xi'an | 〇 | 〇 |
 | 苏州/Suzhou |
-| 昆明/Kunming |
+| 昆明/Kunming | | | 〇 |
 | 杭州/Hangzhou | | | | ✓ |
 | 哈尔滨/Harbin | ✓ | ✓ |
 | 郑州/Zhengzhou |
