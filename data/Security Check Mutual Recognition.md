@@ -9,6 +9,7 @@
 - 北京/Beijing：北京南站/Beijingnan Railway Station
 - 深圳/Shenzhen：深圳北站/Shenzhenbei Railway Station
 - 成都/Chengdu：成都东站/Chengdudong Railway Station
+- 苏州/Suzhou：苏州站（仅限非节假日期间）/Suzhou Railway Station (Only on normal days)
 - 长沙/Changsha：长沙南站/Changshanan Railway Station
 - 无锡/Wuxi：无锡站/Wuxi Railway Station
 - 贵阳/Guiyang：贵阳北站/Guiyangbei Railway Station
