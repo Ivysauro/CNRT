@@ -23,7 +23,7 @@
 | 昆明/Kunming | | | 〇 |
 | 杭州/Hangzhou | | | | ✓ |
 | 哈尔滨/Harbin | ✓ | ✓ |
-| 郑州/Zhengzhou |
+| 郑州/Zhengzhou | 〇 | 〇 |
 | 长沙（含磁浮）/Changsha (Maglev included) | ✓ | ✓ | ✓ |
 | 宁波/Ningbo | | | ✓ | ✓ |
 | 无锡/Wuxi |
