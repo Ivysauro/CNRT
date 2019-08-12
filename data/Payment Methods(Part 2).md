@@ -9,7 +9,7 @@
 | 北京/Beijing | 〇 | 〇 |
 | 天津/Tianjin | 〇 | 〇 |
 | 上海（含磁浮）/Shanghai (Maglev included) | 〇 | 〇 | 〇 |
-| 广州（含APM）/Guangzhou (APM included) | ✓ | ✓ |
+| 广州&佛山（含APM）/Guangzhou & Foshan (APM included) | ✓ | ✓ |
 | 长春/Changchun | | | ✓ |
 | 大连/Dalian |
 | 武汉/Wuhan | ✓ | ✓ | ✓ |
@@ -41,7 +41,7 @@
 | 济南/Jinan | ✓ | ✓ |
 | 兰州/Lanzhou | ✓ | ✓ | ✓ |
 | 香港/Hong Kong | 〇 | 〇 |
-| 台北/Taipei |
+| 台北&桃园/Taipei & Taoyuan |
 | 高雄/Kaohsiung |
 
 ## 网上购票（线下取票）/Buying Tickets Online
