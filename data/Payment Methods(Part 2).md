@@ -43,7 +43,6 @@
 | 香港/Hong Kong | 〇 | 〇 |
 | 台北/Taipei |
 | 高雄/Kaohsiung |
-| 桃园/Taoyuan |
 
 ## 网上购票（线下取票）/Buying Tickets Online
 请参见各地轨道交通官方应用
