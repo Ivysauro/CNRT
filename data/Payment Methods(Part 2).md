@@ -1,4 +1,7 @@
 # 各地轨道交通支持的购票方式/ Payment Methods for Tickets of Rail Transit in China
+
+过闸方式请参见[这里](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Payment%20Methods(Part%201).md)/Payment Methods for Passing Gate is [HERE](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Payment%20Methods(Part%201).md)
+
 ## 线下购票/Buying Tickets on machines 
 ✓：完全支持/Full Supprot
 
