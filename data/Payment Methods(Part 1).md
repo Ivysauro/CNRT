@@ -41,7 +41,7 @@
 | 济南/Jinan | ✓ | | | | | ✓ | |
 | 兰州/Lanzhou | ✓ | ✓ | | | | ✓ | |
 | 香港/Hong Kong | | | | | | | |
-| 台北/Taipei | | | | | | | |
+| 台北/Taipei | | | | | | 〇 | |
 | 高雄/Kaohsiung | | 〇 | | | | | |
 
 ## 备注/Notes
@@ -53,7 +53,8 @@
 | 哈尔滨/Harbin | 交通联合采用[专版黑名单](https://www.zhihu.com/question/312911617)；银联云闪付仅支持工行、交行、广发、浦发、邮储借记卡信用卡和招商银行借记卡 | [Special Blacklist](https://www.zhihu.com/question/312911617) in T-Union; Only CMB debit card and ICBC, COM, CGB, SPDB, CPG debit or credit cards accepted in Qucikpass |
 | 东莞/Dongguan | 银联云闪付仅支持东莞通合作银行 | Only banks that cooperates with DongguanTong accepted in Quickpass |
 | 南宁/Nanning | 银联云闪付仅支持除浦发、华夏以外的信用卡和交行、招行借记卡 | Only credit card(except SPDB, HXB) and COM, CMB debit card accepted in Quickpass |
-| 高雄/Kaohsiung | 银联云闪付仅支持信用卡 | Only credit card accepted in Quickpass |
+| 台北/Taipei | 仅桃园机场捷运支持在线购票后扫码过闸 | Only support after buying ticket online |
+| 高雄/Kaohsiung | 银联云闪付仅支持信用卡，此外还支持万事达信用卡 | Only credit card accepted in Quickpass, and Master credit card also accepted |
 
 ## 感谢/Thanks
 部分内容参考自[地铁族](http://www.ditiezu.com/)用户@[清风雨鸽](http://www.ditiezu.com/space-uid-215526.html)的[帖子](http://www.ditiezu.com/thread-607166-1-1.html)
