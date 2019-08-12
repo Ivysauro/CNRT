@@ -10,8 +10,8 @@
 | --------- | :----------: | :-------------: | :----------: | :--------------: | :------------------------: | :--------: |
 | 北京/Beijing | 〇 | 〇 | x | 〇 | ✓ | 50 |
 | 天津/Tianjin | 〇 | 〇 | ✓ | ✓ | ✓ | 80 |
-| 上海（含磁浮）/Shanghai (Maglev included) | 〇 | 〇 | 〇 | x | ✓ | 50 |
-| 广州（含APM）/Guangzhou (APM included) | ✓ | ✓ | 〇 | ✓ | ✓ | 90 |
+| 上海/Shanghai | 〇 | 〇 | 〇 | x | ✓ | 50 |
+| 广州&佛山/Guangzhou & Foshan | ✓ | ✓ | 〇 | ✓ | ✓ | 90 |
 | 长春/Changchun | × | × | 〇 | ✓ | ✓ | 50 |
 | 大连/Dalian | × | × | ✓ | ✓ | ✓ | 60 |
 | 武汉/Wuhan | 〇 | 〇 | 〇 | × | ✓ | 50 |
@@ -26,7 +26,7 @@
 | 杭州/Hangzhou | ✓ | × | ✓ | × | × | 40 |
 | 哈尔滨/Harbin | 〇 | 〇 | 〇 | 〇 | ✓ | 60 | 
 | 郑州/Zhengzhou | ✓ | ✓ | × | ✓ | ✓ | 80 |
-| 长沙（含磁浮）/Changsha (Maglev included) | 〇 | 〇 | 〇 | ✓ | 〇 | 60 |
+| 长沙/Changsha | 〇 | 〇 | 〇 | ✓ | 〇 | 60 |
 | 宁波/Ningbo | ✓ | ✓ | ✓ | ✓ | ✓ | **100** |
 | 无锡/Wuxi | × | × | × | ✓ | ✓ | 40 |
 | 青岛/Qingdao | 〇 | 〇 | × | ✓ | ✓ | 60 |
@@ -43,6 +43,6 @@
 | 济南/Jinan | 〇 | 〇 | × | ✓ | × | 40 |
 | 兰州/Lanzhou | 〇 | 〇 | ✓ | ✓ | × | 60 |
 | 香港/Hong Kong | 〇 | 〇 | [〇](https://www.unionpayintl.com/cn/mediaCenter/newsCenter/companyNews/4733.shtml) | × | ✓ | 50 |
-| 台北/Taipei | | | | | | - |
+| 台北&桃园/Taipei & Taoyuan | | | | | | - |
 | 高雄/Kaohsiung | | | | | | - |
 | 桃园/Taoyuan | | | | | | - |
