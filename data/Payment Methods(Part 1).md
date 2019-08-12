@@ -55,6 +55,3 @@
 | 南宁/Nanning | 银联云闪付仅支持除浦发、华夏以外的信用卡和交行、招行借记卡 | Only credit card(except SPDB, HXB) and COM, CMB debit card accepted in Quickpass |
 | 台北&桃园/Taipei & Taoyuan | 仅桃园机场捷运支持在线购票后扫码过闸 | Only Taoyuan Airport MRT support after buying ticket online |
 | 高雄/Kaohsiung | 银联云闪付仅支持信用卡，此外还支持万事达信用卡 | Only credit card accepted in Quickpass, and Master credit card also accepted |
-
-## 感谢/Thanks
-部分内容参考自[地铁族](http://www.ditiezu.com/)用户@[清风雨鸽](http://www.ditiezu.com/space-uid-215526.html)的[帖子](http://www.ditiezu.com/thread-607166-1-1.html)
