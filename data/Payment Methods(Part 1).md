@@ -4,7 +4,7 @@
 
 〇：有条件的支持（参见备注）/Conditional Support（See Notes）
 
-| 城市/City | 交通联合/T-Union | 银联云闪付/Quickpass | 支付宝乘车码/Alipay | 微信乘车码/WeChat Pay | 银联乘车码/Unionpay | 官方应用/Official Apps |
+| 城市/City | 交通联合/T-Union | 银联云闪付/Quickpass | 支付宝乘车码/Alipay | 微信乘车码/WeChat Pay | 银联乘车码/Unionpay | 官方应用乘车码/Official Apps QR Code |
 | --------  | :-------------: | :----------------:  | :----------------: | :------------------: | :----------------: | :-------:|
 | 北京/Beijing | 〇 | | | | | 亿通行 | 
 | 天津/Tianjin | ✓ | ✓ | | | | 天津地铁 | |
@@ -43,7 +43,6 @@
 | 香港/Hong Kong | | | | | | | |
 | 台北/Taipei | | | | | | | |
 | 高雄/Kaohsiung | | 〇 | | | | | |
-| 桃园/Taoyuan | | | | | | i搭桃捷（〇） | |
 
 ## 备注/Notes
 | 城市/City | 备注 | Notes |
@@ -55,7 +54,6 @@
 | 东莞/Dongguan | 银联云闪付仅支持东莞通合作银行 | Only banks that cooperates with DongguanTong accepted in Quickpass |
 | 南宁/Nanning | 银联云闪付仅支持除浦发、华夏以外的信用卡和交行、招行借记卡 | Only credit card(except SPDB, HXB) and COM, CMB debit card accepted in Quickpass |
 | 高雄/Kaohsiung | 银联云闪付仅支持信用卡 | Only credit card accepted in Quickpass |
-| 桃园/Taoyuan | “i搭桃捷”扫码仅支持信用卡购票后扫码过闸 | Only support scanning QR code after buying ticket with credit card in Offical application|
 
 ## 感谢/Thanks
 部分内容参考自[地铁族](http://www.ditiezu.com/)用户@[清风雨鸽](http://www.ditiezu.com/space-uid-215526.html)的[帖子](http://www.ditiezu.com/thread-607166-1-1.html)
