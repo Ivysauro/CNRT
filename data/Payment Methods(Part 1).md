@@ -4,42 +4,42 @@
 
 〇：有条件的支持（参见备注）/Conditional Support（See Notes）
 
-| 城市/City | 交通联合/T-Union | 银联云闪付/Quickpass | 支付宝乘车码/Alipay | 微信乘车码/WeChat Pay | 银联乘车码/Unionpay | 官方应用乘车码/Official Apps QR Code |
+| 城市/City | 交通联合/T-Union | 银联云闪付/Quickpass | 支付宝乘车码/Alipay | 微信乘车码/WeChat Pay | 银联乘车码/Unionpay | 官方应用乘车码/Official Apps |
 | --------  | :-------------: | :----------------:  | :----------------: | :------------------: | :----------------: | :-------:|
-| 北京/Beijing | 〇 | | | | | 亿通行 | 
-| 天津/Tianjin | ✓ | ✓ | | | | 天津地铁 | |
-| 上海（含磁浮）/Shanghai (Maglev included) | | 〇 | | | | Metro大都会 | |
-| 广州（含APM）/Guangzhou (APM included) | ✓ | 〇 | ✓ | ✓ | | 广州地铁 | |
+| 北京/Beijing | 〇 | | | | | ✓ | 
+| 天津/Tianjin | ✓ | ✓ | | | | ✓ | |
+| 上海（含磁浮）/Shanghai (Maglev included) | | 〇 | | | | ✓ | |
+| 广州（含APM）/Guangzhou (APM included) | ✓ | 〇 | ✓ | ✓ | | ✓ | |
 | 长春/Changchun | ✓ | ✓ | | | | | |
-| 大连/Dalian | ✓ | ✓ | | | | 大连地铁e出行 | |
-| 武汉/Wuhan | | | | | | Metro新时代 | |
+| 大连/Dalian | ✓ | ✓ | | | | ✓ | |
+| 武汉/Wuhan | | | | | | ✓ | |
 | 重庆/Chongqing | | | | | |  | |
-| 深圳/Shenzhen | ✓ | ✓ | | ✓ | | 深圳地铁 | |
-| 南京/Nanjing | ✓ | ✓ | ✓ | | | 南京地铁 | |
-| 沈阳/Shenyang | ✓ | | | | | 盛京通 | |
-| 成都/Chengdu | | | | | ✓ | 天府通 | |
-| 西安/Xi'an | ✓ | | ✓ | ✓ | | 西安地铁  |
-| 苏州/Suzhou | ✓ | | | | | 苏e行 | |
-| 昆明/Kunming | ✓ | ✓ | | ✓ | | 智慧通行 | |
-| 杭州/Hangzhou | | ✓ | ✓ | | | 杭州地铁 | |
-| 哈尔滨/Harbin | 〇 | 〇 | | | | 哈尔滨城市通 | |
-| 郑州/Zhengzhou | ✓ | | ✓ | ✓ | | 郑州地铁商易行 | |
-| 长沙（含磁浮）/Changsha (Maglev included) | ✓ | | | | | 长沙地铁 | |
-| 宁波/Ningbo | ✓ | ✓ | ✓ | ✓ | | 宁波地铁 | |
-| 无锡/Wuxi | ✓ | | | | | 码上行 | |
-| 青岛/Qingdao | ✓ | | ✓ | | | 青岛地铁 | |
-| 南昌/Nanchang | ✓ | ✓ | | | | 鹭鹭行 | |
-| 福州/Fuzhou | ✓ | | | | | 福州地铁码上行 | |
-| 东莞/Dongguan | | 〇 | | | | 东莞通 | |
-| 南宁/Nanning | ✓ | 〇 | | | | 南宁轨道交通 | |
-| 合肥/Hefei | ✓ | ✓ | | | | 合肥轨道 | |
-| 石家庄/Shijiazhuang | ✓ | | | | | 石家庄轨道交通 | |
-| 贵阳/Guiyang | ✓ | | | | | 贵阳地铁 | |
-| 厦门/Xiamen | ✓ | | ✓ | | | 厦门地铁 | |
-| 乌鲁木齐/Urumqi | | | | | | 乌鲁木齐地铁 | |
-| 温州/Wenzhou | | ✓ | | | | 温州轨道 | |
-| 济南/Jinan | ✓ | | | | | 济南地铁 | |
-| 兰州/Lanzhou | ✓ | ✓ | | | | 兰州轨道 | |
+| 深圳/Shenzhen | ✓ | ✓ | | ✓ | | ✓ | |
+| 南京/Nanjing | ✓ | ✓ | ✓ | | | ✓ | |
+| 沈阳/Shenyang | ✓ | | | | | ✓ | |
+| 成都/Chengdu | | | | | ✓ | ✓ | |
+| 西安/Xi'an | ✓ | | ✓ | ✓ | | ✓ | |
+| 苏州/Suzhou | ✓ | | | | | ✓ | |
+| 昆明/Kunming | ✓ | ✓ | | ✓ | | ✓ | |
+| 杭州/Hangzhou | | ✓ | ✓ | | | ✓ | |
+| 哈尔滨/Harbin | 〇 | 〇 | | | | ✓ | |
+| 郑州/Zhengzhou | ✓ | | ✓ | ✓ | | ✓ | |
+| 长沙（含磁浮）/Changsha (Maglev included) | ✓ | | | | | ✓ | |
+| 宁波/Ningbo | ✓ | ✓ | ✓ | ✓ | | ✓ | |
+| 无锡/Wuxi | ✓ | | | | | ✓ | |
+| 青岛/Qingdao | ✓ | | ✓ | | | ✓ | |
+| 南昌/Nanchang | ✓ | ✓ | | | | ✓ | |
+| 福州/Fuzhou | ✓ | | | | | ✓ | |
+| 东莞/Dongguan | | 〇 | | | | ✓ | |
+| 南宁/Nanning | ✓ | 〇 | | | | ✓ | |
+| 合肥/Hefei | ✓ | ✓ | | | | ✓ | |
+| 石家庄/Shijiazhuang | ✓ | | | | | ✓ | |
+| 贵阳/Guiyang | ✓ | | | | | ✓ | |
+| 厦门/Xiamen | ✓ | | ✓ | | | ✓ | |
+| 乌鲁木齐/Urumqi | | | | | | ✓ | |
+| 温州/Wenzhou | | ✓ | | | | ✓ | |
+| 济南/Jinan | ✓ | | | | | ✓ | |
+| 兰州/Lanzhou | ✓ | ✓ | | | | ✓ | |
 | 香港/Hong Kong | | | | | | | |
 | 台北/Taipei | | | | | | | |
 | 高雄/Kaohsiung | | 〇 | | | | | |
