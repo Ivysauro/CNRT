@@ -19,7 +19,7 @@
 - 票价对比/Prices
 - 优惠政策/Discount Policies
 - 同名站/Stations of Same Name
-- 贯通、直通、拆分运营/……
+- [贯通、直通、拆分运营/……](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Null.md)
 
 ---
 发现错误或有建议请直接提 issue😀~
