@@ -20,7 +20,8 @@ Data base of China Rail Transit (Non-tech)
 - 充值方式/Payment Methods for Charging Transit Card
 - 票价对比/Prices
 - 优惠政策/Discount Policies
-
+- 同名站/Stations of Same Name
+- 贯通、直通、拆分运营/……
 
 ---
 发现错误或有建议请直接提 issue😀~
