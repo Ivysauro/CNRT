@@ -1,7 +1,5 @@
 # ChinaRailTransit
-全国轨道交通数据库（非技术类）
-
-Data base of China Rail Transit (Non-tech)
+全国轨道交通数据库（非技术类）/Data base of China Rail Transit (Non-tech)
 
 ---
 已完工的/Completed🏘：
