@@ -34,4 +34,4 @@ RS is short for "Railway Station"
 | Zhengzhou & Xuchang | ZHENGZHOU RAILWAY STATION/ Zhengzhou | ZHENGZHOU EAST RAILWAY STATION/ Zhengzhoudong, *XUCHANG EAST RAILWAY STATION*/ Xuchangdong, *ZHENGZHOU WEST RAILWAY STATION*/ Zhengzhouxi, *ZHENGZHOU SOUTH RAILWAY STATION*/ Zhengzhounan | XINZHENG INTERNATIONAL AIRPORT/ Zhengzhou Xinzheng | XINZHENG INTERNATIONAL AIRPORT/ Xinzheng-Jichang |
 | Changsha & Xiangtan | RS/ Changsha, Jintai Square/ Changsha | South RS/ Changshanan, Changshanan Maglev/ Changshanan, *West RS*/ Changshaxi, *Xiangtan North RS*/ Xiangtanbei | Airport Maglev/ Changsha Huanghua, *West Huanghua Airport*/ Changsha Huanghua | Guanshaling/ Guanshaling, Kaifu Temple/ Kaifusi, Shumuling/ Shumuling, Zhongxin Square/ Xianfeng |
 | Ningbo | Ningbo RS/ Ningbo | | Lishe International Airport/ Ningbo Lishe | *Zhuangqiao RS*/ Zhuangqiao |
-| Wuxi | Wuxi RS/ Wuxi | Wuxidong RS/ Wuxidong | *Shuofang Airport*/ Sunan Shuofang | |
+| Wuxi | Wuxi RS/ Wuxi | Wuxidong RS/ Wuxidong, *Chengji Xinqu*/ Wuxi-Xinqu | *Shuofang Airport*/ Sunan Shuofang | |
