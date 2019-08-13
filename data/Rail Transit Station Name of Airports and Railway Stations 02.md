@@ -29,3 +29,5 @@ RS is short for "Railway Station"
 | Xi'an & Xianyang | *HUOCHEZHAN*/ Xi'an | BEIKEZHAN/ Xi'anbei, BEIKEZHAN (BEIGUANGCHANG)/ Xi'anbei, *DONGKEZHAN/ Xi'andong*, *XIANYANGQINDUZHAN*/ Xianyang-Qindu | *JICHANG*/ Xi'an Xianyang, *JICHANGXI*/ Xi'an Xianyang | *JICHANG*/*Xianyang-Jichang*, *EPANGGONGHUOCHEZHAN*/Epanggong |
 | Suzhou | Suzhou RS/ Suzhou | Suzhou North RS/ Suzhoubei, *Suzhou New District RS*/ Suzhou-Xinqu, *Suzhou Industrial Park RS*/Suzhou-Yuanqu | | *Yangchenghu RS*/ Yangchenghu, *Huaqiao RS*/ Huaqiao |
 | Kunming | KUNMING RS/ Kunming | KUNMING South RS/ Kunmingnan, North RS/ ~~Kunmingbei~~ | Airport Front/ Kunming Changshui, KUNMING Airport/ Kunming Changshui | |
+| Hangzhou | **Chengzhan**/ Hangzhou | East RS/ Hangzhoudong, *South RS/ Hangzhounan, West RS/ Hangzhouxi* | *Xiaoshan Airport*/ Hangzhou Xiaoshan | Yuhang Hi-RS/ Yuhang, *Haining Hi-RS*/ Hainingxi, *Xiaoshan Airport*/ Xiaoshan-Jichang |
+| Harbin | *Haerbinzhan*/ Haerbin | Harbinxizhan/ Haerbinxi, Harbin East RS/ Haerbindong, Harbin South RS/ *Haerbinnan*, *Habeizhan*/ Haerbinbei | | |
