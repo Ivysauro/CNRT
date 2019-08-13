@@ -15,3 +15,4 @@
 - 无锡/Wuxi：无锡站/Wuxi Railway Station
 - 贵阳/Guiyang：贵阳北站/Guiyangbei Railway Station
 - 厦门/Xiamen：厦门北站/Xiamenbei Railway Station
+- 改造中/In Process：广州站/Guangzhou Railway Station、杭州东站/Hangzhoudong Railway Station
