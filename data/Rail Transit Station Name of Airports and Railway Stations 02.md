@@ -31,3 +31,7 @@ RS is short for "Railway Station"
 | Kunming | KUNMING RS/ Kunming | KUNMING South RS/ Kunmingnan, North RS/ ~~Kunmingbei~~ | Airport Front/ Kunming Changshui, KUNMING Airport/ Kunming Changshui | |
 | Hangzhou | **Chengzhan**/ Hangzhou | East RS/ Hangzhoudong, *South RS/ Hangzhounan, West RS/ Hangzhouxi* | *Xiaoshan Airport*/ Hangzhou Xiaoshan | Yuhang Hi-RS/ Yuhang, *Haining Hi-RS*/ Hainingxi, *Xiaoshan Airport*/ Xiaoshan-Jichang |
 | Harbin | *Haerbinzhan*/ Haerbin | Harbinxizhan/ Haerbinxi, Harbin East RS/ Haerbindong, Harbin South RS/ *Haerbinnan*, *Habeizhan*/ Haerbinbei | | |
+| Zhengzhou & Xuchang | ZHENGZHOU RAILWAY STATION/ Zhengzhou | ZHENGZHOU EAST RAILWAY STATION/ Zhengzhoudong, *XUCHANG EAST RAILWAY STATION*/ Xuchangdong, *ZHENGZHOU WEST RAILWAY STATION*/ Zhengzhouxi, *ZHENGZHOU SOUTH RAILWAY STATION*/ Zhengzhounan | XINZHENG INTERNATIONAL AIRPORT/ Zhengzhou Xinzheng | XINZHENG INTERNATIONAL AIRPORT/ Xinzheng-Jichang |
+| Changsha & Xiangtan | RS/ Changsha, Jintai Square/ Changsha | South RS/ Changshanan, Changshanan Maglev/ Changshanan, *West RS*/ Changshaxi, *Xiangtan North RS*/ Xiangtanbei | Airport Maglev/ Changsha Huanghua, *West Huanghua Airport*/ Changsha Huanghua | Guanshaling/ Guanshaling, Kaifu Temple/ Kaifusi, Shumuling/ Shumuling, Zhongxin Square/ Xianfeng |
+| Ningbo | Ningbo RS/ Ningbo | | Lishe International Airport/ Ningbo Lishe | *Zhuangqiao RS*/ Zhuangqiao |
+| Wuxi | Wuxi RS/ Wuxi | Wuxidong RS/ Wuxidong | *Shuofang Airport*/ Sunan Shuofang | |
