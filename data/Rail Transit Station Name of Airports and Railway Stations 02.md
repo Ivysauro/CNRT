@@ -35,3 +35,7 @@ RS is short for "Railway Station"
 | Changsha & Xiangtan | RS/ Changsha, Jintai Square/ Changsha | South RS/ Changshanan, Changshanan Maglev/ Changshanan, *West RS*/ Changshaxi, *Xiangtan North RS*/ Xiangtanbei | Airport Maglev/ Changsha Huanghua, *West Huanghua Airport*/ Changsha Huanghua | Guanshaling/ Guanshaling, Kaifu Temple/ Kaifusi, Shumuling/ Shumuling, Zhongxin Square/ Xianfeng |
 | Ningbo | Ningbo RS/ Ningbo | | Lishe International Airport/ Ningbo Lishe | *Zhuangqiao RS*/ Zhuangqiao |
 | Wuxi | Wuxi RS/ Wuxi | Wuxidong RS/ Wuxidong, *Chengji Xinqu*/ Wuxi-Xinqu | *Shuofang Airport*/ Sunan Shuofang | |
+| Qingdao | Qingdao RS/ Qingdao | Qingdao North RS/ Qingdaobei, *Qingdao West RS*/ Qingdaoxi | *Liuting Airport*/ Qingdao Liuting, *Jiaodong Airport/ Qingdao Jiaodong* | Dongjiakou RS/ Dongjiakou, *Jiaozhou North RS*/ Jiaozhoubei, *Jiaodong Airport/ Qingdao-Jichang*, *Hongdao RS/ Hongdao* |
+| Nanchang | Nanchang RS/ Nanchang | Nanchang West RS/ Nachangxi, South Square of West RS/ Nanchangxi | | |
+| Fuzhou | Fuzhou RS/ Fuzhou | Fuzhou South RS/ Fuzhounan | *Fuzhou Changle International Airport*/ Fuzhou Changle | |
+| Dongguan | Dongguan RS/ Dongguan | *Dongguan East RS*/ Dongguandong | | Humen RS/ Humen, *Changping RS*/ Changping, *Songshan Lake North*/ Songshanhubei, *Dalang*/ Dalangzhen |
