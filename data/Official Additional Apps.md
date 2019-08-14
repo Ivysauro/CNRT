@@ -14,7 +14,7 @@
 | 上海/ Shanghai | Metro大都会 | 支付宝、微信、银联、云闪付、京东 |
 | 广州&佛山/ Guangzhou & Foshan | 广州地铁 | 支付宝、微信 |
 | 长春/ Changchun | |
-| 大连/ Dalian | 大连地铁e出行 | 支付宝、银联卡 |
+| 大连/ Dalian | 大连地铁e出行 | 支付宝、银联 |
 | 武汉/ Wuhan | Metro新时代 | 支付宝、微信、银联 |
 | 重庆/ Chongqing | |
 | 深圳/ Shenzhen | 深圳地铁 | 微信 |
