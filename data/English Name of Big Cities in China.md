@@ -69,7 +69,8 @@
 | 广东 | **Guangdong** | Kwangtung | 邮政式拼音 |
 | 江西 | **Jiangxi** | Kiangsi | 邮政式拼音 |
 | 福建 | **Fujian** | Fukien/Foukien | 邮政式拼音 |
-| 西藏 | ~~Xizang~~ | **Tibet** | 邮政式拼音 |
+| 西藏 | ~~Xizang~~ | **Tibet** | 邮政式拼音(“吐蕃”) |
+| 新疆 | **Xinjiang** | Sinkiang | 邮政式拼音 |
 
 ## 感谢/ Thanks
 
