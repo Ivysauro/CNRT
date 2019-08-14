@@ -23,7 +23,7 @@
 - 同名站/ Stations of Same Name
 
 滥竽充数的/ Files of Other Topic🧷:
-- [中国城市曾经的英文名/ Old English Name of Cities in China](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Old%20English%20Name%20of%20Cities%20in%20China.md)
+- [中国城市(曾经)的英文名/ (Old) English Name of Cities in China](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Old%20English%20Name%20of%20Cities%20in%20China.md)
 
 ---
 发现错误或有建议请直接提 issue😀~/ If you have any questions, just open an issue😉~
