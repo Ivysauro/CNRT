@@ -1,5 +1,7 @@
 # 中国主要城市的英文名/ English Name of Big Cities in China
 
+## 主表/ Content
+
 **粗体字**为正在使用的名称/ **Bold** is the current name
 
 不含省份名/ Province Name not included
@@ -53,5 +55,9 @@
 | 吐鲁番 |
 | 克拉玛依 |
 | 海口 |
-| 香港 |
-| 澳门 |
+| 香港 | ~~Xianggang~~ | **Hong Kong** |
+| 澳门 | ~~Aomen~~ | **Macau** |
+
+## 感谢/ Thanks
+
+部分内容参考自知乎用户的[回答](https://www.zhihu.com/question/26552511/answer/153189952)
