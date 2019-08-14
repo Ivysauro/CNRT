@@ -48,3 +48,13 @@ RS is short for "Railway Station"
 | Wenzhou | *Wenzhou RS*/ Wenzhou  | South RS/ Wenzhounan | *Airport*/ Wenzhou Longwan | |
 | Jinan | | JINAN WEST RAILWAY STATION/ Jinanxi, *JINAN EAST RAILWAY STATION*/ Jinandong | *YAOQIANG AIRPORT*/ Jinan Yaoqiang | *LISHILINGYUAN*/ Licheng |
 | Lanzhou | *Lanzhou RS*/ Lanzhou | North Square of Lanzhou West RS/ Lanzhouxi | | |
+| *Xuzhou* | *Xuzhou RS*/ Xuzhou | *Xuzhou East RS*/ Xuzhoudong | | |
+| *Changzhou* | *Changzhou RS*/ Changzhou | *Changzhou North RS*/ Changzhoubei | | |
+| *Hohhot* | *Hohhot RS*/ Huhehaote | *Hohhot East Station*/ Huhehaotedong | *White Pagoda*/ Hohhot Baita, *Bayan Country*/Hohhot Baita | |
+| *Wuhu* | *Wuhu RS*/ Wuhu | | | *Yijiang RS*/ Yijiang |
+| *Taiyuan* | *Taiyuan RS*/ Taiyuan | *Taiyuan South RS*/ Taiyuannan | *Wusu International Airport*/ Taiyuan Wusu | |
+| *Nantong* | *Nantong RS*/ Nantong | *Nantong East RS/ Nantongdong*, *Nantong West RS/ Nantongxi* | | |
+| *Shaoxing* | *Shaoxing RS*/ Shaoxing | *Shaoxing North RS*/ Shaoxingbei | | |
+| *Luoyang* | *Luoyang RS*/ Luoyang | *Luoyanglongmen RS*/ Luoyang-Longmen | | |
+| *Macau* | | | *Airport*/ Macau | |
+| *Taichung* | *HSR Taichung Station*/ Taichung | | | *Xinwuri*/ Xinwuri, *Wuri*/ Wuri, *Daqing*/ Daqing, *Songzhu*/ Songzhu |
