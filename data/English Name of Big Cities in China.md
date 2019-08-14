@@ -56,8 +56,8 @@
 | 吐鲁番 | Tulufan | **Turfan/Turpan** | TLQ | 维语 |
 | 克拉玛依 | Kelamayi | **Karamay/Karamaije** | KRY | 维语 |
 | 海口 | **Haikou** | Hoihow | HAK | 邮政式拼音 |
-| 香港 | ~~Xianggang~~ | **Hong Kong** | 邮政式拼音(粤语) |
-| 澳门 | ~~Aomen~~ | **Macau/Macao** | 邮政式拼音(“妈阁”) |
+| 香港 | ~~Xianggang~~ | **Hong Kong** | HKG | 邮政式拼音(粤语) |
+| 澳门 | ~~Aomen~~ | **Macau/Macao** | MFM | 邮政式拼音(“妈阁”) |
 
 | 中文名/ Chinese Name | 拼音/ Bopomofo Name | 常见拉丁名/ General Latin Name | 来源/ Origin |
 | :------------------ | :------------------ | :---------------------------- | :----------- |
