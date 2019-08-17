@@ -41,7 +41,7 @@
 | 乌鲁木齐/ Urumqi | 〇 | 〇 | × | × | × | **20** |
 | 温州/ Wenzhou | 〇 | 〇 | ✓ | × | × | 40 | 
 | 济南/ Jinan | 〇 | 〇 | × | ✓ | × | 40 |
-| 兰州/ Lanzhou | 〇 | 〇 | ✓ | ✓ | × | 60 |
+| 兰州/ Lanzhou | 〇 | 〇 | 〇 | ✓ | × | 50 |
 | 香港/ Hong Kong | 〇 | 〇 | [〇](https://www.unionpayintl.com/cn/mediaCenter/newsCenter/companyNews/4733.shtml) | × | ✓ | 50 |
 | 台北&桃园/ Taipei & Taoyuan | | | | | | - |
 | 高雄/ Kaohsiung | | | | | | - |
