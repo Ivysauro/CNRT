@@ -42,7 +42,7 @@
 | 乌鲁木齐/ Urumqi | | | | | | ✓ | |
 | 温州/ Wenzhou | | ✓ | | | | ✓ | |
 | 济南/ Jinan | ✓ | | | | | ✓ | |
-| 兰州/ Lanzhou | ✓ | ✓ | | | | ✓ | |
+| 兰州/ Lanzhou | ✓ | 〇 | | | | ✓ | |
 | 香港/ Hong Kong | | | | | | | |
 | 台北&桃园/ Taipei & Taoyuan | | | | | | 〇 | |
 | 高雄/ Kaohsiung | | 〇 | | | | | |
@@ -56,5 +56,6 @@
 | 哈尔滨/ Harbin | 交通联合采用[专版黑名单](https://www.zhihu.com/question/312911617)；银联云闪付仅支持工行、交行、广发、浦发、邮储借记卡信用卡和招商银行借记卡 | [Special Blacklist](https://www.zhihu.com/question/312911617) in T-Union; Only CMB debit card and ICBC, COM, CGB, SPDB, CPG debit or credit cards accepted in Qucikpass |
 | 东莞/ Dongguan | 银联云闪付仅支持东莞通合作银行 | Only banks that cooperates with DongguanTong accepted in Quickpass |
 | 南宁/ Nanning | 银联云闪付仅支持除浦发、华夏以外的信用卡和交行、招行借记卡 | Only credit card(except SPDB, HXB) and COM, CMB debit card accepted in Quickpass |
+| 兰州/ Lanzhou | 银联云闪付仅支持信用卡 | Only credit card accepted in Quickpass |
 | 台北&桃园/ Taipei & Taoyuan | 仅桃园机场捷运支持在线购票后扫码过闸 | Only Taoyuan Airport MRT support after buying ticket online |
 | 高雄/ Kaohsiung | 银联云闪付仅支持信用卡，此外还支持万事达信用卡 | Only credit card accepted in Quickpass, and Master credit card also accepted |
