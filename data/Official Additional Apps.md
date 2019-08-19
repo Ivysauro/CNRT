@@ -5,7 +5,7 @@
 ## 主要功能/ General Functions
 **代扣方式中英文对照/ Chinese and English in Supported Payment Method：**
 
-支付宝/ Alipay、 微信(支付)/ WeChat Pay、银联(卡)/Unionpay Card 、云闪付/ Unionpay Wallet、京东(支付)/ JD Pay
+支付宝/ Alipay、 微信(支付)/ WeChat Pay、银联(卡)/Unionpay Card 、云闪付/ Unionpay Wallet、京东(支付)/ JD Pay、翼支付/ Bestpay
 
 | 城市/ City | 官方应用/ Official Apps | 扫码过闸/ QR Code for Passing Gates | 生物识别过闸/ Biometric Identification for Passing Gates | 支持代扣方式/ Supported Payment Method | 可刷公交/ Bus Interchangeable | 其他指定应用/ Other Apps Available |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -19,15 +19,15 @@
 | 重庆/ Chongqing | |
 | 深圳/ Shenzhen | 深圳地铁 | ✓ | | 微信 |
 | 南京/ Nanjing | 南京地铁 | ✓ | | 支付宝 |
-| 沈阳/ Shenyang | 盛京通 | ✓ | | |
-| 成都/ Chengdu | 天府通 | ✓ | | |
-| 西安/ Xi'an | 西安地铁 | ✓ | | |
-| 苏州/ Suzhou | 苏e行 | ✓ | | |
-| 昆明/ Kunming | 智慧通行 | ✓ | |
-| 杭州/ Hangzhou | 杭州地铁 | ✓ | |
-| 哈尔滨/ Harbin | 哈尔滨城市通 | ✓ | |
-| 郑州/ Zhengzhou | 郑州地铁商易行 | ✓ | |
-| 长沙/ Changsha | 长沙地铁 | ✓ | |
+| 沈阳/ Shenyang | 盛京通 | ✓ | | 银联 | ✓ | 
+| 成都/ Chengdu | 天府通 | ✓ | | 支付宝、微信、银联 | ✓ |
+| 西安/ Xi'an | 西安地铁 | ✓ | | 银联 |
+| 苏州/ Suzhou | 苏e行 | ✓ | | 支付宝、微信、银联 |
+| 昆明/ Kunming | 智慧通行 | ✓ | | 银联 |
+| 杭州/ Hangzhou | 杭州地铁 | ✓ | | | | 杭州市民卡、杭州办事服务 |
+| 哈尔滨/ Harbin | 哈尔滨城市通 | ✓ | | 支付宝、银联、翼支付 | ✓ | 
+| 郑州/ Zhengzhou | 郑州地铁商易行 | ✓ | | 支付宝、微信 |
+| 长沙/ Changsha | 长沙地铁 | ✓ | | | ✓ | 
 | 宁波/ Ningbo | 宁波地铁 | ✓ | |
 | 无锡/ Wuxi | 码上行 | ✓ | |
 | 青岛/ Qingdao | 青岛地铁 | ✓ | |
