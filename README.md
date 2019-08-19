@@ -13,8 +13,8 @@
 施工中的/ In Construction🏗：
 - [航空铁路枢纽的地铁站名（英文）/ Rail Transit Station Name of Airports and Railway Stations (In English)](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Rail%20Transit%20Station%20Name%20of%20Airports%20and%20Railway%20Stations%2002.md)
 - [官方指定(扫码)应用及其支持的代扣方式/ Official Additional Apps](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Official%20Additional%20Apps.md)
-- [贯通、直通、拆分运营](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Null.md)
-- [最](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/zui.md)
+- [贯通、直通、拆分、脱网运营](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Null.md)
+- [之最/ Something](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/zui.md)
 
 计划中的/ On Plan📝:
 - 充值方式/ Payment Methods for Charging Transit Card
