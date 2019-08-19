@@ -24,7 +24,7 @@
 - 同名站/ Stations of Same Name
 
 滥竽充数的/ Files of Other Topic🧷:
-- [中国主要城市的英文名/ English Name of Big Cities in China](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/English%20Name%20of%20Big%20Cities%20in%20China.md)
+- [中国主要城市名称资料/ Something about Name of Big Cities in China](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/English%20Name%20of%20Big%20Cities%20in%20China.md)
 - 全国主要城市公交支付方式/ Payment Methods for Bus in Main Cities
 
 ---
