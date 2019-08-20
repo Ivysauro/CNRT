@@ -13,7 +13,7 @@
 施工中的/ In Construction🏗：
 - [航空铁路枢纽的地铁站名（英文）/ Rail Transit Station Name of Airports and Railway Stations (In English)](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Rail%20Transit%20Station%20Name%20of%20Airports%20and%20Railway%20Stations%2002.md)
 - [官方应用及其功能/ Official Additional Apps and Its Functions](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Official%20Additional%20Apps.md)
-- [贯通、直通、拆分、脱网运营/ Operation](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Null.md)
+- [特殊运营方式/ Special Operations](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Special%20Operations.md)
 - [之最/ Something](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/zui.md)
 
 计划中的/ On Plan📝:
@@ -24,8 +24,8 @@
 - 同名站/ Stations of Same Name
 
 滥竽充数的/ Files of Other Topic🧷:
-- [中国主要城市名称资料/ Something about Name of Big Cities in China](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/English%20Name%20of%20Big%20Cities%20in%20China.md)
-- 全国主要城市公交支付方式/ Payment Methods for Bus in Main Cities
+- [中国主要城市名称资料/ Something about Name of Big Cities in China](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Something%20about%20Name%20of%20Big%20Cities%20in%20China.md)
+- [全国主要城市公交支付方式/ Payment Methods for Bus in Main Cities](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Payment%20Methods%20for%20Bus%20in%20Main%20Cities.md)
 
 ---
 发现错误或有建议请直接提 issue😀~/ If you have any questions, just open an issue😉~
