@@ -6,7 +6,7 @@
 
 **粗体字**为正在使用的名称/ **Bold** is the current name
 
-| 中文名/ Chinese Name | 简称/ Short Name | 拼音/ Bopomofo Name | 常见拉丁名/ General Latin Name | IATA城市代码/ IATA City Code | 来源/ Origin |
+| 中文名/ Chinese Name | 简称/ Short Name | 拼音/ Bopomofo Name | 常见拉丁名/ General Latin Name | IATA城市代码/ IATA City Code | 拉丁名来源/ Origin of Latin Name |
 | :------------------ | :--------------: | :----------------- | :---------------------------- | :-------------------------- | :----------- |
 | 北京 | 京 |**Beijing** | Peking | PEK | 邮政式拼音 |
 | 天津 | 津 |**Tianjin** | Tientsin | TSN | 邮政式拼音 |
