@@ -57,7 +57,7 @@
 | 岭南通	| 广东/ Guangdong | × | ✓ | ✓ | | | | | |
 | 苏州市民卡	| 苏州/ Suzhou | × |
 | 杭州通	| 杭州/ Hangzhou | × |
-| 天府通	| 成都/ Chengdu | | 〇 |
+| 天府通	| 成都/ Chengdu | 〇 | 〇 |
 | 羊城通	| 广州/ Guangzhou | | ✓ | | | | | ✓ | |
 
 ## 参考来源/ References
