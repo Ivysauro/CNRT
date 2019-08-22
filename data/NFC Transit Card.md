@@ -35,6 +35,7 @@
 | 潇湘卡 | 长沙/ Changsha | | 〇 |
 | 洪城通 | 南昌/ Nanchang | | 〇 |
 | 长安通 | 西安/ Xi'an | | | | | | | | | ✓ |
+| 厦门e通卡 | 厦门/ Xiamen | ✓ |
 
 
 ## 城市一卡通卡/ City Union Cards
