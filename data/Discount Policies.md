@@ -26,9 +26,15 @@
 | 杭州/ Hangzhou | 91折 | 5折 | 换乘优惠（90分钟内优惠1-2元，限1次） |
 | 郑州/ Zhengzhou | 95折 | 8折 |
 | 长沙/ Changsha | 9折 | 7折 | 磁悬浮9折 |
-| |
-| 青岛/ Qingdao | 
+| 宁波/ Ningbo |
+| 无锡/ Wuxi |
+| 青岛/ Qingdao |
+| 南昌/ Nanchang |
+| 福州/ Fuzhou |
+| 东莞/ Dongguan |
+| 南宁/ Nanning |
 | 合肥/ Hefei | 9折 | 7折 | 换乘优惠 |
+| |
 
 ## 本地优惠（电子卡）/ Local Discount (e-Card)
 | 城市/ City | 地铁/ Rail Transit | 公交/ Buses | 其他/ Other |
@@ -39,6 +45,6 @@
 ## 异地优惠/ Non-local Discount
 | 城市/ City | 地铁/ Rail Transit | 公交/ Buses | 其他/ Other | 
 | :- | :- | :- | :- |
-| 北京/ Beijing |
+| 南京/ Nanjing | 95折（仅省内卡） | 无 |
 | 昆明/ Kunming | 同等 | 同等 |
 | 长沙/ Changsha | 同等 | 无 | 磁悬浮同等 |
