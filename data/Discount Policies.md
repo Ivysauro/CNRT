@@ -14,7 +14,7 @@
 | 武汉/ Wuhan | 9折+累计优惠 | 8~9折+换乘优惠（90分钟内6~7折，限2次） |
 | 重庆/ Chongqing | 9折 | 9折 | 换乘优惠(1小时内免费，限1次） |
 | 深圳/ Shenzhen | 95折 | 65折~8折 | 换乘优惠（90分钟内优惠0.4元） |
-| 南京/ Nanjing | 95折 | 8折 | 换乘优惠（90分钟内优惠1~1.6元） | 轮渡5折 |
+| 南京/ Nanjing | 95折 | 8折 | 轮渡5折，换乘优惠（90分钟内优惠1~1.6元） |
 
 ## 异地优惠/ Non-local Discount
 | 城市/ City | 交通卡-地铁/ Transit Card in Rail Transit | 交通卡-公交/ Transit Card in Buses | 其他优惠/ Other Discount | 
