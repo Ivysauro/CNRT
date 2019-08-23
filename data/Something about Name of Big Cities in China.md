@@ -1,6 +1,6 @@
 # 中国主要城市名称资料/ Something about Name of Big Cities in China
 
-排序方式为省份区划代码 / Rank by Province Code
+排序方式为[省份区划代码](https://www.zhihu.com/question/47054184/answer/364140115) / Rank by [Province Code](https://www.zhihu.com/question/47054184/answer/364140115)
 
 ## 主表/ Content
 
@@ -59,12 +59,12 @@
 | 喀什 | | Kashi | **Kashgar** | KHG | 维语 |
 | 吐鲁番 | | Tulufan | **Turfan/Turpan** | TLQ | 维语 |
 | 克拉玛依 | | Kelamayi | **Karamay/Karamaije** | KRY | 维语 |
+| 香港 | 港 | ~~Xianggang~~ | **Hong Kong** | HKG | 邮政式拼音(粤语) |
+| 澳门 | 澳 | ~~Aomen~~ | **Macau/Macao** | MFM | 邮政式拼音(“妈阁”) |
 | 台北 | | Taibei | **Taipei** | TPE | 威妥玛拼音 |
 | 高雄 | | Gaoxiong | **Kaohsiung** | KHH | 威妥玛拼音 |
 | 台中 | | Taizhong | **Taichung** | RMQ | 威妥玛拼音 |
 | 基隆 | | Jilong | **Keelung** | | 威妥玛拼音 |
-| 香港 | 港 | ~~Xianggang~~ | **Hong Kong** | HKG | 邮政式拼音(粤语) |
-| 澳门 | 澳 | ~~Aomen~~ | **Macau/Macao** | MFM | 邮政式拼音(“妈阁”) |
 
 | 中文名/ Chinese Name | 拼音/ Bopomofo Name | 常见拉丁名/ General Latin Name | 来源/ Origin |
 | :------------------ | :------------------ | :---------------------------- | :----------- |
