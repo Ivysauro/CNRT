@@ -14,13 +14,13 @@
 - [航空铁路枢纽的地铁站名（英文）/ Rail Transit Station Name of Airports and Railway Stations (In English)](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Rail%20Transit%20Station%20Name%20of%20Airports%20and%20Railway%20Stations%2002.md)
 - [官方应用及其功能/ Official Additional Apps and Its Functions](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Official%20Additional%20Apps.md)
 - [特殊运营方式/ Special Operations](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Special%20Operations.md)
-- [之最/ Something](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/zui.md)
+- [之最/ No.1](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/zui.md)
+- [优惠政策/ Discount Policies](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Discount%20Policies.md)
 
 计划中的/ On Plan📝:
 - 充值方式/ Payment Methods for Charging Transit Card
 - 计时卡/ Timing Card 
-- 票价对比/ Prices
-- 优惠政策/ Discount Policies
+- 票价/ Prices
 - 同名站/ Stations of Same Name
 
 滥竽充数的/ Files of Other Topic🧷:
