@@ -6,7 +6,7 @@
 
 换乘优惠不包括地铁出闸换乘地铁
 
-| 城市/ City | 地铁/ Rail Transit | 公交/ TBuses | 其他/ Other | 
+| 城市/ City | 地铁/ Rail Transit | 公交/ Buses | 其他/ Other | 
 | :- | :- | :- | :- |
 | 北京/ Beijing | 累计优惠（100元后8折，150元后5折，400元后无） | 市域内路段5折，市域外路段8折优惠 | 低峰优惠 |
 | 天津/ Tianjin | 9折 | 95折 |
@@ -31,6 +31,7 @@
 | 城市/ City | 地铁/ Rail Transit | 公交/ Buses | 其他/ Other |
 | :- | :- | :- | :- |
 | 昆明/ Kunming | | 支付宝同等优惠 |
+| 长沙/ Changsha | 官方应用同等优惠 | 官方应用同等优惠 |
 
 ## 异地优惠/ Non-local Discount
 | 城市/ City | 地铁/ Rail Transit | 公交/ Buses | 其他/ Other | 
