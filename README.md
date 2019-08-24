@@ -9,6 +9,8 @@
 - [各地轨道交通开放性评分/ Open Score of China Rail Transit](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Open%20Score.md)
 - [航空铁路枢纽的地铁站名（中文）/ Rail Transit Station Name of Airports and Railway Stations (In Chinese)](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Rail%20Transit%20Station%20Name%20of%20Airports%20and%20Railway%20Stations.md)
 - [安检互认/ Security Check Mutual Recognition](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Security%20Check%20Mutual%20Recognition.md)
+- [住建部互联互通说明（中文）/ Note of City Union (In Chinese)](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/City%20Union.md)
+
 
 施工中的/ In Construction🏗：
 - [航空铁路枢纽的地铁站名（英文）/ Rail Transit Station Name of Airports and Railway Stations (In English)](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Rail%20Transit%20Station%20Name%20of%20Airports%20and%20Railway%20Stations%2002.md)
@@ -23,7 +25,7 @@
 - 票价/ Prices
 - 同名站/ Stations of Same Name
 
-滥竽充数的/ Files of Other Topic🧷:
+不务正业的/ Files of Other Topic🧷:
 - [中国主要城市名称资料/ Something about Name of Big Cities in China](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Something%20about%20Name%20of%20Big%20Cities%20in%20China.md)
 - [全国主要城市公交支付方式/ Payment Methods for Bus in Main Cities](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Payment%20Methods%20for%20Bus%20in%20Main%20Cities.md)
 
