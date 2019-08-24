@@ -8,12 +8,12 @@
 - [手机交通卡支持情况/ NFC Transit Card on mobile phone](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/NFC%20Transit%20Card.md)
 - [各地轨道交通开放性评分/ Open Score of China Rail Transit](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Open%20Score.md)
 - [航空铁路枢纽的地铁站名（中文）/ Rail Transit Station Name of Airports and Railway Stations (In Chinese)](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Rail%20Transit%20Station%20Name%20of%20Airports%20and%20Railway%20Stations.md)
+- [航空铁路枢纽的地铁站名（英文）/ Rail Transit Station Name of Airports and Railway Stations (In English)](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Rail%20Transit%20Station%20Name%20of%20Airports%20and%20Railway%20Stations%2002.md)
 - [安检互认/ Security Check Mutual Recognition](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Security%20Check%20Mutual%20Recognition.md)
-- [住建部互联互通说明（中文）/ Note of City Union (In Chinese)](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/City%20Union.md)
+- [住建部互联互通说明（中文）/ Notes of City Union (In Chinese)](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/City%20Union.md)
 
 
 施工中的/ In Construction🏗：
-- [航空铁路枢纽的地铁站名（英文）/ Rail Transit Station Name of Airports and Railway Stations (In English)](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Rail%20Transit%20Station%20Name%20of%20Airports%20and%20Railway%20Stations%2002.md)
 - [官方应用及其功能/ Official Additional Apps and Its Functions](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Official%20Additional%20Apps.md)
 - [特殊运营方式/ Special Operations](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Special%20Operations.md)
 - [之最/ No.1](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/zui.md)
