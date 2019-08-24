@@ -14,7 +14,7 @@
 
 
 施工中的/ In Construction🏗：
-- [官方应用及其功能/ Official Additional Apps and Its Functions](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Official%20Additional%20Apps.md)
+- [官方指定应用及其功能/ Official Additional Apps and Its Functions](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Official%20Additional%20Apps.md)
 - [特殊运营方式/ Special Operations](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Special%20Operations.md)
 - [之最/ No.1](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/zui.md)
 - [优惠政策/ Discount Policies](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Discount%20Policies.md)
