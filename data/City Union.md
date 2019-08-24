@@ -1,4 +1,4 @@
-# 住建部互联互通说明/ Note of City Union
+# 住建部互联互通说明/ Notes of City Union
 
 ## 分类/ Types
 - 上海系统（可在上海使用）：上海、浙江、江苏（限发行城市一卡通卡的地区）
