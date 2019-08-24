@@ -18,12 +18,13 @@
 - [特殊运营方式/ Special Operations](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Special%20Operations.md)
 - [之最/ No.1](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/zui.md)
 - [优惠政策/ Discount Policies](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Discount%20Policies.md)
+- [同名站/ Stations of Same Name](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Stations%20of%20Same%20Name.md)
 
 计划中的/ On Plan📝:
 - 充值方式/ Payment Methods for Charging Transit Card
 - 计时卡/ Timing Card 
 - 票价/ Prices
-- 同名站/ Stations of Same Name
+- 标识色/ Line Color
 
 不务正业的/ Files of Other Topic🧷:
 - [中国主要城市名称资料/ Something about Name of Big Cities in China](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Something%20about%20Name%20of%20Big%20Cities%20in%20China.md)
