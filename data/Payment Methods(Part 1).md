@@ -17,7 +17,7 @@
 | 广州&佛山（含APM）/ Guangzhou & Foshan (APM included) | ✓ | 〇 | ✓ | ✓ | | ✓ | |
 | 长春/ Changchun | ✓ | ✓ | | | | | |
 | 大连/ Dalian | ✓ | ✓ | | | | ✓ | |
-| 武汉/ Wuhan | | | | | | ✓ | |
+| 武汉/ Wuhan | ↑ | | | | | ✓ | |
 | 重庆/ Chongqing | ↑ | ↑ | | | ↑ | |
 | 深圳/ Shenzhen | ✓ | ✓ | | ✓ | | ✓ | |
 | 南京/ Nanjing | ✓ | ✓ | ✓ | | | ✓ | |
