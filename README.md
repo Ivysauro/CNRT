@@ -11,9 +11,9 @@
 - [航空铁路枢纽的地铁站名（英文）/ Rail Transit Station Name of Airports and Railway Stations (In English)](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Rail%20Transit%20Station%20Name%20of%20Airports%20and%20Railway%20Stations%2002.md)
 - [安检互认/ Security Check Mutual Recognition](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Security%20Check%20Mutual%20Recognition.md)
 - [住建部互联互通说明（中文）/ Notes of City Union (In Chinese)](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/City%20Union.md)
-- [特殊运营方式/ Special Operations](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Special%20Operations.md)
-- [特殊站/ Special Station](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Special%20Station.md)
-- [同名站/ Stations of Same Name](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Stations%20of%20Same%20Name.md)
+- [特殊运营方式（中文）/ Special Operations (In Chinese)](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Special%20Operations.md)
+- [特殊站（中文）/ Special Station (In Chinese)](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Special%20Station.md)
+- [同名站（中文）/ Stations of Same Name (In Chinese)](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Stations%20of%20Same%20Name.md)
 
 施工中的/ In Construction🏗：
 - [官方指定应用及其功能/ Official Additional Apps and Its Functions](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Official%20Additional%20Apps.md)
