@@ -1,4 +1,4 @@
-# 优惠政策/ Discount Policies
+# 优惠政策（中文）/ Discount Policies (In Chinese)
 
 仅包括固定优惠，随机优惠请关注相应活动/ Only Fixed Discount
 
@@ -26,13 +26,13 @@
 | 杭州/ Hangzhou | 91折 | 5折 | 换乘优惠（90分钟内优惠1-2元，限1次） |
 | 郑州/ Zhengzhou | 95折 | 8折 |
 | 长沙/ Changsha | 9折 | 7折 | 磁悬浮9折 |
-| 宁波/ Ningbo |
-| 无锡/ Wuxi |
-| 青岛/ Qingdao |
-| 南昌/ Nanchang |
-| 福州/ Fuzhou |
-| 东莞/ Dongguan |
-| 南宁/ Nanning |
+| 宁波/ Ningbo | 95折 | 6折+换乘优惠（1小时内优惠1元） | 换乘优惠（90分钟优惠1.2-1.8元） |
+| 无锡/ Wuxi | 95折 | 6折+换乘优惠（1小时内5折） |
+| 青岛/ Qingdao | 9折+累计优惠（100元后8折，200元后7折，300元后无） | 8折 | 换乘优惠（1小时内优惠1元）
+| 南昌/ Nanchang | 9折 | 7折+换乘优惠（90分钟内免费） | |
+| 福州/ Fuzhou | 9折 | 9折 | |
+| 东莞/ Dongguan | 9折 | 9折 | |
+| 南宁/ Nanning | 9折 | 9折 | 换乘优惠（90分钟内公交换乘地铁85折）
 | 合肥/ Hefei | 9折 | 7折 | 换乘优惠 |
 | |
 
