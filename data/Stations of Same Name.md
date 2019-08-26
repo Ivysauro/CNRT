@@ -1,4 +1,4 @@
-# 同名站/ Stations of Same Name
+# 同名站（中文）/ Stations of Same Name (In Chinese)
 
 ## 主表/ Content
 | 站名/ Station Name | 归属/ Affiliated City |
