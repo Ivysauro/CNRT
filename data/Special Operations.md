@@ -1,4 +1,4 @@
-# 特殊运营方式/ Special Operations
+# 特殊运营方式（中文）/ Special Operations (In Chinese)
 
 *斜体字*为未来状态，**粗体字**为过去状态
 
