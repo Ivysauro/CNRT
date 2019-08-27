@@ -47,7 +47,7 @@
 | 兰州/ Lanzhou | ✓ | 〇 | | | | ✓ | |
 | 香港/ Hong Kong | | | | | | | |
 | 台北&桃园/ Taipei & Taoyuan | | | | | | 〇 | |
-| 高雄/ Kaohsiung | | 〇 | | | | | |
+| 高雄/ Kaohsiung | | 〇 | | | | | ✓ |
 
 ## 备注/ Notes
 | 城市/ City | 备注 | Notes |
