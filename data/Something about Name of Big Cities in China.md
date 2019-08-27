@@ -25,13 +25,13 @@
 | 扬州 | | **Yangzhou** | Yangchow | YTY | 邮政式拼音 |
 | 杭州 | 杭 | **Hangzhou** | Hangchow | HGH | 邮政式拼音 |
 | 宁波 | 甬 |**Ningbo** | Ningpo | NGB | 邮政式拼音 |
-| 绍兴 | | **Shaoxing** | Shaohing | | 邮政式拼音 |
+| 绍兴 | 绍 | **Shaoxing** | Shaohing | | 邮政式拼音 |
 | 温州 | 温 | **Wenzhou** | Wenchow | WNZ | 邮政式拼音 |
-| 南昌 | 洪/昌 | **Nanchang** | | KHN | |
+| 南昌 | 洪/昌/鹭 | **Nanchang** | | KHN | |
 | 福州 | | **Fuzhou** | Foochow | FOC | 邮政式拼音 |
 | 厦门 | 厦 | **Xiamen** | Amoy | XMN | 邮政式拼音(闽语) |
 | 金门 | | Jinmen | Quemoy/Kinmen | KNH | 邮政式拼音/威妥玛拼音 |
-| 济南 | | **Jinan** | Tsinan | TNA | 邮政式拼音 |
+| 济南 | 济 | **Jinan** | Tsinan | TNA | 邮政式拼音 |
 | 青岛 | 青 | **Qingdao** | Tsingtao | TAO | 邮政式拼音 |
 | 南阳 | 宛 | **Nanyang** | | NNY | |
 | 广州 | 穗 |**Guangzhou** | Canton/Kwuangchow | CAN | 邮政式拼音 |
@@ -40,7 +40,7 @@
 | 汕头 | | **Shantou** | Swatou | SWA | 邮政式拼音(闽语) |
 | 南宁 | 邕/*南* | **Nanning** | | NNG |
 | 桂林 | | **Guilin** | Kweilin | KWL | 邮政式拼音 |
-| 柳州 | | **Liuzhou** | Liuchow | LZH | 邮政式拼音 |
+| 柳州 | 柳 | **Liuzhou** | Liuchow | LZH | 邮政式拼音 |
 | 海口 | | **Haikou** | Hoihow | HAK | 邮政式拼音 |
 | 重庆 | 渝 |**Chongqing** | Chungking | CKG | 邮政式拼音 |
 | 成都 | 蓉 | **Chengdu** | Chengtu | CTU | 邮政式拼音 |
