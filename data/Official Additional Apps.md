@@ -5,7 +5,7 @@
 ## 主要功能/ General Functions
 **代扣方式中英文对照/ Chinese and English in Supported Payment Method：**
 
-支付宝/ Alipay、 微信(支付)/ WeChat Pay、银联(卡)/Unionpay Card 、云闪付/ Unionpay Wallet、京东(支付)/ JD Pay、翼支付/ Bestpay
+支付宝/ Alipay、 微信(支付)/ WeChat Pay、银联(卡)/Unionpay Card 、云闪付/ Unionpay Wallet、京东(支付)/ JD Pay、翼支付/ Bestpay、苏宁(支付)/ Suning Pay
 
 | 城市/ City | 官方应用/ Official Apps | 扫码过闸/ QR Code for Passing Gates | 生物识别过闸/ Biometric Identification for Passing Gates | 支付方式/ Supported Payment Method | 可刷公交/ Bus Interchangeable | 其他指定应用/ Other Apps Available |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -22,7 +22,7 @@
 | 沈阳/ Shenyang | 盛京通 | ✓ | | 银联 | ✓ | 
 | 成都/ Chengdu | 天府通 | ✓ | | 支付宝、微信、银联 | ✓ |
 | 西安/ Xi'an | 西安地铁 | ✓ | | 银联 |
-| 苏州/ Suzhou | 苏e行 | ✓ | | 支付宝、微信、银联 |
+| 苏州/ Suzhou | 苏e行 | ✓ | | 支付宝、微信、银联、苏宁 |
 | 昆明/ Kunming | 智慧通行 | ✓ | | 银联 |
 | 杭州/ Hangzhou | 杭州地铁 | ✓ | | 支付宝、银联 | | 杭州市民卡、杭州办事服务 |
 | 哈尔滨/ Harbin | 哈尔滨城市通 | ✓ | | 支付宝、银联、翼支付 | ✓ | 
@@ -46,5 +46,14 @@
 
 ## 其他功能/ Other Functions
 
-## 备注/ Notes
-- 二维码互通：……
+## 二维码互通（需开通并绑定当地支持的支付方式）/ QR Code in One App (Need apply first and bind a supported payment method)
+- 上海（Metro大都会）：杭州、宁波、温州、合肥、南京、苏州、无锡、南昌、青岛、厦门（BRT）
+- 杭州（杭州地铁）：上海、宁波、温州、合肥、南京
+- 合肥（合肥轨道）：上海、杭州、宁波、温州、南京
+- 无锡（码上行）：上海、苏州、南昌、福州、厦门（公交）
+- 宁波（宁波地铁）：上海、杭州、温州、合肥
+- 温州（温州轨道）：上海、杭州、宁波、合肥
+- 南京（南京地铁）：上海、杭州
+- 苏州（苏e行）：上海、无锡
+- 南昌（鹭鹭行）：上海、无锡
+- 青岛（青岛地铁）：上海
