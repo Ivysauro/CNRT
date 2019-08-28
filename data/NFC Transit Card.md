@@ -43,6 +43,10 @@
 | ---------------- | :------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 上海公共交通卡 | 上海/ Shanghai | ✓ | ✓ | ✓ | ✓ | | | ✓ | ✓ |
 | 绿城通 | 郑州/ Zhengzhou | ✓ | | | | ✓ | | ✓ | ✓ |
+
+## 双标卡/ TU&CU Cards
+| 卡名称/ Card Name | 地区/ Area | 小米/ Xiaomi | 华为/ Huawei | 三星/ Samsung | 苹果/ Apple | 魅族/ Meizu | 一加/ OnePlus | 欧珀/ OPPO | 维沃/ vivo | 腾讯HCE乘车卡/ WeChat HCE |
+| ---------------- | :------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 台州公共交通卡 | 台州/ Taizhou, Zhejiang | ✓ | | | | | | ✓ | ✓ |
 
 ## 市民卡/ Local Transit Cards
