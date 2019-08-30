@@ -12,30 +12,41 @@
 | :------------------ | :--------------: | :----------------- | :---------------------------- | :-------------------------- | :----------- |
 | 北京 | 京 | **Beijing** | Peking | PEK | 邮政式拼音 |
 | 天津 | 津 | **Tianjin** | Tientsin | TSN | 邮政式拼音 |
+| 石家庄 | 石 | **Shijiazhuang** | | SJW |
 | 太原 | 并(bīng) | **Taiyuan** | | TYN |
 | 大同 | 云/平/同/*大* | **Datong** | | DAT |
+| 长治 | 潞 | **Changzhi** | | CIH |
 | 晋城 | 泽 | **Jincheng** | |
 | 呼和浩特 | 呼 | Huhehaote | **Hohhot** | HET | 蒙语 |
 | 沈阳 | 沈 | **Shenyang** | Mukden | SHE | 邮政式拼音(蒙语，“盛京”) |
 | 大连 | 鲲/滨/连/*大* | **Dalian** | Dairen | DLC | 邮政式拼音 |
 | 锦州 | | **Jinzhou** | Chinchow | JNZ | 邮政式拼音 |
-| 长春 | | **Changchun** | Hisinking | CGQ | 邮政式拼音(“新京”) |
+| 长春 | *长* | **Changchun** | Hisinking | CGQ | 邮政式拼音(“新京”) |
 | 吉林 | 吉 | **Jilin** | Kirin/Chilin | JIL | 邮政式拼音 |
 | 哈尔滨 | 哈 | Haerbin | **Harbin** | HRB | 满语 |
 | 齐齐哈尔 | | Qiqihaer | **Qiqihar** | NDG | 达斡尔语 |
 | 上海 | 沪/申 | **Shanghai** | | SHA | |
 | 南京 | 宁 |**Nanjing** | Nanking | NKG | 邮政式拼音 |
 | 苏州 | 苏/吴 |**Suzhou** | Soochow | | 邮政式拼音 |
+| 无锡 | 锡 | **Wuxi** | | WUX |
 | 徐州 | 徐 | **Xuzhou** | Suchow | XUZ | 邮政式拼音 |
 | 扬州 | 扬 | **Yangzhou** | Yangchow | YTY | 邮政式拼音 |
+| 盐城 | 盐 | **Yancheng** | | YNZ |
+| 南通 | 通 | **Nantong** | | NTG |
 | 杭州 | 杭 | **Hangzhou** | Hangchow | HGH | 邮政式拼音 |
 | 宁波 | 甬 |**Ningbo** | Ningpo | NGB | 邮政式拼音 |
-| 绍兴 | 绍 | **Shaoxing** | Shaohing | | 邮政式拼音 |
-| 温州 | 温 | **Wenzhou** | Wenchow | WNZ | 邮政式拼音 |
-| 福州 | 榕 | **Fuzhou** | Foochow | FOC | 邮政式拼音 |
+| 绍兴 | 越/绍 | **Shaoxing** | Shaohing | | 邮政式拼音 |
+| 温州 | 温/瓯 | **Wenzhou** | Wenchow | WNZ | 邮政式拼音 |
+| 金华 | 婺/*金* | **Jinhua** | | YIW |
+| 合肥 | 庐/合/淝 | **Hefei** | | HFE |
+| 芜湖 | 芜 | **Wuhu** | |
+| 黄山 | 徽/黄 | **Huangshan** | | TXN |
+| 铜陵 | 铜 | **Tongling** | |
+| 福州 | 福/榕 | **Fuzhou** | Foochow | FOC | 邮政式拼音 |
 | 厦门 | 厦/鹭 | **Xiamen** | Amoy | XMN | 邮政式拼音(闽语) |
 | 金门 | | Jinmen | Quemoy/Kinmen | KNH | 邮政式拼音/威妥玛拼音 |
 | 南昌 | 洪/昌/*南* | **Nanchang** | | KHN | |
+| 九江 | 浔/*九* | **Jiujiang** | | JIU |
 | 济南 | 济 | **Jinan** | Tsinan | TNA | 邮政式拼音 |
 | 青岛 | 青 | **Qingdao** | Tsingtao | TAO | 邮政式拼音 |
 | 郑州 | 郑 | **Zhengzhou** | | CGO |
@@ -44,17 +55,22 @@
 | 南阳 | 宛 | **Nanyang** | | NNY | |
 | 安阳 | 殷/邺 | **Anyang** | | 
 | 武汉 | 汉 | **Wuhan** | | WUH | |
-| 广州 | 穗 |**Guangzhou** | Canton/Kwuangchow | CAN | 邮政式拼音 |
+| 长沙 | *长* | **Changsha** | | CSX |
+| 湘潭 | 潭 | **Xiangtan** |
+| 广州 | 穗/*广* |**Guangzhou** | Canton/Kwuangchow | CAN | 邮政式拼音 |
 | 佛山 | 禅/佛 | **Foshan** | | FUO | |
-| 深圳 | 鹏/深| **Shenzhen** | Shumchun | SZX | 邮政式拼音 |
-| 汕头 | | **Shantou** | Swatou | SWA | 邮政式拼音(闽语) |
+| 深圳 | 鹏/深 | **Shenzhen** | Shumchun | SZX | 邮政式拼音 |
+| 汕头 | 汕/鮀 | **Shantou** | Swatou | SWA | 邮政式拼音(闽语) |
+| 东莞 | 莞 | **Dongguan** | |
 | 南宁 | 邕/*南* | **Nanning** | | NNG |
-| 桂林 | | **Guilin** | Kweilin | KWL | 邮政式拼音 |
+| 桂林 | 桂 | **Guilin** | Kweilin | KWL | 邮政式拼音 |
 | 柳州 | 柳 | **Liuzhou** | Liuchow | LZH | 邮政式拼音 |
 | 海口 | | **Haikou** | Hoihow | HAK | 邮政式拼音 |
+| 三亚 | 崖 | **Sanya** | | SYX |
 | 重庆 | 渝 |**Chongqing** | Chungking | CKG | 邮政式拼音 |
 | 成都 | 蓉/*成* | **Chengdu** | Chengtu | CTU | 邮政式拼音 |
 | 贵阳 | 筑 | **Guiyang** | Kweiyang | KWE | 邮政式拼音 |
+| 昆明 | 昆 | **Kunming** | | KMG |
 | 拉萨 | | Lasa | **Lhasa** | LXA | 藏语 |
 | 日喀则 | | Rikaze | **Xigaz** | RKZ | 藏语 |
 | 昌都 | | Changdu | **Qamdo** | BPX | 藏语 |
@@ -66,6 +82,7 @@
 | 敦煌 | | **Dunhuang** | Tunhwang | DNH | 邮政式拼音 |
 | 西宁 | | **Xining** | Sining | XNN | 邮政式拼音 |
 | 格尔木 | | Ge'ermu | **Golmud** | GOQ | 蒙语 |
+| 银川 | 银 | **Yinchuan** | | INC |
 | 乌鲁木齐 | | Wulumuqi | **Urumqi** | URC | 维语 |
 | 喀什 | | Kashi | **Kashgar** | KHG | 维语 |
 | 吐鲁番 | | Tulufan | **Turfan/Turpan** | TLQ | 维语 |
@@ -73,7 +90,7 @@
 | 香港 | 港 | ~~Xianggang~~ | **Hong Kong** | HKG | 邮政式拼音(粤语) |
 | 澳门 | 澳 | ~~Aomen~~ | **Macau/Macao** | MFM | 邮政式拼音(“妈阁”) |
 | 台北 | | Taibei | **Taipei** | TPE | 威妥玛拼音 |
-| 高雄 | | Gaoxiong | **Kaohsiung** | KHH | 威妥玛拼音 |
+| 高雄 | 高 | Gaoxiong | **Kaohsiung** | KHH | 威妥玛拼音 |
 | 台中 | | Taizhong | **Taichung** | RMQ | 威妥玛拼音 |
 | 基隆 | | Jilong | **Keelung** | | 威妥玛拼音 |
 
