@@ -25,6 +25,7 @@
 - 充值方式/ Payment Methods for Charging Transit Card
 - 票价/ Prices
 - 标识色/ Line Color
+- 单程票种类/ Type of One-way Ticket
 
 不务正业的/ Files of Other Topic🧷:
 - [中国主要城市名称资料/ Something about Name of Big Cities in China](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Name%20data%20of%20Big%20Cities%20in%20China.md)
