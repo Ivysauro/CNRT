@@ -29,6 +29,7 @@
 不务正业的/ Files of Other Topic🧷:
 - [中国主要城市名称资料/ Something about Name of Big Cities in China](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/%20Name%20data%20of%20Big%20Cities%20in%20China.md)
 - [全国主要城市公交支付方式/ Payment Methods for Bus in Main Cities](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Payment%20Methods%20for%20Bus%20in%20Main%20Cities.md)
+- [铁路局名称资料（中文）/ Name data of FRA](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/FRA.md)
 
 ---
 发现错误或有建议请直接提 issue😀~/ If you have any questions, just open an issue😉~
