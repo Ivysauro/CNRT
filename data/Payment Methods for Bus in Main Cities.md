@@ -7,9 +7,9 @@
 ## 主表/ Content
 | 城市/ City | 交通联合/ T-Union | 银联云闪付/ Quickpass | 支付宝乘车码/ Alipay Transit QR | 微信乘车码/ WeChat Transit QR | 银联乘车码/ Unionpay Transit QR | 银联付款码/ Unionpay Payment QR | 官方应用乘车码/ Transit QR of Official Apps | 其他指定应用/ Additional Apps |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 北京/ Beijing | 〇 | 〇 | | | | | 北京公交 | 亿通行、北京一卡通 |
+| 北京/ Beijing | 〇 | 〇 | | | | | 北京公交、北京一卡通 | 亿通行 |
 | 天津/ Tianjin | ✓ | ✓ | ✓ | ✓ | ✓ | | | |
 | 上海/ Shanghai | ✓ | | ✓ | ✓ | 〇 | | 上海一卡通 | |
-| 广州/ Guangzhou | ✓ | | ✓ | ✓ | ✓ | | 羊城通 | |
+| 广州/ Guangzhou | ✓ | | ✓ | ✓ | ✓ | | 羊城通、岭南通 | |
 
 ## 备注/ Notes
