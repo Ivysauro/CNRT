@@ -9,7 +9,7 @@
 
 | 城市/ City | 支付宝/ Alipay | 微信/ WeChat Pay | 银联二维码/ Unionpay | 银联云闪付/ Quickpass |
 | --------- | :----------: | :-------------: | :----------------: | :-----------------: |
-| 北京/ Beijing | 〇 | 〇 |
+| 北京/ Beijing | ✓ | ✓ |
 | 天津/ Tianjin | 〇 | 〇 |
 | 上海（含磁浮）/ Shanghai (Maglev included) | 〇 | 〇 | 〇 |
 | 广州&佛山（含APM）/ Guangzhou & Foshan (APM included) | ✓ | ✓ |
