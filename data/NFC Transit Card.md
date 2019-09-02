@@ -64,7 +64,7 @@
 | 杭州通	| 杭州/ Hangzhou | ❌ |
 | 天府通	| 成都/ Chengdu | 🕓 | 🕓 |
 | 羊城通	| 广州/ Guangzhou | | ✅ | | | | | ✅ | |
-| 八达通/ Octopus Card | 香港/ Hong Kong | | | ✅ | ↑ |
+| 八达通/ Octopus Card | 香港/ Hong Kong | | | ✅ | 🕓 |
 
 ## 参考来源/ References
 - http://www.miui.com/thread-17774691-1-1.html
