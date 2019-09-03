@@ -27,7 +27,7 @@
  
 ## 交通联合卡/ T-Union Cards
 | 卡名称/ Card Name | 地区/ Area | <img src="/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | <img src="/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | <img src="/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | <img src="/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | <img src="/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | <img src="/images/OnePlus.png" width="40" hegiht="40" alt="OnePlus"/> | <img src="/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/>  | <img src="/images/vivo.png" width="40" hegiht="40" alt="vivo"/> | <img src="/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay"/> |
-| ---------------- | :------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| :- | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 绿城通（轩辕通） | 郑州/ Zhengzhou | | ✅ |
 | 岭南通	| 广东/ Guangdong | ✅ | 🕓 | | | ✅ | ✅ | ✅ | ✅ |
 | 吉林通	| 吉林/ Jilin | ✅ | ✅ | ✅ | | | | ✅ | |
@@ -58,18 +58,18 @@
 
 ## 城市一卡通卡/ City Union Cards
 | 卡名称/ Card Name | 地区/ Area | <img src="/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | <img src="/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | <img src="/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | <img src="/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | <img src="/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | <img src="/images/OnePlus.png" width="40" hegiht="40" alt="OnePlus"/> | <img src="/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/>  | <img src="/images/vivo.png" width="40" hegiht="40" alt="vivo"/> | <img src="/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay"/> |
-| ---------------- | :------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| :- | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 上海公共交通卡 | 上海/ Shanghai | ✅ | ✅ | ✅ | ✅ | | | ✅ | ✅ |
 | 绿城通 | 郑州/ Zhengzhou | ✅ | | | | ✅ | | ✅ | ✅ |
 
 ## 双标卡/ TU&CU Cards
 | 卡名称/ Card Name | 地区/ Area | <img src="/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | <img src="/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | <img src="/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | <img src="/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | <img src="/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | <img src="/images/OnePlus.png" width="40" hegiht="40" alt="OnePlus"/> | <img src="/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/>  | <img src="/images/vivo.png" width="40" hegiht="40" alt="vivo"/> | <img src="/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay"/> |
-| ---------------- | :------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| :- | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 台州公共交通卡 | 台州/ Taizhou, Zhejiang | ✅ | | | | | | ✅ | ✅ |
 
 ## 市民卡/ Local Transit Cards
 | 卡名称/ Card Name | 地区/ Area | <img src="/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | <img src="/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | <img src="/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | <img src="/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | <img src="/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | <img src="/images/OnePlus.png" width="40" hegiht="40" alt="OnePlus"/> | <img src="/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/>  | <img src="/images/vivo.png" width="40" hegiht="40" alt="vivo"/> | <img src="/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay"/> |
-| ---------------- | :------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| :- | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 北京市政交通一卡通 | 北京/ Beijing | ❌ | ✅ | ✅ | ✅ | | | | ✅ |
 | 深圳通	| 深圳/ Shenzhen | ✅ | ✅ | ✅ | | ✅ | | ✅ | ✅ |
 | 武汉通	| 武汉/ Wuhan | ✅ | ✅ | ✅ | | ✅ | ✅ | ✅ | ✅ |
