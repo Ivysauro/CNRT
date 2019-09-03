@@ -2,15 +2,26 @@
 
 购票方式请参见[这里](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Payment%20Methods(Part%202).md)/ Payment Methods for Tickets is [HERE](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Payment%20Methods(Part%202).md)
 
+## 支付方式中英文对照/ Chinese and English in Payment Methods
+
+| 中文/ Chinese | 英文/ English |
+| :-ico | :- |
+| 交通联合 | T-Union |
+| 银联云闪付 | Unionpay Quickpass |
+| 支付宝乘车码 | Alipay Transit QR Code |
+| 微信乘车码 | WeChat Pay Transit QR Code |
+| 银联乘车码 | Unionpay Transit QR Code |
+| 官方应用乘车码 | Transit QR Code of Official Apps |
+
 ## 主表/ Content
 ✅：完全支持/ Full Supprot
 
-⭕：有条件的支持（参见备注）/ Conditional Support（See Notes）
+⭕：有条件的支持（参见`备注`）/ Conditional Support（See `Notes`）
 
 🕓：即将上线/ Coming Soon
 
-| 城市/ City | 交通联合/ T-Union | 银联云闪付/ Quickpass | 支付宝乘车码/ Alipay | 微信乘车码/ WeChat Pay | 银联乘车码/ Unionpay | 官方应用乘车码/ Official Apps |
-| ---------  | :--------------: | :-----------------:  | :-----------------: | :-------------------: | :-----------------: | :-------:|
+| 城市/ City | 交通联合 | 银联云闪付 | 支付宝乘车码 | 微信乘车码 | 银联乘车码 | 官方应用乘车码 |
+| ---------  | :-----: | :------:  | :---------: | :-------: | :-------: | :-----------: |
 | 北京/ Beijing | ⭕ | | | | | ✅ | 
 | 天津/ Tianjin | ✅ | ✅ | | | | ✅ | |
 | 上海（含磁浮）/ Shanghai (Maglev included) | | ⭕ | | | | ✅ | |
