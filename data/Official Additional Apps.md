@@ -4,17 +4,17 @@
 
 ## 主要功能/ General Functions
 
-**代扣方式中英文对照/ Chinese and English in Supported Payment Method：**
+**支付方式中英文对照/ Chinese and English in Supported Payment Method：**
 
 支付宝/ Alipay、 微信(支付)/ WeChat Pay、银联(卡)/Unionpay Card 、云闪付/ Unionpay Wallet、京东(支付)/ JD Pay、翼支付/ Bestpay、苏宁(支付)/ Suning Pay
 
-| 城市/ City | 应用名/ App Name | 归属/ Ownership | 信息公告/ Notice | 购票/ Buying Tickets | 扫码过闸/ QR Code for Passing Gates | 支付方式/ Supported Payment Method |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 城市/ City | 应用名/ App Name | 归属/ Ownership | 信息公告/ Notice | 购票/ Buying Tickets | 扫码过闸/ QR Code for Passing Gates | 支付方式/ Supported Payment Method | 其他功能/ Other Functions |
+| :-: | :-: | :-: | :-: | :-: | :-: | :- | :- | 
 | 北京/ Beijing | 北京地铁 | 地铁 | ✅ |
 | 北京/ Beijing | 亿通行 | 合资 | ✅ | ✅ | ✅ | 支付宝、微信、银联、京东 |
 | 天津/ Tianjin | 天津地铁 | 地铁 |✅ | | ✅ | 支付宝、银联 |
 | 上海/ Shanghai | Metro大都会 | 地铁 | ✅ | | ✅ | 支付宝、微信、银联、云闪付、京东 |
-| 广州/ Guangzhou | 广州地铁 | 地铁 | ✅ | ✅ | ✅ | 支付宝、微信 |
+| 广州/ Guangzhou | 广州地铁 | 地铁 | ✅ | ✅ | ✅ | 支付宝、微信 | 云卡 |
 | 长春/ Changchun | |
 | 大连/ Dalian | 大连地铁 | 地铁 | ✅ |
 | 大连/ Dalian | 大连地铁e出行 | 合资 | ✅ | ✅ | ✅ | 支付宝、银联 |
@@ -23,6 +23,7 @@
 | 重庆/ Chongqing | 重庆轨道交通 | 地铁 | ✅ |
 | 深圳/ Shenzhen | 深圳地铁 | 地铁 | ✅ | | ✅ | 微信 |
 | 南京/ Nanjing | 南京地铁 | 地铁 | ✅ | | ✅ | 支付宝 |
+| 南京/ Nanning | 智汇市民卡 | 通卡 | | | | 支付宝、微信、银联 | 云卡 |
 | 沈阳/ Shenyang | 盛京通 | 通卡 | | | ✅ | 银联 |
 | 成都/ Chengdu | 成都地铁 | 地铁 | ✅ |
 | 成都/ Chengdu | 天府通 | 通卡 | | | ✅ | 支付宝、微信、银联 |
@@ -44,10 +45,10 @@
 | 石家庄/ Shijiazhuang | 石家庄轨道交通 | 地铁 | ✅ | ✅ | ✅ | 银联 |
 | 贵阳/ Guiyang | 贵阳地铁 | 地铁 | ✅ | | ✅ | 贵阳银行、贵州银行 |
 | 厦门/ Xiamen | 厦门地铁 | 地铁 | ✅ | ✅ | ✅ | 银联 |
-| 乌鲁木齐/ Urumqi | 乌鲁木齐地铁 | 地铁 | ✅ | ✅ |
+| 乌鲁木齐/ Urumqi | 乌鲁木齐地铁 | 地铁 | ✅ | ✅ | | 支付宝、银联 | 云卡 |
 | 乌鲁木齐/ Urumqi | Metro丝路行 | 合资 | ✅ | | ✅ |  | 支付宝、乌鲁木齐银行 |
 | 温州/ Wenzhou | 温州轨道 | 地铁 | ✅ | | ✅ | 支付宝、微信、银联 |
-| 济南/ Jinan | 济南地铁 | 地铁 | ✅ | ✅ | ✅ | 支付宝、微信、银联 |
+| 济南/ Jinan | 济南地铁 | 地铁 | ✅ | ✅ | ✅ | 支付宝、微信、银联 | 刷脸过闸 |
 | 兰州/ Lanzhou | 兰州轨道 | 地铁 | ✅ | | ✅ | 银联 |
 
 ## 二维码互通（需开通并绑定当地支持的支付方式）/ QR Code in One App (Need apply first and bind a supported payment method)
