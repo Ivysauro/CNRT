@@ -5,7 +5,7 @@
 ## 支付方式中英文对照/ Chinese and English in Payment Methods
 
 | 中文/ Chinese | 英文/ English |
-| :-ico | :- |
+| :- | :- |
 | 交通联合 | T-Union |
 | 银联云闪付 | Unionpay Quickpass |
 | 支付宝乘车码 | Alipay Transit QR Code |
