@@ -15,9 +15,9 @@
 
 | 图标/ Icon | 中文/ Chinese | 英文/ English |
 | :-: | :- | :- |
-| ✅ | 完全支持 | Full Supprot
-| ⭕ | 有条件的支持（参见`备注`） | Conditional Support（See `Notes`）
-| 🕓 | 即将上线 | Coming Soon
+| ✅ | 完全支持 | Full Support |
+| ⭕ | 有条件的支持（参见`备注`） | Conditional Support（See `Notes`） |
+| 🕓 | 即将上线 | Coming Soon |
 
 ## 主表/ Content
 
