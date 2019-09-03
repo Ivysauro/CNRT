@@ -1,12 +1,30 @@
 # 手机交通卡支持情况/ NFC Transit Card on mobile phone
 ❗ 由于消息来源复杂，本表有很多错漏，应以实际支持情况为准/ There may be many mistakes😑
 
- ✅：已上线（仅代表该品牌支持，不代表所有机型均支持）/ Support (Not all phones of one brand support NFC Transit Card)
- 
- 🕓：即将上线/ Coming soon
- 
- ❌：已下线/ Closed
+## 图例/ Legend
 
+| 商标/ Logo | 中文/ Chinese | 英文/ English |
+| :-: | :- | :- |
+| <img src="/images/Xiaomi.png" width="40" hegiht="40" alt="Xiaomi"/> | 小米 | Xiaomi |
+| <img src="/images/Huawei.png" width="40" hegiht="40" alt="Huawei"/> | 华为 | Huawei |
+| <img src="/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | 三星 | Samsung |
+| <img src="/images/Apple.png" width="40" hegiht="40" alt="Apple"/> | 苹果 | Apple |
+| <img src="/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | 魅族 | Meizu |
+| <img src="/images/OnePlus.png" width="40" hegiht="40" alt="OnePlus"/> | 一加 | OnePlus |
+| <img src="/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/> | 欧珀 | OPPO |
+| <img src="/images/vivo.png" width="40" hegiht="40" alt="vivo"/> | 维沃 | vivo |
+| <img src="/images/WeChat Pay.png" width="40" hegiht="40" alt="Tencent"/> | 腾讯 | Tencent |
+
+| 图标/ Icon | 中文/ Chinese | 英文/ English |
+| :-: | :- | :- |
+| ✅ | 已上线 | Support |
+| 🕓 | 即将上线 | Coming Soon |
+| ❌ | 已下线 | Closed
+
+**备注**：已上线仅代表该品牌支持，不代表所有机型均支持
+
+**Note**: Not all phones of one brand support NFC Transit Card
+ 
 ## 交通联合卡/ T-Union Cards
 | 卡名称/ Card Name | 地区/ Area | 小米/ Xiaomi | 华为/ Huawei | 三星/ Samsung | 苹果/ Apple | 魅族/ Meizu | 一加/ OnePlus | 欧珀/ OPPO | 维沃/ vivo | 腾讯HCE乘车卡/ WeChat HCE |
 | ---------------- | :------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
