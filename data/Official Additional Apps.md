@@ -3,12 +3,14 @@
 ❗ 由于消息来源复杂且无条件测试，本表有很多错漏，应以实际支持情况为准/ There may be many mistakes😑
 
 ## 主要功能/ General Functions
+
 **代扣方式中英文对照/ Chinese and English in Supported Payment Method：**
 
 支付宝/ Alipay、 微信(支付)/ WeChat Pay、银联(卡)/Unionpay Card 、云闪付/ Unionpay Wallet、京东(支付)/ JD Pay、翼支付/ Bestpay、苏宁(支付)/ Suning Pay
 
-| 城市/ City | 官方应用/ Official Apps | 扫码过闸/ QR Code for Passing Gates | 生物识别过闸/ Biometric Identification for Passing Gates | 支付方式/ Supported Payment Method | 可刷公交/ Bus Interchangeable | 其他指定应用/ Other Apps Available |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 城市/ City | 应用名/ App Name | 信息公告/ Notice | 扫码过闸/ QR Code for Passing Gates | 生物识别过闸/ Biometric Identification for Passing Gates | 支付方式/ Supported Payment Method | 可刷公交/ Bus Interchangeable | 其他指定应用/ Other Apps Available |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 北京/ Beijing | 北京地铁 | 
 | 北京/ Beijing | 亿通行 | ✓ | | 支付宝、微信、银联、京东 | ✓ | 北京一卡通、北京公交 |
 | 天津/ Tianjin | 天津地铁 | ✓ | | 支付宝、银联 |
 | 上海/ Shanghai | Metro大都会 | ✓ | | 支付宝、微信、银联、云闪付、京东 |
@@ -43,8 +45,6 @@
 | 温州/ Wenzhou | 温州轨道 | ✓ | | 支付宝、微信、银联 |
 | 济南/ Jinan | 济南地铁 | ✓ | ✓ | 支付宝、微信、银联 |
 | 兰州/ Lanzhou | 兰州轨道 | ✓ | | 银联 |
-
-## 其他功能/ Other Functions
 
 ## 二维码互通（需开通并绑定当地支持的支付方式）/ QR Code in One App (Need apply first and bind a supported payment method)
 - 上海（Metro大都会）：杭州、宁波、温州、合肥、南京、苏州、无锡、南昌、青岛、厦门（BRT）
