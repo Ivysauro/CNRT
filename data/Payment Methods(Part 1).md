@@ -2,16 +2,16 @@
 
 购票方式请参见[这里](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Payment%20Methods(Part%202).md)/ Payment Methods for Tickets is [HERE](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Payment%20Methods(Part%202).md)
 
-## 支付方式中英文对照/ Chinese and English in Payment Methods
+## 图例/ Legend
 
-| 中文/ Chinese | 英文/ English |
-| :- | :- |
-| 交通联合 | T-Union |
-| 银联云闪付 | Unionpay Quickpass |
-| 支付宝乘车码 | Alipay Transit QR Code |
-| 微信乘车码 | WeChat Pay Transit QR Code |
-| 银联乘车码 | Unionpay Transit QR Code |
-| 官方应用乘车码 | Transit QR Code of Official Apps |
+| 标识/ Logo | 中文/ Chinese | 英文/ English |
+| :-: | :- | :- |
+| <img src="/images/T-Union.png" width="50" hegiht="50" alt="T-Union"/> | 交通联合 | T-Union |
+| <img src="/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | 银联云闪付 | Unionpay Quickpass |
+|  | 支付宝乘车码 | Alipay Transit QR Code |
+|  | 微信乘车码 | WeChat Pay Transit QR Code |
+| <img src="/images/Unionpay.png" width="30" hegiht="30" alt="Unionpay Transit QR Code"/> | 银联乘车码 | Unionpay Transit QR Code |
+|  | 官方应用乘车码 | Transit QR Code of Official Apps |
 
 ## 主表/ Content
 ✅：完全支持/ Full Supprot
