@@ -13,7 +13,7 @@
 | <img src="/images/OnePlus.png" width="40" hegiht="40" alt="OnePlus"/> | 一加 | OnePlus |
 | <img src="/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/> | 欧珀 | OPPO |
 | <img src="/images/vivo.png" width="40" hegiht="40" alt="vivo"/> | 维沃 | vivo |
-| <img src="/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay"/> | 微信支付 | WeChat Pay |
+| <img src="/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay"/> | 微信乘车卡(HCE) | WeChat Transit Card(HCE) |
 
 | 图标/ Icon | 中文/ Chinese | 英文/ English |
 | :-: | :- | :- |
