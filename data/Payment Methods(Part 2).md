@@ -55,7 +55,7 @@
 | 济南/ Jinan | ✅ | ✅ |
 | 兰州/ Lanzhou | ✅ | ✅ | ✅ |
 | 香港/ Hong Kong | ⭕ | ⭕ |
-| 台北&桃园/ Taipei & Taoyuan |
+| 台北/ Taipei |
 | 高雄/ Kaohsiung |
 
 **备注**：上海、长沙包括磁悬浮，广州包括APM和广佛线，台北包括桃园机场捷运
