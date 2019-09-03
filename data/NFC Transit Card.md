@@ -5,15 +5,15 @@
 
 | 商标/ Logo | 中文/ Chinese | 英文/ English |
 | :-: | :- | :- |
-| <img src="/images/Xiaomi.png" width="40" hegiht="40" alt="Xiaomi"/> | 小米 | Xiaomi |
-| <img src="/images/Huawei.png" width="40" hegiht="40" alt="Huawei"/> | 华为 | Huawei |
+| <img src="/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | 小米 | Xiaomi |
+| <img src="/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | 华为 | Huawei |
 | <img src="/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | 三星 | Samsung |
-| <img src="/images/Apple.png" width="40" hegiht="40" alt="Apple"/> | 苹果 | Apple |
+| <img src="/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | 苹果 | Apple |
 | <img src="/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | 魅族 | Meizu |
 | <img src="/images/OnePlus.png" width="40" hegiht="40" alt="OnePlus"/> | 一加 | OnePlus |
 | <img src="/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/> | 欧珀 | OPPO |
 | <img src="/images/vivo.png" width="40" hegiht="40" alt="vivo"/> | 维沃 | vivo |
-| <img src="/images/WeChat Pay.png" width="40" hegiht="40" alt="Tencent"/> | 腾讯 | Tencent |
+| <img src="/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay"/> | 微信支付 | WeChat Pay |
 
 | 图标/ Icon | 中文/ Chinese | 英文/ English |
 | :-: | :- | :- |
@@ -26,7 +26,7 @@
 **Note**: Not all phones of one brand support NFC Transit Card
  
 ## 交通联合卡/ T-Union Cards
-| 卡名称/ Card Name | 地区/ Area | 小米/ Xiaomi | 华为/ Huawei | 三星/ Samsung | 苹果/ Apple | 魅族/ Meizu | 一加/ OnePlus | 欧珀/ OPPO | 维沃/ vivo | 腾讯HCE乘车卡/ WeChat HCE |
+| 卡名称/ Card Name | 地区/ Area | <img src="/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | <img src="/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | <img src="/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | <img src="/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | <img src="/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | <img src="/images/OnePlus.png" width="40" hegiht="40" alt="OnePlus"/> | <img src="/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/>  | <img src="/images/vivo.png" width="40" hegiht="40" alt="vivo"/> | <img src="/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay"/> |
 | ---------------- | :------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 绿城通（轩辕通） | 郑州/ Zhengzhou | | ✅ |
 | 岭南通	| 广东/ Guangdong | ✅ | 🕓 | | | ✅ | ✅ | ✅ | ✅ |
@@ -57,18 +57,18 @@
 
 
 ## 城市一卡通卡/ City Union Cards
-| 卡名称/ Card Name | 地区/ Area | 小米/ Xiaomi | 华为/ Huawei | 三星/ Samsung | 苹果/ Apple | 魅族/ Meizu | 一加/ OnePlus | 欧珀/ OPPO | 维沃/ vivo | 腾讯HCE乘车卡/ WeChat HCE |
+| 卡名称/ Card Name | 地区/ Area | <img src="/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | <img src="/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | <img src="/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | <img src="/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | <img src="/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | <img src="/images/OnePlus.png" width="40" hegiht="40" alt="OnePlus"/> | <img src="/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/>  | <img src="/images/vivo.png" width="40" hegiht="40" alt="vivo"/> | <img src="/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay"/> |
 | ---------------- | :------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 上海公共交通卡 | 上海/ Shanghai | ✅ | ✅ | ✅ | ✅ | | | ✅ | ✅ |
 | 绿城通 | 郑州/ Zhengzhou | ✅ | | | | ✅ | | ✅ | ✅ |
 
 ## 双标卡/ TU&CU Cards
-| 卡名称/ Card Name | 地区/ Area | 小米/ Xiaomi | 华为/ Huawei | 三星/ Samsung | 苹果/ Apple | 魅族/ Meizu | 一加/ OnePlus | 欧珀/ OPPO | 维沃/ vivo | 腾讯HCE乘车卡/ WeChat HCE |
+| 卡名称/ Card Name | 地区/ Area | <img src="/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | <img src="/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | <img src="/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | <img src="/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | <img src="/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | <img src="/images/OnePlus.png" width="40" hegiht="40" alt="OnePlus"/> | <img src="/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/>  | <img src="/images/vivo.png" width="40" hegiht="40" alt="vivo"/> | <img src="/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay"/> |
 | ---------------- | :------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 台州公共交通卡 | 台州/ Taizhou, Zhejiang | ✅ | | | | | | ✅ | ✅ |
 
 ## 市民卡/ Local Transit Cards
-| 卡名称/ Card Name | 地区/ Area | 小米/ Xiaomi | 华为/ Huawei | 三星/ Samsung | 苹果/ Apple | 魅族/ Meizu | 一加/ OnePlus | 欧珀/ OPPO | 维沃/ vivo | 腾讯HCE乘车卡/ WeChat HCE |
+| 卡名称/ Card Name | 地区/ Area | <img src="/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | <img src="/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | <img src="/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | <img src="/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | <img src="/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | <img src="/images/OnePlus.png" width="40" hegiht="40" alt="OnePlus"/> | <img src="/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/>  | <img src="/images/vivo.png" width="40" hegiht="40" alt="vivo"/> | <img src="/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay"/> |
 | ---------------- | :------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 北京市政交通一卡通 | 北京/ Beijing | ❌ | ✅ | ✅ | ✅ | | | | ✅ |
 | 深圳通	| 深圳/ Shenzhen | ✅ | ✅ | ✅ | | ✅ | | ✅ | ✅ |
