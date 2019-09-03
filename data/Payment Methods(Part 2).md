@@ -2,17 +2,28 @@
 
 过闸方式请参见[这里](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Payment%20Methods(Part%201).md)/ Payment Methods for Passing Gate is [HERE](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Payment%20Methods(Part%201).md)
 
+## 图例/ Legend
+
+| 标识/ Logo | 中文/ Chinese | 英文/ English |
+| :-: | :- | :- |
+| <img src="/images/Alipay.png" width="30" hegiht="30" alt="Alipay"/> | 支付宝 | Alipay |
+| <img src="/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay"/> | 微信支付 | WeChat Pay |
+| <img src="/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay QR Code"/> | 银联二维码 | Unionpay QR Code |
+| <img src="/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | 银联云闪付 | Unionpay Quickpass |
+
+| 图标/ Icon | 中文/ Chinese | 英文/ English |
+| :-: | :- | :- |
+| ✅ | 完全支持 | Full Supprot |
+| ⭕ | 仅限部分车站 | Only in some stations |
+
 ## 线下购票/ Buying Tickets on machines 
-✅：完全支持/ Full Supprot
 
-⭕：仅限部分车站/ Only in some stations
-
-| 城市/ City | 支付宝/ Alipay | 微信/ WeChat Pay | 银联二维码/ Unionpay | 银联云闪付/ Quickpass |
+| 城市/ City | <img src="/images/Alipay.png" width="30" hegiht="30" alt="Alipay"/> | <img src="/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay"/> | <img src="/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay QR Code"/> | <img src="/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> |
 | --------- | :----------: | :-------------: | :----------------: | :-----------------: |
 | 北京/ Beijing | ✅ | ✅ |
 | 天津/ Tianjin | ⭕ | ⭕ |
-| 上海（含磁浮）/ Shanghai (Maglev included) | ⭕ | ⭕ | ⭕ |
-| 广州&佛山（含APM）/ Guangzhou & Foshan (APM included) | ✅ | ✅ |
+| 上海/ Shanghai | ⭕ | ⭕ | ⭕ |
+| 广州/ Guangzhou | ✅ | ✅ |
 | 长春/ Changchun | | | ✅ |
 | 大连/ Dalian |
 | 武汉/ Wuhan | ✅ | ✅ | ✅ |
@@ -27,7 +38,7 @@
 | 杭州/ Hangzhou | | | | ✅ |
 | 哈尔滨/ Harbin | ✅ | ✅ |
 | 郑州/ Zhengzhou | ⭕ | ⭕ |
-| 长沙（含磁浮）/ Changsha (Maglev included) | ✅ | ✅ | ✅ |
+| 长沙/ Changsha | ✅ | ✅ | ✅ |
 | 宁波/ Ningbo | | | ✅ | ✅ |
 | 无锡/ Wuxi |
 | 青岛/ Qingdao | ✅ | ✅ |
@@ -47,9 +58,13 @@
 | 台北&桃园/ Taipei & Taoyuan |
 | 高雄/ Kaohsiung |
 
+**备注**：上海、长沙包括磁悬浮，广州包括APM和广佛线，台北包括桃园机场捷运
+
+**Note**: Maglev is included in Shanghai and Changsha; APM Line and Guang-Fo Metro are included in Guangzhou; Taoyuan Metro is included in Taipei.
+
 ## 网上购票（线下取票）/ Buying Tickets Online
 
-请参见各地轨道交通官方应用/ Please see local officials apps.
+请参见[各地轨道交通官方应用](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Official%20Additional%20Apps.md)/ Please see [local officials apps](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Official%20Additional%20Apps.md)
 
 ## 感谢/ Thanks
 
