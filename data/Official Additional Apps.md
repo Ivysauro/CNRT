@@ -4,12 +4,12 @@
 
 ## 主要功能/ General Functions
 
-**支付方式中英文对照/ Chinese and English in Supported Payment Method：**
+**支付方式中英文对照/ Chinese and English in Payment Method：**
 
 支付宝/ Alipay、 微信(支付)/ WeChat Pay、银联(卡)/Unionpay Card 、云闪付/ Unionpay Wallet、京东(支付)/ JD Pay、翼支付/ Bestpay、苏宁(支付)/ Suning Pay
 
-| 城市/ City | 应用名/ App Name | 归属/ Ownership | 信息公告/ Notice | 购票/ Buying Tickets | 扫码过闸/ QR Code for Passing Gates | 支付方式/ Supported Payment Method | 其他功能/ Other Functions |
-| :-: | :-: | :-: | :-: | :-: | :-: | :- | :- | 
+| 城市/ City | 应用名/ App Name | 归属/ Ownership | 信息公告/ Notice | 购票/ Buying Tickets | 扫码过闸/ Passing QR Code | 支付方式/ Payment Method | 其他功能/ Other Functions |
+| :- | :- | :- | :-: | :-: | :-: | :- | :- | 
 | 北京/ Beijing | 北京地铁 | 地铁 | ✅ |
 | 北京/ Beijing | 亿通行 | 合资 | ✅ | ✅ | ✅ | 支付宝、微信、银联、京东 |
 | 北京/ Beijing | 北京公交 | 公交 | | | ✅ | 支付宝 |
