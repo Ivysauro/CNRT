@@ -54,6 +54,7 @@
 | 洪城通 | 南昌/ Nanchang | | 🕓 |
 | 长安通 | 西安/ Xi'an | | | | | | | | | ✅ |
 | 厦门e通卡 | 厦门/ Xiamen | ✅ |
+| 深圳通 | 深圳/ Shenzhen | | 🕓 |
 
 
 ## 城市一卡通卡/ City Union Cards
