@@ -1,9 +1,5 @@
 # ChinaRailTransit
 
-全国轨道交通数据库（非技术类）/ Data base of China Rail Transit (Non-tech)
-
----
-
 ## 已完工的/ Completed🏘
 - [过闸方式/ Payment Methods for Passing Gate](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Payment%20Methods(Part%201).md)
 - [购票方式/ Payment Methods for Tickets](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Payment%20Methods(Part%202).md)
@@ -30,8 +26,8 @@
 - 标识色/ Line Color
 
 ## 不务正业的/ Files of Other Related Topic🧷
-- [中国主要城市名称资料/ Something about Name of Big Cities in China](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Name%20data%20of%20Big%20Cities%20in%20China.md)
-- [全国主要城市公交支付方式/ Payment Methods for Bus in Main Cities](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Payment%20Methods%20for%20Bus%20in%20Main%20Cities.md)
+- [主要城市名称资料/ Something about Name of Big Cities](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Name%20data%20of%20Big%20Cities.md)
+- [主要城市公交支付方式/ Payment Methods for Bus in Main Cities](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Payment%20Methods%20for%20Bus%20in%20Main%20Cities.md)
 - [铁路局名称资料（中文）/ Name data of FRA (In Chinese)](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Name%20data%20of%20FRA.md)
 
 ---
