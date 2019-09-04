@@ -4,7 +4,7 @@
 
 ---
 
-## 已完工的(或基本完工的)/ Completed or Almost Completed🏘
+## 已完工的/ Completed🏘
 - [过闸方式/ Payment Methods for Passing Gate](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Payment%20Methods(Part%201).md)
 - [购票方式/ Payment Methods for Tickets](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Payment%20Methods(Part%202).md)
 - [手机交通卡支持情况/ NFC Transit Card on mobile phone](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/NFC%20Transit%20Card.md)
@@ -15,19 +15,19 @@
 - [安检互认/ Security Check Mutual Recognition](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Security%20Check%20Mutual%20Recognition.md)
 - [住建部互联互通说明（中文）/ Notes of City Union (In Chinese)](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/City%20Union.md)
 - [特殊运营方式（中文）/ Special Operations (In Chinese)](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Special%20Operations.md)
-- [特殊站（中文）/ Special Station (In Chinese)](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Special%20Station.md)
 - [同名站（中文）/ Stations of Same Name (In Chinese)](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Stations%20of%20Same%20Name.md)
 - [优惠政策（中文）/ Discount Policies (In Chinese)](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Discount%20Policies.md)
 
 ## 施工中的/ In Construction🏗
+- [特殊站（中文）/ Special Station (In Chinese)](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Special%20Station.md)
 - [之最/ No.1](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/zui.md)
 - [计时卡/ Timing Card](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Timing%20Card.md) 
+- [单程票种类/ Type of One-way Ticket](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Type%20of%20One-way%20Ticket.md)
 
 ## 计划中的/ On Plan📝
 - 充值方式/ Payment Methods for Charging Transit Card
 - 票价/ Prices
 - 标识色/ Line Color
-- 单程票种类/ Type of One-way Ticket
 
 ## 不务正业的/ Files of Other Related Topic🧷
 - [中国主要城市名称资料/ Something about Name of Big Cities in China](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Name%20data%20of%20Big%20Cities%20in%20China.md)
