@@ -1,13 +1,29 @@
 # 各地轨道交通开放性评分/ Open Score of China Rail Transit
 
-✅：支持/ Support
+## 图例/ Legend
 
-⭕：部分支持/ Partly Support
+| 标识/ Logo | 中文/ Chinese | 英文/ English |
+| :-: | :- | :- |
+| <img src="/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | 交通联合 | T-Union |
+| <img src="/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay"/> | 银联 | Unionpay |
+| <img src="/images/Alipay.png" width="30" hegiht="30" alt="Alipay"/> | 支付宝 | Alipay |
+| <img src="/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay"/> | 微信支付 | WeChat Pay |
+| <img src="/images/NFC.png" width="25" hegiht="25" alt="NFC Local Card"/> | 手机本地交通卡 | NFC Local Card |
 
-❌：不支持/ Not Support
+| 图标/ Icon | 中文/ Chinese | 英文/ English |
+| :-: | :- | :- |
+| ✅ | 支持 | Support |
+| ⭕ | 部分支持 | Partly Support |
+| ❌ | 不支持 | Not Support |
 
-| 城市/ City | 支付宝/ Alipay | 微信/ WeChat Pay | 银联/ Unionpay | 交通联合/ T-Union | 手机本地交通卡/ NFC Local Card| 得分/ Score |
-| --------- | :------------: | :--------------: | :-----------: | :---------------: | :--------------------------: | :--------: |
+## 主表/ Content
+
+每项20分，部分支持计10分
+
+20 points for each item, 10 points for partly support
+
+| 城市/ City | <img src="/images/Alipay.png" width="30" hegiht="30" alt="Alipay"/> | <img src="/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay"/> | <img src="/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay"/> | <img src="/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="/images/NFC.png" width="25" hegiht="25" alt="NFC Local Card"/> | 得分/ Score |
+| --------- | :------------: | :--------------: | :-----------: | :------------: | :-----------: | :--------: |
 | 北京/ Beijing | ⭕ | ⭕ | ❌ | ⭕ | ✅ | 50 |
 | 天津/ Tianjin | ⭕ | ⭕ | ✅ | ✅ | ✅ | 80 |
 | 上海/ Shanghai | ⭕ | ⭕ | ⭕ | ❌ | ✅ | 50 |
