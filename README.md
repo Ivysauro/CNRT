@@ -1,5 +1,9 @@
 # ChinaRailTransit
 
+**中国轨道交通数据库（非技术类） - 用不同的角度看地铁**
+
+**Data base of China Rail Transit (Non-tech) - Another view of China Rail Transit**
+
 ## 已完工的/ Completed🏘
 - [过闸方式/ Payment Methods for Passing Gate](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Payment%20Methods(Part%201).md)
 - [购票方式/ Payment Methods for Tickets](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Payment%20Methods(Part%202).md)
