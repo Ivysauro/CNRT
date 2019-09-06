@@ -1,5 +1,9 @@
 # Rail Transit Station Name of Airports and Railway Stations
 
+[Here](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Rail%20Transit%20Station%20Name%20of%20Airports%20and%20Railway%20Stations.md) For Chinese Version
+
+中文版点[这里](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Rail%20Transit%20Station%20Name%20of%20Airports%20and%20Railway%20Stations.md)跳转
+
 ## Content
 In front of “/” is Rail Transit Station name, and after it is China Railway Station name or Airport name
 
@@ -22,7 +26,7 @@ RS is short for "Railway Station"
 | Wuhan & Ezhou | Wuchang RS/ Wuchang, Wuhan RS/ Wuhan | Hankou RS/ Hankou, Hanyang RS/ ~~Hanyang~~, *New Hanyang RS/ Hanyang* | Tianhe International Airport/ Wuhan Tianhe | Tianhe International Airport/ Tianhe-Jichang, Optics Valley RS/ *Guanggu*, *Gedian South RS*/ Gediannan, Weilai 3rd Road/ Zuoling |
 | Chongqing | **Lianglukou**/ Chongqing | Chongqing North Station North Square/ Chongqingbei, Chongqing North Station South Square/ Chongqingbei, *Chongqingxi RS*/ Chongqingxi | Terminal 2 of Jiangbei Airport/ Chongqing Jiangbei, Terminal 3 of Jiangbei Airport/ Chongqing Jiangbei | Shapingba/ Shapingba, Terminal 2 of Jiangbei Airport/ Jiangbei-Jichang, Terminal 3 of Jiangbei Airport/ Jiangbei-Jichang, *Fusheng*/ Fusheng, *Jiangjin Station/ Jiangjinbei* |
 | Shenzhen | **Luohu**/ Shenzhen | Shenzhen North Station/ Shenzhenbei | Airport/ Shenzhen Bao'an, Airport East/ ~~Shenzhen Bao'an~~ | Futian/ Futian, Buji/ Shenzhendong, Airport / *Bao'an Jichang*, Airport North/ *Bao'an Jichangbei*, *Xili RS*/ Xili, *Pinghu*/ Pinghu, *Heping/ Heping, Shanghai Tianyuan/ Haishang-Tianyuan*, *Pingshan*/ Shenzhen-Pingshan |
-| Nanjing | NANJING RAILWAY STATION/ Nanjing | NANJING SOUTH RAILWAY STATION/ Nanjingnan, *NANJING WEST RAILWAY STATION*/ ~~Nanjingxi~~, *NANJING NORTH RAILWAY STATION/ Nanjingbei* | LUKOU INTERNATIONAL AIRPORT/ Nanjing Lukou | ZHONGHUAMEN/ ~~Zhonghuamen~~ |
+| Nanjing | NANJING RAILWAY STATION/ Nanjing | NANJING SOUTH RAILWAY STATION/ Nanjingnan, *NANJING WEST RAILWAY STATION*/ ~~Nanjingxi~~, *NANJING NORTH RAILWAY STATION/ Nanjingbei* | LUKOU INTERNATIONAL AIRPORT/ Nanjing Lukou | ZHONGHUAMEN/ ~~Zhonghuamen~~, JINMALU/ *Zijinshandong* |
 | Kaohsiung | Kaohsiung Main Station/ Kaohsiung | | Kaohsiung International Airport/ Kaohsiung | Ciaotou Station/ Ciaotou, Zuoying/ New Zuoying, Fongshan/ Fongshan |
 | Shenyang | SHENYANGZHAN/ Shenyang | SHENYANGBEIZHAN/ Shenyangbei, *SHENYANGNANZHAN*/ Shenyangnan | *HANGZHANLOU/ Shengyang Taoxian, TAOXIANJICHANG/ Shenyang Taoxian*  | |
 | Chengdu | **North RS**/ Chengdu | South RS/ Chengdunan, Chengdu West RS/ Chengduxi, East Chengdu RS/ Chengdudong | Terminal 1 of Shuangliu International Airport/ Chengdu Shuangliu, Terminal 2 of Shuangliu International Airport/ Chengdu Shuangliu, *Terminal 1 & 2 of Tianfu International Airport/ Chengdu Tianfu, Terminal 3 & 4 of Tianfu International Airport/ Chengdu Tianfu* | Xipu/ Xipu, Shuangliu West Station/ Shuangliuxi, Terminal 2 of Shuangliu International Airport/ Shuangliu-Jichang, *Xinjin Station*/ Xinjin, *Tianfu RS/ Tianfu* |
