@@ -1,5 +1,9 @@
 # 各地轨道交通航空铁路枢纽的地铁站名
 
+英文版点[这里](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Rail%20Transit%20Station%20Name%20of%20Airports%20and%20Railway%20Stations%2002.md)跳转
+
+[HERE](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Rail%20Transit%20Station%20Name%20of%20Airports%20and%20Railway%20Stations%2002.md) for English version
+
 ## 主表
 “/”前是地铁站名，后是国铁站名或机场名
 
