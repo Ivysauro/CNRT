@@ -1,8 +1,6 @@
-# Rail Transit Station Name of Airports and Railway Stations
+# Rail Transit Station Name of Airports and Railway Stations/ 各地轨道交通航空铁路枢纽的地铁站名
 
-[HERE](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Rail%20Transit%20Station%20Name%20of%20Airports%20and%20Railway%20Stations.md) for Chinese version
-
-中文版点[这里](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Rail%20Transit%20Station%20Name%20of%20Airports%20and%20Railway%20Stations.md)跳转
+[HERE](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Rail%20Transit%20Station%20Name%20of%20Airports%20and%20Railway%20Stations.md) for Chinese version/ 中文版点[这里](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Rail%20Transit%20Station%20Name%20of%20Airports%20and%20Railway%20Stations.md)跳转
 
 ## Content
 In front of “/” is Rail Transit Station name, and after it is China Railway Station name or Airport name
