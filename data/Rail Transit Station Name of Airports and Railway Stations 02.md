@@ -1,6 +1,6 @@
 # Rail Transit Station Name of Airports and Railway Stations
 
-[Here](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Rail%20Transit%20Station%20Name%20of%20Airports%20and%20Railway%20Stations.md) For Chinese Version
+[HERE](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Rail%20Transit%20Station%20Name%20of%20Airports%20and%20Railway%20Stations.md) for Chinese version
 
 中文版点[这里](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Rail%20Transit%20Station%20Name%20of%20Airports%20and%20Railway%20Stations.md)跳转
 
