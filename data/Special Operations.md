@@ -13,7 +13,7 @@
 
 ## 贯通
 ### 跨城贯通
-- <img src="/images/city/hz.gif" width="20" hegiht="20"/><img src="/images/city/sx.gif" width="20" hegiht="20"/>*杭州地铁柯桥线/绍兴地铁1号线*
+- <img src="/images/city/hz.gif" width="20" hegiht="20"/>*杭州地铁柯桥线/<img src="/images/city/sx.gif" width="20" hegiht="20"/>绍兴地铁1号线*
 
 ### 同城贯通
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁4号线/大兴线
