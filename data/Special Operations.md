@@ -35,8 +35,8 @@
 - <img src="/images/city/cs.gif" width="20" hegiht="20"/>*长沙地铁3号线*
 
 ## 跨城连通
-- <img src="/images/city/nj.gif" width="20" hegiht="20"/>*南京地铁3号线/南京地铁S4线(滁州地铁1号线)*
-- <img src="/images/city/suz.gif" width="20" hegiht="20"/>*苏州地铁S1线/上海地铁11号线(昆山地铁S1线)*
+- <img src="/images/city/nj.gif" width="20" hegiht="20"/>*南京地铁3号线/<img src="/images/city/nj.gif" width="20" hegiht="20"/>南京地铁S4线(滁州地铁1号线)*
+- <img src="/images/city/suz.gif" width="20" hegiht="20"/>*苏州地铁S1线/<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海地铁11号线(昆山地铁S1线)*
 
 ## 拆分
 - <img src="/images/city/nj.gif" width="20" hegiht="20"/>南京地铁1号线/10号线
