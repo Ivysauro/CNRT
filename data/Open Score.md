@@ -11,7 +11,7 @@
 | <img src="/images/NFC.png" width="25" hegiht="25" alt="NFC Local Card"/> | 手机本地交通卡 | NFC Local Card |
 
 | 图标/ Icon | 中文/ Chinese | 英文/ English | 计分/ Mark |
-| :-: | :- | :- |
+| :-: | :- | :- | :-: |
 | ✅ | 支持 | Support | 20 |
 | ⭕ | 部分支持 | Partly Support | 10 |
 | ❌ | 不支持 | Not Support | 0 |
