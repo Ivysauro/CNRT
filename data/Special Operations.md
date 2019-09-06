@@ -1,7 +1,5 @@
 # 特殊运营方式（中文）/ Special Operations (In Chinese)
 
-***斜粗体***为未来状态，~~~删除线~~~为过去状态，
-
 ## 环行（成环时间）
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁2号线（1987.12）
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁10号线（2013.5）
