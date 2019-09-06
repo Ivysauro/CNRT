@@ -10,17 +10,13 @@
 | <img src="/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay"/> | 微信支付 | WeChat Pay |
 | <img src="/images/NFC.png" width="25" hegiht="25" alt="NFC Local Card"/> | 手机本地交通卡 | NFC Local Card |
 
-| 图标/ Icon | 中文/ Chinese | 英文/ English |
+| 图标/ Icon | 中文/ Chinese | 英文/ English | 计分/ Mark |
 | :-: | :- | :- |
-| ✅ | 支持 | Support |
-| ⭕ | 部分支持 | Partly Support |
-| ❌ | 不支持 | Not Support |
+| ✅ | 支持 | Support | 20 |
+| ⭕ | 部分支持 | Partly Support | 10 |
+| ❌ | 不支持 | Not Support | 0 |
 
 ## 主表/ Content
-
-每项20分，部分支持计10分
-
-20 points for each item, 10 points for partly support
 
 | 城市/ City | <img src="/images/Alipay.png" width="30" hegiht="30" alt="Alipay"/> | <img src="/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay"/> | <img src="/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay"/> | <img src="/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="/images/NFC.png" width="25" hegiht="25" alt="NFC Local Card"/> | 得分/ Score |
 | --------- | :------------: | :--------------: | :-----------: | :------------: | :-----------: | :--------: |
