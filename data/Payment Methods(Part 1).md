@@ -23,43 +23,43 @@
 
 | 城市/ City | <img src="/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Official Apps"/> |
 | ---------  | :-----: | :------:  | :---------: | :-------: | :-------: | :-----------: |
-| 北京/ Beijing | ⭕ | | | | | ✅ | 
-| 天津/ Tianjin | ✅ | ✅ | | | | ✅ | |
-| 上海/ Shanghai | | ⭕ | | | | ✅ | |
-| 广州/ Guangzhou | ✅ | ⭕ | ✅ | ✅ | | ✅ | |
-| 长春/ Changchun | ✅ | ✅ | | | | | |
-| 大连/ Dalian | ✅ | ✅ | | | | ✅ | |
-| 武汉/ Wuhan | 🕓 | | | | | ✅ | |
-| 重庆/ Chongqing | 🕓 | 🕓 | | | 🕓 | |
-| 深圳/ Shenzhen | ✅ | ✅ | | ✅ | | ✅ | |
-| 南京/ Nanjing | ✅ | ✅ | ✅ | | | ✅ | |
-| 沈阳/ Shenyang | ✅ | | | | | ✅ | |
-| 成都/ Chengdu | | | | | ✅ | ✅ | |
-| 西安/ Xi'an | ✅ | | ✅ | ✅ | 🕓 | ✅ | |
-| 苏州/ Suzhou | ✅ | | | | | ✅ | |
-| 昆明/ Kunming | ✅ | ✅ | | ✅ | | ✅ | |
-| 杭州/ Hangzhou | | ✅ | ✅ | | | ✅ | |
-| 哈尔滨/ Harbin | ⭕ | ⭕ | | | | ✅ | |
-| 郑州/ Zhengzhou | ✅ | | ✅ | ✅ | | ✅ | |
-| 长沙/ Changsha | ✅ | | | | | ✅ | |
-| 宁波/ Ningbo | ✅ | ✅ | ✅ | ✅ | | ✅ | |
-| 无锡/ Wuxi | ✅ | | | | | ✅ | |
-| 青岛/ Qingdao | ✅ | | ✅ | | | ✅ | |
-| 南昌/ Nanchang | ✅ | ✅ | | | | ✅ | |
-| 福州/ Fuzhou | ✅ | | | | | ✅ | |
-| 东莞/ Dongguan | | ⭕ | | | | ✅ | |
-| 南宁/ Nanning | ✅ | ⭕ | | | | ✅ | |
-| 合肥/ Hefei | ✅ | ✅ | | | | ✅ | |
-| 石家庄/ Shijiazhuang | ✅ | | | | | ✅ | |
-| 贵阳/ Guiyang | ✅ | | | | | ✅ | |
-| 厦门/ Xiamen | ✅ | | ✅ | | | ✅ | |
-| 乌鲁木齐/ Urumqi | | | | | | ✅ | |
-| 温州/ Wenzhou | | ✅ | | | | ✅ | |
-| 济南/ Jinan | ✅ | | | | | ✅ | |
-| 兰州/ Lanzhou | ✅ | ⭕ | | | | ✅ | |
-| 香港/ Hong Kong | | | | | | | |
-| 台北/ Taipei | | | | | | ⭕ | |
-| 高雄/ Kaohsiung | | ⭕ | | | | | ✅ |
+| <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京/ Beijing | ⭕ | | | | | ✅ | 
+| <img src="/images/city/tj.gif" width="20" hegiht="20"/>天津/ Tianjin | ✅ | ✅ | | | | ✅ | |
+| <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海/ Shanghai | | ⭕ | | | | ✅ | |
+| <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州/ Guangzhou | ✅ | ⭕ | ✅ | ✅ | | ✅ | |
+| <img src="/images/city/cc.gif" width="20" hegiht="20"/>长春/ Changchun | ✅ | ✅ | | | | | |
+| <img src="/images/city/dl.gif" width="20" hegiht="20"/>大连/ Dalian | ✅ | ✅ | | | | ✅ | |
+| <img src="/images/city/wh.gif" width="20" hegiht="20"/>武汉/ Wuhan | 🕓 | | | | | ✅ | |
+| <img src="/images/city/cq.gif" width="20" hegiht="20"/>重庆/ Chongqing | 🕓 | 🕓 | | | 🕓 | |
+| <img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳/ Shenzhen | ✅ | ✅ | | ✅ | | ✅ | |
+| <img src="/images/city/nj.gif" width="20" hegiht="20"/>南京/ Nanjing | ✅ | ✅ | ✅ | | | ✅ | |
+| <img src="/images/city/sy.gif" width="20" hegiht="20"/>沈阳/ Shenyang | ✅ | | | | | ✅ | |
+| <img src="/images/city/cd.gif" width="20" hegiht="20"/>成都/ Chengdu | | | | | ✅ | ✅ | |
+| <img src="/images/city/xa.gif" width="20" hegiht="20"/>西安/ Xi'an | ✅ | | ✅ | ✅ | 🕓 | ✅ | |
+| <img src="/images/city/suz.gif" width="20" hegiht="20"/>苏州/ Suzhou | ✅ | | | | | ✅ | |
+| <img src="/images/city/km.gif" width="20" hegiht="20"/>昆明/ Kunming | ✅ | ✅ | | ✅ | | ✅ | |
+| <img src="/images/city/hz.gif" width="20" hegiht="20"/>杭州/ Hangzhou | | ✅ | ✅ | | | ✅ | |
+| <img src="/images/city/hrb.gif" width="20" hegiht="20"/>哈尔滨/ Harbin | ⭕ | ⭕ | | | | ✅ | |
+| <img src="/images/city/zz.gif" width="20" hegiht="20"/>郑州/ Zhengzhou | ✅ | | ✅ | ✅ | | ✅ | |
+| <img src="/images/city/cs.gif" width="20" hegiht="20"/>长沙/ Changsha | ✅ | | | | | ✅ | |
+| <img src="/images/city/nb.gif" width="20" hegiht="20"/>宁波/ Ningbo | ✅ | ✅ | ✅ | ✅ | | ✅ | |
+| <img src="/images/city/wx.gif" width="20" hegiht="20"/>无锡/ Wuxi | ✅ | | | | | ✅ | |
+| <img src="/images/city/qd.gif" width="20" hegiht="20"/>青岛/ Qingdao | ✅ | | ✅ | | | ✅ | |
+| <img src="/images/city/nc.gif" width="20" hegiht="20"/>南昌/ Nanchang | ✅ | ✅ | | | | ✅ | |
+| <img src="/images/city/fz.gif" width="20" hegiht="20"/>福州/ Fuzhou | ✅ | | | | | ✅ | |
+| <img src="/images/city/dg.gif" width="20" hegiht="20"/>东莞/ Dongguan | | ⭕ | | | | ✅ | |
+| <img src="/images/city/nn.gif" width="20" hegiht="20"/>南宁/ Nanning | ✅ | ⭕ | | | | ✅ | |
+| <img src="/images/city/hf.gif" width="20" hegiht="20"/>合肥/ Hefei | ✅ | ✅ | | | | ✅ | |
+| <img src="/images/city/sjz.gif" width="20" hegiht="20"/>石家庄/ Shijiazhuang | ✅ | | | | | ✅ | |
+| <img src="/images/city/gy.gif" width="20" hegiht="20"/>贵阳/ Guiyang | ✅ | | | | | ✅ | |
+| <img src="/images/city/xm.gif" width="20" hegiht="20"/>厦门/ Xiamen | ✅ | | ✅ | | | ✅ | |
+| <img src="/images/city/wlmq.gif" width="20" hegiht="20"/>乌鲁木齐/ Urumqi | | | | | | ✅ | |
+| <img src="/images/city/wz.gif" width="20" hegiht="20"/>温州/ Wenzhou | | ✅ | | | | ✅ | |
+| <img src="/images/city/jn.gif" width="20" hegiht="20"/>济南/ Jinan | ✅ | | | | | ✅ | |
+| <img src="/images/city/lz.gif" width="20" hegiht="20"/>兰州/ Lanzhou | ✅ | ⭕ | | | | ✅ | |
+| <img src="/images/city/hk.gif" width="20" hegiht="20"/>香港/ Hong Kong | | | | | | | |
+| <img src="/images/city/tp.gif" width="20" hegiht="20"/>台北/ Taipei | | | | | | ⭕ | |
+| <img src="/images/city/kh.gif" width="20" hegiht="20"/>高雄/ Kaohsiung | | ⭕ | | | | | ✅ |
 
 ## 备注/ Notes
 
@@ -69,12 +69,12 @@ Maglev is included in Shanghai and Changsha; APM Line and Guang-Fo Metro are inc
 
 | 城市/ City | 备注 | Notes |
 | --------- | --- | ----- |
-| 北京/ Beijing | 交通联合采用[专版白名单](https://mp.weixin.qq.com/s/JF4pULn90EA7S5lUWaxNyw) | [Special whitelist](https://mp.weixin.qq.com/s/JF4pULn90EA7S5lUWaxNyw) in T-Union |
-| 上海/ Shanghai | 仅磁悬浮支持银联信用卡闪付 | Only Shanghai Maglev accept credit card Quickpass|
-| 广州/ Guangzhou | 银联云闪付仅支持[信用卡](http://cs.gzmtr.com/ckfw/pwzy/201811/t20181106_60161.htm)和招行借记卡（APM无此限制） | Only [credit card](http://cs.gzmtr.com/ckfw/pwzy/201811/t20181106_60161.htm) and CMB debit card accepted in Quickpass (APM accept all cards) |
-| 哈尔滨/ Harbin | 交通联合采用[专版黑名单](https://www.zhihu.com/question/312911617)；银联云闪付仅支持工行、交行、广发、浦发、邮储借记卡信用卡和招商银行借记卡 | [Special Blacklist](https://www.zhihu.com/question/312911617) in T-Union; Only CMB debit card and ICBC, COM, CGB, SPDB, CPG debit or credit cards accepted in Qucikpass |
-| 东莞/ Dongguan | 银联云闪付仅支持东莞通合作银行 | Only banks that cooperates with DongguanTong accepted in Quickpass |
-| 南宁/ Nanning | 银联云闪付仅支持除浦发、华夏以外的信用卡和交行、招行借记卡 | Only credit card(except SPDB, HXB) and COM, CMB debit card accepted in Quickpass |
-| 兰州/ Lanzhou | 银联云闪付仅支持信用卡 | Only credit card accepted in Quickpass |
-| 台北/ Taipei | 仅桃园机场捷运支持在线购票后扫码过闸 | Only Taoyuan Airport MRT support after buying ticket online |
-| 高雄/ Kaohsiung | 银联云闪付仅支持信用卡，此外还支持万事达信用卡 | Only credit card accepted in Quickpass, and Master credit card also accepted |
+| <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京/ Beijing | 交通联合采用[专版白名单](https://mp.weixin.qq.com/s/JF4pULn90EA7S5lUWaxNyw) | [Special whitelist](https://mp.weixin.qq.com/s/JF4pULn90EA7S5lUWaxNyw) in T-Union |
+| <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海/ Shanghai | 仅磁悬浮支持银联信用卡闪付 | Only Shanghai Maglev accept credit card Quickpass|
+| <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州/ Guangzhou | 银联云闪付仅支持[信用卡](http://cs.gzmtr.com/ckfw/pwzy/201811/t20181106_60161.htm)和招行借记卡（APM无此限制） | Only [credit card](http://cs.gzmtr.com/ckfw/pwzy/201811/t20181106_60161.htm) and CMB debit card accepted in Quickpass (APM accept all cards) |
+| <img src="/images/city/hrb.gif" width="20" hegiht="20"/>哈尔滨/ Harbin | 交通联合采用[专版黑名单](https://www.zhihu.com/question/312911617)；银联云闪付仅支持工行、交行、广发、浦发、邮储借记卡信用卡和招商银行借记卡 | [Special Blacklist](https://www.zhihu.com/question/312911617) in T-Union; Only CMB debit card and ICBC, COM, CGB, SPDB, CPG debit or credit cards accepted in Qucikpass |
+| <img src="/images/city/dg.gif" width="20" hegiht="20"/>东莞/ Dongguan | 银联云闪付仅支持东莞通合作银行 | Only banks that cooperates with DongguanTong accepted in Quickpass |
+| <img src="/images/city/nn.gif" width="20" hegiht="20"/>南宁/ Nanning | 银联云闪付仅支持除浦发、华夏以外的信用卡和交行、招行借记卡 | Only credit card(except SPDB, HXB) and COM, CMB debit card accepted in Quickpass |
+| <img src="/images/city/lz.gif" width="20" hegiht="20"/>兰州/ Lanzhou | 银联云闪付仅支持信用卡 | Only credit card accepted in Quickpass |
+| <img src="/images/city/tp.gif" width="20" hegiht="20"/>台北/ Taipei | 仅桃园机场捷运支持在线购票后扫码过闸 | Only Taoyuan Airport MRT support after buying ticket online |
+| <img src="/images/city/kh.gif" width="20" hegiht="20"/>高雄/ Kaohsiung | 银联云闪付仅支持信用卡，此外还支持万事达信用卡 | Only credit card accepted in Quickpass, and Master credit card also accepted |
