@@ -11,10 +11,13 @@
 - ~~龙阳路~~（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，2/7号线、16号线）
 
 ## 出闸换乘（不连续计费，专线除外）
-- 徐家棚（<img src="/images/city/wh.gif" width="20" hegiht="20"/>武汉，7号线、8号线）
 
-## 同城重名
+## 带有数字字母（机场区域除外）
+- 双D港（<img src="/images/city/dl.gif" width="20" hegiht="20"/>大连，3号线）
+
+## 同名站不换乘
 - 浦电路（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，4号线、6号线）
+- 徐家棚（<img src="/images/city/wh.gif" width="20" hegiht="20"/>武汉，7号线、8号线）
 - ~~东北师大~~（<img src="/images/city/cc.gif" width="20" hegiht="20"/>长春，1号线、3号线，3号线已改名“博硕路”）
 
 ## 换乘站不同名
