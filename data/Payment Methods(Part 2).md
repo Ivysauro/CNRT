@@ -9,7 +9,7 @@
 | <img src="/images/Alipay.png" width="30" hegiht="30" alt="Alipay"/> | 支付宝 | Alipay |
 | <img src="/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay"/> | 微信支付 | WeChat Pay |
 | <img src="/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay QR Code"/> | 银联二维码 | Unionpay QR Code |
-| <img src="/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | 银联云闪付 | Unionpay Quickpass |
+| <img src="/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | [银联云闪付](https://zh.wikipedia.org/wiki/%E9%97%AA%E4%BB%98#%E4%BA%91%E9%97%AA%E4%BB%98) | [Unionpay Quickpass](https://en.wikipedia.org/wiki/UnionPay#QuickPass) |
 
 | 图标/ Icon | 中文/ Chinese | 英文/ English |
 | :-: | :- | :- |
