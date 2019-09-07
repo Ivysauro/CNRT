@@ -31,6 +31,7 @@
 - 票价/ Prices
 - 标识及意义/ Logo and Its Meaning
 - 线路标识色/ Line Color
+- 同车不同温/ Different Temperature on One Train
 
 ### 不务正业的/ Files of Other Related Topic🧷
 - [主要城市名称资料/ Something about Name of Big Cities](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Name%20data%20of%20Big%20Cities.md)
