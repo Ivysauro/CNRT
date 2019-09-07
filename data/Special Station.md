@@ -37,6 +37,11 @@
 ### <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海
 
 ### <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州
+- 北亭→大学城北（4号线，2006.5）
+- 南亭→大学城南（4号线，2006.5）
+- 赤岗塔→广州塔（3号线/APM线，2013.12）
+- 歌剧院→大剧院（APM线，2013.12）
+- 西朗→西塱（1号线/广佛线，2018.12）
 
 ### <img src="/images/city/cc.gif" width="20" hegiht="20"/>长春
 - 北环→北环城路（1号线，2017.12）
@@ -64,7 +69,7 @@
 - 车场→天工路（4号线，2019.5）
 
 ### <img src="/images/city/suz.gif" width="20" hegiht="20"/>苏州
-- 苏州乐园----→狮子山（1号线/3号线）
+- 苏州乐园----→狮子山（1号线，未来）
 
 ## 参考资料 /References
 - https://www.zhihu.com/question/279503795
