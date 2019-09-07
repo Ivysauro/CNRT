@@ -33,7 +33,7 @@
 | 吉林通	| 吉林/ Jilin | ✅ | ✅ | ✅ | | | | ✅ | ✅ |
 | 京津冀互联互通卡 | 京津冀/ Jingjinji | ✅ | ✅ | ✅ | | ✅ | ✅ | ✅ | ✅ |
 | 江苏交通一卡通·南京（金陵通） |南京（宁镇扬）/ Nanjing (Ningzhenyang) | | ✅ |
-| 江苏交通一卡通·扬州 | 扬州（宁镇扬）/ Yangzhou (Ningzhenyang) | | 🕓 |
+| 江苏交通一卡通·扬州 | 扬州（宁镇扬）/ Yangzhou (Ningzhenyang) | | ✅ |
 | 江苏交通一卡通·苏州 | 苏州（苏锡常）/ Suzhou (Suxichang) | ✅ | ✅ | ✅ | | ✅ | ✅ | ✅ | ✅ |
 | 江苏交通一卡通·无锡 | 无锡（苏锡常）/ Wuxi (Suxichang) | | ✅ |
 | 江苏交通一卡通·常州 | 常州（苏锡常）/ Changzhou (Suxichang) | | 🕓 |
