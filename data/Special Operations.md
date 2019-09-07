@@ -42,8 +42,9 @@
 - <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州地铁2号线/8号线
 - <img src="/images/city/gz.gif" width="20" hegiht="20"/>***广州地铁3号线/10号线***
 - <img src="/images/city/cd.gif" width="20" hegiht="20"/>***成都地铁1号线/15号线***
-- <img src="/images/city/hz.gif" width="20" hegiht="20"/>***杭州地铁1号线/9号线***
+- <img src="/images/city/sz.gif" width="20" hegiht="20"/>***苏州地铁4号线/7号线***
 - <img src="/images/city/km.gif" width="20" hegiht="20"/>***昆明地铁1号线/2号线***
+- <img src="/images/city/hz.gif" width="20" hegiht="20"/>***杭州地铁1号线/9号线***
 - <img src="/images/city/zz.gif" width="20" hegiht="20"/>***郑州地铁2号线/9号线***
 
 ## 分段（具体分段）
