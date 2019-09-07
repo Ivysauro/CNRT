@@ -44,7 +44,7 @@
 | <img src="/images/city/cs.gif" width="20" hegiht="20"/>长沙/ Changsha | ✅ | | | | | ✅ | |
 | <img src="/images/city/nb.gif" width="20" hegiht="20"/>宁波/ Ningbo | ✅ | ✅ | ✅ | ✅ | | ✅ | |
 | <img src="/images/city/wx.gif" width="20" hegiht="20"/>无锡/ Wuxi | ✅ | | | | | ✅ | |
-| <img src="/images/city/qd.gif" width="20" hegiht="20"/>青岛/ Qingdao | ✅ | | ✅ | | | ✅ | |
+| <img src="/images/city/qd.gif" width="20" hegiht="20"/>青岛/ Qingdao | ✅ | | | | | ✅ | |
 | <img src="/images/city/nc.gif" width="20" hegiht="20"/>南昌/ Nanchang | ✅ | ✅ | | | | ✅ | |
 | <img src="/images/city/fz.gif" width="20" hegiht="20"/>福州/ Fuzhou | ✅ | | | | | ✅ | |
 | <img src="/images/city/dg.gif" width="20" hegiht="20"/>东莞/ Dongguan | | ⭕ | | | | ✅ | |
