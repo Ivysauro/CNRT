@@ -28,7 +28,7 @@
 ## 交通联合卡/ T-Union Cards
 | 卡名称/ Card Name | 地区/ Area | <img src="/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | <img src="/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | <img src="/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | <img src="/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | <img src="/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | <img src="/images/OnePlus.png" width="25" hegiht="25" alt="OnePlus"/> | <img src="/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/>  | <img src="/images/vivo.png" width="40" hegiht="40" alt="vivo"/> | <img src="/images/Mini Program.png" width="25" hegiht="25" alt="WeChat Transit Card"/> |
 | :- | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 绿城通（轩辕通） | 郑州/ Zhengzhou | | ✅ |
+| 轩辕通 | 郑州/ Zhengzhou | | ✅ |
 | 岭南通	| 广东/ Guangdong | ✅ | 🕓 | | | ✅ | ✅ | ✅ | ✅ |
 | 吉林通	| 吉林/ Jilin | ✅ | ✅ | ✅ | | | | ✅ | ✅ |
 | 京津冀互联互通卡 | 京津冀/ Jingjinji | ✅ | ✅ | ✅ | | ✅ | ✅ | ✅ | ✅ |
@@ -40,10 +40,10 @@
 | 江苏交通一卡通·盐城（黄海通） | 盐城（盐通泰）/ Yancheng (Yantongtai) | | ✅ |
 | 江苏交通一卡通·南通 | 南通（盐通泰）/ Nantong (Yantongtai) | ✅ | | | | | | | ✅ |
 | 江苏交通一卡通·徐州（淮海通） | 徐州（徐淮连宿）/ Xuzhou (Xuhuailiansu) | | 🕓 |
-| 广西交通一卡通/桂民卡	| 广西/ Guangxi | ✅ | ✅ | | | ✅ | | ✅ | ✅ |
+| 广西交通一卡通（桂民卡）	| 广西/ Guangxi | ✅ | ✅ | | | ✅ | | ✅ | ✅ |
 | 琴岛通	| 青岛/ Qingdao | ✅ | ✅ | | | | | ✅ | ✅ |
 | 哈尔滨城市通	| 哈尔滨/ Harbin | ✅ | ✅ | 🕓 | | | | ✅ | ✅ |
-| 海南一卡通/海岛通	| 海南/ Hainan | ✅ | ✅ | | | | | ✅ | ✅ |
+| 海南一卡通（海岛通）	| 海南/ Hainan | ✅ | ✅ | | | | | ✅ | ✅ |
 | 天津城市卡	| 天津/ Tianjin | | ✅ |
 | 河北交通一卡通	| 河北/ Hebei | | ✅ | ✅ | | | | | ✅ | ✅ |
 | 盛京通	| 沈阳/ Shenyang | ✅ | ✅ |
