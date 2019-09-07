@@ -13,7 +13,7 @@
 | <img src="/images/OnePlus.png" width="25" hegiht="25" alt="OnePlus"/> | 一加 | OnePlus |
 | <img src="/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/> | 欧珀 | OPPO |
 | <img src="/images/vivo.png" width="40" hegiht="40" alt="vivo"/> | 维沃 | vivo |
-| <img src="/images/Mini Program.png" width="25" hegiht="25" alt="WeChat Transit Card"/> | 微信乘车卡(HCE) | WeChat Transit Card(HCE) |
+| <img src="/images/Mini Program.png" width="25" hegiht="25" alt="WeChat Transit Card"/> | [微信乘车卡(HCE)](https://zh.wikipedia.org/wiki/%E9%A8%B0%E8%A8%8A%E4%B9%98%E8%BB%8A%E7%A2%BC#%E7%9B%B8%E9%97%9C%E7%94%A2%E5%93%81) | WeChat Transit Card(HCE) |
 
 | 图标/ Icon | 中文/ Chinese | 英文/ English |
 | :-: | :- | :- |
