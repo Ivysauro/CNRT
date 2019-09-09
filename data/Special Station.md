@@ -3,10 +3,10 @@
 ## 换乘
 
 ### 虚拟换乘（连续计费）
-- 尖沙咀/尖东（<img src="/images/city/hk.gif" width="20" hegiht="20"/>香港，荃湾线、西铁线）
 - 上海火车站（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，1号线、3/4号线）
 - 虹桥2号航站楼（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，2号线、10号线）
 - 南京西路（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，2号线、12号线、13号线）
+- 尖沙咀/尖东（<img src="/images/city/hk.gif" width="20" hegiht="20"/>香港，荃湾线、西铁线）
 - ~~大葆台/新宫~~（<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京，房山线、大兴线）
 - ~~长清路~~（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，7号线、13号线）
 - ~~龙华~~（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，11号线、12号线）
