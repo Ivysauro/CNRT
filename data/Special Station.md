@@ -52,7 +52,7 @@
 同时或异步开门，但同时关门，可穿行
 
 - 3号航站楼（<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京，首都机场线）
-- 宋家庄（<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京，10号线）
+- 宋家庄（<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京，10号线，回库车）
 - 天津站（<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津，9号线）
 - 虹桥2号线航站楼（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，2号线、10号线，下行）
 - 人民广场（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，8号线，下行）
@@ -74,16 +74,16 @@
 - 天府广场（<img src="/images/city/cd.gif" width="20" hegiht="20"/>成都，1号线）
 - 罗湖（<img src="/images/city/hk.gif" width="20" hegiht="20"/>香港，东铁线）
 
-#### 双侧交替开门（未完待续）
-- 江杨北路（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，3号线）
-- 曹杨路、真如、南翔、嘉定新城（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，11号线）
+#### 双侧交替开门
+
+其他一岛两侧或一岛一侧式车站
 
 ## 站名
 
 ### 带有数字/字母（机场区域除外）
 - 双D港（<img src="/images/city/dl.gif" width="20" hegiht="20"/>大连，3号线）
 
-### 运营期间改过名的站
+### 运营期间改过名的车站
 
 #### <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京
 - 立新→公主坟（1号线，?）
