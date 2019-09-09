@@ -23,10 +23,27 @@
 ## 换乘站不同名
 - ~~临河街/卫星路~~（<img src="/images/city/cc.gif" width="20" hegiht="20"/>长春，3号线、4号线，已统一命名为“职业学院”）
 
+## 双向付费区不连通（专线除外）
+
+换乘反方向列车请出站或向车站工作人员求助
+
+- 八角游乐园（<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京，1号线）
+- 外环路、莲花路、锦江乐园（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，1号线）
+- 石龙路（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，3号线）
+
 ## 双侧开门
+
+### 双侧同时开门
+- 人民广场（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，8号线，下行）
+
+### 双侧异步开门
+
+### 双侧开门能力
 
 ## 运营期间改过名的站
 ### <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京
+- 立新→公主坟（1号线，?）
+- 新华街→和平门（2号线，?）
 - 古城路→古城（1号线，?）
 - 广播学院→传媒大学（八通线，2007.4）
 
