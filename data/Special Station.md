@@ -23,25 +23,39 @@
 ## 换乘站不同名
 - ~~临河街/卫星路~~（<img src="/images/city/cc.gif" width="20" hegiht="20"/>长春，3号线、4号线，已统一命名为“职业学院”）
 
-## 双向付费区不连通（专线除外）
+## 不支持免费换向（专线除外）
 
-换乘反方向列车请出站或向车站工作人员求助
+上下行付费区不连通，换乘反方向列车请出站或向车站工作人员求助
 
 - 八角游乐园（<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京，1号线）
+- 刘园、瑞景新苑、佳园里、双林<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津，1号线）
+- 华北集团<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津，3号线）
+- 西南楼（<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津，5号线）
+- 水上公园东路（<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津，6号线）
+- 东海路（<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津，9号线）
 - 外环路、莲花路、锦江乐园（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，1号线）
 - 石龙路（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，3号线）
+- 嘉定北（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，11号线）
+- 闵瑞路（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，浦江线）
+- ~~苹果园、古城~~（<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京，1号线）
+- ~~双林~~（<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津，1号线，2018.12前）
+- ~~天河客运站~~（<img src="/images/city/gz.gif" width="20" hegiht="20"/>广州，3号线，2013.12前）
 
 ## 双侧开门
 
 ### 双侧同时开门
 - 人民广场（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，8号线，下行）
+- 三林（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，11号线，下行小交路）
 
 ### 双侧异步开门
 
-### 双侧开门能力
+### 双侧交替开门
+- 江杨北路（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，3号线）
+- 曹杨路、真如、南翔、嘉定新城（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，11号线）
 
 ## 运营期间改过名的站
 ### <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京
+- 八角村→八角游乐园（1号线，1996）
 - 立新→公主坟（1号线，?）
 - 新华街→和平门（2号线，?）
 - 古城路→古城（1号线，?）
@@ -105,4 +119,6 @@
 
 ## 参考资料 /References
 - https://www.zhihu.com/question/279503795
-- http://tieba.baidu.com/p/5042303190
+- https://tieba.baidu.com/p/5042303190
+- https://tieba.baidu.com/p/4860604942
+- https://tieba.baidu.com/p/6043800476
