@@ -1,6 +1,8 @@
 # 特殊站（中文）/ Special Station (In Chinese)
 
-## 虚拟换乘（连续计费）
+## 换乘
+
+### 虚拟换乘（连续计费）
 - 尖沙咀/尖东（<img src="/images/city/hk.gif" width="20" hegiht="20"/>香港，荃湾线、西铁线）
 - 上海火车站（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，1号线、3/4号线）
 - 虹桥2号航站楼（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，2号线、10号线）
@@ -10,26 +12,28 @@
 - ~~龙华~~（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，11号线、12号线）
 - ~~龙阳路~~（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，2/7号线、16号线）
 
-## 出闸换乘（不连续计费，专线除外）
+### 出闸换乘（不连续计费，专线除外）
 
-## 带有数字字母（机场区域除外）
+### 带有数字字母（机场区域除外）
 - 双D港（<img src="/images/city/dl.gif" width="20" hegiht="20"/>大连，3号线）
 
-## 同名站不换乘
+### 同名站不换乘
 - 浦电路（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，4号线、6号线）
 - 徐家棚（<img src="/images/city/wh.gif" width="20" hegiht="20"/>武汉，7号线、8号线）
 - ~~东北师大~~（<img src="/images/city/cc.gif" width="20" hegiht="20"/>长春，1号线、3号线，3号线已改名“博硕路”）
 
-## 换乘站不同名
+### 换乘站不同名
 - ~~临河街/卫星路~~（<img src="/images/city/cc.gif" width="20" hegiht="20"/>长春，3号线、4号线，已统一命名为“职业学院”）
 
-## 不支持免费换向（专线除外）
+## 换向
+
+### 不支持免费换向（专线除外）
 
 上下行付费区不连通，换乘反方向列车请出站或向车站工作人员求助
 
 - 八角游乐园（<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京，1号线）
-- 刘园、瑞景新苑、佳园里、双林<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津，1号线）
-- 华北集团<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津，3号线）
+- 刘园、瑞景新苑、佳园里、双林（<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津，1号线）
+- 华北集团（<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津，3号线）
 - 西南楼（<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津，5号线）
 - 水上公园东路（<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津，6号线）
 - 东海路（<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津，9号线）
@@ -37,23 +41,45 @@
 - 石龙路（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，3号线）
 - 嘉定北（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，11号线）
 - 闵瑞路（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，浦江线）
+- 坑口（<img src="/images/city/gz.gif" width="20" hegiht="20"/>广州，1号线）
 - ~~苹果园、古城~~（<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京，1号线）
 - ~~双林~~（<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津，1号线，2018.12前）
 - ~~天河客运站~~（<img src="/images/city/gz.gif" width="20" hegiht="20"/>广州，3号线，2013.12前）
 
 ## 双侧开门
 
-### 双侧同时开门
+### 双侧同时关门（可穿行）
+
+同时或异步开门，但同时关门，可穿行
+
+- 3号航站楼（<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京，首都机场线）
+- 宋家庄（<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京，10号线）
+- 天津站（<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津，9号线）
 - 人民广场（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，8号线，下行）
 - 三林（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，11号线，下行小交路）
+- 体育西路（<img src="/images/city/gz.gif" width="20" hegiht="20"/>广州，3号线）
+- 华新（<img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳，3号线小交路）
+- 机场（<img src="/images/city/hk.gif" width="20" hegiht="20"/>香港，机场快线）
 
-### 双侧异步开门
+### 双侧异步开门（不可穿行）
+
+先开启一侧车门下客，关门后再开启另一侧车门上客
+
+- 西直门（<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京，13号线）
+- 宋家庄（<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京，亦庄线）
+- 西塱（<img src="/images/city/gz.gif" width="20" hegiht="20"/>广州，1号线）
+- 公园前（<img src="/images/city/gz.gif" width="20" hegiht="20"/>广州，1号线、2号线）
+- 罗湖（<img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳，1号线）
+- 福田口岸（<img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳，4号线）
+- 天府广场（<img src="/images/city/cd.gif" width="20" hegiht="20"/>成都，1号线）
+- 罗湖（<img src="/images/city/hk.gif" width="20" hegiht="20"/>香港，东铁线）
 
 ### 双侧交替开门
 - 江杨北路（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，3号线）
 - 曹杨路、真如、南翔、嘉定新城（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，11号线）
 
 ## 运营期间改过名的站
+
 ### <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京
 - 八角村→八角游乐园（1号线，1996）
 - 立新→公主坟（1号线，?）
@@ -110,6 +136,9 @@
 - 南三环→南环城路（4号线，2019.5）
 - 南四环→宜盛街（4号线，2019.5）
 - 车场→天工路（4号线，2019.5）
+
+### <img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳
+- 皇岗→福田口岸（4号线，2008.8）
 
 ### <img src="/images/city/wh.gif" width="20" hegiht="20"/>武汉
 - 江汉路→循礼门（1号线，2010.6）
