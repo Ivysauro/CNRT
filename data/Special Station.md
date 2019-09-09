@@ -74,13 +74,13 @@
 - 天府广场（<img src="/images/city/cd.gif" width="20" hegiht="20"/>成都，1号线）
 - 罗湖（<img src="/images/city/hk.gif" width="20" hegiht="20"/>香港，东铁线）
 
-#### 双侧交替开门
+#### 双侧交替开门（未完待续）
 - 江杨北路（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，3号线）
 - 曹杨路、真如、南翔、嘉定新城（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，11号线）
 
 ## 站名
 
-### 带有数字字母（机场区域除外）
+### 带有数字/字母（机场区域除外）
 - 双D港（<img src="/images/city/dl.gif" width="20" hegiht="20"/>大连，3号线）
 
 ### 运营期间改过名的站
