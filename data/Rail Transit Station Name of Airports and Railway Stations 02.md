@@ -62,16 +62,29 @@ RS is short for "Railway Station"
 | *Taichung* | *HSR Taichung Station*/ Taichung | | | *Xinwuri*/ Xinwuri, *Wuri*/ Wuri, *Daqing*/ Daqing, *Songzhu*/ Songzhu |
 
 ## Analysis
+
+Outside the brackets is <img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>China Railway Station name or <img src="/images/Airport.png" width="15" hegiht="15" alt="Airport"/>Airport name, and inside the brackets is <img src="/images/Rail Transit.png" width="15" hegiht="15" alt="Railway Transit"/>Rail Transit Station name
+
 ### Double Square
 - Changchun \[Changchun RS & Changchun RS(North)\], Changsha (RS & Jintai Square), Chongqingbei (Chongqing North Station North Square & Chongqing North Station South Square), Xi'anbei \[BEIKEZHAN & BEIKEZHAN (BEIGUANGCHANG)\], Nanchangxi (Nanchang West RS & South Square of West RS)
 
 ### Main Station
-- xx RS: Beijing (Beijing RS), Shanghai (Shanghai RS), etc.
+- xx RS: Beijing (Beijing RS), Shanghai (Shanghai RS), Guangzhou (Guangzhou RS), etc.
 - RS: Changsha
 - "HUOCHEZHAN" (Bopomofo name of RS): Xi'an
-- xx + "ZHAN" (Bopomofo name of station): Tianjin (TIANJINZHAN), Shenyang (SHENYANGZHAN), Shijiazhuang (SHIJIAZHUANGZHAN)
+- Bopomofo name of Chinese station name: Tianjin (TIANJINZHAN), Shenyang (SHENYANGZHAN), Shijiazhuang (SHIJIAZHUANGZHAN)
 - Tranditional name of the area: Chongqing (Lianglukou), Shenzhen (Luohu), Chengdu (North RS), Hangzhou (Chengzhan)
 
 ### Assisted Main Station
+- xxy RS: Wuxidong (Wuxidong RS), Hefeinan (Hefeinan RS), Guiyangbei (Guiyangbei RS), Luoyang-Longmen (*Luoyanglongmen RS*)
+- xx z RS: Beijingxi (Beijing West RS), Guangzhounan (Guangzhou South RS), Dalianbei (Dalian North RS), etc.
+- z xx RS: Chengdudong (East Chengdu RS), Shanghaixi (*West Shanghai RS*, former name)
+- y: Xiamen-Gaoqi (Gaoqi), Shenzhen-Pingshan (*Pingshan*)
+- y RS: Shanghai-Hongqiao (Hongqiao RS)
+- z RS: Chengdunan (South RS), Hangzhoudong (East RS), Changshanan (South RS), Wenzhounan (South RS)
+- xx z Staion: Chongqingbei (Chongqing North Station), Shenzhenbei (Shenzhen North Station)
+- Bopofomo name of Chinese Station name: Tianjinxi (XIZHAN), Xi'anbei (BEIKEZHAN), Shijiazhuangdong (SHIJIAZHUANGDONGZHAN), etc.
+- Tranditional name of the area: Shenzhendong (Buji)
+
 ### Airport Area
 ### Other Station
