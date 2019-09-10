@@ -3,7 +3,7 @@
 [HERE](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Rail%20Transit%20Station%20Name%20of%20Airports%20and%20Railway%20Stations.md) for Chinese version/ 中文版点[这里](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Rail%20Transit%20Station%20Name%20of%20Airports%20and%20Railway%20Stations.md)跳转
 
 ## Content
-In front of “/” is Rail Transit Station name, and after it is China Railway Station name or Airport name
+In front of “/” is <img src="/images/Rail Transit.png" width="15" hegiht="15" alt="Railway Transit"/>Rail Transit Station name, and after it is <img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>China Railway Station name or <img src="/images/Airport.png" width="15" hegiht="15" alt="Airport"/>Airport name
 
 *Italics* indicates the station is on plan
 
