@@ -11,7 +11,7 @@ In front of “/” is <img src="/images/Rail Transit.png" width="15" hegiht="15
 
 RS is short for "Railway Station"
 
-| City | Main Station | Other Main Station | Airport Area | Other Station |
+| City | Main Station | Assisted Main Station | Airport Area | Other Station |
 | ---- | ------------ | ------------------ | ------------ | ------------- |
 | Beijing & Langfang | Beijing RS/ Beijing | Beijing West RS/ Beijingxi, Beijing South RS/ Beijingnan, XIZHIMEN/ Beijingbei | Terminal 3/ Beijing Captial, Terminal 2/ Beijing Captial, Daxing Airport/ Beijing Daxing | FENGTAI RS/ *Fengtai*, YIZHUANG RS/ *Yizhuang*, HUANGCUN RS/ Huangcun, HUANGCUN RS/ *Beijingdaxing*, HUOYING/ Huangtudian , *QINGHE RS/ Qinghe, XINGHUO RS/ Xinghuo* |
 | Hong Kong | Hung Hom/ Hong Kong Hung Hom | Kowloon/ Hong Kong West Kowloon、Austin/ Hong Kong West Kowloon | Airport/ Hong Kong |  |
@@ -62,4 +62,16 @@ RS is short for "Railway Station"
 | *Taichung* | *HSR Taichung Station*/ Taichung | | | *Xinwuri*/ Xinwuri, *Wuri*/ Wuri, *Daqing*/ Daqing, *Songzhu*/ Songzhu |
 
 ## Analysis
-Coming Soon
+### Double Square
+- Changchun \[Changchun RS & Changchun RS(North)\], Changsha (RS & Jintai Square), Chongqingbei (Chongqing North Station North Square & Chongqing North Station South Square), Xi'anbei \[BEIKEZHAN & BEIKEZHAN (BEIGUANGCHANG)\], Nanchangxi (Nanchang West RS & South Square of West RS)
+
+### Main Station
+- xx RS: Beijing (Beijing RS), Shanghai (Shanghai RS), etc.
+- RS: Changsha
+- "HUOCHEZHAN" (Bopomofo name of RS): Xi'an
+- xx + "ZHAN" (Bopomofo name of station): Tianjin (TIANJINZHAN), Shenyang (SHENYANGZHAN), Shijiazhuang (SHIJIAZHUANGZHAN)
+- Tranditional name of the area: Chongqing (Lianglukou), Shenzhen (Luohu), Chengdu (North RS), Hangzhou (Chengzhan)
+
+### Assisted Main Station
+### Airport Area
+### Other Station
