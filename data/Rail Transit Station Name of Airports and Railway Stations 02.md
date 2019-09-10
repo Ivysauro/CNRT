@@ -63,7 +63,7 @@ RS is short for "Railway Station"
 
 ## Analysis
 
-Outside the brackets is <img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>China Railway Station name or <img src="/images/Airport.png" width="15" hegiht="15" alt="Airport"/>Airport name, and inside the brackets is <img src="/images/Rail Transit.png" width="15" hegiht="15" alt="Railway Transit"/>Rail Transit Station name
+Outside the brackets is <img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>China Railway Station name or <img src="/images/Airport.png" width="15" hegiht="15" alt="Airport"/>Airport name, and inside them is <img src="/images/Rail Transit.png" width="15" hegiht="15" alt="Railway Transit"/>Rail Transit Station name
 
 ### Double Square
 - Changchun \[Changchun RS & Changchun RS(North)\], Changsha (RS & Jintai Square), Chongqingbei (Chongqing North Station North Square & Chongqing North Station South Square), Xi'anbei \[BEIKEZHAN & BEIKEZHAN (BEIGUANGCHANG)\], Nanchangxi (Nanchang West RS & South Square of West RS)
