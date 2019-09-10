@@ -3,7 +3,7 @@
 英文版点[这里](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Rail%20Transit%20Station%20Name%20of%20Airports%20and%20Railway%20Stations%2002.md)跳转/ [HERE](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Rail%20Transit%20Station%20Name%20of%20Airports%20and%20Railway%20Stations%2002.md) for English version
 
 ## 主表
-“/”前是地铁站名，后是国铁站名或机场名
+“/”前是<img src="/images/Rail Transit.png" width="15" hegiht="15" alt="Railway Transit"/>地铁站名，后是<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>国铁站名或<img src="/images/Airport.png" width="15" hegiht="15" alt="Airport"/>机场名
 
 *斜体字*代表未开通（含未开通客运业务）或规划中
 
@@ -59,7 +59,7 @@
 | *澳门* | | | *机场*/澳门 | |
 | *台中* | *台中高铁站*/台中 | | | *新乌日*/新乌日、*乌日*/乌日、*大庆*/大庆、*松竹*/松竹 |
 
-## 已开通站命名方式分析（不含港澳台）
+## 命名方式分析（仅包括已开通站，不含港澳台）
 
 ### 双广场
 - 长春（长春站、长春站北） 长沙（长沙火车站、锦泰广场） 重庆北（重庆北站北广场、重庆北站南广场） 西安北（北客站、北客站北广场） 南昌西（南昌西站、西站南广场）
