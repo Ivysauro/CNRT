@@ -3,10 +3,10 @@
 ## 换乘
 
 ### 虚拟换乘（连续计费）
+- 尖沙咀/尖东（<img src="/images/city/hk.gif" width="20" hegiht="20"/>香港，荃湾线、西铁线）
 - 上海火车站（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，1号线、3/4号线）
 - 虹桥2号航站楼（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，2号线、10号线）
 - 南京西路（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，2号线、12号线、13号线）
-- 尖沙咀/尖东（<img src="/images/city/hk.gif" width="20" hegiht="20"/>香港，荃湾线、西铁线）
 - ~~大葆台/新宫~~（<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京，房山线、大兴线）
 - ~~长清路~~（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，7号线、13号线）
 - ~~龙华~~（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，11号线、12号线）
@@ -54,25 +54,25 @@
 - 3号航站楼（<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京，首都机场线）
 - 宋家庄（<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京，10号线，回库车）
 - 天津站（<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津，9号线）
-- 虹桥2号线航站楼（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，2号线、10号线，下行）
+- 机场（<img src="/images/city/hk.gif" width="20" hegiht="20"/>香港，机场快线）
+- 虹桥2号线航站楼（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，2号线、10号线，上行）
 - 人民广场（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，8号线，下行）
 - 三林（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，11号线，下行小交路）
 - 体育西路（<img src="/images/city/gz.gif" width="20" hegiht="20"/>广州，3号线）
-- 华新（<img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳，3号线小交路）
-- 机场（<img src="/images/city/hk.gif" width="20" hegiht="20"/>香港，机场快线）
+- 华新（<img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳，3号线，小交路）
 
-#### 双侧异步开门（不可穿行）
+#### 双侧异步关门（不可穿行）
 
 先开启一侧车门下客，关门后再开启另一侧车门上客
 
 - 西直门（<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京，13号线）
 - 宋家庄（<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京，亦庄线）
+- 罗湖（<img src="/images/city/hk.gif" width="20" hegiht="20"/>香港，东铁线）
 - 西塱（<img src="/images/city/gz.gif" width="20" hegiht="20"/>广州，1号线）
 - 公园前（<img src="/images/city/gz.gif" width="20" hegiht="20"/>广州，1号线、2号线）
 - 罗湖（<img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳，1号线）
 - 福田口岸（<img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳，4号线）
 - 天府广场（<img src="/images/city/cd.gif" width="20" hegiht="20"/>成都，1号线）
-- 罗湖（<img src="/images/city/hk.gif" width="20" hegiht="20"/>香港，东铁线）
 
 #### 双侧交替开门
 
