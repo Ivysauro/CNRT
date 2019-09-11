@@ -75,6 +75,7 @@
 - 罗湖（<img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳，1号线）
 - 福田口岸（<img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳，4号线）
 - 天府广场（<img src="/images/city/cd.gif" width="20" hegiht="20"/>成都，1号线）
+- 磁浮高铁（<img src="/images/city/cs.gif" width="20" hegiht="20"/>长沙，磁浮快线）
 
 #### 双侧交替开门
 
