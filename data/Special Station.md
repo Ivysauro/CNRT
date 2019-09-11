@@ -58,6 +58,7 @@
 - 虹桥2号线航站楼（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，2号线、10号线，上行）
 - 人民广场（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，8号线，下行）
 - 三林（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，11号线，下行小交路）
+- 沈杜公路（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，浦江线）
 - 体育西路（<img src="/images/city/gz.gif" width="20" hegiht="20"/>广州，3号线）
 - 华新（<img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳，3号线，小交路）
 
