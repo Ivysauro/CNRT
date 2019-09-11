@@ -24,7 +24,7 @@
 
 ## 换向
 
-### 不支持免费换向（专线除外）
+### 不支持免费换向
 
 上下行付费区不连通，换乘反方向列车请出站或向车站工作人员求助
 
@@ -35,9 +35,10 @@
 - 水上公园东路（<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津，6号线）
 - 东海路（<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津，9号线）
 - 外环路、莲花路、锦江乐园（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，1号线）
+- 创新中路、华夏东路、川沙、凌空路（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，2号线）
 - 石龙路（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，3号线）
 - 嘉定北（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，11号线）
-- 闵瑞路（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，浦江线）
+- 三鲁公路、闵瑞路、浦航路、东城一路（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，浦江线）
 - 坑口（<img src="/images/city/gz.gif" width="20" hegiht="20"/>广州，1号线）
 - ~~苹果园、古城~~（<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京，1号线）
 - ~~双林~~（<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津，1号线，2018.12前）
