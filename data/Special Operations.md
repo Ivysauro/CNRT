@@ -8,6 +8,7 @@
 - <img src="/images/city/zz.gif" width="20" hegiht="20"/>郑州地铁5号线（2019.5）
 - <img src="/images/city/wh.gif" width="20" hegiht="20"/>***武汉地铁12号线***
 - <img src="/images/city/cq.gif" width="20" hegiht="20"/>***重庆地铁环线***
+- <img src="/images/city/xa.gif" width="20" hegiht="20"/>***西安地铁8号线***
 
 ## 贯通
 ### 跨城贯通
