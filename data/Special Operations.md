@@ -10,6 +10,13 @@
 - <img src="/images/city/cq.gif" width="20" hegiht="20"/>***重庆地铁环线***
 - <img src="/images/city/xa.gif" width="20" hegiht="20"/>***西安地铁8号线***
 
+## 越行（快车开通时间）
+- <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海地铁16号线（2013.12试行，2016.3正式）
+- <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州地铁14号线（2018.12）
+- <img src="/images/city/nj.gif" width="20" hegiht="20"/>南京地铁S9线（2019.6）
+- <img src="/images/city/gz.gif" width="20" hegiht="20"/>***广州地铁21号线***
+- <img src="/images/city/bj.gif" width="20" hegiht="20"/>***北京地铁6号线***
+
 ## 贯通
 ### 跨城贯通
 - <img src="/images/city/hz.gif" width="20" hegiht="20"/>*杭州地铁柯桥线/<img src="/images/city/sx.gif" width="20" hegiht="20"/>绍兴地铁1号线*
