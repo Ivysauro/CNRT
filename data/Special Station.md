@@ -56,12 +56,12 @@
 - 宋家庄（<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京，10号线，回库车）
 - 天津站（<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津，9号线）
 - 机场（<img src="/images/city/hk.gif" width="20" hegiht="20"/>香港，机场快线）
+- 罗湖（<img src="/images/city/hk.gif" width="20" hegiht="20"/>香港，东铁线）
 - 虹桥2号线航站楼（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，2号线、10号线，上行）
 - 人民广场（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，8号线，下行）
 - 三林（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，11号线，下行小交路）
 - 沈杜公路（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，浦江线）
 - 体育西路（<img src="/images/city/gz.gif" width="20" hegiht="20"/>广州，3号线）
-- 罗湖（<img src="/images/city/hk.gif" width="20" hegiht="20"/>香港，东铁线）
 - 华新（<img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳，3号线，小交路）
 - 福田口岸（<img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳，4号线）
 
@@ -79,7 +79,7 @@
 
 #### 双侧交替开门
 
-其他一岛两侧或一岛一侧式车站
+其他复合式站台车站
 
 ## 站名
 
