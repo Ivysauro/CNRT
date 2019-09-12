@@ -1,13 +1,13 @@
 # 特殊运营方式（中文）/ Special Operations (In Chinese)
 
-## 环行（成环时间）
-- <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁2号线（1987.12）
-- <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁10号线（2013.5）
-- <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海地铁4号线（2007.12）
-- <img src="/images/city/cd.gif" width="20" hegiht="20"/>成都地铁7号线（2017.12）
-- <img src="/images/city/zz.gif" width="20" hegiht="20"/>郑州地铁5号线（2019.5）
+## 环行（开通时间-闭环时间）
+- <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁2号线（1984.9-1987.12，独立环线）
+- <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁10号线（2008.7-2013.5，独立环线）
+- <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海地铁4号线（2005.12-2007.12，共线环线）
+- <img src="/images/city/cd.gif" width="20" hegiht="20"/>成都地铁7号线（2017.12，独立环线）
+- <img src="/images/city/zz.gif" width="20" hegiht="20"/>郑州地铁5号线（2019.5，独立环线）
+- <img src="/images/city/cq.gif" width="20" hegiht="20"/>***重庆地铁环线***（2018.12-，未闭环）
 - <img src="/images/city/wh.gif" width="20" hegiht="20"/>***武汉地铁12号线***
-- <img src="/images/city/cq.gif" width="20" hegiht="20"/>***重庆地铁环线***
 - <img src="/images/city/xa.gif" width="20" hegiht="20"/>***西安地铁8号线***
 
 ## 越行（快车开通时间）
