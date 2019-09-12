@@ -48,9 +48,9 @@
 
 ### 双侧开门
 
-#### 双侧同时关门（可穿行）
+#### 可穿行
 
-同时或异步开门，但同时关门，可穿行
+双侧门有同时打开的时段
 
 - 3号航站楼（<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京，首都机场线）
 - 宋家庄（<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京，10号线，回库车）
@@ -61,19 +61,19 @@
 - 三林（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，11号线，下行小交路）
 - 沈杜公路（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，浦江线）
 - 体育西路（<img src="/images/city/gz.gif" width="20" hegiht="20"/>广州，3号线）
+- 罗湖（<img src="/images/city/hk.gif" width="20" hegiht="20"/>香港，东铁线）
 - 华新（<img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳，3号线，小交路）
+- 福田口岸（<img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳，4号线）
 
-#### 双侧异步关门（不可穿行）
+#### 不可穿行
 
-先开启一侧车门下客，关门后再开启另一侧车门上客
+双侧门没有同时打开的时段
 
 - 西直门（<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京，13号线）
 - 宋家庄（<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京，亦庄线）
-- 罗湖（<img src="/images/city/hk.gif" width="20" hegiht="20"/>香港，东铁线）
 - 西塱（<img src="/images/city/gz.gif" width="20" hegiht="20"/>广州，1号线）
 - 公园前（<img src="/images/city/gz.gif" width="20" hegiht="20"/>广州，1号线、2号线）
 - 罗湖（<img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳，1号线）
-- 福田口岸（<img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳，4号线）
 - 天府广场（<img src="/images/city/cd.gif" width="20" hegiht="20"/>成都，1号线）
 - 磁浮高铁（<img src="/images/city/cs.gif" width="20" hegiht="20"/>长沙，磁浮快线）
 
