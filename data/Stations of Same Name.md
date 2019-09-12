@@ -11,9 +11,9 @@
 | 市民中心 | <img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳2/4、<img src="/images/city/hz.gif" width="20" hegiht="20"/>杭州4、<img src="/images/city/wx.gif" width="20" hegiht="20"/>无锡1、<img src="/images/city/zz.gif" width="20" hegiht="20"/>郑州1 |
 | 火车站 | <img src="/images/city/nn.gif" width="20" hegiht="20"/>南宁1/2、<img src="/images/city/xa.gif" width="20" hegiht="20"/>西安4、<img src="/images/city/wz.gif" width="20" hegiht="20"/>温州S1、<img src="/images/city/lz.gif" width="20" hegiht="20"/>兰州1 |
 | |
+| 机场 | <img src="/images/city/hk.gif" width="20" hegiht="20"/>香港机场、<img src="/images/city/dl.gif" width="20" hegiht="20"/>大连2、<img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳11|
 | 大学城 | <img src="/images/city/tj.gif" width="20" hegiht="20"/>天津3、<img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳5、<img src="/images/city/km.gif" width="20" hegiht="20"/>昆明1 |
 | 鼓楼 | <img src="/images/city/tj.gif" width="20" hegiht="20"/>天津2、<img src="/images/city/nj.gif" width="20" hegiht="20"/>南京1/4、<img src="/images/city/nb.gif" width="20" hegiht="20"/>宁波1/2 |
-| 机场 | <img src="/images/city/hk.gif" width="20" hegiht="20"/>香港机场、<img src="/images/city/dl.gif" width="20" hegiht="20"/>大连2、<img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳11|
 | 人民广场 | <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海1/2/8、<img src="/images/city/dl.gif" width="20" hegiht="20"/>大连2、<img src="/images/city/hz.gif" width="20" hegiht="20"/>杭州2 |
 | 中山公园 | <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海2/3/4、<img src="/images/city/wh.gif" width="20" hegiht="20"/>武汉2、<img src="/images/city/qd.gif" width="20" hegiht="20"/>青岛3 |
 | |
