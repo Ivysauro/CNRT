@@ -27,8 +27,9 @@
 - <img src="/images/city/km.gif" width="20" hegiht="20"/>昆明地铁1号线/2号线
 - <img src="/images/city/zz.gif" width="20" hegiht="20"/>郑州地铁2号线/城郊线
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>***北京地铁1号线/八通线***
-- <img src="/images/city/bj.gif" width="20" hegiht="20"/>***北京地铁9号线/昌平线***（待确认）
-- <img src="/images/city/nj.gif" width="20" hegiht="20"/>***南京地铁S1线/6号线***
+- <img src="/images/city/bj.gif" width="20" hegiht="20"/>***北京地铁9号线/昌平线***
+- <img src="/images/city/hk.gif" width="20" hegiht="20"/>***港铁西铁线/马鞍山线***
+- <img src="/images/city/nj.gif" width="20" hegiht="20"/>***南京地铁6号线/S1线***
 
 ## 跨城
 ### 单线跨城
@@ -46,8 +47,8 @@
 - <img src="/images/city/suz.gif" width="20" hegiht="20"/>***苏州地铁S1线/<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海地铁11号线(昆山地铁S1线)***
 
 ## 拆分
-- <img src="/images/city/nj.gif" width="20" hegiht="20"/>南京地铁1号线/10号线
 - <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州地铁2号线/8号线
+- <img src="/images/city/nj.gif" width="20" hegiht="20"/>南京地铁1号线/10号线
 - <img src="/images/city/gz.gif" width="20" hegiht="20"/>***广州地铁3号线/10号线***
 - <img src="/images/city/cd.gif" width="20" hegiht="20"/>***成都地铁1号线/15号线***
 - <img src="/images/city/suz.gif" width="20" hegiht="20"/>***苏州地铁4号线/7号线***
@@ -73,4 +74,5 @@
 
 ## 停运（停运时间-重开时间）
 - <img src="/images/city/tj.gif" width="20" hegiht="20"/>~~天津地铁1号线~~（2001.10-2006.6）
+- <img src="/images/city/tj.gif" width="20" hegiht="20"/>~~天津地铁9号线~~（2015.8-2015.12-2016.12）
 - <img src="/images/city/km.gif" width="20" hegiht="20"/>~~昆明地铁6号线~~（2016.3-2017.8）
