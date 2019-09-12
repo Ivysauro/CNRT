@@ -169,6 +169,19 @@
 #### <img src="/images/city/zz.gif" width="20" hegiht="20"/>郑州
 - 桐柏路→五一公园（1号线，2016.12）
 
+## 线路名
+
+### 运营期间改过名的线路
+
+#### <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京
+- 一线→1号线
+- 环线→2号线
+- 机场线→首都机场线（2019.9）
+
+#### <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海
+
+#### <img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳
+
 ## 参考资料 /References
 - https://www.zhihu.com/question/279503795
 - https://tieba.baidu.com/p/5818419329
