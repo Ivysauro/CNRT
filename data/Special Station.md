@@ -54,9 +54,9 @@
 
 - 3号航站楼（<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京，首都机场线）
 - 宋家庄（<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京，10号线，回库车）
-- 天津站（<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津，9号线）
 - 机场（<img src="/images/city/hk.gif" width="20" hegiht="20"/>香港，机场快线）
 - 罗湖（<img src="/images/city/hk.gif" width="20" hegiht="20"/>香港，东铁线）
+- 天津站（<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津，9号线）
 - 虹桥2号线航站楼（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，2号线、10号线，上行）
 - 人民广场（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，8号线，下行）
 - 三林（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，11号线，下行小交路）
