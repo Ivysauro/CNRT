@@ -58,8 +58,10 @@
 - 罗湖（<img src="/images/city/hk.gif" width="20" hegiht="20"/>香港，东铁线）
 - 天津站（<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津，9号线）
 - 虹桥2号线航站楼（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，2号线、10号线，上行）
+- 杨高南路（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，7号线，小交路）
 - 人民广场（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，8号线，下行）
 - 三林（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，11号线，下行小交路）
+- 华夏中路（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，13号线，回库车）
 - 沈杜公路（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，浦江线）
 - 体育西路（<img src="/images/city/gz.gif" width="20" hegiht="20"/>广州，3号线）
 - 华新（<img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳，3号线，小交路）
@@ -75,6 +77,8 @@
 - 公园前（<img src="/images/city/gz.gif" width="20" hegiht="20"/>广州，1号线、2号线）
 - 罗湖（<img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳，1号线）
 - 天府广场（<img src="/images/city/cd.gif" width="20" hegiht="20"/>成都，1号线）
+- 太平园（<img src="/images/city/cd.gif" width="20" hegiht="20"/>成都，3号线上行）
+- 火车南站（<img src="/images/city/cd.gif" width="20" hegiht="20"/>成都，7号线）
 - 磁浮高铁（<img src="/images/city/cs.gif" width="20" hegiht="20"/>长沙，磁浮快线）
 
 #### 双侧交替开门
