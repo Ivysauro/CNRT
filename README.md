@@ -19,6 +19,7 @@
 - [住建部互联互通说明（中文）/ Notes of City Union (In Chinese)](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/City%20Union.md)
 - [*计时卡/ Timing Card*](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Timing%20Card.md) 
 - 充值方式/ Payment Methods for Charging Transit Card
+- P+R
 - 票价/ Prices
 - 同车不同温/ Different Temperature on One Train
 
