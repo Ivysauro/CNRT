@@ -24,5 +24,10 @@
 | 天津/ Tianjin | ✅ | ✅ | ✅ | ✅ | ✅ | | |
 | 上海/ Shanghai | ✅ | | ✅ | ✅ | ⭕ | | 上海一卡通 |
 | 广州/ Guangzhou | ✅ | | ✅ | ✅ | ✅ | | 羊城通、岭南通 |
+| 长春/ Changchun |
+| 大连/ Dalian |
+| 武汉/ Wuhan | 
+| 重庆/ Chongqing |
+| 深圳/ Shenzhen |
 
 ## 备注/ Notes
