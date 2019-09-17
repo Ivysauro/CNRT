@@ -22,10 +22,6 @@
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>***北京地铁6号线***
 - <img src="/images/city/gz.gif" width="20" hegiht="20"/>***广州地铁21号线***
 
-## 折返
-### 站前折返
--
-
 ## 换乘
 ### 连续同台换乘（同向在前，反向在后）
 - 旺角&太子（<img src="/images/city/hk.gif" width="20" hegiht="20"/>港铁荃湾线/观塘线）
