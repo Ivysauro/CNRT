@@ -188,6 +188,7 @@
 - 机场线→首都机场线（2019.9）
 
 #### <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海
+- 明珠线→3号线
 
 #### <img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳
 - 1号线→罗宝线→1号线（2008.4，2013.10）
