@@ -27,8 +27,14 @@
 -
 
 ## 换乘
-### 连续同台换乘
+### 连续同台换乘（同向在前，反向在后）
+- 北角&鲗鱼涌（<img src="/images/city/hk.gif" width="20" hegiht="20"/>港铁港岛线/将军澳线）
 -
+- 肿瘤医院&天津宾馆（<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津地铁5/6号线）
+- 中南路&洪山广场（<img src="/images/city/wh.gif" width="20" hegiht="20"/>武汉地铁2/4号线）
+- 冉家坝&大龙山（<img src="/images/city/cq.gif" width="20" hegiht="20"/>重庆地铁5/6号线）
+- 彭埠&火车东站（<img src="/images/city/hz.gif" width="20" hegiht="20"/>杭州地铁1/4号线）
+- 火车站&朝阳广场（<img src="/images/city/nn.gif" width="20" hegiht="20"/>南宁地铁1/2号线）
 
 ## 贯通
 ### 跨城贯通
