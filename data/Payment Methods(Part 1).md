@@ -29,7 +29,7 @@
 | <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州/ Guangzhou | ✅ | ⭕ | ✅ | ✅ | | ✅ | |
 | <img src="/images/city/cc.gif" width="20" hegiht="20"/>长春/ Changchun | ✅ | ✅ | | | | | |
 | <img src="/images/city/dl.gif" width="20" hegiht="20"/>大连/ Dalian | ✅ | ✅ | | | | ✅ | |
-| <img src="/images/city/wh.gif" width="20" hegiht="20"/>武汉/ Wuhan | 🕓 | | | | | ✅ | |
+| <img src="/images/city/wh.gif" width="20" hegiht="20"/>武汉/ Wuhan | 🕓 | 🕓 | | | | ✅ | |
 | <img src="/images/city/cq.gif" width="20" hegiht="20"/>重庆/ Chongqing | 🕓 | 🕓 | | | 🕓 | |
 | <img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳/ Shenzhen | ✅ | ✅ | | ✅ | | ✅ | |
 | <img src="/images/city/nj.gif" width="20" hegiht="20"/>南京/ Nanjing | ✅ | ✅ | ✅ | | 🕓 | ✅ | |
