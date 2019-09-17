@@ -28,9 +28,11 @@
 
 ## 换乘
 ### 连续同台换乘（同向在前，反向在后）
+- 旺角&太子（<img src="/images/city/hk.gif" width="20" hegiht="20"/>港铁荃湾线/观塘线）
 - 北角&鲗鱼涌（<img src="/images/city/hk.gif" width="20" hegiht="20"/>港铁港岛线/将军澳线）
--
+- 调景岭&油塘（<img src="/images/city/hk.gif" width="20" hegiht="20"/>港铁观塘线/将军澳线）
 - 肿瘤医院&天津宾馆（<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津地铁5/6号线）
+- 中正纪念堂/古亭&东门（<img src="/images/city/tp.gif" width="20" hegiht="20"/>台北捷运松山新店线/中和新芦线/淡水信义线）
 - 中南路&洪山广场（<img src="/images/city/wh.gif" width="20" hegiht="20"/>武汉地铁2/4号线）
 - 冉家坝&大龙山（<img src="/images/city/cq.gif" width="20" hegiht="20"/>重庆地铁5/6号线）
 - 彭埠&火车东站（<img src="/images/city/hz.gif" width="20" hegiht="20"/>杭州地铁1/4号线）
