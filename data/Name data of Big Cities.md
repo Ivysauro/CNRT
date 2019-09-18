@@ -53,7 +53,7 @@
 | 济南 | 济 | **Jinan** | Tsinan | TNA | 邮政式拼音 |
 | 青岛 | 青 | **Qingdao** | Tsingtao | TAO | 邮政式拼音 |
 | 烟台 | | **Yantai** | Chefoo | YNT | 邮政式拼音(“芝罘”) |
-| 郑州 | 郑 | **Zhengzhou** | | CGO |
+| 郑州 | 郑 | **Zhengzhou** | Chengchow | CGO |
 | 洛阳 | 洛 | **Luoyang** | | LYA |
 | 开封 | 汴/*开* | **Kaifeng** | 
 | 南阳 | 宛 | **Nanyang** | | NNY | |
