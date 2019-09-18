@@ -44,7 +44,7 @@
 | 江苏交通一卡通·盐城（黄海通） | 盐城（盐通泰）/ Yancheng (Yantongtai) | | ✅ |
 | 江苏交通一卡通·南通 | 南通（盐通泰）/ Nantong (Yantongtai) | ✅ | | | | | | | ✅ |
 | 江苏交通一卡通·徐州（淮海通） | 徐州（徐淮连宿）/ Xuzhou (Xuhuailiansu) | | 🕓 |
-| 宁波甬城通 | 宁波/ Ningbo | 🕓 | 🕓 | | | | | | |
+| 甬城通 | 宁波/ Ningbo | 🕓 | 🕓 | | | | | | |
 | 厦门e通卡 | 厦门/ Xiamen | ✅ |
 | 洪城通 | 南昌/ Nanchang | | 🕓 |
 | 琴岛通	| 青岛/ Qingdao | ✅ | ✅ | | | | | ✅ | ✅ |
