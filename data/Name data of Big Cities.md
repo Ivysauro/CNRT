@@ -107,7 +107,7 @@
 | 江西 | **Jiangxi** | Kiangsi | 邮政式拼音 |
 | 福建 | **Fujian** | Fukien/Foukien | 邮政式拼音 |
 | 广东 | **Guangdong** | Kwangtung | 邮政式拼音 |
-| 四川 | **Sichuan** | Szechwan | 邮政式拼音 |
+| 四川 | **Sichuan** | Szechwan/Szechuan | 邮政式拼音 |
 | 西藏 | ~~Xizang~~ | **Tibet** | 邮政式拼音(“吐蕃”) |
 | 陕西 | Shanxi | **Shaanxi**/Shensi | 国语罗马字/邮政式拼音 |
 | 新疆 | **Xinjiang** | Sinkiang | 邮政式拼音 |
