@@ -88,7 +88,7 @@
 | 西宁 | | **Xining** | Sining | XNN | 邮政式拼音 |
 | 格尔木 | | Ge'ermu | **Golmud** | GOQ | 蒙语 |
 | 银川 | 银 | **Yinchuan** | | INC |
-| 乌鲁木齐 | | Wulumuqi | **Urumqi** | URC | 维语 | 迪化，Tihwa |
+| 乌鲁木齐 | | Wulumuqi | **Urumqi**/Urumchi | URC | 维语 | 迪化，Tihwa |
 | 喀什 | | Kashi | **Kashgar** | KHG | 维语 |
 | 吐鲁番 | | Tulufan | **Turfan/Turpan** | TLQ | 维语 |
 | 克拉玛依 | | Kelamayi | **Karamay/Karamaije** | KRY | 维语 |
@@ -112,9 +112,6 @@
 | 陕西 | Shanxi | **Shaanxi**/Shensi | 国语罗马字/邮政式拼音 |
 | 新疆 | **Xinjiang** | Sinkiang | 邮政式拼音 |
 
-## 感谢/ Thanks
-
-部分内容参考自知乎用户的[回答](https://www.zhihu.com/question/26552511/answer/153189952)
-
 ## 参考资料/ References
+- https://www.zhihu.com/question/26552511/answer/153189952
 - https://cul.qq.com/a/20171118/003322.htm
