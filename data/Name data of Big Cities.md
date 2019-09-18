@@ -8,17 +8,18 @@
 
 *斜体字*为不正式的名称/ *Italics* is an informal name
 
-| 中文名/ Chinese Name | 简称/ Short Name | 拼音/ Bopomofo Name | 常见拉丁名/ General Latin Name | 城市代码/ Metro Area Code | 拉丁名来源/ Origin of Latin Name |
-| :------------------ | :--------------: | :----------------- | :---------------------------- | :-------------------------- | :----------- |
+| 中文名/ Chinese Name | 简称/ Short Name | 拼音/ Bopomofo Name | 常见拉丁名/ General Latin Name | 城市代码/ Metro Area Code | 拉丁名来源/ Origin of Latin Name | 备注/ Notes |
+| :------------------ | :--------------: | :----------------- | :---------------------------- | :-------------------------- | :----------- | :- |
 | 北京 | 京 | **Beijing** | Peking | BJS | 邮政式拼音 |
 | 天津 | 津 | **Tianjin** | Tientsin | TSN | 邮政式拼音 |
 | 石家庄 | 石 | **Shijiazhuang** | | SJW |
+| 承德 | 承 | **Chengde** | Chengteh | CDE | 邮政式拼音 | 热河，Jehol |
 | 张家口 | 张 | **Zhangjiakou** | Kalgan | ZQZ | 邮政式拼音(蒙语) |
 | 太原 | 并(bīng) | **Taiyuan** | | TYN |
 | 大同 | 云/平/同/*大* | **Datong** | | DAT |
 | 长治 | 潞 | **Changzhi** | | CIH |
 | 晋城 | 泽 | **Jincheng** | |
-| 呼和浩特 | 呼 | Huhehaote | **Hohhot** | HET | 蒙语 |
+| 呼和浩特 | 呼 | Huhehaote | **Hohhot** | HET | 蒙语 | 归绥，Kweisui |
 | 沈阳 | 沈 | **Shenyang** | Mukden | SHE | 邮政式拼音(蒙语/满语，“盛京”) |
 | 大连 | 鲲/滨/连/*大* | **Dalian** | Dairen | DLC | 邮政式拼音(日语) |
 | 锦州 | | **Jinzhou** | Chinchow | JNZ | 邮政式拼音 |
@@ -80,13 +81,14 @@
 | 林芝 | | Linzhi | **Nyingchi** | LZY | 藏语 |
 | 那曲 | | Naqu | **Nagchu/Nagqu** | | 藏语 |
 | 西安 | 镐(hào)/*西* | **Xi'an** | Sian | XIY | 邮政式拼音 |
-| 宝鸡 | | **Baoji** | Paoki | | 邮政式拼音 |
+| 宝鸡 | 宝 | **Baoji** | Paoki | | 邮政式拼音 |
+| 延安 | 延 | **Yan'an** | Yenan | ENY | 邮政式拼音 | 
 | 兰州 | 兰/皋 | **Lanzhou** | | LHW |
 | 敦煌 | | **Dunhuang** | Tunhwang | DNH | 邮政式拼音 |
 | 西宁 | | **Xining** | Sining | XNN | 邮政式拼音 |
 | 格尔木 | | Ge'ermu | **Golmud** | GOQ | 蒙语 |
 | 银川 | 银 | **Yinchuan** | | INC |
-| 乌鲁木齐 | | Wulumuqi | **Urumqi** | URC | 维语 |
+| 乌鲁木齐 | | Wulumuqi | **Urumqi** | URC | 维语 | 迪化，Tihwa |
 | 喀什 | | Kashi | **Kashgar** | KHG | 维语 |
 | 吐鲁番 | | Tulufan | **Turfan/Turpan** | TLQ | 维语 |
 | 克拉玛依 | | Kelamayi | **Karamay/Karamaije** | KRY | 维语 |
