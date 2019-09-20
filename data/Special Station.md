@@ -1,5 +1,8 @@
 # 特殊站（中文）/ Special Station (In Chinese)
 
+## 关闭
+- 新华路（<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津，既有线，1984.12-2001.10）
+
 ## 换乘
 
 ### 虚拟换乘（连续计费）
