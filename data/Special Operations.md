@@ -98,11 +98,11 @@
 ## 广播
 ### 多语言
 - <img src="/images/city/hk.gif" width="20" hegiht="20"/>香港，粤国英
-- <img src="/images/city/tp.gif" width="20" hegiht="20"/>台北，国英台客
+- <img src="/images/city/tp.gif" width="20" hegiht="20"/>台北，国英闽客(日)
 - <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州，国粤英
 - <img src="/images/city/dl.gif" width="20" hegiht="20"/>大连，国英(日韩俄)
 - <img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳，国粤英
-- <img src="/images/city/kh.gif" width="20" hegiht="20"/>高雄，国英台客(日)
+- <img src="/images/city/kh.gif" width="20" hegiht="20"/>高雄，国英闽客(日)
 
 ### 男声
 - <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海
