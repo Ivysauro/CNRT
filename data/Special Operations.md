@@ -97,8 +97,34 @@
 
 ## 广播
 ### 多语言
+- <img src="/images/city/hk.gif" width="20" hegiht="20"/>香港，粤国英
+- <img src="/images/city/tp.gif" width="20" hegiht="20"/>台北，国英台客
+- <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州，国粤英
+- <img src="/images/city/dl.gif" width="20" hegiht="20"/>大连，国英(日韩俄)
+- <img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳，国粤英
+- <img src="/images/city/kh.gif" width="20" hegiht="20"/>高雄，国英台客(日)
+
 ### 男声
+- <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海
+- <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州
+- <img src="/images/city/dl.gif" width="20" hegiht="20"/>大连
+- <img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳
+- <img src="/images/city/cd.gif" width="20" hegiht="20"/>成都
+- <img src="/images/city/nj.gif" width="20" hegiht="20"/>南京
+- <img src="/images/city/km.gif" width="20" hegiht="20"/>昆明
+- <img src="/images/city/nb.gif" width="20" hegiht="20"/>宁波
+- <img src="/images/city/hf.gif" width="20" hegiht="20"/>合肥
+
+### 童声
+- <img src="/images/city/tj.gif" width="20" hegiht="20"/>天津，9号线
+- <img src="/images/city/cd.gif" width="20" hegiht="20"/>成都，3号线，熊猫主题列车
+
 ### 音乐
+- <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京，燕房线
+- <img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳，7、9号线
+- <img src="/images/city/sy.gif" width="20" hegiht="20"/>沈阳
+- <img src="/images/city/nj.gif" width="20" hegiht="20"/>南京
+- <img src="/images/city/xa.gif" width="20" hegiht="20"/>西安
 
 ## 参考资料
 - https://www.sohu.com/a/219303964_763498
