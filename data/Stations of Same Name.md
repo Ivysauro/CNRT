@@ -5,7 +5,7 @@
 | :----------------: | :------------------- |
 | 会展中心 | <img src="/images/city/tj.gif" width="20" hegiht="20"/>天津9、<img src="/images/city/cc.gif" width="20" hegiht="20"/>长春3、<img src="/images/city/dl.gif" width="20" hegiht="20"/>大连1、<img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳1/4、<img src="/images/city/xa.gif" width="20" hegiht="20"/>西安2、<img src="/images/city/zz.gif" width="20" hegiht="20"/>郑州1、<img src="/images/city/nn.gif" width="20" hegiht="20"/>南宁1、<img src="/images/city/sjz.gif" width="20" hegiht="20"/>石家庄1 |
 | |
-| 奥体中心 | <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京8、<img src="/images/city/sy.gif" width="20" hegiht="20"/>沈阳2/9、<img src="/images/city/nj.gif" width="20" hegiht="20"/>南京10、<img src="/images/city/zz.gif" width="20" hegiht="20"/>郑州14、<img src="/images/city/nc.gif" width="20" hegiht="20"/>南昌1、<img src="/images/city/cz.gif" width="20" hegiht="20"/>常州1 |
+| 奥体中心 | <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京8、<img src="/images/city/sy.gif" width="20" hegiht="20"/>沈阳2/9、<img src="/images/city/nj.gif" width="20" hegiht="20"/>南京10、<img src="/images/city/zz.gif" width="20" hegiht="20"/>郑州14、<img src="/images/city/nc.gif" width="20" hegiht="20"/>南昌1、<img src="/images/city/wz.gif" width="20" hegiht="20"/>温州S1、<img src="/images/city/cz.gif" width="20" hegiht="20"/>常州1 |
 | |
 | 动物园 | <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京4、<img src="/images/city/gz.gif" width="20" hegiht="20"/>广州5、<img src="/images/city/cq.gif" width="20" hegiht="20"/>重庆2、<img src="/images/city/cd.gif" width="20" hegiht="20"/>成都3、<img src="/images/city/nn.gif" width="20" hegiht="20"/>南宁1 |
 | 园博园 | <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京14、<img src="/images/city/wh.gif" width="20" hegiht="20"/>武汉7、<img src="/images/city/cq.gif" width="20" hegiht="20"/>重庆3、<img src="/images/city/sjz.gif" width="20" hegiht="20"/>石家庄1、<img src="/images/city/jn.gif" width="20" hegiht="20"/>济南1 |
@@ -14,7 +14,6 @@
 | |
 | 体育中心 | <img src="/images/city/tj.gif" width="20" hegiht="20"/>天津5、<img src="/images/city/gz.gif" width="20" hegiht="20"/>广州1、<img src="/images/city/wh.gif" width="20" hegiht="20"/>武汉3、<img src="/images/city/wlmq.gif" width="20" hegiht="20"/>乌鲁木齐1 |
 | 人民广场 | <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海1/2/8、<img src="/images/city/cc.gif" width="20" hegiht="20"/>长春1、<img src="/images/city/dl.gif" width="20" hegiht="20"/>大连2、<img src="/images/city/hz.gif" width="20" hegiht="20"/>杭州2 |
-| 火车站 | <img src="/images/city/nn.gif" width="20" hegiht="20"/>南宁1/2、<img src="/images/city/xa.gif" width="20" hegiht="20"/>西安4、<img src="/images/city/wz.gif" width="20" hegiht="20"/>温州S1、<img src="/images/city/lz.gif" width="20" hegiht="20"/>兰州1 |
 | |
 | 坑口 | <img src="/images/city/hk.gif" width="20" hegiht="20"/>香港将军澳、<img src="/images/city/ty.gif" width="20" hegiht="20"/>桃园机场、<img src="/images/city/gz.gif" width="20" hegiht="20"/>广州1 |
 | 机场 | <img src="/images/city/hk.gif" width="20" hegiht="20"/>香港机场、<img src="/images/city/dl.gif" width="20" hegiht="20"/>大连2、<img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳11|
@@ -28,8 +27,9 @@
 | 植物园 | <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州6、<img src="/images/city/cd.gif" width="20" hegiht="20"/>成都3、<img src="/images/city/wlmq.gif" width="20" hegiht="20"/>乌鲁木齐1 |
 | 珠江路 | <img src="/images/city/nj.gif" width="20" hegiht="20"/>南京1、<img src="/images/city/nc.gif" width="20" hegiht="20"/>南昌1、<img src="/images/city/gy.gif" width="20" hegiht="20"/>贵阳1 |
 | 文化宫 | <img src="/images/city/cd.gif" width="20" hegiht="20"/>成都4/7、<img src="/images/city/wx.gif" width="20" hegiht="20"/>无锡1、<img src="/images/city/cz.gif" width="20" hegiht="20"/>常州1 |
-| 龙岗 | <img src="/images/city/nc.gif" width="20" hegiht="20"/>南昌2、<img src="/images/city/nn.gif" width="20" hegiht="20"/>南宁4、<img src="/images/city/hf.gif" width="20" hegiht="20"/>合肥2 |
 | 长江路 | <img src="/images/city/nb.gif" width="20" hegiht="20"/>宁波1、<img src="/images/city/nc.gif" width="20" hegiht="20"/>南昌1、<img src="/images/city/gy.gif" width="20" hegiht="20"/>贵阳1 |
+| 龙岗 | <img src="/images/city/nc.gif" width="20" hegiht="20"/>南昌2、<img src="/images/city/nn.gif" width="20" hegiht="20"/>南宁4、<img src="/images/city/hf.gif" width="20" hegiht="20"/>合肥2 |
+| 火车站 | <img src="/images/city/nn.gif" width="20" hegiht="20"/>南宁1/2、<img src="/images/city/xa.gif" width="20" hegiht="20"/>西安4、<img src="/images/city/lz.gif" width="20" hegiht="20"/>兰州1 |
 | |
 | 石门 | <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京15、<img src="/images/city/hk.gif" width="20" hegiht="20"/>香港马鞍山 |
 | 复兴门 | <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京1/2、<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津1 |
