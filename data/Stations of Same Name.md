@@ -14,19 +14,19 @@
 | |
 | 体育中心 | <img src="/images/city/tj.gif" width="20" hegiht="20"/>天津5、<img src="/images/city/gz.gif" width="20" hegiht="20"/>广州1、<img src="/images/city/wh.gif" width="20" hegiht="20"/>武汉3、<img src="/images/city/wlmq.gif" width="20" hegiht="20"/>乌鲁木齐1 |
 | 人民广场 | <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海1/2/8、<img src="/images/city/cc.gif" width="20" hegiht="20"/>长春1、<img src="/images/city/dl.gif" width="20" hegiht="20"/>大连2、<img src="/images/city/hz.gif" width="20" hegiht="20"/>杭州2 |
+| 中山公园 | <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海2/3/4、<img src="/images/city/wh.gif" width="20" hegiht="20"/>武汉2、<img src="/images/city/qd.gif" width="20" hegiht="20"/>青岛3、<img src="/images/city/xm.gif" width="20" hegiht="20"/>厦门1 |
+| 文化宫 | <img src="/images/city/cd.gif" width="20" hegiht="20"/>成都4/7、<img src="/images/city/wx.gif" width="20" hegiht="20"/>无锡1、<img src="/images/city/lz.gif" width="20" hegiht="20"/>兰州1、<img src="/images/city/cz.gif" width="20" hegiht="20"/>常州1 |
 | |
 | 坑口 | <img src="/images/city/hk.gif" width="20" hegiht="20"/>香港将军澳、<img src="/images/city/ty.gif" width="20" hegiht="20"/>桃园机场、<img src="/images/city/gz.gif" width="20" hegiht="20"/>广州1 |
 | 机场 | <img src="/images/city/hk.gif" width="20" hegiht="20"/>香港机场、<img src="/images/city/dl.gif" width="20" hegiht="20"/>大连2、<img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳11|
 | 复兴路 | <img src="/images/city/tj.gif" width="20" hegiht="20"/>天津6、<img src="/images/city/wh.gif" width="20" hegiht="20"/>武汉4、<img src="/images/city/hz.gif" width="20" hegiht="20"/>杭州4 |
 | 鼓楼 | <img src="/images/city/tj.gif" width="20" hegiht="20"/>天津2、<img src="/images/city/nj.gif" width="20" hegiht="20"/>南京1/4、<img src="/images/city/nb.gif" width="20" hegiht="20"/>宁波1/2 |
 | 友谊路 | <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海3、<img src="/images/city/wh.gif" width="20" hegiht="20"/>武汉1、<img src="/images/city/cs.gif" width="20" hegiht="20"/>长沙1 |
-| 中山公园 | <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海2/3/4、<img src="/images/city/wh.gif" width="20" hegiht="20"/>武汉2、<img src="/images/city/qd.gif" width="20" hegiht="20"/>青岛3 |
 | 世纪大道 | <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海2/4/6/9、<img src="/images/city/nb.gif" width="20" hegiht="20"/>宁波1、<img src="/images/city/qd.gif" width="20" hegiht="20"/>青岛13 |
 | 板桥 | <img src="/images/city/tp.gif" width="20" hegiht="20"/>台北板南、<img src="/images/city/gz.gif" width="20" hegiht="20"/>广州7、<img src="/images/city/wh.gif" width="20" hegiht="20"/>武汉7 |
 | 大剧院 | <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州APM、<img src="/images/city/cq.gif" width="20" hegiht="20"/>重庆6、<img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳1/2 |
 | 植物园 | <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州6、<img src="/images/city/cd.gif" width="20" hegiht="20"/>成都3、<img src="/images/city/wlmq.gif" width="20" hegiht="20"/>乌鲁木齐1 |
 | 珠江路 | <img src="/images/city/nj.gif" width="20" hegiht="20"/>南京1、<img src="/images/city/nc.gif" width="20" hegiht="20"/>南昌1、<img src="/images/city/gy.gif" width="20" hegiht="20"/>贵阳1 |
-| 文化宫 | <img src="/images/city/cd.gif" width="20" hegiht="20"/>成都4/7、<img src="/images/city/wx.gif" width="20" hegiht="20"/>无锡1、<img src="/images/city/cz.gif" width="20" hegiht="20"/>常州1 |
 | 长江路 | <img src="/images/city/nb.gif" width="20" hegiht="20"/>宁波1、<img src="/images/city/nc.gif" width="20" hegiht="20"/>南昌1、<img src="/images/city/gy.gif" width="20" hegiht="20"/>贵阳1 |
 | 龙岗 | <img src="/images/city/nc.gif" width="20" hegiht="20"/>南昌2、<img src="/images/city/nn.gif" width="20" hegiht="20"/>南宁4、<img src="/images/city/hf.gif" width="20" hegiht="20"/>合肥2 |
 | 火车站 | <img src="/images/city/nn.gif" width="20" hegiht="20"/>南宁1/2、<img src="/images/city/xa.gif" width="20" hegiht="20"/>西安4、<img src="/images/city/lz.gif" width="20" hegiht="20"/>兰州1 |
