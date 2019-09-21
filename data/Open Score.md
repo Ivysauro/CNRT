@@ -54,6 +54,7 @@
 | <img src="/images/city/wz.gif" width="20" hegiht="20"/>温州/ Wenzhou | ⭕ | ⭕ | ✅ | ❌ | ❌ | 40 | 
 | <img src="/images/city/jn.gif" width="20" hegiht="20"/>济南/ Jinan | ⭕ | ⭕ | ❌ | ✅ | ❌ | 40 |
 | <img src="/images/city/lz.gif" width="20" hegiht="20"/>兰州/ Lanzhou | ⭕ | ⭕ | ⭕ | ✅ | ❌ | 50 |
+| <img src="/images/city/cz.gif" width="20" hegiht="20"/>常州/ Changzhou |
 | <img src="/images/city/hk.gif" width="20" hegiht="20"/>香港/ Hong Kong | ⭕ | ⭕ | [⭕](https://www.unionpayintl.com/cn/mediaCenter/newsCenter/companyNews/4733.shtml) | ❌ | ✅ | 50 |
 | <img src="/images/city/tp.gif" width="20" hegiht="20"/><img src="/images/city/ty.gif" width="20" hegiht="20"/>台北&桃园/ Taipei & Taoyuan | | | | | | - |
 | <img src="/images/city/kh.gif" width="20" hegiht="20"/>高雄/ Kaohsiung | | | | | | - |
