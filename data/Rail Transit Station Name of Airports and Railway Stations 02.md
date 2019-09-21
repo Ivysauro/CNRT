@@ -50,8 +50,8 @@ RS is short for "Railway Station"
 | Wenzhou | *Wenzhou RS*/ Wenzhou  | South RS/ Wenzhounan | *Airport*/ Wenzhou Longwan | |
 | Jinan | | JINAN WEST RAILWAY STATION/ Jinanxi, *JINAN EAST RAILWAY STATION*/ Jinandong | *YAOQIANG AIRPORT*/ Jinan Yaoqiang | *LISHILINGYUAN*/ Licheng |
 | Lanzhou | *Lanzhou RS*/ Lanzhou | North Square of Lanzhou West RS/ Lanzhouxi | | |
+| Changzhou | Changzhou RS/ Changzhou | Changzhou North RS/ Changzhoubei | | |
 | *Xuzhou* | *Xuzhou RS*/ Xuzhou | *Xuzhou East RS*/ Xuzhoudong | | |
-| *Changzhou* | *Changzhou RS*/ Changzhou | *Changzhou North RS*/ Changzhoubei | | |
 | *Hohhot* | *Hohhot RS*/ Huhehaote | *Hohhot East Station*/ Huhehaotedong | *White Pagoda*/ Hohhot Baita, *Bayan Country*/Hohhot Baita | |
 | *Wuhu* | *Wuhu RS*/ Wuhu | | | *Yijiang RS*/ Yijiang |
 | *Taiyuan* | *Taiyuan RS*/ Taiyuan | *Taiyuan South RS*/ Taiyuannan | *Wusu International Airport*/ Taiyuan Wusu | |
