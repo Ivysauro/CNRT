@@ -42,6 +42,7 @@
 | 枣园 | <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京4、<img src="/images/city/xa.gif" width="20" hegiht="20"/>西安1 |
 | 朝阳门 | <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京2/6、<img src="/images/city/xa.gif" width="20" hegiht="20"/>西安2 |
 | 北苑 | <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京13、<img src="/images/city/xa.gif" width="20" hegiht="20"/>西安2 |
+| 西苑 | <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京4/16、<img src="/images/city/km.gif" width="20" hegiht="20"/>昆明3 |
 | 迪士尼 | <img src="/images/city/hk.gif" width="20" hegiht="20"/>香港迪士尼、<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海11 |
 | 东涌 | <img src="/images/city/hk.gif" width="20" hegiht="20"/>香港东涌、<img src="/images/city/gz.gif" width="20" hegiht="20"/>广州4 |
 | 车公庙 | <img src="/images/city/hk.gif" width="20" hegiht="20"/>香港马鞍山、<img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳1/7/9/11 |
