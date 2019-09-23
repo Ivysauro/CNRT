@@ -51,7 +51,7 @@ RS is short for "Railway Station"
 | Jinan | | JINAN WEST RAILWAY STATION/ Jinanxi, *JINAN EAST RAILWAY STATION*/ Jinandong | *YAOQIANG AIRPORT*/ Jinan Yaoqiang | *LISHILINGYUAN*/ Licheng |
 | Lanzhou | *Lanzhou RS*/ Lanzhou | North Square of Lanzhou West RS/ Lanzhouxi | | |
 | Changzhou | Changzhou RS/ Changzhou | Changzhou North RS/ Changzhoubei | | |
-| *Xuzhou* | *Xuzhou RS*/ Xuzhou | *Xuzhou East RS*/ Xuzhoudong | | |
+| *Xuzhou* | *Xuzhou RS*/ Xuzhou | *Xuzhoudong RS*/ Xuzhoudong | | |
 | *Hohhot* | *Hohhot RS*/ Huhehaote | *Hohhot East Station*/ Huhehaotedong | *White Pagoda*/ Hohhot Baita, *Bayan Country*/Hohhot Baita | |
 | *Wuhu* | *Wuhu RS*/ Wuhu | | | *Yijiang RS*/ Yijiang |
 | *Taiyuan* | *Taiyuan RS*/ Taiyuan | *Taiyuan South RS*/ Taiyuannan | *Wusu International Airport*/ Taiyuan Wusu | |
@@ -76,7 +76,7 @@ Outside the brackets is <img src="/images/CR.png" width="15" hegiht="15" alt="Ch
 - Tranditional name of the area: Chongqing (Lianglukou), Shenzhen (Luohu), Chengdu (North RS), Hangzhou (Chengzhan)
 
 ### Assisted Main Station
-- xxy RS: Wuxidong (Wuxidong RS), Hefeinan (Hefeinan RS), Guiyangbei (Guiyangbei RS), Luoyang-Longmen (*Luoyanglongmen RS*)
+- xxy RS: Wuxidong (Wuxidong RS), Hefeinan (Hefeinan RS), Guiyangbei (Guiyangbei RS), Xuzhoudong (Xuzhoudong RS), Luoyang-Longmen (*Luoyanglongmen RS*)
 - xx z RS: Beijingxi (Beijing West RS), Guangzhounan (Guangzhou South RS), Dalianbei (Dalian North RS), etc.
 - z xx RS: Chengdudong (East Chengdu RS), Shanghaixi (*West Shanghai RS*, former name)
 - y: Xiamen-Gaoqi (Gaoqi), Shenzhen-Pingshan (*Pingshan*)
