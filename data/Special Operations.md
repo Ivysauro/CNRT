@@ -71,6 +71,7 @@
 - <img src="/images/city/hk.gif" width="20" hegiht="20"/>港铁将军澳线
 - <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海地铁10号线
 - <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海地铁11号线
+- <img src="/images/city/tp.gif" width="20" hegiht="20"/>台北捷运中和新芦线
 - <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州地铁3号线
 - <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州地铁14号线
 - <img src="/images/city/hz.gif" width="20" hegiht="20"/>昆明地铁1号线
@@ -89,16 +90,16 @@
 - <img src="/images/city/suz.gif" width="20" hegiht="20"/>苏州地铁4号线支线
 - <img src="/images/city/sz.gif" width="20" hegiht="20"/>***深圳地铁7号线(文体公园)支线***
 
-## 拆分
+## 拆分（拆分时间）
 ### 支线拆分
-- <img src="/images/city/nj.gif" width="20" hegiht="20"/>南京地铁1号线/10号线
+- <img src="/images/city/nj.gif" width="20" hegiht="20"/>南京地铁1号线/10号线（2014.6）
 - <img src="/images/city/gz.gif" width="20" hegiht="20"/>***广州地铁3号线/10号线***
 - <img src="/images/city/cd.gif" width="20" hegiht="20"/>***成都地铁1号线/15号线***
 - <img src="/images/city/suz.gif" width="20" hegiht="20"/>***苏州地铁4号线/7号线***
 - <img src="/images/city/hz.gif" width="20" hegiht="20"/>***杭州地铁1号线/9号线***
 
 ### 贯通拆分/一分为二
-- <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州地铁2号线/8号线
+- <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州地铁2号线/8号线（2010.9）
 - <img src="/images/city/km.gif" width="20" hegiht="20"/>***北京地铁13A线/13B线***
 - <img src="/images/city/km.gif" width="20" hegiht="20"/>***昆明地铁1号线/2号线***
 - <img src="/images/city/zz.gif" width="20" hegiht="20"/>***郑州地铁2号线/9号线***
