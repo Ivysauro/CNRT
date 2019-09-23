@@ -17,6 +17,7 @@
 
 ## 越行（快车开通时间）
 - <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海地铁16号线（2013.12试行，2016.3正式）
+- <img src="/images/city/ty.gif" width="20" hegiht="20"/>桃园机场捷运（2017.3）
 - <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州地铁14号线（2018.12）
 - <img src="/images/city/nj.gif" width="20" hegiht="20"/>南京地铁S9线（2019.6）
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>***北京地铁6号线***
@@ -64,6 +65,18 @@
 - <img src="/images/city/nj.gif" width="20" hegiht="20"/>***南京地铁3号线/<img src="/images/city/nj.gif" width="20" hegiht="20"/>南京地铁S4线(滁州地铁1号线)***
 - <img src="/images/city/suz.gif" width="20" hegiht="20"/>***苏州地铁S1线/<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海地铁11号线(昆山地铁S1线)***
 
+## 支线
+### 交替发车支线
+- <img src="/images/city/hk.gif" width="20" hegiht="20"/>港铁东铁线
+- <img src="/images/city/hk.gif" width="20" hegiht="20"/>港铁将军澳线
+- <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海地铁10号线
+- <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海地铁11号线
+- <img src="/images/city/bj.gif" width="20" hegiht="20"/>***北京地铁燕房线***
+
+### 独立支线
+- <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海地铁5号线支线
+- <img src="/images/city/suz.gif" width="20" hegiht="20"/>苏州地铁4号线支线
+
 ## 拆分
 - <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州地铁2号线/8号线
 - <img src="/images/city/nj.gif" width="20" hegiht="20"/>南京地铁1号线/10号线
@@ -94,6 +107,11 @@
 - <img src="/images/city/tj.gif" width="20" hegiht="20"/>~~天津地铁1号线~~（2001.10-2006.6）
 - <img src="/images/city/tj.gif" width="20" hegiht="20"/>~~天津地铁9号线~~（2015.8-2015.12-2016.12）
 - <img src="/images/city/km.gif" width="20" hegiht="20"/>~~昆明地铁6号线~~（2016.3-2017.8）
+
+## 座席
+### 商务车厢
+- <img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳地铁11号线
+- <img src="/images/city/bj.gif" width="20" hegiht="20"/>***北京地铁大兴机场线***
 
 ## 广播
 ### 多语言
