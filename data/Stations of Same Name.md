@@ -1,5 +1,7 @@
 # 同名站（中文）/ Stations of Same Name (In Chinese)
 
+有轨电车站不计入
+
 ## 主表/ Content
 | 站名/ Station Name | 归属/ Affiliated City |
 | :----------------: | :------------------- |
