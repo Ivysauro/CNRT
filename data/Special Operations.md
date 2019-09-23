@@ -85,17 +85,22 @@
 - <img src="/images/city/dl.gif" width="20" hegiht="20"/>大连地铁3号线(九里)支线
 - <img src="/images/city/cq.gif" width="20" hegiht="20"/>重庆单轨3号线(空港)支线
 - <img src="/images/city/cq.gif" width="20" hegiht="20"/>重庆地铁6号线(国博)支线
+- <img src="/images/city/cd.gif" width="20" hegiht="20"/>成都地铁1号线(五根松)支线
 - <img src="/images/city/suz.gif" width="20" hegiht="20"/>苏州地铁4号线支线
 - <img src="/images/city/sz.gif" width="20" hegiht="20"/>***深圳地铁7号线(文体公园)支线***
 
 ## 拆分
-- <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州地铁2号线/8号线
+### 支线拆分
 - <img src="/images/city/nj.gif" width="20" hegiht="20"/>南京地铁1号线/10号线
 - <img src="/images/city/gz.gif" width="20" hegiht="20"/>***广州地铁3号线/10号线***
 - <img src="/images/city/cd.gif" width="20" hegiht="20"/>***成都地铁1号线/15号线***
 - <img src="/images/city/suz.gif" width="20" hegiht="20"/>***苏州地铁4号线/7号线***
-- <img src="/images/city/km.gif" width="20" hegiht="20"/>***昆明地铁1号线/2号线***
 - <img src="/images/city/hz.gif" width="20" hegiht="20"/>***杭州地铁1号线/9号线***
+
+### 贯通拆分/一分为二
+- <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州地铁2号线/8号线
+- <img src="/images/city/km.gif" width="20" hegiht="20"/>***北京地铁13A线/13B线***
+- <img src="/images/city/km.gif" width="20" hegiht="20"/>***昆明地铁1号线/2号线***
 - <img src="/images/city/zz.gif" width="20" hegiht="20"/>***郑州地铁2号线/9号线***
 
 ## 分段（具体分段）
