@@ -67,12 +67,13 @@
 
 ## 支线
 ### 交替发车支线
-- <img src="/images/city/hk.gif" width="20" hegiht="20"/>港铁东铁线
+- <img src="/images/city/hk.gif" width="20" hegiht="20"/>港铁东铁线，罗湖/落马洲
+- <img src="/images/city/hk.gif" width="20" hegiht="20"/>港铁东铁线，火炭/马场
 - <img src="/images/city/hk.gif" width="20" hegiht="20"/>港铁将军澳线
 - <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海地铁10号线
 - <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海地铁11号线
 - <img src="/images/city/tp.gif" width="20" hegiht="20"/>台北捷运中和新芦线
-- <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州地铁3号线
+- <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州地铁3号线，主支线无共线段
 - <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州地铁14号线
 - <img src="/images/city/hz.gif" width="20" hegiht="20"/>昆明地铁1号线
 - <img src="/images/city/hz.gif" width="20" hegiht="20"/>杭州地铁1号线
