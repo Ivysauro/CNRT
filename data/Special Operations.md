@@ -73,6 +73,8 @@
 - <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海地铁11号线
 - <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州地铁3号线
 - <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州地铁14号线
+- <img src="/images/city/hz.gif" width="20" hegiht="20"/>昆明地铁1号线
+- <img src="/images/city/hz.gif" width="20" hegiht="20"/>杭州地铁1号线
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>***北京地铁22号线***
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>***北京地铁燕房线***
 
@@ -80,8 +82,11 @@
 - <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海地铁5号线支线
 - <img src="/images/city/tp.gif" width="20" hegiht="20"/>台北捷运新北投支线
 - <img src="/images/city/tp.gif" width="20" hegiht="20"/>台北捷运小碧潭支线
-- <img src="/images/city/dl.gif" width="20" hegiht="20"/>大连地铁3号线支线
+- <img src="/images/city/dl.gif" width="20" hegiht="20"/>大连地铁3号线(九里)支线
+- <img src="/images/city/cq.gif" width="20" hegiht="20"/>重庆单轨3号线(空港)支线
+- <img src="/images/city/cq.gif" width="20" hegiht="20"/>重庆地铁6号线(国博)支线
 - <img src="/images/city/suz.gif" width="20" hegiht="20"/>苏州地铁4号线支线
+- <img src="/images/city/sz.gif" width="20" hegiht="20"/>***深圳地铁7号线(文体公园)支线***
 
 ## 拆分
 - <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州地铁2号线/8号线
