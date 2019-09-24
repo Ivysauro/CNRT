@@ -45,7 +45,7 @@
 | 万寿路 | <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京1、<img src="/images/city/xa.gif" width="20" hegiht="20"/>西安1 |
 | 和平门 | <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京2、<img src="/images/city/xa.gif" width="20" hegiht="20"/>西安4 |
 | 枣园 | <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京4、<img src="/images/city/xa.gif" width="20" hegiht="20"/>西安1 |
-| 朝阳门 | <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京2/6、<img src="/images/city/xa.gif" width="20" hegiht="20"/>西安2 |
+| 朝阳门 | <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京2/6、<img src="/images/city/xa.gif" width="20" hegiht="20"/>西安1 |
 | 北苑 | <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京13、<img src="/images/city/xa.gif" width="20" hegiht="20"/>西安2 |
 | 西苑 | <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京4/16、<img src="/images/city/km.gif" width="20" hegiht="20"/>昆明3 |
 | 迪士尼 | <img src="/images/city/hk.gif" width="20" hegiht="20"/>香港迪士尼、<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海11 |
