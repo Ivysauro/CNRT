@@ -10,6 +10,7 @@
 | <img src="/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay"/> | 微信支付 | WeChat Pay |
 | <img src="/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay QR Code"/> | 银联二维码 | Unionpay QR Code |
 | <img src="/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | [银联云闪付](https://zh.wikipedia.org/wiki/%E9%97%AA%E4%BB%98#%E4%BA%91%E9%97%AA%E4%BB%98) | [Unionpay Quickpass](https://en.wikipedia.org/wiki/UnionPay#QuickPass) |
+| 💳 | 交通卡 | Transit Card |
 
 | 图标/ Icon | 中文/ Chinese | 英文/ English |
 | :-: | :- | :- |
@@ -18,8 +19,10 @@
 
 ## 线下购票/ Buying Tickets on machines 
 
-| 城市/ City | <img src="/images/Alipay.png" width="30" hegiht="30" alt="Alipay"/> | <img src="/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay"/> | <img src="/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay QR Code"/> | <img src="/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> |
-| --------- | :----------: | :-------------: | :----------------: | :-----------------: |
+各地轨道交通官方应用线下扫码购票数据暂缺/ No data for scanning QR code by local official apps so far
+
+| 城市/ City | <img src="/images/Alipay.png" width="30" hegiht="30" alt="Alipay"/> | <img src="/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay"/> | <img src="/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay QR Code"/> | <img src="/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | 💳 |
+| --------- | :----------: | :-------------: | :----------------: | :-----------------: | :-: |
 | <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京/ Beijing | ✅ | ✅ |
 | <img src="/images/city/tj.gif" width="20" hegiht="20"/>天津/ Tianjin | ⭕ | ⭕ |
 | <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海/ Shanghai | ⭕ | ⭕ | ⭕ |
@@ -31,7 +34,7 @@
 | <img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳/ Shenzhen | ✅ | ✅ |
 | <img src="/images/city/nj.gif" width="20" hegiht="20"/>南京/ Nanjing | ⭕ | ⭕ |
 | <img src="/images/city/sy.gif" width="20" hegiht="20"/>沈阳/ Shenyang |
-| <img src="/images/city/cd.gif" width="20" hegiht="20"/>成都/ Chengdu | ✅ | ✅ |
+| <img src="/images/city/cd.gif" width="20" hegiht="20"/>成都/ Chengdu | ✅ | ✅ | | | ✅ |
 | <img src="/images/city/xa.gif" width="20" hegiht="20"/>西安/ Xi'an | ⭕ | ⭕ |
 | <img src="/images/city/suz.gif" width="20" hegiht="20"/>苏州/ Suzhou |
 | <img src="/images/city/km.gif" width="20" hegiht="20"/>昆明/ Kunming | | | ⭕ |
@@ -55,7 +58,7 @@
 | <img src="/images/city/jn.gif" width="20" hegiht="20"/>济南/ Jinan | ✅ | ✅ |
 | <img src="/images/city/lz.gif" width="20" hegiht="20"/>兰州/ Lanzhou | ✅ | ✅ | ✅ |
 | <img src="/images/city/cz.gif" width="20" hegiht="20"/>常州/ Changzhou | ✅ | ✅ | ✅ |
-| <img src="/images/city/hk.gif" width="20" hegiht="20"/>香港/ Hong Kong | ⭕ | ⭕ |
+| <img src="/images/city/hk.gif" width="20" hegiht="20"/>香港/ Hong Kong | ⭕ | ⭕ | | | ✅ |
 | <img src="/images/city/tp.gif" width="20" hegiht="20"/>台北/ Taipei |
 | <img src="/images/city/kh.gif" width="20" hegiht="20"/>高雄/ Kaohsiung |
 | | <img src="/images/Alipay.png" width="30" hegiht="30" alt="Alipay"/> | <img src="/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay"/> | <img src="/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay QR Code"/> | <img src="/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> |
