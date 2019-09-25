@@ -75,7 +75,7 @@
 | 金马路 | <img src="/images/city/dl.gif" width="20" hegiht="20"/>大连3、<img src="/images/city/suz.gif" width="20" hegiht="20"/>南京2/4 |
 | 星海广场 | <img src="/images/city/dl.gif" width="20" hegiht="20"/>大连1、<img src="/images/city/suz.gif" width="20" hegiht="20"/>苏州1 |
 | 保税区 | <img src="/images/city/dl.gif" width="20" hegiht="20"/>大连3、<img src="/images/city/xa.gif" width="20" hegiht="20"/>西安3 |
-| 王家湾 | <img src="/images/city/wh.gif" width="20" hegiht="20"/>武汉4、<img src="/images/city/nj.gif" width="20" hegiht="20"/>南京4 |
+| 王家湾 | <img src="/images/city/wh.gif" width="20" hegiht="20"/>武汉3/4、<img src="/images/city/nj.gif" width="20" hegiht="20"/>南京4 |
 | 东亭 | <img src="/images/city/wh.gif" width="20" hegiht="20"/>武汉4、<img src="/images/city/wx.gif" width="20" hegiht="20"/>无锡2 |
 | 五里墩 | <img src="/images/city/wh.gif" width="20" hegiht="20"/>武汉4、<img src="/images/city/hf.gif" width="20" hegiht="20"/>合肥2 |
 | 双凤桥 | <img src="/images/city/cq.gif" width="20" hegiht="20"/>重庆3、<img src="/images/city/cd.gif" width="20" hegiht="20"/>成都3 |
