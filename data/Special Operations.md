@@ -43,31 +43,34 @@
 ### 跨城贯通
 - <img src="/images/city/hz.gif" width="20" hegiht="20"/>*杭州地铁柯桥线/<img src="/images/city/sx.gif" width="20" hegiht="20"/>绍兴地铁1号线*
 
-### 同城贯通
-- <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁4号线/大兴线
-- <img src="/images/city/nj.gif" width="20" hegiht="20"/>南京地铁S1线/S7线（部分车次）
-- <img src="/images/city/km.gif" width="20" hegiht="20"/>昆明地铁1号线/2号线
-- <img src="/images/city/zz.gif" width="20" hegiht="20"/>郑州地铁2号线/城郊线
+### 同城贯通（贯通时间）
+- <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁4号线/大兴线（2010.12）
+- <img src="/images/city/nj.gif" width="20" hegiht="20"/>南京地铁S1线/S7线（部分车次）（2018.5）
+- <img src="/images/city/km.gif" width="20" hegiht="20"/>昆明地铁1号线/2号线（2014.4）
+- <img src="/images/city/zz.gif" width="20" hegiht="20"/>郑州地铁2号线/城郊线（2017.1）
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>***北京地铁1号线/八通线***
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>***北京地铁9号线/昌平线***
 - <img src="/images/city/hk.gif" width="20" hegiht="20"/>***港铁西铁线/马鞍山线***
 - <img src="/images/city/nj.gif" width="20" hegiht="20"/>***南京地铁6号线/S1线***
 
 ## 跨城
-### 单线跨城
-- <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁大兴机场线
-- <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海地铁11号线(昆山地铁S1线)
-- <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州地铁广佛线(<img src="/images/city/fs.gif" width="20" hegiht="20"/>佛山地铁1号线)
-- <img src="/images/city/xa.gif" width="20" hegiht="20"/>西安地铁1号线
-- <img src="/images/city/bj.gif" width="20" hegiht="20"/>***北京地铁22号线***
-- <img src="/images/city/wh.gif" width="20" hegiht="20"/>***武汉地铁11号线***
-- <img src="/images/city/nj.gif" width="20" hegiht="20"/>***南京地铁S3线***
-- <img src="/images/city/zz.gif" width="20" hegiht="20"/>***郑州地铁17号线***
-- <img src="/images/city/cs.gif" width="20" hegiht="20"/>***长沙地铁3号线***
+### 单线跨城（具体城市及跨城时间）
+- <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁大兴机场线（北京&廊坊，2019.9）
+- <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海地铁11号线（上海&苏州昆山，2013.10）
+- <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州地铁广佛线(<img src="/images/city/fs.gif" width="20" hegiht="20"/>佛山地铁1号线)（广州&佛山，2010.11）
+- <img src="/images/city/xa.gif" width="20" hegiht="20"/>西安地铁1号线（西安&咸阳，2019.9）
+- <img src="/images/city/bj.gif" width="20" hegiht="20"/>***北京地铁22号线***（北京&廊坊三河）
+- <img src="/images/city/wh.gif" width="20" hegiht="20"/>***武汉地铁11号线***（武汉&鄂州）
+- <img src="/images/city/nj.gif" width="20" hegiht="20"/>***南京地铁S3线***（南京&马鞍山）
+- <img src="/images/city/nj.gif" width="20" hegiht="20"/>***南京地铁S4线***（南京&滁州）
+- <img src="/images/city/nj.gif" width="20" hegiht="20"/>***南京地铁S6线***（南京&镇江句容）
+- <img src="/images/city/nj.gif" width="20" hegiht="20"/>***南京地铁S9线***（南京&滁州天长）
+- <img src="/images/city/zz.gif" width="20" hegiht="20"/>***郑州地铁17号线***（郑州&许昌）
+- <img src="/images/city/cs.gif" width="20" hegiht="20"/>***长沙地铁3号线***（长沙&湘潭）
 
 ### 跨城连通
 - <img src="/images/city/nj.gif" width="20" hegiht="20"/>***南京地铁3号线/<img src="/images/city/nj.gif" width="20" hegiht="20"/>南京地铁S4线(滁州地铁1号线)***
-- <img src="/images/city/suz.gif" width="20" hegiht="20"/>***苏州地铁S1线/<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海地铁11号线(昆山地铁S1线)***
+- <img src="/images/city/suz.gif" width="20" hegiht="20"/>***苏州地铁S1线/<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海地铁11号线***
 
 ## 支线
 ### 交替发车支线
@@ -131,13 +134,13 @@
 - <img src="/images/city/km.gif" width="20" hegiht="20"/>~~昆明地铁6号线~~（2016.3-2017.8）
 
 ## 座席
-### 商务车厢
-- <img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳地铁11号线
-- <img src="/images/city/bj.gif" width="20" hegiht="20"/>***北京地铁大兴机场线***
+### 商务车厢（运营时间）
+- <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁大兴机场线（2019.9）
+- <img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳地铁11号线（2016.6）
 
 ### 女性优先车厢
-- <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州（试行）
-- <img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳（试行）
+- <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州（2017.6试行）
+- <img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳（2017.6试行）
 
 ## 广播
 ### 多语言
