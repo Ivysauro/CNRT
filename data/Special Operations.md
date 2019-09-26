@@ -47,7 +47,7 @@
 ### 同城贯通（贯通时间）
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁1号线/复八线（2000.6）
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁4号线/大兴线（2010.12）
-- <img src="/images/city/nj.gif" width="20" hegiht="20"/>南京地铁S1线/S7线（部分车次）（2018.5）
+- <img src="/images/city/nj.gif" width="20" hegiht="20"/>南京地铁S1线/S7线（2018.5，部分车次）
 - <img src="/images/city/km.gif" width="20" hegiht="20"/>昆明地铁1号线/2号线（2014.4）
 - <img src="/images/city/zz.gif" width="20" hegiht="20"/>郑州地铁2号线/城郊线（2017.1）
 - <img src="/images/city/tp.gif" width="20" hegiht="20"/>~~台北捷运……~~
