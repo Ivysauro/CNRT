@@ -58,10 +58,10 @@
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁大兴机场线
 - <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海地铁11号线(昆山地铁S1线)
 - <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州地铁广佛线(<img src="/images/city/fs.gif" width="20" hegiht="20"/>佛山地铁1号线)
+- <img src="/images/city/xa.gif" width="20" hegiht="20"/>西安地铁1号线
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>***北京地铁22号线***
 - <img src="/images/city/wh.gif" width="20" hegiht="20"/>***武汉地铁11号线***
 - <img src="/images/city/nj.gif" width="20" hegiht="20"/>***南京地铁S3线***
-- <img src="/images/city/xa.gif" width="20" hegiht="20"/>***西安地铁1号线***
 - <img src="/images/city/zz.gif" width="20" hegiht="20"/>***郑州地铁17号线***
 - <img src="/images/city/cs.gif" width="20" hegiht="20"/>***长沙地铁3号线***
 
