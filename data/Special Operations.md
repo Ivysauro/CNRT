@@ -164,11 +164,12 @@
 - <img src="/images/city/cd.gif" width="20" hegiht="20"/>成都，3号线，熊猫主题列车
 
 ### 音乐
-- <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京，燕房线
+- <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京，燕房线、大兴机场线
 - <img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳，7、9号线
 - <img src="/images/city/sy.gif" width="20" hegiht="20"/>沈阳
 - <img src="/images/city/nj.gif" width="20" hegiht="20"/>南京
 - <img src="/images/city/xa.gif" width="20" hegiht="20"/>西安
+- <img src="/images/city/cs.gif" width="20" hegiht="20"/>长沙
 
 ## 参考资料
 - https://www.sohu.com/a/219303964_763498
