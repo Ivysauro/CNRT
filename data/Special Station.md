@@ -1,7 +1,12 @@
 # 特殊站（中文）/ Special Station (In Chinese)
 
 ## 关闭
+### 永久关闭
 - 新华路（<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津，既有线，1984.12-2001.10）
+
+### 封站改造
+
+### 暂缓开通
 
 ## 换乘
 
@@ -89,6 +94,8 @@
 其他复合式站台车站
 
 ## 站名
+
+### 双站名（三站名）
 
 ### 带有数字/字母（机场区域除外）
 - 双D港（<img src="/images/city/dl.gif" width="20" hegiht="20"/>大连，3号线）
