@@ -146,6 +146,10 @@
 - <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州（2017.6试行）
 - <img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳（2017.6试行）
 
+### 行李车厢（启用时间）
+- <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁大兴机场线（2019.9）
+- <img src="/images/city/cs.gif" width="20" hegiht="20"/>长沙磁浮快线（2019.3）
+
 ## 广播
 ### 多语言
 - <img src="/images/city/hk.gif" width="20" hegiht="20"/>香港，粤国英
