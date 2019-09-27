@@ -11,7 +11,7 @@
 | 城市/ City | 应用名/ App Name | 归属/ Ownership | 信息公告/ Notice | 购票/ Buying Tickets | 扫码过闸/ Passing QR Code | 支付方式/ Payment Method | 其他功能/ Other Functions |
 | :- | :- | :- | :-: | :-: | :-: | :- | :- | 
 | 北京/ Beijing | 北京地铁 | 地铁 | ✅ |
-| 北京/ Beijing | 亿通行 | 合资 | ✅ | ✅ | ✅ | 支付宝、微信、银联、京东 |
+| 北京/ Beijing | 亿通行 | 合资 | ✅ | ✅ | ✅ | 支付宝、微信、银联、京东 | 刷脸过闸（仅大兴机场线） |
 | 北京/ Beijing | 北京公交 | 公交 | | | ✅ | 支付宝 |
 | 北京/ Beijing | 北京一卡通 | 通卡 | | | | ? | 云卡 |
 | 香港/ Hong Kong | 港铁MTR Mobile | 地铁 | ✅ |
