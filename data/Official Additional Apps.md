@@ -57,7 +57,7 @@
 | 济南/ Jinan | 济南地铁 | 地铁 | ✅ | ✅ | ✅ | 支付宝、微信、银联 | 刷脸过闸 |
 | 兰州/ Lanzhou | 兰州轨道 | 地铁 | ✅ | | ✅ | 银联 |
 | 常州/ Changzhou | 常州地铁Metro | 地铁 | ✅ | | ✅ | 银联 |
-| 徐州/ Xuzhou | 徐州地铁 | 地铁 | ✅ | ✅ | ✅ | 支付宝、微信、银联 |
+| 徐州/ Xuzhou | 徐州地铁 | 地铁 | ✅ | ✅ | ✅ | 支付宝、微信、银联、苏宁 |
 
 ## 二维码互通（需开通并绑定当地支持的支付方式）/ QR Code in One App (Need apply first and bind a supported payment method)
 - 上海（Metro大都会）：杭州、宁波、温州、合肥、南京、苏州、无锡、南昌、青岛、厦门（BRT）
