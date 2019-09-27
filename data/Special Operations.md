@@ -28,6 +28,19 @@
 ### 无越行线
 - <img src="/images/city/nj.gif" width="20" hegiht="20"/>南京地铁S9线（2019.6）
 
+## 编组
+### 混编（具体编组）
+- <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁大兴机场线（4/8节）
+- <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海地铁2号线（4/8A)
+- <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海地铁5号线（4/6C)
+- <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海地铁8号线（6/7C)
+- <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海地铁16号线（3A/3A重联)
+- <img src="/images/city/nj.gif" width="20" hegiht="20"/>南京地铁S7线（4/6B)
+
+### 超大编组
+
+### 超小编组
+
 ## 换乘
 ### 连续同台换乘（同向在前，反向在后）
 - 旺角&太子（<img src="/images/city/hk.gif" width="20" hegiht="20"/>港铁荃湾线/观塘线）
