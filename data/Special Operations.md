@@ -40,22 +40,6 @@
 - 彭埠&火车东站（<img src="/images/city/hz.gif" width="20" hegiht="20"/>杭州地铁1/4号线）
 - 火车站&朝阳广场（<img src="/images/city/nn.gif" width="20" hegiht="20"/>南宁地铁1/2号线）
 
-## 贯通
-### 跨城贯通
-- <img src="/images/city/hz.gif" width="20" hegiht="20"/>*杭州地铁柯桥线/<img src="/images/city/sx.gif" width="20" hegiht="20"/>绍兴地铁1号线*
-
-### 同城贯通（贯通时间）
-- <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁1号线/复八线（2000.6）
-- <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁4号线/大兴线（2010.12）
-- <img src="/images/city/nj.gif" width="20" hegiht="20"/>南京地铁S1线/S7线（2018.5，部分车次）
-- <img src="/images/city/km.gif" width="20" hegiht="20"/>昆明地铁1号线/2号线（2014.4）
-- <img src="/images/city/zz.gif" width="20" hegiht="20"/>郑州地铁2号线/城郊线（2017.1）
-- <img src="/images/city/tp.gif" width="20" hegiht="20"/>~~台北捷运……~~
-- <img src="/images/city/bj.gif" width="20" hegiht="20"/>***北京地铁1号线/八通线***
-- <img src="/images/city/bj.gif" width="20" hegiht="20"/>***北京地铁9号线/昌平线***
-- <img src="/images/city/hk.gif" width="20" hegiht="20"/>***港铁西铁线/马鞍山线***
-- <img src="/images/city/nj.gif" width="20" hegiht="20"/>***南京地铁6号线/S1线***
-
 ## 跨城
 ### 单线跨城（具体城市及跨城时间）
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁大兴机场线（北京&廊坊，2019.9）
@@ -101,6 +85,23 @@
 - <img src="/images/city/suz.gif" width="20" hegiht="20"/>苏州地铁4号线支线
 - <img src="/images/city/sz.gif" width="20" hegiht="20"/>***深圳地铁7号线(文体公园)支线***
 
+## 贯通
+### 跨城贯通
+- <img src="/images/city/hz.gif" width="20" hegiht="20"/>*杭州地铁柯桥线/<img src="/images/city/sx.gif" width="20" hegiht="20"/>绍兴地铁1号线*
+
+### 同城贯通（贯通时间）
+- <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁1号线/复八线（2000.6）
+- <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁4号线/大兴线（2010.12）
+- <img src="/images/city/nj.gif" width="20" hegiht="20"/>南京地铁S1线/S7线（2018.5，部分车次）
+- <img src="/images/city/km.gif" width="20" hegiht="20"/>昆明地铁1号线/2号线（2014.4）
+- <img src="/images/city/zz.gif" width="20" hegiht="20"/>郑州地铁2号线/城郊线（2017.1）
+- <img src="/images/city/nb.gif" width="20" hegiht="20"/>宁波地铁3号线/S3线（2019.9）
+- <img src="/images/city/tp.gif" width="20" hegiht="20"/>~~台北捷运……~~
+- <img src="/images/city/bj.gif" width="20" hegiht="20"/>***北京地铁1号线/八通线***
+- <img src="/images/city/bj.gif" width="20" hegiht="20"/>***北京地铁9号线/昌平线***
+- <img src="/images/city/hk.gif" width="20" hegiht="20"/>***港铁西铁线/马鞍山线***
+- <img src="/images/city/nj.gif" width="20" hegiht="20"/>***南京地铁6号线/S1线***
+
 ## 拆分（拆分时间）
 ### 支线拆分
 - <img src="/images/city/nj.gif" width="20" hegiht="20"/>南京地铁1号线/10号线（2014.6）
@@ -115,6 +116,7 @@
 - <img src="/images/city/km.gif" width="20" hegiht="20"/>***北京地铁13A线/13B线***
 - <img src="/images/city/km.gif" width="20" hegiht="20"/>***昆明地铁1号线/2号线***
 - <img src="/images/city/zz.gif" width="20" hegiht="20"/>***郑州地铁2号线/9号线***
+- <img src="/images/city/nb.gif" width="20" hegiht="20"/>***宁波地铁3号线/S3线***
 
 ## 分段（具体分段）
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁8号线（南段、北段）
