@@ -37,6 +37,8 @@
 上下行付费区不连通，换乘反方向列车请出站或向车站工作人员求助
 
 - 八角游乐园（<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京，1号线）
+- 草桥（<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京，大兴机场线）
+- 大兴机场（<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京，大兴机场线）
 - 刘园、瑞景新苑、佳园里、双林（<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津，1号线）
 - 华北集团（<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津，3号线）
 - 西南楼（<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津，5号线）
