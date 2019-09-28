@@ -36,23 +36,27 @@
 
 上下行付费区不连通，换乘反方向列车请出站或向车站工作人员求助
 
+#### 中途站
 - 八角游乐园（<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京，1号线）
-- 草桥（<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京，大兴机场线）
-- 大兴机场（<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京，大兴机场线）
 - 刘园、瑞景新苑、佳园里、双林（<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津，1号线）
 - 华北集团（<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津，3号线）
 - 西南楼（<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津，5号线）
 - 水上公园东路（<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津，6号线）
-- 东海路（<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津，9号线）
 - 外环路、莲花路、锦江乐园（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，1号线）
 - 创新中路、华夏东路、川沙、凌空路（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，2号线）
 - 石龙路（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，3号线）
-- 嘉定北（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，11号线）
 - 三鲁公路、闵瑞路、浦航路、东城一路（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，浦江线）
 - 坑口（<img src="/images/city/gz.gif" width="20" hegiht="20"/>广州，1号线）
 - ~~苹果园、古城~~（<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京，1号线）
 - ~~双林~~（<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津，1号线，2018.12前）
 - ~~天河客运站~~（<img src="/images/city/gz.gif" width="20" hegiht="20"/>广州，3号线，2013.12前）
+
+#### 终点站
+- 草桥（<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京，大兴机场线）
+- 大兴机场（<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京，大兴机场线）
+- 刘园（<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津，1号线）
+- 东海路（<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津，9号线）
+- 嘉定北（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，11号线）
 
 ## 开门
 
