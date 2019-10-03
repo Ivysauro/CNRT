@@ -195,6 +195,7 @@
 - <img src="/images/city/sy.gif" width="20" hegiht="20"/>沈阳
 - <img src="/images/city/nj.gif" width="20" hegiht="20"/>南京
 - <img src="/images/city/xa.gif" width="20" hegiht="20"/>西安
+- <img src="/images/city/hz.gif" width="20" hegiht="20"/>杭州
 - <img src="/images/city/cs.gif" width="20" hegiht="20"/>长沙
 
 ## 参考资料
