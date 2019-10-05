@@ -193,12 +193,14 @@
 
 ### 音乐
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京，燕房线、大兴机场线
+- <img src="/images/city/tj.gif" width="20" hegiht="20"/>天津，9号线
 - <img src="/images/city/dl.gif" width="20" hegiht="20"/>大连
 - <img src="/images/city/wh.gif" width="20" hegiht="20"/>武汉
 - <img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳，7、9号线
 - <img src="/images/city/nj.gif" width="20" hegiht="20"/>南京
 - <img src="/images/city/sy.gif" width="20" hegiht="20"/>沈阳
 - <img src="/images/city/xa.gif" width="20" hegiht="20"/>西安
+- <img src="/images/city/km.gif" width="20" hegiht="20"/>昆明
 - <img src="/images/city/hz.gif" width="20" hegiht="20"/>杭州
 - <img src="/images/city/cs.gif" width="20" hegiht="20"/>长沙
 - <img src="/images/city/nb.gif" width="20" hegiht="20"/>宁波
