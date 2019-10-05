@@ -204,6 +204,7 @@
 - <img src="/images/city/nb.gif" width="20" hegiht="20"/>宁波
 - <img src="/images/city/wx.gif" width="20" hegiht="20"/>无锡
 - <img src="/images/city/nc.gif" width="20" hegiht="20"/>南昌
+- <img src="/images/city/hf.gif" width="20" hegiht="20"/>合肥
 - <img src="/images/city/xm.gif" width="20" hegiht="20"/>厦门
 - <img src="/images/city/wz.gif" width="20" hegiht="20"/>温州
 
