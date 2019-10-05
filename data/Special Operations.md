@@ -169,10 +169,12 @@
 ### 多语言
 - <img src="/images/city/hk.gif" width="20" hegiht="20"/>香港，粤国英
 - <img src="/images/city/tp.gif" width="20" hegiht="20"/>台北，国英闽客(日)
-- <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州，国粤英
-- <img src="/images/city/dl.gif" width="20" hegiht="20"/>大连，国英(日韩俄)
-- <img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳，国粤英
+- <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州，普粤英
+- <img src="/images/city/dl.gif" width="20" hegiht="20"/>大连，普英(日韩俄)
+- <img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳，普粤英
 - <img src="/images/city/kh.gif" width="20" hegiht="20"/>高雄，国英闽客(日)
+- <img src="/images/city/wlmq.gif" width="20" hegiht="20"/>乌鲁木齐，汉维英
+- <img src="/images/city/wz.gif" width="20" hegiht="20"/>温州，普英温
 
 ### 男声
 - <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海
@@ -191,13 +193,19 @@
 
 ### 音乐
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京，燕房线、大兴机场线
+- <img src="/images/city/dl.gif" width="20" hegiht="20"/>大连
+- <img src="/images/city/wh.gif" width="20" hegiht="20"/>武汉
 - <img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳，7、9号线
-- <img src="/images/city/sy.gif" width="20" hegiht="20"/>沈阳
 - <img src="/images/city/nj.gif" width="20" hegiht="20"/>南京
+- <img src="/images/city/sy.gif" width="20" hegiht="20"/>沈阳
 - <img src="/images/city/xa.gif" width="20" hegiht="20"/>西安
 - <img src="/images/city/hz.gif" width="20" hegiht="20"/>杭州
 - <img src="/images/city/cs.gif" width="20" hegiht="20"/>长沙
+- <img src="/images/city/nb.gif" width="20" hegiht="20"/>宁波
+- <img src="/images/city/wx.gif" width="20" hegiht="20"/>无锡
+- <img src="/images/city/nc.gif" width="20" hegiht="20"/>南昌
 - <img src="/images/city/xm.gif" width="20" hegiht="20"/>厦门
+- <img src="/images/city/wz.gif" width="20" hegiht="20"/>温州
 
 ## 参考资料
 - https://www.sohu.com/a/219303964_763498
