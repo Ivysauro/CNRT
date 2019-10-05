@@ -197,6 +197,7 @@
 - <img src="/images/city/xa.gif" width="20" hegiht="20"/>西安
 - <img src="/images/city/hz.gif" width="20" hegiht="20"/>杭州
 - <img src="/images/city/cs.gif" width="20" hegiht="20"/>长沙
+- <img src="/images/city/xm.gif" width="20" hegiht="20"/>厦门
 
 ## 参考资料
 - https://www.sohu.com/a/219303964_763498
