@@ -126,7 +126,7 @@
 ### 贯通拆分/一分为二
 - <img src="/images/city/tp.gif" width="20" hegiht="20"/>台北捷运（请参见[维基百科](https://zh.wikipedia.org/zh-cn/%E8%87%BA%E5%8C%97%E6%8D%B7%E9%81%8B#%E6%AD%B7%E5%8F%B2)）
 - <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州地铁2号线/8号线（2010.9）
-- <img src="/images/city/km.gif" width="20" hegiht="20"/>***北京地铁13A线/13B线***
+- <img src="/images/city/bj.gif" width="20" hegiht="20"/>***北京地铁13A线/13B线***
 - <img src="/images/city/km.gif" width="20" hegiht="20"/>***昆明地铁1号线/2号线***
 - <img src="/images/city/zz.gif" width="20" hegiht="20"/>***郑州地铁2号线/9号线***
 - <img src="/images/city/nb.gif" width="20" hegiht="20"/>***宁波地铁3号线/S3线***
