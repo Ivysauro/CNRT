@@ -209,6 +209,7 @@
 - <img src="/images/city/hf.gif" width="20" hegiht="20"/>合肥
 - <img src="/images/city/xm.gif" width="20" hegiht="20"/>厦门
 - <img src="/images/city/wz.gif" width="20" hegiht="20"/>温州
+- <img src="/images/city/cz.gif" width="20" hegiht="20"/>常州
 
 ## 参考资料
 - https://www.sohu.com/a/219303964_763498
