@@ -33,17 +33,17 @@
 | 河北交通一卡通	| 河北/ Hebei | | ✅ | ✅ | | | | | ✅ | ✅ |
 | 石家庄一卡通 | 石家庄/ Shijiazhuang | | ✅ | | | | | | |
 | 盛京通	| 沈阳/ Shenyang | ✅ | ✅ |
-| 大连明珠卡	| 大连/ Dalian | 🕓  | ✅ | | | | | ✅ | 🕓 |
+| 大连明珠卡	| 大连/ Dalian | 🕓 | ✅ | | | | | ✅ | 🕓 |
 | 吉林通	| 吉林/ Jilin | ✅ | ✅ | ✅ | | | | ✅ | ✅ |
 | 哈尔滨城市通	| 哈尔滨/ Harbin | ✅ | ✅ | 🕓 | | | | ✅ | ✅ |
 | 江苏交通一卡通·南京（金陵通） |南京（宁镇扬）/ Nanjing (Ningzhenyang) | | ✅ |
 | 江苏交通一卡通·扬州 | 扬州（宁镇扬）/ Yangzhou (Ningzhenyang) | | ✅ |
 | 江苏交通一卡通·苏州 | 苏州（苏锡常）/ Suzhou (Suxichang) | ✅ | ✅ | ✅ | | ✅ | ✅ | ✅ | ✅ |
 | 江苏交通一卡通·无锡 | 无锡（苏锡常）/ Wuxi (Suxichang) | | ✅ |
-| 江苏交通一卡通·常州 | 常州（苏锡常）/ Changzhou (Suxichang) | | 🕓 |
+| 江苏交通一卡通·常州 | 常州（苏锡常）/ Changzhou (Suxichang) | | ✅ |
 | 江苏交通一卡通·盐城（黄海通） | 盐城（盐通泰）/ Yancheng (Yantongtai) | | ✅ |
 | 江苏交通一卡通·南通 | 南通（盐通泰）/ Nantong (Yantongtai) | ✅ | | | | | | | ✅ |
-| 江苏交通一卡通·徐州（淮海通） | 徐州（徐淮连宿）/ Xuzhou (Xuhuailiansu) | | 🕓 |
+| 江苏交通一卡通·徐州（淮海通） | 徐州（徐淮连宿）/ Xuzhou (Xuhuailiansu) | | ✅ |
 | 甬城通 | 宁波/ Ningbo | 🕓 | 🕓 | | | | | | |
 | 厦门e通卡 | 厦门/ Xiamen | ✅ |
 | 洪城通 | 南昌/ Nanchang | | 🕓 |
