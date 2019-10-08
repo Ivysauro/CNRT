@@ -38,7 +38,7 @@
 | <img src="/images/city/hz.gif" width="20" hegiht="20"/>杭州/ Hangzhou | ✅ | ❌ | ✅ | ❌ | ❌ | 40 |
 | <img src="/images/city/hrb.gif" width="20" hegiht="20"/>哈尔滨/ Harbin | ⭕ | ⭕ | ⭕ | ⭕ | ✅ | 60 | 
 | <img src="/images/city/zz.gif" width="20" hegiht="20"/>郑州/ Zhengzhou | ✅ | ✅ | ❌ | ✅ | ✅ | 80 |
-| <img src="/images/city/cs.gif" width="20" hegiht="20"/>长沙/ Changsha | ⭕ | ⭕ | ⭕ | ✅ | ❌ | 50 |
+| <img src="/images/city/cs.gif" width="20" hegiht="20"/>长沙/ Changsha | ⭕ | ⭕ | ⭕ | ✅ | ⭕ | 60 |
 | <img src="/images/city/nb.gif" width="20" hegiht="20"/>宁波/ Ningbo | ✅ | ✅ | ✅ | ✅ | ⭕ | **90** |
 | <img src="/images/city/wx.gif" width="20" hegiht="20"/>无锡/ Wuxi | ❌ | ❌ | ❌ | ✅ | ✅ | 40 |
 | <img src="/images/city/qd.gif" width="20" hegiht="20"/>青岛/ Qingdao | ⭕ | ⭕ | ❌ | ✅ | ✅ | 60 |
