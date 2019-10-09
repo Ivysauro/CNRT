@@ -48,7 +48,7 @@ RS is short for "Railway Station"
 | Xiamen | *Xiamen RS*/ Xiamen | Xiamen North RS/ Xiamenbei, Gaoqi/ Xiamen-Gaoqi | Gaoqi/ Xiamen Gaoqi, *Xiang'an Airport/ Xiamen Xiang'an* | | 
 | Urumqi | *Urumqi RS*/ Wulumuqi | *South RS*/ Wulumuqinan | International Airport/ Urumqi Diwopu | |
 | Wenzhou | *Wenzhou RS*/ Wenzhou  | South RS/ Wenzhounan | *Airport*/ Wenzhou Longwan | |
-| Jinan | | JINAN WEST RAILWAY STATION/ Jinanxi, *JINAN EAST RAILWAY STATION*/ Jinandong | *YAOQIANG AIRPORT*/ Jinan Yaoqiang | *LISHILINGYUAN*/ Licheng |
+| Jinan | | JINAN WEST RAILWAY STATION/ Jinanxi, *JINANDONG RAILWAY STATION*/ Jinandong | *YAOQIANG AIRPORT*/ Jinan Yaoqiang | *LISHILINGYUAN*/ Licheng |
 | Lanzhou | *Lanzhou RS*/ Lanzhou | North Square of Lanzhou West RS/ Lanzhouxi | | |
 | Changzhou | Changzhou RS/ Changzhou | Changzhou North RS/ Changzhoubei | | |
 | Xuzhou | Xuzhou RS/ Xuzhou | Xuzhoudong RS/ Xuzhoudong | | |
