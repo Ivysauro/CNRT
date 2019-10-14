@@ -59,6 +59,7 @@
 - <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海地铁11号线（上海&苏州昆山，2013.10）
 - <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州地铁广佛线(<img src="/images/city/fs.gif" width="20" hegiht="20"/>佛山地铁1号线)（广州&佛山，2010.11）
 - <img src="/images/city/xa.gif" width="20" hegiht="20"/>西安地铁1号线（西安&咸阳，2019.9）
+- <img src="/images/city/xa.gif" width="20" hegiht="20"/>西安地铁14号线/机场城际（西安&咸阳，2019.9）
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>***北京地铁22号线***（北京&廊坊三河）
 - <img src="/images/city/wh.gif" width="20" hegiht="20"/>***武汉地铁11号线***（武汉&鄂州）
 - <img src="/images/city/nj.gif" width="20" hegiht="20"/>***南京地铁S3线***（南京&马鞍山）
