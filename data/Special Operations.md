@@ -84,7 +84,7 @@
 - <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州地铁3号线，主支线无共线段
 - <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州地铁14号线
 - <img src="/images/city/cd.gif" width="20" hegiht="20"/>成都地铁1号线
-- <img src="/images/city/hz.gif" width="20" hegiht="20"/>昆明地铁1号线
+- <img src="/images/city/km.gif" width="20" hegiht="20"/>昆明地铁1号线
 - <img src="/images/city/hz.gif" width="20" hegiht="20"/>杭州地铁1号线
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>***北京地铁22号线***
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>***北京地铁燕房线***
