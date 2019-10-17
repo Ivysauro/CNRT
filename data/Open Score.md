@@ -42,7 +42,7 @@
 | <img src="/images/city/nb.gif" width="20" hegiht="20"/>宁波/ Ningbo | ✅ | ✅ | ✅ | ✅ | ⭕ | **90** |
 | <img src="/images/city/wx.gif" width="20" hegiht="20"/>无锡/ Wuxi | ❌ | ❌ | ❌ | ✅ | ✅ | 40 |
 | <img src="/images/city/qd.gif" width="20" hegiht="20"/>青岛/ Qingdao | ⭕ | ⭕ | ❌ | ✅ | ✅ | 60 |
-| <img src="/images/city/nc.gif" width="20" hegiht="20"/>南昌/ Nanchang | ❌ | ⭕ | ✅ | ❌ | ❌ | 30 |
+| <img src="/images/city/nc.gif" width="20" hegiht="20"/>南昌/ Nanchang | ✅ | ⭕ | ✅ | ❌ | ❌ | 50 |
 | <img src="/images/city/fz.gif" width="20" hegiht="20"/>福州/ Fuzhou | ❌ | ❌ | ❌ | ✅ | ❌ | **20** |
 | <img src="/images/city/dg.gif" width="20" hegiht="20"/>东莞/ Dongguan | ⭕ | ⭕ | ✅ | ❌ | ❌ | 40 |
 | <img src="/images/city/nn.gif" width="20" hegiht="20"/>南宁/ Nanning | ✅ | ⭕ | ⭕ | ✅ | ✅ | 80 | 
