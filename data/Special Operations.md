@@ -49,32 +49,6 @@
 - 彭埠&火车东站（<img src="/images/city/hz.gif" width="20" hegiht="20"/>杭州地铁1/4号线）
 - 火车站&朝阳广场（<img src="/images/city/nn.gif" width="20" hegiht="20"/>南宁地铁1/2号线）
 
-## 支线
-### 交替发车支线
-- <img src="/images/city/hk.gif" width="20" hegiht="20"/>港铁东铁线，罗湖/落马洲
-- <img src="/images/city/hk.gif" width="20" hegiht="20"/>港铁东铁线，火炭/马场
-- <img src="/images/city/hk.gif" width="20" hegiht="20"/>港铁将军澳线
-- <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海地铁10号线
-- <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海地铁11号线
-- <img src="/images/city/tp.gif" width="20" hegiht="20"/>台北捷运中和新芦线
-- <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州地铁3号线，主支线无共线段
-- <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州地铁14号线
-- <img src="/images/city/cd.gif" width="20" hegiht="20"/>成都地铁1号线
-- <img src="/images/city/km.gif" width="20" hegiht="20"/>昆明地铁1号线
-- <img src="/images/city/hz.gif" width="20" hegiht="20"/>杭州地铁1号线
-- <img src="/images/city/bj.gif" width="20" hegiht="20"/>***北京地铁22号线***
-- <img src="/images/city/bj.gif" width="20" hegiht="20"/>***北京地铁燕房线***
-
-### 独立支线
-- <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海地铁5号线支线
-- <img src="/images/city/tp.gif" width="20" hegiht="20"/>台北捷运新北投支线
-- <img src="/images/city/tp.gif" width="20" hegiht="20"/>台北捷运小碧潭支线
-- <img src="/images/city/dl.gif" width="20" hegiht="20"/>大连地铁3号线(九里)支线
-- <img src="/images/city/cq.gif" width="20" hegiht="20"/>重庆单轨3号线(空港)支线
-- <img src="/images/city/cq.gif" width="20" hegiht="20"/>重庆地铁6号线(国博)支线
-- <img src="/images/city/suz.gif" width="20" hegiht="20"/>苏州地铁4号线支线
-- <img src="/images/city/sz.gif" width="20" hegiht="20"/>***深圳地铁7号线(文体公园)支线***
-
 ## 跨城
 ### 单线跨城（具体城市及跨城时间）
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁大兴机场线（北京&廊坊，2019.9）
@@ -128,6 +102,32 @@
 - <img src="/images/city/km.gif" width="20" hegiht="20"/>***昆明地铁1号线/2号线***
 - <img src="/images/city/zz.gif" width="20" hegiht="20"/>***郑州地铁2号线/9号线***
 - <img src="/images/city/nb.gif" width="20" hegiht="20"/>***宁波地铁3号线/S3线***
+
+## 支线
+### 交替发车支线
+- <img src="/images/city/hk.gif" width="20" hegiht="20"/>港铁东铁线，罗湖/落马洲
+- <img src="/images/city/hk.gif" width="20" hegiht="20"/>港铁东铁线，火炭/马场
+- <img src="/images/city/hk.gif" width="20" hegiht="20"/>港铁将军澳线
+- <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海地铁10号线
+- <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海地铁11号线
+- <img src="/images/city/tp.gif" width="20" hegiht="20"/>台北捷运中和新芦线
+- <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州地铁3号线，主支线无共线段
+- <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州地铁14号线
+- <img src="/images/city/cd.gif" width="20" hegiht="20"/>成都地铁1号线
+- <img src="/images/city/km.gif" width="20" hegiht="20"/>昆明地铁1号线
+- <img src="/images/city/hz.gif" width="20" hegiht="20"/>杭州地铁1号线
+- <img src="/images/city/bj.gif" width="20" hegiht="20"/>***北京地铁22号线***
+- <img src="/images/city/bj.gif" width="20" hegiht="20"/>***北京地铁燕房线***
+
+### 独立支线
+- <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海地铁5号线支线
+- <img src="/images/city/tp.gif" width="20" hegiht="20"/>台北捷运新北投支线
+- <img src="/images/city/tp.gif" width="20" hegiht="20"/>台北捷运小碧潭支线
+- <img src="/images/city/dl.gif" width="20" hegiht="20"/>大连地铁3号线(九里)支线
+- <img src="/images/city/cq.gif" width="20" hegiht="20"/>重庆单轨3号线(空港)支线
+- <img src="/images/city/cq.gif" width="20" hegiht="20"/>重庆地铁6号线(国博)支线
+- <img src="/images/city/suz.gif" width="20" hegiht="20"/>苏州地铁4号线支线
+- <img src="/images/city/sz.gif" width="20" hegiht="20"/>***深圳地铁7号线(文体公园)支线***
 
 ## 分段（具体分段）
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁8号线（南段、北段）
