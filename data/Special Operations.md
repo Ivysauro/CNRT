@@ -145,6 +145,7 @@
 - <img src="/images/city/gz.gif" width="20" hegiht="20"/>~~广州地铁14号线知识城支线~~（2017.12-2018.12）
 - <img src="/images/city/dl.gif" width="20" hegiht="20"/>~~大连地铁12号线~~（2015.10-2017.6）
 - <img src="/images/city/wh.gif" width="20" hegiht="20"/>~~武汉地铁11号线~~（2018.10-2019.2）
+- <img src="/images/city/sz.gif" width="20" hegiht="20"/>~~深圳地铁3号线~~（2010.12-2011.6）
 - <img src="/images/city/nj.gif" width="20" hegiht="20"/>~~南京地铁S8线~~（2014.8-2015.4）
 
 ### 未成网时互不联通
