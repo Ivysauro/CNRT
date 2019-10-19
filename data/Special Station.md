@@ -20,7 +20,7 @@
 - ~~龙华~~（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，11号线、12号线）
 - ~~龙阳路~~（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，2/7号线、16号线）
 
-### 出站换乘（不连续计费，重新安检）
+### 出站换乘（不连续计费）
 - 徐家棚（<img src="/images/city/wh.gif" width="20" hegiht="20"/>武汉，7号线、8号线，2018.10-）
 - 沙坪坝（<img src="/images/city/cq.gif" width="20" hegiht="20"/>重庆，1号线、环线，2018.12-）
 
