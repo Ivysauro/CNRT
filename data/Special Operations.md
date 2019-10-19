@@ -135,16 +135,26 @@
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁14号线（东段、西段）
 - <img src="/images/city/tj.gif" width="20" hegiht="20"/>~~天津地铁2号线~~（东段、西段）
 
-## 脱网（脱网时间-入网时间）
-- <img src="/images/city/dl.gif" width="20" hegiht="20"/>大连地铁3号线（2003.5-）
+## 脱网
+### 成网时脱网（脱网时间-入网时间）
+- <img src="/images/city/dl.gif" width="20" hegiht="20"/>大连地铁3号线（2003.5开通/2015.10成网-）
 - <img src="/images/city/qd.gif" width="20" hegiht="20"/>青岛地铁13号线（2018.12-）
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>~~北京地铁9号线~~（2011.12-2012.12）
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>~~北京地铁房山线~~（2010.12-2012.12）
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>~~北京地铁S1线~~（2017.12-2018.12）
 - <img src="/images/city/gz.gif" width="20" hegiht="20"/>~~广州地铁14号线知识城支线~~（2017.12-2018.12）
-- <img src="/images/city/dl.gif" width="20" hegiht="20"/>~~大连地铁2号线~~（2015.5-2015.10）
-- <img src="/images/city/dl.gif" width="20" hegiht="20"/>~~大连地铁12号线~~（2014.5-2017.6）
+- <img src="/images/city/dl.gif" width="20" hegiht="20"/>~~大连地铁12号线~~（2014.5开通/2015.10成网-2017.6）
 - <img src="/images/city/wh.gif" width="20" hegiht="20"/>~~武汉地铁11号线~~（2018.10-2019.2）
+- <img src="/images/city/nj.gif" width="20" hegiht="20"/>~~南京地铁S8线~~（2014.8-2015.4）
+
+### 未成网时不联网（开通时间-成网时间）
+- <img src="/images/city/bj.gif" width="20" hegiht="20"/>~~~北京地铁一期工程~~~（1969.10-1987.12）
+- <img src="/images/city/bj.gif" width="20" hegiht="20"/>~~~北京地铁二期工程~~~（1984.9-1987.12）
+- <img src="/images/city/tj.gif" width="20" hegiht="20"/>~~~天津地铁2号线~~~（2012.7-2012.10）
+- <img src="/images/city/tj.gif" width="20" hegiht="20"/>~~~天津地铁9号线~~~（2003.9-2012.10）
+- <img src="/images/city/dl.gif" width="20" hegiht="20"/>~~大连地铁2号线~~（2015.5-2015.10）
+- <img src="/images/city/jn.gif" width="20" hegiht="20"/>***济南地铁1号线***（2019.4-）
+- <img src="/images/city/jn.gif" width="20" hegiht="20"/>***济南地铁3号线***（未开通）
 
 ## 停运（停运时间-重开时间）
 - <img src="/images/city/tj.gif" width="20" hegiht="20"/>~~天津地铁1号线~~（2001.10-2006.6）
