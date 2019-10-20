@@ -62,7 +62,7 @@
 - <img src="/images/city/nj.gif" width="20" hegiht="20"/>***南京地铁S3线***（南京&马鞍山）
 - <img src="/images/city/nj.gif" width="20" hegiht="20"/>***南京地铁S4线***（南京&滁州）
 - <img src="/images/city/nj.gif" width="20" hegiht="20"/>***南京地铁S6线***（南京&镇江句容）
-- <img src="/images/city/nj.gif" width="20" hegiht="20"/>***南京地铁S9线***（南京&滁州天长）
+- <img src="/images/city/nj.gif" width="20" hegiht="20"/>***南京地铁S8线***（南京&滁州天长）
 - <img src="/images/city/zz.gif" width="20" hegiht="20"/>***郑州地铁17号线***（郑州&许昌）
 - <img src="/images/city/cs.gif" width="20" hegiht="20"/>***长沙地铁3号线***（长沙&湘潭）
 
