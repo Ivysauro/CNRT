@@ -24,7 +24,7 @@
 | 城市/ City | <img src="/images/Alipay.png" width="30" hegiht="30" alt="Alipay"/> | <img src="/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay"/> | <img src="/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay QR Code"/> | <img src="/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | 💳 |
 | --------- | :----------: | :-------------: | :----------------: | :-----------------: | :-: |
 | <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京/ Beijing | ✅ | ✅ |
-| <img src="/images/city/tj.gif" width="20" hegiht="20"/>天津/ Tianjin | ⭕ | ⭕ |
+| <img src="/images/city/tj.gif" width="20" hegiht="20"/>天津/ Tianjin | ⭕ | ⭕ | ⭕ |
 | <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海/ Shanghai | ⭕ | ⭕ | ⭕ |
 | <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州/ Guangzhou | ✅ | ✅ |
 | <img src="/images/city/cc.gif" width="20" hegiht="20"/>长春/ Changchun | | | ✅ |
