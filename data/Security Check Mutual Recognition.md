@@ -24,4 +24,3 @@
 
 ## 有计划/ On Plan
 - 上海/ Shanghai：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>上海虹桥/ Shanghai→<img src="/images/city/sh.gif" width="20" hegiht="20"/>虹桥火车站/ Hongqiao Railway Station
--
