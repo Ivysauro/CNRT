@@ -70,6 +70,12 @@
 - <img src="/images/city/nj.gif" width="20" hegiht="20"/>***南京地铁3号线/<img src="/images/city/nj.gif" width="20" hegiht="20"/>南京地铁S4线(滁州地铁1号线)***
 - <img src="/images/city/suz.gif" width="20" hegiht="20"/>***苏州地铁S1线/<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海地铁11号线***
 
+## 直通/跨线
+- <img src="/images/city/nj.gif" width="20" hegiht="20"/>南京地铁S1线/S7线（2018.5）
+- <img src="/images/city/bj.gif" width="20" hegiht="20"/>***北京地铁8号线/昌平线***
+- <img src="/images/city/bj.gif" width="20" hegiht="20"/>***北京地铁3号线&12号线/20号线***
+- <img src="/images/city/cq.gif" width="20" hegiht="20"/>***重庆地铁&单轨***
+
 ## 贯通
 ### 跨城贯通
 - <img src="/images/city/hz.gif" width="20" hegiht="20"/>*杭州地铁柯桥线/<img src="/images/city/sx.gif" width="20" hegiht="20"/>绍兴地铁1号线*
@@ -77,7 +83,6 @@
 ### 同城贯通（贯通时间）
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁1号线/复八线（2000.6）
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁4号线/大兴线（2010.12）
-- <img src="/images/city/nj.gif" width="20" hegiht="20"/>南京地铁S1线/S7线（2018.5，部分车次）
 - <img src="/images/city/km.gif" width="20" hegiht="20"/>昆明地铁1号线/2号线（2014.4）
 - <img src="/images/city/zz.gif" width="20" hegiht="20"/>郑州地铁2号线/城郊线（2017.1）
 - <img src="/images/city/nb.gif" width="20" hegiht="20"/>宁波地铁3号线/S3线（2019.9）
