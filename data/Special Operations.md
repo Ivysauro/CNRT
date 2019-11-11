@@ -189,10 +189,13 @@
 ### 多语言
 - <img src="/images/city/hk.gif" width="20" hegiht="20"/>香港，粤国英
 - <img src="/images/city/tp.gif" width="20" hegiht="20"/>台北，国英闽客(日)
-- <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州，普粤英
+- <img src="/images/city/gz.gif" width="20" hegiht="20"/><img src="/images/city/fs.gif" width="20" hegiht="20"/>广州&佛山，普粤英
 - <img src="/images/city/dl.gif" width="20" hegiht="20"/>大连，普英(日韩俄)
 - <img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳，普粤英
 - <img src="/images/city/kh.gif" width="20" hegiht="20"/>高雄，国英闽客(日)
+- <img src="/images/city/fz.gif" width="20" hegiht="20"/>福州，普闽英
+- <img src="/images/city/dg.gif" width="20" hegiht="20"/>东莞，普粤英
+- <img src="/images/city/xm.gif" width="20" hegiht="20"/>厦门，普闽英
 - <img src="/images/city/wlmq.gif" width="20" hegiht="20"/>乌鲁木齐，汉维英
 - <img src="/images/city/wz.gif" width="20" hegiht="20"/>温州，普英温
 
