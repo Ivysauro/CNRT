@@ -118,7 +118,7 @@
 - 旅顺新港/L**u**shun New Port（<img src="/images/city/dl.gif" width="20" hegiht="20"/>大连，12号线）
 - 绿博园/L**ü**BOYUAN（<img src="/images/city/nj.gif" width="20" hegiht="20"/>南京，10号线）
 - 绿城广场/L**U**CHENGGUANGCHANG（<img src="/images/city/zz.gif" width="20" hegiht="20"/>郑州，1号线）
-- 吕厝/L**u**cuo（<img src="/images/city/xm.gif" width="20" hegiht="20"/>厦门，1号线）
+- 吕厝/L**ü**cuo（<img src="/images/city/xm.gif" width="20" hegiht="20"/>厦门，1号线）
 
 ### 运营期间改过名的车站
 
