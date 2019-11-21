@@ -35,7 +35,7 @@
 | <img src="/images/city/nj.gif" width="20" hegiht="20"/>南京/ Nanjing | ✅ | ✅ | ✅ | | 🕓 | ✅ | |
 | <img src="/images/city/sy.gif" width="20" hegiht="20"/>沈阳/ Shenyang | ✅ | | | | | ✅ | |
 | <img src="/images/city/cd.gif" width="20" hegiht="20"/>成都/ Chengdu | | | | | ✅ | ✅ | |
-| <img src="/images/city/xa.gif" width="20" hegiht="20"/>西安/ Xi'an | ✅ | | ✅ | ✅ | 🕓 | ✅ | |
+| <img src="/images/city/xa.gif" width="20" hegiht="20"/>西安/ Xi'an | ✅ | | ✅ | ✅ | ✅ | ✅ | |
 | <img src="/images/city/suz.gif" width="20" hegiht="20"/>苏州/ Suzhou | ✅ | | | | | ✅ | |
 | <img src="/images/city/km.gif" width="20" hegiht="20"/>昆明/ Kunming | ✅ | ✅ | ✅ | ✅ | | ✅ | |
 | <img src="/images/city/hz.gif" width="20" hegiht="20"/>杭州/ Hangzhou | | ✅ | ✅ | | ✅ | ✅ | |
