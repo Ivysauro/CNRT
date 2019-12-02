@@ -32,7 +32,7 @@
 | <img src="/images/city/wh.gif" width="20" hegiht="20"/>武汉/ Wuhan | 🕓 | 🕓 | | | | ✅ | |
 | <img src="/images/city/cq.gif" width="20" hegiht="20"/>重庆/ Chongqing | 🕓 | 🕓 | | | 🕓 | |
 | <img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳/ Shenzhen | ✅ | ✅ | | ✅ | | ✅ | |
-| <img src="/images/city/nj.gif" width="20" hegiht="20"/>南京/ Nanjing | ✅ | ✅ | ✅ | | 🕓 | ✅ | |
+| <img src="/images/city/nj.gif" width="20" hegiht="20"/>南京/ Nanjing | ✅ | ✅ | ✅ | | ✅ | ✅ | |
 | <img src="/images/city/sy.gif" width="20" hegiht="20"/>沈阳/ Shenyang | ✅ | | | | | ✅ | |
 | <img src="/images/city/cd.gif" width="20" hegiht="20"/>成都/ Chengdu | | | | | ✅ | ✅ | |
 | <img src="/images/city/xa.gif" width="20" hegiht="20"/>西安/ Xi'an | ✅ | | ✅ | ✅ | ✅ | ✅ | |
@@ -42,7 +42,7 @@
 | <img src="/images/city/hrb.gif" width="20" hegiht="20"/>哈尔滨/ Harbin | ⭕ | ⭕ | | | | ✅ | |
 | <img src="/images/city/zz.gif" width="20" hegiht="20"/>郑州/ Zhengzhou | ✅ | | ✅ | ✅ | | ✅ | |
 | <img src="/images/city/cs.gif" width="20" hegiht="20"/>长沙/ Changsha | ✅ | | | | | ✅ | |
-| <img src="/images/city/nb.gif" width="20" hegiht="20"/>宁波/ Ningbo | ✅ | ✅ | ✅ | ✅ | 🕓 | ✅ | |
+| <img src="/images/city/nb.gif" width="20" hegiht="20"/>宁波/ Ningbo | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | |
 | <img src="/images/city/wx.gif" width="20" hegiht="20"/>无锡/ Wuxi | ✅ | | | | | ✅ | |
 | <img src="/images/city/qd.gif" width="20" hegiht="20"/>青岛/ Qingdao | ✅ | | | | | ✅ | |
 | <img src="/images/city/nc.gif" width="20" hegiht="20"/>南昌/ Nanchang | ✅ | ✅ | ✅ | | ✅ | ✅ | |
