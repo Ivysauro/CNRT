@@ -32,7 +32,7 @@
 | <img src="/images/city/nj.gif" width="20" hegiht="20"/>南京/ Nanjing | ✅ | ⭕ | ✅ | ✅ | ⭕ | 80 |
 | <img src="/images/city/sy.gif" width="20" hegiht="20"/>沈阳/ Shenyang | ❌ | ❌ | ❌ | ✅ | ⭕ | 30 |
 | <img src="/images/city/cd.gif" width="20" hegiht="20"/>成都/ Chengdu | ⭕ | ⭕ | ❌ | ❌ | ❌ | 20 |
-| <img src="/images/city/xa.gif" width="20" hegiht="20"/>西安/ Xi'an | ✅ | ✅ | ❌ | ✅ | ✅ | 80 |
+| <img src="/images/city/xa.gif" width="20" hegiht="20"/>西安/ Xi'an | ✅ | ✅ | ⭕ | ✅ | ✅ | 90 |
 | <img src="/images/city/sz.gif" width="20" hegiht="20"/>苏州/ Suzhou | ❌ | ❌ | ❌ | ✅ | ✅ | 40 |
 | <img src="/images/city/km.gif" width="20" hegiht="20"/>昆明/ Kunming | ✅ | ✅ | ✅ | ✅ | ❌ | 80 |
 | <img src="/images/city/hz.gif" width="20" hegiht="20"/>杭州/ Hangzhou | ✅ | ❌ | ✅ | ❌ | ❌ | 40 |
@@ -55,7 +55,7 @@
 | <img src="/images/city/jn.gif" width="20" hegiht="20"/>济南/ Jinan | ⭕ | ⭕ | ❌ | ✅ | ❌ | 40 |
 | <img src="/images/city/lz.gif" width="20" hegiht="20"/>兰州/ Lanzhou | ⭕ | ⭕ | ⭕ | ✅ | ❌ | 50 |
 | <img src="/images/city/cz.gif" width="20" hegiht="20"/>常州/ Changzhou | ⭕ | ⭕ | ⭕ | ✅ | ✅ | 70 |
-| <img src="/images/city/xz.gif" width="20" hegiht="20"/>徐州/ Xuzhou | ❌ | ❌ | ⭕ | ✅ | ⭕ | 40 |
+| <img src="/images/city/xz.gif" width="20" hegiht="20"/>徐州/ Xuzhou | ❌ | ❌ | ✅ | ✅ | ⭕ | 50 |
 | <img src="/images/city/hk.gif" width="20" hegiht="20"/>香港/ Hong Kong | ⭕ | ⭕ | [⭕](https://www.unionpayintl.com/cn/mediaCenter/newsCenter/companyNews/4733.shtml) | ❌ | ✅ | 50 |
 | <img src="/images/city/tp.gif" width="20" hegiht="20"/><img src="/images/city/ty.gif" width="20" hegiht="20"/>台北&桃园/ Taipei & Taoyuan | | | | | | - |
 | <img src="/images/city/kh.gif" width="20" hegiht="20"/>高雄/ Kaohsiung | | | | | | - |
