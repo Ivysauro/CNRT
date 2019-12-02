@@ -58,7 +58,7 @@
 | <img src="/images/city/jn.gif" width="20" hegiht="20"/>济南/ Jinan | ✅ | | | | | ✅ | |
 | <img src="/images/city/lz.gif" width="20" hegiht="20"/>兰州/ Lanzhou | ✅ | ⭕ | | | | ✅ | |
 | <img src="/images/city/cz.gif" width="20" hegiht="20"/>常州/ Changzhou | ✅ | | | | | ✅ |
-| <img src="/images/city/xz.gif" width="20" hegiht="20"/>徐州/ Xuzhou | ✅ | ⭕ | | | | ✅ |
+| <img src="/images/city/xz.gif" width="20" hegiht="20"/>徐州/ Xuzhou | ✅ | ✅ | | | | ✅ |
 | <img src="/images/city/hk.gif" width="20" hegiht="20"/>香港/ Hong Kong | | | | | | | |
 | <img src="/images/city/tp.gif" width="20" hegiht="20"/>台北/ Taipei | | | | | | ⭕ | |
 | <img src="/images/city/kh.gif" width="20" hegiht="20"/>高雄/ Kaohsiung | | ⭕ | | | | | ✅ |
@@ -79,6 +79,5 @@ Maglev is included in Shanghai and Changsha; APM Line and Guang-Fo Metro are inc
 | <img src="/images/city/dg.gif" width="20" hegiht="20"/>东莞/ Dongguan | 银联云闪付仅支持东莞通合作银行 | Only banks that cooperates with DongguanTong accepted in Quickpass |
 | <img src="/images/city/nn.gif" width="20" hegiht="20"/>南宁/ Nanning | 银联云闪付仅支持除浦发、华夏以外的信用卡和交行、招行借记卡 | Only credit card(except SPDB, HXB) and COM, CMB debit card accepted in Quickpass |
 | <img src="/images/city/lz.gif" width="20" hegiht="20"/>兰州/ Lanzhou | 银联云闪付仅支持信用卡 | Only credit card accepted in Quickpass |
-| <img src="/images/city/xz.gif" width="20" hegiht="20"/>徐州/ Xuzhou | 银联云闪付仅支持招行、江苏银行和淮海农商银行 | Only CMB, Bank of Jiangsu, Huaihai Rural Commercial Bank card accepted in Quickpass |
 | <img src="/images/city/tp.gif" width="20" hegiht="20"/>台北/ Taipei | 仅桃园机场捷运支持在线购票后扫码过闸 | Only Taoyuan Airport MRT support after buying ticket online |
 | <img src="/images/city/kh.gif" width="20" hegiht="20"/>高雄/ Kaohsiung | 银联云闪付仅支持信用卡，此外还支持万事达信用卡 | Only credit card accepted in Quickpass, and Master credit card also accepted |
