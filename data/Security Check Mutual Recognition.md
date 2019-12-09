@@ -18,9 +18,10 @@
 - 贵阳/ Guiyang：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>贵阳北/ Guiyangbei→<img src="/images/city/gy.gif" width="20" hegiht="20"/>贵阳北站/ Guiyangbei Railway Station
 - 厦门/ Xiamen：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>厦门北/ Xiamenbei→<img src="/images/city/xm.gif" width="20" hegiht="20"/>厦门北站/ Xiamen North Railway Station
 
-## 改造中/ In Process
+## 改造中/ In Process🕓
 
 - 广州/ Guangzhou：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>广州/ Guangzhou→<img src="/images/city/gz.gif" width="20" hegiht="20"/>广州火车站/ Guangzhou Railway Station
+- 南京/ Nanjing：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>南京/ Nanjing→<img src="/images/city/nj.gif" width="20" hegiht="20"/>南京站/ NANJING RAILWAY STATION、<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>南京南/ Nanjingnan→<img src="/images/city/nj.gif" width="20" hegiht="20"/>南京南站/ NANJING SOUTH RAILWAY STATION
 
-## 有计划/ On Plan
+## 有计划/ On Plan📝
 - 上海/ Shanghai：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>上海虹桥/ Shanghai→<img src="/images/city/sh.gif" width="20" hegiht="20"/>虹桥火车站/ Hongqiao Railway Station
