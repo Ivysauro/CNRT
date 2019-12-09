@@ -24,4 +24,4 @@
 - 南京/ Nanjing：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>南京/ Nanjing→<img src="/images/city/nj.gif" width="20" hegiht="20"/>南京站/ NANJING RAILWAY STATION、<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>南京南/ Nanjingnan→<img src="/images/city/nj.gif" width="20" hegiht="20"/>南京南站/ NANJING SOUTH RAILWAY STATION
 
 ## 有计划/ On Plan📝
-- 上海/ Shanghai：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>上海虹桥/ Shanghai→<img src="/images/city/sh.gif" width="20" hegiht="20"/>虹桥火车站/ Hongqiao Railway Station
+- 上海/ Shanghai：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>上海虹桥/ Shanghai-Hongqiao→<img src="/images/city/sh.gif" width="20" hegiht="20"/>虹桥火车站/ Hongqiao Railway Station
