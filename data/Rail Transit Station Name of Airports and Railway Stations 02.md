@@ -52,13 +52,13 @@ RS is short for "Railway Station"
 | Lanzhou | *Lanzhou RS*/ Lanzhou | North Square of Lanzhou West RS/ Lanzhouxi | | |
 | Changzhou | Changzhou RS/ Changzhou | Changzhou North RS/ Changzhoubei | | |
 | Xuzhou | Xuzhou RS/ Xuzhou | Xuzhoudong RS/ Xuzhoudong | | |
+| Macao | | | Airport/ Macao | |
 | *Hohhot* | *Hohhot RS*/ Huhehaote | *Hohhot East Station*/ Huhehaotedong | *White Pagoda*/ Hohhot Baita, *Bayan Country*/Hohhot Baita | |
 | *Wuhu* | *Wuhu RS*/ Wuhu | | | *Yijiang RS*/ Yijiang |
 | *Taiyuan* | *Taiyuan RS*/ Taiyuan | *Taiyuan South RS*/ Taiyuannan | *Wusu International Airport*/ Taiyuan Wusu | |
 | *Nantong* | *Nantong RS*/ Nantong | *Nantong East RS/ Nantongdong*, *Nantong West RS/ Nantongxi* | | |
 | *Shaoxing* | *Shaoxing RS*/ Shaoxing | *Shaoxing North RS*/ Shaoxingbei | | |
 | *Luoyang* | *Luoyang RS*/ Luoyang | *Luoyanglongmen RS*/ Luoyang-Longmen | | |
-| *Macau* | | | *Airport*/ Macau | |
 | *Taichung* | *HSR Taichung Station*/ Taichung | | | *Xinwuri*/ Xinwuri, *Wuri*/ Wuri, *Daqing*/ Daqing, *Songzhu*/ Songzhu |
 
 ## Analysis
