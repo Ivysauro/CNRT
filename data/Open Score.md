@@ -16,6 +16,8 @@
 | ⭕ | 部分支持 | Partly Support | 10 |
 | ❌ | 不支持 | Not Support | 0 |
 
+手机本地交通卡超过4个手机厂商支持才能得满分，否则得一半分/ Only above 4 brand support NFC Local Card can Score full marks
+
 ## 主表/ Content
 
 | 城市/ City | <img src="/images/Alipay.png" width="30" hegiht="30" alt="Alipay"/> | <img src="/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay"/> | <img src="/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay"/> | <img src="/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="/images/NFC.png" width="25" hegiht="25" alt="NFC Local Card"/> | 得分/ Score |
@@ -25,9 +27,9 @@
 | <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海/ Shanghai | ⭕ | ⭕ | ⭕ | ❌ | ✅ | 50 |
 | <img src="/images/city/gz.gif" width="20" hegiht="20"/><img src="/images/city/fs.gif" width="20" hegiht="20"/>广州&佛山/ Guangzhou & Foshan | ✅ | ✅ | ⭕ | ✅ | ✅ | 90 |
 | <img src="/images/city/cc.gif" width="20" hegiht="20"/>长春/ Changchun | ❌ | ❌ | ⭕ | ✅ | ✅ | 50 |
-| <img src="/images/city/dl.gif" width="20" hegiht="20"/>大连/ Dalian | ❌ | ❌ | ✅ | ✅ | ⭕ | 50 |
+| <img src="/images/city/dl.gif" width="20" hegiht="20"/>大连/ Dalian | ❌ | ❌ | ✅ | ✅ | ✅ | 60 |
 | <img src="/images/city/wh.gif" width="20" hegiht="20"/>武汉/ Wuhan | ⭕ | ⭕ | ⭕ | ❌ | ✅ | 50 |
-| <img src="/images/city/cq.gif" width="20" hegiht="20"/>重庆/ Chongqing | ⭕ | ⭕ | ❌ | ❌ | ⭕ | 30 |
+| <img src="/images/city/cq.gif" width="20" hegiht="20"/>重庆/ Chongqing | ⭕ | ⭕ | ❌ | ❌ | ✅ | 40 |
 | <img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳/ Shenzhen | ✅ | ✅ | ✅ | ✅ | ❌ | 80 | 
 | <img src="/images/city/nj.gif" width="20" hegiht="20"/>南京/ Nanjing | ✅ | ⭕ | ✅ | ✅ | ⭕ | 80 |
 | <img src="/images/city/sy.gif" width="20" hegiht="20"/>沈阳/ Shenyang | ❌ | ❌ | ❌ | ✅ | ⭕ | 30 |
@@ -56,7 +58,7 @@
 | <img src="/images/city/lz.gif" width="20" hegiht="20"/>兰州/ Lanzhou | ⭕ | ⭕ | ⭕ | ✅ | ❌ | 50 |
 | <img src="/images/city/cz.gif" width="20" hegiht="20"/>常州/ Changzhou | ⭕ | ⭕ | ⭕ | ✅ | ✅ | 70 |
 | <img src="/images/city/xz.gif" width="20" hegiht="20"/>徐州/ Xuzhou | ❌ | ❌ | ✅ | ✅ | ⭕ | 50 |
-| <img src="/images/city/hk.gif" width="20" hegiht="20"/>香港/ Hong Kong | ⭕ | ⭕ | [⭕](https://www.unionpayintl.com/cn/mediaCenter/newsCenter/companyNews/4733.shtml) | | ✅ | - |
+| <img src="/images/city/hk.gif" width="20" hegiht="20"/>香港/ Hong Kong | ⭕ | ⭕ | [⭕](https://www.unionpayintl.com/cn/mediaCenter/newsCenter/companyNews/4733.shtml) | | ⭕ | - |
 | <img src="/images/city/mo.gif" width="20" hegiht="20"/>澳门/ Macao | | | | | | - |
 | <img src="/images/city/tp.gif" width="20" hegiht="20"/><img src="/images/city/ty.gif" width="20" hegiht="20"/>台北&桃园/ Taipei & Taoyuan | | | | | | - |
 | <img src="/images/city/kh.gif" width="20" hegiht="20"/>高雄/ Kaohsiung | | | ⭕ | | | - |
