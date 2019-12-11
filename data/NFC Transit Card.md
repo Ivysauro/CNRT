@@ -1,6 +1,8 @@
 # 手机交通卡支持情况/ NFC Transit Card on mobile phone
 ❗ 由于消息来源复杂，本表有很多错漏，应以实际支持情况为准/ There may be many mistakes😑
 
+排序方式为省份区划代码/ Rank by Province Code
+
 ## 图例/ Legend
 
 | 商标/ Logo | 中文/ Chinese | 英文/ English |
@@ -33,6 +35,7 @@
 | 河北交通一卡通	| 河北/ Hebei | | ✅ | ✅ | | | | | ✅ | ✅ |
 | 石家庄一卡通 | 石家庄/ Shijiazhuang | | ✅ | | | | | | ✅ |
 | 盛京通	| 沈阳/ Shenyang | ✅ | ✅ | | | | | | ✅ |
+| 鹿城通 | 包头/ Baotou | | | | | | | | ✅ |
 | 大连明珠卡	| 大连/ Dalian | 🕓 | ✅ | | | | | ✅ | ✅ |
 | 吉林通	| 吉林/ Jilin | ✅ | ✅ | ✅ | | | | ✅ | ✅ |
 | 哈尔滨城市通	| 哈尔滨/ Harbin | ✅ | ✅ | 🕓 | | | | ✅ | ✅ |
@@ -51,6 +54,7 @@
 | 洪城通 | 南昌/ Nanchang | | 🕓 |
 | 琴岛通	| 青岛/ Qingdao | ✅ | ✅ | | | | | ✅ | ✅ |
 | 轩辕通 | 郑州/ Zhengzhou | | ✅ |
+| 车城通 | 十堰/ Shiyan | | | | | | | | ✅ |
 | 潇湘卡 | 长沙/ Changsha | | ✅ | | | | | ✅ | ✅ |
 | 岭南通	| 广东/ Guangdong | ✅ | ✅ | | | ✅ | ✅ | ✅ | ✅ |
 | 深圳通 | 深圳/ Shenzhen | | ✅ |
@@ -58,8 +62,6 @@
 | 海南一卡通（海岛通）	| 海南/ Hainan | ✅ | ✅ | | | | | ✅ | ✅ |
 | 长安通 | 西安/ Xi'an | | | | | | | | | ✅ |
 | 兰州公交一卡通 | 兰州/ Lanzhou | | | | | | | | ✅ |
-| 车城通 | 十堰/ Shiyan | | | | | | | | ✅ |
-| 鹿城通 | 包头/ Baotou | | | | | | | | ✅ |
 | | | <img src="/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | <img src="/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | <img src="/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | <img src="/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | <img src="/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | <img src="/images/OnePlus.png" width="25" hegiht="25" alt="OnePlus"/> | <img src="/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/>  | <img src="/images/vivo.png" width="40" hegiht="40" alt="vivo"/> | <img src="/images/Mini Program.png" width="25" hegiht="25" alt="WeChat Transit Card"/> |
 
 ## 城市一卡通卡/ City Union Cards <img src="/images/City Union.png" width="30" hegiht="30">
