@@ -94,7 +94,7 @@
 | 羊城通	| 广州/ Guangzhou | | ✅ | | | | | | |
 | 深圳通	| 深圳/ Shenzhen | ✅ | ✅ | ✅ | 🕓 | ✅ | | ✅ | |
 | 重庆畅通卡	| 重庆/ Chongqing | ✅ | ✅ | | | | | ✅ | ✅ |
-| 天府通	| 成都/ Chengdu | 🕓 | 🕓 |
+| 天府通	| 成都/ Chengdu | 🕓 | 🕓 | | | | | 🕓 |
 | 长安通	| 西安/ Xi'an | ✅ | ✅ | | | ✅ | | | ✅ |
 | 八达通/ Octopus Card | 香港/ Hong Kong | | | ✅ | 🕓 |
 | | | <img src="/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | <img src="/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | <img src="/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | <img src="/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | <img src="/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | <img src="/images/OnePlus.png" width="25" hegiht="25" alt="OnePlus"/> | <img src="/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/>  | <img src="/images/vivo.png" width="40" hegiht="40" alt="vivo"/> | <img src="/images/Mini Program.png" width="25" hegiht="25" alt="WeChat Transit Card"/> |
