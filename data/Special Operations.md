@@ -142,6 +142,9 @@
 - <img src="/images/city/tj.gif" width="20" hegiht="20"/>~~天津地铁2号线~~（东段、西段）
 
 ## 脱网
+
+此处“成网”均指两条线（含支线）有交叉点，而非多条线组成封闭区域
+
 ### 成网时脱网（脱网时间-入网时间）
 - <img src="/images/city/dl.gif" width="20" hegiht="20"/>大连地铁3号线（2015.10-）
 - <img src="/images/city/qd.gif" width="20" hegiht="20"/>青岛地铁13号线（2018.12-）
