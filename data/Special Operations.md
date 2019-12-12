@@ -15,6 +15,7 @@
 - <img src="/images/city/cd.gif" width="20" hegiht="20"/>***成都地铁9号线***
 - <img src="/images/city/xa.gif" width="20" hegiht="20"/>***西安地铁8号线***
 - <img src="/images/city/jn.gif" width="20" hegiht="20"/>***济南地铁环线***
+- <img src="/images/city/mo.gif" width="20" hegiht="20"/>***澳门轻轨半岛线***
 
 ## 越行（快车开通时间）
 ### 有越行线
@@ -198,6 +199,7 @@
 - <img src="/images/city/xm.gif" width="20" hegiht="20"/>厦门，普闽英
 - <img src="/images/city/wlmq.gif" width="20" hegiht="20"/>乌鲁木齐，汉维英
 - <img src="/images/city/wz.gif" width="20" hegiht="20"/>温州，普英温
+- <img src="/images/city/mo.gif" width="20" hegiht="20"/>澳门，粤葡国英
 
 ### 男声
 - <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海
