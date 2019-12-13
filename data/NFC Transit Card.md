@@ -92,7 +92,7 @@
 | 武汉通	| 武汉/ Wuhan | ✅ | ✅ | ✅ | | ✅ | ✅ | ✅ | ✅ |
 | 岭南通	| 广东/ Guangdong | ❌ | ✅ | ✅ | 🕓 | | | | |
 | 羊城通	| 广州/ Guangzhou | | ✅ | | | | | | |
-| 深圳通	| 深圳/ Shenzhen | ✅ | ✅ | ✅ | 🕓 | ✅ | | ✅ | |
+| 深圳通	| 深圳/ Shenzhen | ✅ | ✅ | ✅ | 🕓 | ✅ | ✅ | ✅ | |
 | 重庆畅通卡	| 重庆/ Chongqing | ✅ | ✅ | | | | | ✅ | ✅ |
 | 天府通	| 成都/ Chengdu | 🕓 | 🕓 | | | | | 🕓 |
 | 长安通	| 西安/ Xi'an | ✅ | ✅ | | | ✅ | | | ✅ |
@@ -106,3 +106,4 @@
 - http://xiaoiwx.meizu.com/robot/imgmsgData/87d512733f4d425db4a13aed3edac704/index_1.html
 - https://www.apple.com/cn/apple-pay/transit/
 - https://support-cn.samsung.com/samsungpay/
+- https://bbs.vivo.com.cn/thread-4392640-1-1.html
