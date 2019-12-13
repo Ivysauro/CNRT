@@ -55,7 +55,7 @@
 | <img src="/images/city/wlmq.gif" width="20" hegiht="20"/>乌鲁木齐/ Urumqi | ⭕ | ⭕ | ❌ | ❌ | ❌ | **20** |
 | <img src="/images/city/wz.gif" width="20" hegiht="20"/>温州/ Wenzhou | ⭕ | ⭕ | ✅ | ❌ | ❌ | 40 | 
 | <img src="/images/city/jn.gif" width="20" hegiht="20"/>济南/ Jinan | ⭕ | ⭕ | ❌ | ✅ | ❌ | 40 |
-| <img src="/images/city/lz.gif" width="20" hegiht="20"/>兰州/ Lanzhou | ⭕ | ⭕ | ⭕ | ✅ | ❌ | 50 |
+| <img src="/images/city/lz.gif" width="20" hegiht="20"/>兰州/ Lanzhou | ⭕ | ⭕ | ⭕ | ✅ | ⭕ | 60 |
 | <img src="/images/city/cz.gif" width="20" hegiht="20"/>常州/ Changzhou | ⭕ | ⭕ | ⭕ | ✅ | ✅ | 70 |
 | <img src="/images/city/xz.gif" width="20" hegiht="20"/>徐州/ Xuzhou | ❌ | ❌ | ✅ | ✅ | ⭕ | 50 |
 | <img src="/images/city/hk.gif" width="20" hegiht="20"/>香港/ Hong Kong | ⭕ | ⭕ | [⭕](https://www.unionpayintl.com/cn/mediaCenter/newsCenter/companyNews/4733.shtml) | | ⭕ | - |
