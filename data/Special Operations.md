@@ -72,6 +72,7 @@
 - <img src="/images/city/suz.gif" width="20" hegiht="20"/>***苏州地铁S1线/<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海地铁11号线***
 
 ## 直通/跨线
+- <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海地铁4号线回库车（终点站3号线上海南站）
 - <img src="/images/city/nj.gif" width="20" hegiht="20"/>南京地铁S1线/S7线（2018.5）
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>***北京地铁8号线/昌平线***
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>***北京地铁3号线&12号线/20号线***
