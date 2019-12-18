@@ -43,7 +43,7 @@
 | 江苏交通一卡通·南京（金陵通） |南京（宁镇扬）/ Nanjing (Ningzhenyang) | | ✅ | | | | | | ✅ |
 | 江苏交通一卡通·扬州 | 扬州（宁镇扬）/ Yangzhou (Ningzhenyang) | | ✅ |
 | 江苏交通一卡通·苏州 | 苏州（苏锡常）/ Suzhou (Suxichang) | ✅ | ✅ | ✅ | | ✅ | ✅ | ✅ | ✅ |
-| 江苏交通一卡通·无锡 | 无锡（苏锡常）/ Wuxi (Suxichang) | | ✅ |
+| 江苏交通一卡通·无锡 | 无锡（苏锡常）/ Wuxi (Suxichang) | 🕓 | ✅ | | | | | ✅ | 🕓 |
 | 江苏交通一卡通·常州（龙城通） | 常州（苏锡常）/ Changzhou (Suxichang) | | ✅ | | | | | | ✅ |
 | 江苏交通一卡通·盐城（黄海通） | 盐城（盐通泰）/ Yancheng (Yantongtai) | | ✅ | | | | | | ✅ |
 | 江苏交通一卡通·南通 | 南通（盐通泰）/ Nantong (Yantongtai) | ✅ | | | | | | | ✅ |
