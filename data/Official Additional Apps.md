@@ -17,7 +17,7 @@
 | 香港/ Hong Kong | 港铁MTR Mobile | 地铁 | ✅ |
 | 香港/ Hong Kong | 八达通 | 通卡 |
 | 天津/ Tianjin | 天津地铁 | 地铁 |✅ | | ✅ | 支付宝、银联 |
-| 上海/ Shanghai | Metro大都会 | 地铁 | ✅ | | ✅ | 支付宝、微信、银联、云闪付、京东 |
+| 上海/ Shanghai | Metro大都会 | 地铁 | ✅ | | ✅ | 支付宝、微信、银联、云闪付、京东 | 同行票 |
 | 台北/ Taipei | 台北捷运Go | 地铁 | ✅ |
 | 桃园/ Taoyuan | i搭桃捷 | 地铁 | ✅ |
 | 桃园/ Taoyuan | 桃捷Tickets | 地铁 | | ✅ | ✅ | 信用卡（详细数据暂缺） |
