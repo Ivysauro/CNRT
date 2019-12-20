@@ -61,7 +61,7 @@
 | <img src="/images/city/xz.gif" width="20" hegiht="20"/>徐州/ Xuzhou | ✅ | ✅ | | | | ✅ |
 | <img src="/images/city/hk.gif" width="20" hegiht="20"/>香港/ Hong Kong | | | | | | | |
 | <img src="/images/city/mo.gif" width="20" hegiht="20"/>澳门/ Macao | | | | | | | |
-| <img src="/images/city/tp.gif" width="20" hegiht="20"/>台北/ Taipei | | | | | | ⭕ | |
+| <img src="/images/city/tp.gif" width="20" hegiht="20"/>台北/ Taipei | | 🕓 | | | | ⭕ | |
 | <img src="/images/city/kh.gif" width="20" hegiht="20"/>高雄/ Kaohsiung | | ⭕ | | | | | ✅ |
 | | <img src="/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Official Apps"/> |
 
