@@ -56,7 +56,7 @@
 | <img src="/images/city/wlmq.gif" width="20" hegiht="20"/>乌鲁木齐/ Urumqi | | | | | | ✅ | |
 | <img src="/images/city/wz.gif" width="20" hegiht="20"/>温州/ Wenzhou | | ✅ | | | | ✅ | |
 | <img src="/images/city/jn.gif" width="20" hegiht="20"/>济南/ Jinan | ✅ | | | | | ✅ | |
-| <img src="/images/city/lz.gif" width="20" hegiht="20"/>兰州/ Lanzhou | ✅ | ⭕ | | | | ✅ | |
+| <img src="/images/city/lz.gif" width="20" hegiht="20"/>兰州/ Lanzhou | ✅ | ⭕ | 🕓 | 🕓 | | ✅ | |
 | <img src="/images/city/cz.gif" width="20" hegiht="20"/>常州/ Changzhou | ✅ | | | | | ✅ |
 | <img src="/images/city/xz.gif" width="20" hegiht="20"/>徐州/ Xuzhou | ✅ | ✅ | | | | ✅ |
 | <img src="/images/city/hk.gif" width="20" hegiht="20"/>香港/ Hong Kong | | | | | | | |
