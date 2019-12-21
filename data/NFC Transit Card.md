@@ -46,11 +46,13 @@
 | 江苏交通一卡通·无锡 | 无锡（苏锡常）/ Wuxi (Suxichang) | 🕓 | ✅ | | | | | ✅ | 🕓 |
 | 江苏交通一卡通·常州（龙城通） | 常州（苏锡常）/ Changzhou (Suxichang) | | ✅ | | | | | | ✅ |
 | 江苏交通一卡通·盐城（黄海通） | 盐城（盐通泰）/ Yancheng (Yantongtai) | | ✅ | | | | | | ✅ |
-| 江苏交通一卡通·南通 | 南通（盐通泰）/ Nantong (Yantongtai) | ✅ | | | | | | | ✅ |
+| 江苏交通一卡通·南通 | 南通（盐通泰）/ Nantong (Yantongtai) | ✅ | 🕓 | | | | | | ✅ |
 | 江苏交通一卡通·徐州（淮海通） | 徐州（徐淮连宿）/ Xuzhou (Xuhuailiansu) | | ✅ |
+| 江苏交通一卡通·淮安 | 淮安（徐淮连宿）/ Huai'an (Xuhuailiansu) | | 🕓 |
 | 江苏交通一卡通·连云港 | 连云港（徐淮连宿）/ Lianyungang（Xuhuailiansu） | | ✅ | | | | | | ✅ |
 | 江苏交通一卡通·宿迁 | 宿迁（徐淮连宿）/ Suqian（Xuhuailiansu） | | | | | | | | ✅ |
 | 甬城通 | 宁波/ Ningbo | 🕓 | 🕓 | | | | | | |
+| 金华市民卡 | 金华/ Jinhua | | 🕓 |
 | 厦门e通卡 | 厦门/ Xiamen | ✅ |
 | 洪城通 | 南昌/ Nanchang | | 🕓 |
 | 琴岛通	| 青岛/ Qingdao | ✅ | ✅ | | | | | ✅ | ✅ |
@@ -83,8 +85,8 @@
 ## 市民卡/ Local Transit Cards <img src="/images/Citizen Card.png" width="30" hegiht="30">
 | 卡名称/ Card Name | 地区/ Area | <img src="/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | <img src="/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | <img src="/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | <img src="/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | <img src="/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | <img src="/images/OnePlus.png" width="25" hegiht="25" alt="OnePlus"/> | <img src="/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/>  | <img src="/images/vivo.png" width="40" hegiht="40" alt="vivo"/> | <img src="/images/Mini Program.png" width="25" hegiht="25" alt="WeChat Transit Card"/> |
 | :- | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 北京市政交通一卡通 | 北京/ Beijing | ❌ | ✅ | ✅ | ✅ | | | | |
-| 苏州市民卡	| 苏州/ Suzhou | ❌ |
+| 北京市政交通一卡通 | 北京/ Beijing | ❌ | ❌ | ✅ | ✅ | | | | |
+| 苏州市民卡	| 苏州/ Suzhou | ❌ | ❌ |
 | 杭州通	| 杭州/ Hangzhou | ❌ | 🕓 |
 | 甬城通 | 宁波/ Ningbo | | | | | | | ✅ | ✅ |
 | 合肥通	| 合肥/ Hefei | ✅ | ✅ | ✅ | | ✅ | | ✅ | ✅ |
