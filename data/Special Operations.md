@@ -22,8 +22,8 @@
 - <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海地铁16号线（2013.12试行，2016.3正式）
 - <img src="/images/city/ty.gif" width="20" hegiht="20"/>桃园机场捷运（2017.3）
 - <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州地铁14号线（2018.12）
+- <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州地铁21号线（2019.12）
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>***北京地铁6号线***
-- <img src="/images/city/gz.gif" width="20" hegiht="20"/>***广州地铁21号线***
 - <img src="/images/city/wx.gif" width="20" hegiht="20"/>***无锡地铁S1线***
 
 ### 无越行线
