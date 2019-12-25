@@ -24,7 +24,7 @@
 | --------- | :------------: | :--------------: | :-----------: | :------------: | :-----------: | :--------: |
 | <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京/ Beijing | ⭕ | ⭕ | ❌ | ⭕ | ✅ | 50 |
 | <img src="/images/city/tj.gif" width="20" hegiht="20"/>天津/ Tianjin | ⭕ | ⭕ | ✅ | ✅ | ✅ | 80 |
-| <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海/ Shanghai | ⭕ | ⭕ | ⭕ | ❌ | ✅ | 50 |
+| <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海/ Shanghai | ⭕ | ⭕ | ⭕ | ✅ | ✅ | 70 |
 | <img src="/images/city/gz.gif" width="20" hegiht="20"/><img src="/images/city/fs.gif" width="20" hegiht="20"/>广州&佛山/ Guangzhou & Foshan | ✅ | ✅ | ⭕ | ✅ | ✅ | 90 |
 | <img src="/images/city/cc.gif" width="20" hegiht="20"/>长春/ Changchun | ❌ | ❌ | ⭕ | ✅ | ✅ | 50 |
 | <img src="/images/city/dl.gif" width="20" hegiht="20"/>大连/ Dalian | ❌ | ❌ | ✅ | ✅ | ✅ | 60 |
