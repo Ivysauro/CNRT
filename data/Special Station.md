@@ -41,6 +41,9 @@
 #### <img src="/images/city/zz.gif" width="20" hegiht="20"/>郑州
 - 莲湖、市民大道、须水（14号线，2019.9-）
 
+#### <img src="/images/city/gy.gif" width="20" hegiht="20"/>贵阳
+- 窦官（1号线）
+
 ## 换乘
 
 ### 虚拟换乘（连续计费）
@@ -240,7 +243,7 @@
 - 体育新城→大运（3号线，?）
 
 #### <img src="/images/city/suz.gif" width="20" hegiht="20"/>苏州
-- 苏州乐园→狮子山（1号线，预计2019.12）
+- 苏州乐园→狮子山（1号线，2019.12）
 
 #### <img src="/images/city/zz.gif" width="20" hegiht="20"/>郑州
 - 桐柏路→五一公园（1号线，2016.12）
