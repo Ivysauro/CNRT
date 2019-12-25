@@ -18,6 +18,7 @@
 | ✅ | 完全支持 | Full Support |
 | ⭕ | 有条件的支持（参见`备注`） | Conditional Support（See `Notes`） |
 | 🕓 | 即将上线 | Coming Soon |
+| 💥 | 新变动 | New Update |
 
 ## 主表/ Content
 
@@ -25,7 +26,7 @@
 | ---------  | :-----: | :------:  | :---------: | :-------: | :-------: | :-----------: | :- |
 | <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京/ Beijing | ⭕ | | | | | ✅ | 
 | <img src="/images/city/tj.gif" width="20" hegiht="20"/>天津/ Tianjin | ✅ | ✅ | | | | ✅ | |
-| <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海/ Shanghai | ✅ | ⭕ | | | | ✅ | |
+| <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海/ Shanghai | ✅💥* | ⭕ | | | | ✅ | |
 | <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州/ Guangzhou | ✅ | ⭕ | ✅ | ✅ | | ✅ | |
 | <img src="/images/city/cc.gif" width="20" hegiht="20"/>长春/ Changchun | ✅ | ✅ | | | 🕓 | ✅ | |
 | <img src="/images/city/dl.gif" width="20" hegiht="20"/>大连/ Dalian | ✅ | ✅ | | | | ✅ | |
@@ -74,7 +75,8 @@ Maglev is included in Shanghai and Changsha; APM Line and Guang-Fo Metro are inc
 | 城市/ City | 备注 | Notes |
 | --------- | --- | ----- |
 | <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京/ Beijing | 交通联合采用[专版白名单](https://mp.weixin.qq.com/s/JF4pULn90EA7S5lUWaxNyw) | [Special whitelist](https://mp.weixin.qq.com/s/JF4pULn90EA7S5lUWaxNyw) in T-Union |
-| <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海/ Shanghai | 仅磁悬浮支持银联信用卡闪付（磁悬浮暂不支持交通联合） | Only Shanghai Maglev accept credit card Quickpass, but it doesn't accept T-Union |
+| <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海/ Shanghai | 异地交通联合卡可享受虚拟换乘优惠；磁悬浮暂不支持交通联合 | Non-local T-Union card can enjoy virtual-transfer discount; Maglev doesn't accept T-Union |
+| <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海/ Shanghai | 仅磁悬浮支持银联信用卡闪付 | Only Shanghai Maglev accept credit card Quickpass |
 | <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州/ Guangzhou | 银联云闪付仅支持[信用卡](http://cs.gzmtr.com/ckfw/pwzy/201811/t20181106_60161.htm)和招行借记卡（APM无此限制） | Only [credit card](http://cs.gzmtr.com/ckfw/pwzy/201811/t20181106_60161.htm) and CMB debit card accepted in Quickpass (APM accept all cards) |
 | <img src="/images/city/hrb.gif" width="20" hegiht="20"/>哈尔滨/ Harbin | 交通联合采用[专版黑名单](https://www.zhihu.com/question/312911617)；银联云闪付仅支持工行、交行、广发、浦发、邮储借记卡信用卡和招商银行借记卡 | [Special Blacklist](https://www.zhihu.com/question/312911617) in T-Union; Only CMB debit card and ICBC, COM, CGB, SPDB, CPG debit or credit cards accepted in Qucikpass |
 | <img src="/images/city/dg.gif" width="20" hegiht="20"/>东莞/ Dongguan | 银联云闪付仅支持东莞通合作银行 | Only banks that cooperates with DongguanTong accepted in Quickpass |
