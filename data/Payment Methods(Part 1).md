@@ -21,7 +21,7 @@
 
 ## 主表/ Content
 
-| 城市/ City | <img src="/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Official Apps"/> | 备注/ Notes |
+| 城市/ City | <img src="/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Official Apps"/> | 其他方式/ Other Methods |
 | ---------  | :-----: | :------:  | :---------: | :-------: | :-------: | :-----------: | :- |
 | <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京/ Beijing | ⭕ | | | | | ✅ | 
 | <img src="/images/city/tj.gif" width="20" hegiht="20"/>天津/ Tianjin | ✅ | ✅ | | | | ✅ | |
@@ -56,13 +56,13 @@
 | <img src="/images/city/wlmq.gif" width="20" hegiht="20"/>乌鲁木齐/ Urumqi | | | | | | ✅ | |
 | <img src="/images/city/wz.gif" width="20" hegiht="20"/>温州/ Wenzhou | | ✅ | | | | ✅ | |
 | <img src="/images/city/jn.gif" width="20" hegiht="20"/>济南/ Jinan | ✅ | | | | | ✅ | |
-| <img src="/images/city/lz.gif" width="20" hegiht="20"/>兰州/ Lanzhou | ✅ | ⭕ | ✅ | ✅ | | ✅ | 支持翼支付乘车码 |
+| <img src="/images/city/lz.gif" width="20" hegiht="20"/>兰州/ Lanzhou | ✅ | ⭕ | ✅ | ✅ | | ✅ | 翼支付 |
 | <img src="/images/city/cz.gif" width="20" hegiht="20"/>常州/ Changzhou | ✅ | | | | | ✅ |
 | <img src="/images/city/xz.gif" width="20" hegiht="20"/>徐州/ Xuzhou | ✅ | ✅ | | | | ✅ |
 | <img src="/images/city/hk.gif" width="20" hegiht="20"/>香港/ Hong Kong | | | | | | | |
 | <img src="/images/city/mo.gif" width="20" hegiht="20"/>澳门/ Macao | | | | | | | |
 | <img src="/images/city/tp.gif" width="20" hegiht="20"/>台北/ Taipei | | 🕓 | | | | ⭕ | |
-| <img src="/images/city/kh.gif" width="20" hegiht="20"/>高雄/ Kaohsiung | | ⭕ | | | | ✅ | |
+| <img src="/images/city/kh.gif" width="20" hegiht="20"/>高雄/ Kaohsiung | | ⭕ | | | | ✅ | Master Credit card |
 | | <img src="/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Official Apps"/> |
 
 ## 备注/ Notes
@@ -81,4 +81,4 @@ Maglev is included in Shanghai and Changsha; APM Line and Guang-Fo Metro are inc
 | <img src="/images/city/nn.gif" width="20" hegiht="20"/>南宁/ Nanning | 银联云闪付仅支持除浦发、华夏以外的信用卡和交行、招行借记卡 | Only credit card(except SPDB, HXB) and COM, CMB debit card accepted in Quickpass |
 | <img src="/images/city/lz.gif" width="20" hegiht="20"/>兰州/ Lanzhou | 银联云闪付仅支持信用卡 | Only credit card accepted in Quickpass |
 | <img src="/images/city/tp.gif" width="20" hegiht="20"/>台北/ Taipei | 仅桃园机场捷运支持在线购票后扫码过闸 | Only Taoyuan Airport MRT support after buying ticket online |
-| <img src="/images/city/kh.gif" width="20" hegiht="20"/>高雄/ Kaohsiung | 银联云闪付仅支持信用卡，此外还支持万事达信用卡 | Only credit card accepted in Quickpass, and Master credit card also accepted |
+| <img src="/images/city/kh.gif" width="20" hegiht="20"/>高雄/ Kaohsiung | 银联云闪付仅支持信用卡 | Only credit card accepted in Quickpass |
