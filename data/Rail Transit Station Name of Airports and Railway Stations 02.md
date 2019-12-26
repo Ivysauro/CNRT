@@ -42,7 +42,7 @@ RS is short for "Railway Station"
 | Fuzhou | Fuzhou RS/ Fuzhou | Fuzhou South RS/ Fuzhounan | *Fuzhou Changle International Airport*/ Fuzhou Changle | |
 | Dongguan | Dongguan RS/ Dongguan | *Dongguan East RS*/ Dongguandong | | Humen RS/ Humen, Humen RS/ Humenbei, *Changping RS*/ Changping, *Songshan Lake North*/ Songshanhubei, *Dalang*/ Dalangzhen |
 | Nanning | Nanning RS/ Nanning | Nanning East RS/ Nanningdong | | *WUXIANG RS/ Wuxiang* |
-| Hefei | Hefei RS/ Hefei | Heifeinan RS/ Hefeinan, *New Hefeixi RS/ Hefeixi* | | |
+| Hefei | Hefei RS/ Hefei | Heifeinan RS/ Hefeinan, HEFEI South Railway South Square/ Hefeinan, Hefeixi RS/ *Hefeixi* | | |
 | Shijiazhuang | SHIJIAZHUANGNAN/ Shijiazhuang | SHIJIAZHUANGDONGZHAN/ Shijiazhuangdong | | |
 | Guiyang | Guiyang RS/ Guiyang | Guiyangbei RS/ Guiyangbei, *Guiyangdong RS*/ Guiyangdong | *Airport*/ Guiyang Longdongbao | *Airport*/ Longdongbao, *Guian RS*/ Guian |
 | Xiamen | *Xiamen RS*/ Xiamen | Xiamen North RS/ Xiamenbei, Gaoqi/ Xiamen-Gaoqi | Gaoqi/ Xiamen Gaoqi, *Xiang'an Airport/ Xiamen Xiang'an* | | 
