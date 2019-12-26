@@ -42,7 +42,7 @@
 - 莲湖、市民大道、须水（14号线，2019.9-）
 
 #### <img src="/images/city/gy.gif" width="20" hegiht="20"/>贵阳
-- 窦官（1号线）
+- 窦官（1号线，2017.12-预计2019.12）
 
 ## 换乘
 
@@ -118,6 +118,7 @@
 - 体育西路（<img src="/images/city/gz.gif" width="20" hegiht="20"/>广州，3号线）
 - 华新（<img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳，3号线，小交路）
 - 福田口岸（<img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳，4号线）
+- 合肥火车站（（<img src="/images/city/hf.gif" width="20" hegiht="20"/>合肥，1号线）
 
 #### 不可穿行
 
