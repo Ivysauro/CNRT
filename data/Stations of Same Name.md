@@ -70,6 +70,7 @@
 | 大学城南 | <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州4、<img src="/images/city/km.gif" width="20" hegiht="20"/>昆明1 |
 | 新塘 | <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州13、<img src="/images/city/hz.gif" width="20" hegiht="20"/>杭州4 |
 | 西门口 | <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州1、<img src="/images/city/nb.gif" width="20" hegiht="20"/>宁波1 |
+| 大学城北 | <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州4、<img src="/images/city/hf.gif" width="20" hegiht="20"/>合肥3 |
 | 烈士陵园 | <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州1、<img src="/images/city/sjz.gif" width="20" hegiht="20"/>石家庄1 |
 | 北京路 | <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州6、<img src="/images/city/gy.gif" width="20" hegiht="20"/>贵阳1 |
 | 金马路 | <img src="/images/city/dl.gif" width="20" hegiht="20"/>大连3、<img src="/images/city/suz.gif" width="20" hegiht="20"/>南京2/4 |
