@@ -20,7 +20,7 @@
 
 ## 改造中/ In Process🕓
 
-- 北京/ Beijing：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>北京北/ Beijingbei→<img src="/images/city/bj.gif" width="20" hegiht="20"/>西直门/ XIZHIMEN、清河/ Qinghe→<img src="/images/city/bj.gif" width="20" hegiht="20"/>清河/ Qing He
+- 北京/ Beijing：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>北京北/ Beijingbei→<img src="/images/city/bj.gif" width="20" hegiht="20"/>西直门/ XIZHIMEN、<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>清河/ Qinghe→<img src="/images/city/bj.gif" width="20" hegiht="20"/>清河/ Qing He
 - 广州/ Guangzhou：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>广州/ Guangzhou→<img src="/images/city/gz.gif" width="20" hegiht="20"/>广州火车站/ Guangzhou Railway Station
 - 南京/ Nanjing：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>南京/ Nanjing→<img src="/images/city/nj.gif" width="20" hegiht="20"/>南京站/ NANJING RAILWAY STATION、<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>南京南/ Nanjingnan→<img src="/images/city/nj.gif" width="20" hegiht="20"/>南京南站/ NANJING SOUTH RAILWAY STATION
 
