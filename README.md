@@ -4,9 +4,6 @@
 
 **Data base of China Rail Transit (Non-tech) - Another view of China Rail Transit**
 
-## 近期新闻/ Recent News
-- 上海地铁已正式支持交通联合😘/ Shanghai Metro has already accept T-Union
-
 ## 目录/ Content
 
 *斜体字*表示未完工/ *Italics* indicates "In Construction" 🏗
