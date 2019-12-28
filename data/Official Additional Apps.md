@@ -28,6 +28,7 @@
 | 大连/ Dalian | 大连地铁e出行 | 合资 | ✅ | ✅ | ✅ | 支付宝、银联 |
 | 武汉/ Wuhan | 武汉地铁 | 地铁 | ✅ |
 | 武汉/ Wuhan | Metro新时代 | 合资 | ✅ | ✅ | ✅ | 支付宝、微信、银联 |
+| 重庆/ Chongqing | 渝畅行 | 地铁 | | | ✅ |
 | 重庆/ Chongqing | 重庆轨道交通 | 地铁 | ✅ |
 | 深圳/ Shenzhen | 深圳地铁 | 地铁 | ✅ | | ✅ | 微信 | 刷脸过闸（仅限免费群体） |
 | 南京/ Nanjing | 南京地铁 | 地铁 | ✅ | | ✅ | 支付宝 |
@@ -65,6 +66,7 @@
 | 兰州/ Lanzhou | 兰州轨道 | 地铁 | ✅ | | ✅ | 银联 |
 | 常州/ Changzhou | 常州地铁Metro | 地铁 | ✅ | | ✅ | 银联 |
 | 徐州/ Xuzhou | 徐州地铁 | 地铁 | ✅ | ✅ | ✅ | 支付宝、微信、银联、苏宁 |
+| 呼和浩特/ Hohhot | 青城地铁 | 地铁 | | | ✅ |
 
 ## 二维码互通（需开通并绑定当地支持的支付方式）/ QR Code in One App (Need apply first and bind a supported payment method)
 - 上海（Metro大都会）：杭州、宁波、温州、合肥、南京、苏州、无锡、南昌、青岛、徐州、厦门（BRT）
