@@ -33,7 +33,7 @@
 | 京津冀互联互通卡 | 京津冀/ Jingjinji | ✅ | ✅ | ✅ | | ✅ | ✅ | ✅ | ✅ |
 | 天津城市卡	| 天津/ Tianjin | | ✅ | | | | | | ✅ |
 | 河北交通一卡通	| 河北/ Hebei | | ✅ | ✅ | | | | | ✅ | ✅ |
-| 石家庄一卡通 | 石家庄/ Shijiazhuang | | ✅ | | | | | | ✅ |
+| 石家庄一卡通 | 石家庄/ Shijiazhuang | | ✅ | | | | | ✅ | ✅ |
 | 盛京通	| 沈阳/ Shenyang | ✅ | ✅ | | | | | | ✅ |
 | 鹿城通 | 包头/ Baotou | | | | | | | | ✅ |
 | 大连明珠卡	| 大连/ Dalian | ✅ | ✅ | | | | | ✅ | ✅ |
@@ -60,8 +60,8 @@
 | 轩辕通 | 郑州/ Zhengzhou | | ✅ |
 | 车城通 | 十堰/ Shiyan | | | | | | | | ✅ |
 | 潇湘卡 | 长沙/ Changsha | | ✅ | | | | | ✅ | ✅ |
-| 岭南通	| 广东/ Guangdong | ✅ | ✅ | | | ✅ | ✅ | ✅ | ✅ |
-| 深圳通 | 深圳/ Shenzhen | | ✅ | | | | | | ✅ |
+| 岭南通	| 广东/ Guangdong | ✅ | ✅ | | 🕓 | ✅ | ✅ | ✅ | ✅ |
+| 深圳通 | 深圳/ Shenzhen | | ✅ | | 🕓 | | | | ✅ |
 | 广西交通一卡通（桂民卡）	| 广西/ Guangxi | ✅ | ✅ | | | ✅ | | ✅ | ✅ |
 | 海南一卡通（海岛通）	| 海南/ Hainan | ✅ | ✅ | | | | | ✅ | ✅ |
 | 贵州通 | 贵州/ Guizhou | | 🕓 |
@@ -80,7 +80,7 @@
 ## 双标卡/ TU&CU Cards <img src="/images/T-Union.png" width="35" hegiht="35"><img src="/images/City Union.png" width="30" hegiht="30">
 | 卡名称/ Card Name | 地区/ Area | <img src="/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | <img src="/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | <img src="/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | <img src="/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | <img src="/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | <img src="/images/OnePlus.png" width="25" hegiht="25" alt="OnePlus"/> | <img src="/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/>  | <img src="/images/vivo.png" width="40" hegiht="40" alt="vivo"/> | <img src="/images/Mini Program.png" width="25" hegiht="25" alt="WeChat Transit Card"/> |
 | :- | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 台州公共交通卡 | 台州/ Taizhou, Zhejiang | ✅ | | | | | | | ✅ |
+| 台州公共交通卡 | 台州/ Taizhou, Zhejiang | ✅ | | | | | | ✅ | ✅ |
 
 ## 市民卡/ Local Transit Cards <img src="/images/Citizen Card.png" width="30" hegiht="30">
 | 卡名称/ Card Name | 地区/ Area | <img src="/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | <img src="/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | <img src="/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | <img src="/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | <img src="/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | <img src="/images/OnePlus.png" width="25" hegiht="25" alt="OnePlus"/> | <img src="/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/>  | <img src="/images/vivo.png" width="40" hegiht="40" alt="vivo"/> | <img src="/images/Mini Program.png" width="25" hegiht="25" alt="WeChat Transit Card"/> |
@@ -92,9 +92,9 @@
 | 合肥通	| 合肥/ Hefei | ✅ | ✅ | ✅ | | ✅ | | ✅ | ✅ |
 | 厦门e通卡	| 厦门/ Xiamen | ✅ | ✅ | | | | | ✅ | ✅ |
 | 武汉通	| 武汉/ Wuhan | ✅ | ✅ | ✅ | | ✅ | ✅ | ✅ | ✅ |
-| 岭南通	| 广东/ Guangdong | ❌ | ✅ | ✅ | 🕓 | | | | |
+| 岭南通	| 广东/ Guangdong | ❌ | ✅ | ✅ | | | | | |
 | 羊城通	| 广州/ Guangzhou | | ✅ | | | | | | |
-| 深圳通	| 深圳/ Shenzhen | ✅ | ✅ | ✅ | 🕓 | ✅ | ✅ | ✅ | |
+| 深圳通	| 深圳/ Shenzhen | ✅ | ✅ | ✅ | | ✅ | ✅ | ✅ | |
 | 重庆畅通卡	| 重庆/ Chongqing | ✅ | ✅ | | | | | ✅ | ✅ |
 | 天府通	| 成都/ Chengdu | 🕓 | 🕓 | | | | | 🕓 |
 | 长安通	| 西安/ Xi'an | ✅ | ✅ | | | ✅ | | | ✅ |
