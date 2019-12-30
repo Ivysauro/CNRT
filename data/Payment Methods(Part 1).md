@@ -40,8 +40,8 @@
 | <img src="/images/city/suz.gif" width="20" hegiht="20"/>苏州/ Suzhou | ✅ | | | | | ✅ | |
 | <img src="/images/city/km.gif" width="20" hegiht="20"/>昆明/ Kunming | ✅ | ✅ | ✅ | ✅ | | ✅ | |
 | <img src="/images/city/hz.gif" width="20" hegiht="20"/>杭州/ Hangzhou | 🕓 | ✅ | ✅ | | ✅ | ✅ | |
-| <img src="/images/city/hrb.gif" width="20" hegiht="20"/>哈尔滨/ Harbin | ⭕ | ⭕ | | | ✅ | ✅ | |
-| <img src="/images/city/zz.gif" width="20" hegiht="20"/>郑州/ Zhengzhou | ✅ | | ✅ | ✅ | 🕓 | ✅ | |
+| <img src="/images/city/hrb.gif" width="20" hegiht="20"/>哈尔滨/ Harbin | ⭕ | ⭕ | ✅💥 | | ✅ | ✅ | |
+| <img src="/images/city/zz.gif" width="20" hegiht="20"/>郑州/ Zhengzhou | ✅ | | ✅ | ✅ | ✅💥 | ✅ | |
 | <img src="/images/city/cs.gif" width="20" hegiht="20"/>长沙/ Changsha | ✅ | | | | | ✅ | |
 | <img src="/images/city/nb.gif" width="20" hegiht="20"/>宁波/ Ningbo | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | |
 | <img src="/images/city/wx.gif" width="20" hegiht="20"/>无锡/ Wuxi | ✅ | | | | | ✅ | |
