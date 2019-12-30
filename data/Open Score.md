@@ -58,6 +58,7 @@
 | <img src="/images/city/lz.gif" width="20" hegiht="20"/>兰州/ Lanzhou | ✅ | ✅ | ⭕ | ✅ | ⭕ | 80 |
 | <img src="/images/city/cz.gif" width="20" hegiht="20"/>常州/ Changzhou | ⭕ | ⭕ | ⭕ | ✅ | ✅ | 70 |
 | <img src="/images/city/xz.gif" width="20" hegiht="20"/>徐州/ Xuzhou | ❌ | ❌ | ✅ | ✅ | ⭕ | 50 |
+| <img src="/images/city/hhht.gif" width="20" hegiht="20"/>呼和浩特/ Hohhot | ❌ | ❌ | ❌ | ❌ | ❌ | **0** |
 | <img src="/images/city/hk.gif" width="20" hegiht="20"/>香港/ Hong Kong | ⭕ | ⭕ | [⭕](https://www.unionpayintl.com/cn/mediaCenter/newsCenter/companyNews/4733.shtml) | | ⭕ | - |
 | <img src="/images/city/mo.gif" width="20" hegiht="20"/>澳门/ Macao | | | | | | - |
 | <img src="/images/city/tp.gif" width="20" hegiht="20"/><img src="/images/city/ty.gif" width="20" hegiht="20"/>台北&桃园/ Taipei & Taoyuan | | | | | | - |
