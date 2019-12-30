@@ -29,7 +29,7 @@
 | <img src="/images/city/cc.gif" width="20" hegiht="20"/>长春/ Changchun | ❌ | ❌ | ⭕ | ✅ | ✅ | 50 |
 | <img src="/images/city/dl.gif" width="20" hegiht="20"/>大连/ Dalian | ❌ | ❌ | ✅ | ✅ | ✅ | 60 |
 | <img src="/images/city/wh.gif" width="20" hegiht="20"/>武汉/ Wuhan | ⭕ | ⭕ | ⭕ | ❌ | ✅ | 50 |
-| <img src="/images/city/cq.gif" width="20" hegiht="20"/>重庆/ Chongqing | ⭕ | ⭕ | ❌ | ❌ | ✅ | 40 |
+| <img src="/images/city/cq.gif" width="20" hegiht="20"/>重庆/ Chongqing | ✅ | ✅ | ✅ | ❌ | ✅ | 80 |
 | <img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳/ Shenzhen | ✅ | ✅ | ✅ | ✅ | ❌ | 80 | 
 | <img src="/images/city/nj.gif" width="20" hegiht="20"/>南京/ Nanjing | ✅ | ⭕ | ✅ | ✅ | ⭕ | 80 |
 | <img src="/images/city/sy.gif" width="20" hegiht="20"/>沈阳/ Shenyang | ❌ | ❌ | ❌ | ✅ | ⭕ | 30 |
@@ -51,7 +51,7 @@
 | <img src="/images/city/hf.gif" width="20" hegiht="20"/>合肥/ Hefei | ⭕ | ⭕ | ✅ | ✅ | ✅ | 80 |
 | <img src="/images/city/sjz.gif" width="20" hegiht="20"/>石家庄/ Shijiazhuang | ⭕ | ⭕ | ⭕ | ✅ | ✅ | 70 |
 | <img src="/images/city/gy.gif" width="20" hegiht="20"/>贵阳/ Guiyang | ⭕ | ⭕ | ❌ | ✅ | ❌ | 40 |
-| <img src="/images/city/xm.gif" width="20" hegiht="20"/>厦门/ Xiamen | ✅ | ⭕ | ❌ | ✅ | ✅ | 70 |
+| <img src="/images/city/xm.gif" width="20" hegiht="20"/>厦门/ Xiamen | ✅ | ⭕ | ✅ | ✅ | ✅ | 90 |
 | <img src="/images/city/wlmq.gif" width="20" hegiht="20"/>乌鲁木齐/ Urumqi | ⭕ | ⭕ | ❌ | ❌ | ❌ | 20 |
 | <img src="/images/city/wz.gif" width="20" hegiht="20"/>温州/ Wenzhou | ⭕ | ⭕ | ✅ | ❌ | ❌ | 40 | 
 | <img src="/images/city/jn.gif" width="20" hegiht="20"/>济南/ Jinan | ⭕ | ⭕ | ❌ | ✅ | ❌ | 40 |
