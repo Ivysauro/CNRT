@@ -22,7 +22,9 @@
 ## 改造中/ In Process🕓
 
 - 广州/ Guangzhou：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>广州/ Guangzhou→<img src="/images/city/gz.gif" width="20" hegiht="20"/>广州火车站/ Guangzhou Railway Station
+- 重庆/ Chongqing：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>重庆北/ Chongqingbei→<img src="/images/city/cq.gif" width="20" hegiht="20"/>重庆北站南广场/ Chongqing North Station South Square
 - 南京/ Nanjing：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>南京/ Nanjing→<img src="/images/city/nj.gif" width="20" hegiht="20"/>南京站/ NANJING RAILWAY STATION、<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>南京南/ Nanjingnan→<img src="/images/city/nj.gif" width="20" hegiht="20"/>南京南站/ NANJING SOUTH RAILWAY STATION
+- 西安/ Guangzhou：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>西安北/ Guangzhou→<img src="/images/city/xa.gif" width="20" hegiht="20"/>北客站/ BEIKEZHAN、<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>西安北/ Guangzhou→<img src="/images/city/xa.gif" width="20" hegiht="20"/>北客站（北广场）/ BEIKEZHAN (BEIGUANGCHANG)
 
 ## 有计划/ On Plan📝
 - 上海/ Shanghai：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>上海虹桥/ Shanghai-Hongqiao→<img src="/images/city/sh.gif" width="20" hegiht="20"/>虹桥火车站/ Hongqiao Railway Station
