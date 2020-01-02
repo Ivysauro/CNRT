@@ -30,7 +30,7 @@
 | <img src="/images/city/dl.gif" width="20" hegiht="20"/>大连/ Dalian | ❌ | ❌ | ✅ | ✅ | ✅ | 60 |
 | <img src="/images/city/wh.gif" width="20" hegiht="20"/>武汉/ Wuhan | ⭕ | ⭕ | ⭕ | ❌ | ✅ | 50 |
 | <img src="/images/city/cq.gif" width="20" hegiht="20"/>重庆/ Chongqing | ✅ | ✅ | ✅ | ❌ | ✅ | 80 |
-| <img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳/ Shenzhen | ✅ | ✅ | ✅ | ✅ | ❌ | 80 | 
+| <img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳/ Shenzhen | ✅ | ✅ | ✅ | ✅ | ✅ | **100** | 
 | <img src="/images/city/nj.gif" width="20" hegiht="20"/>南京/ Nanjing | ✅ | ⭕ | ✅ | ✅ | ⭕ | 80 |
 | <img src="/images/city/sy.gif" width="20" hegiht="20"/>沈阳/ Shenyang | ❌ | ❌ | ❌ | ✅ | ⭕ | 30 |
 | <img src="/images/city/cd.gif" width="20" hegiht="20"/>成都/ Chengdu | ⭕ | ⭕ | ✅ | ❌ | ❌ | 40 |
@@ -44,13 +44,13 @@
 | <img src="/images/city/nb.gif" width="20" hegiht="20"/>宁波/ Ningbo | ✅ | ✅ | ✅ | ✅ | ⭕ | 90 |
 | <img src="/images/city/wx.gif" width="20" hegiht="20"/>无锡/ Wuxi | ❌ | ❌ | ❌ | ✅ | ✅ | 40 |
 | <img src="/images/city/qd.gif" width="20" hegiht="20"/>青岛/ Qingdao | ⭕ | ⭕ | ❌ | ✅ | ✅ | 60 |
-| <img src="/images/city/nc.gif" width="20" hegiht="20"/>南昌/ Nanchang | ✅ | ⭕ | ✅ | ✅ | ❌ | 70 |
+| <img src="/images/city/nc.gif" width="20" hegiht="20"/>南昌/ Nanchang | ✅ | ⭕ | ✅ | ✅ | ⭕ | 80 |
 | <img src="/images/city/fz.gif" width="20" hegiht="20"/>福州/ Fuzhou | ❌ | ❌ | ❌ | ✅ | ❌ | 20 |
 | <img src="/images/city/dg.gif" width="20" hegiht="20"/>东莞/ Dongguan | ⭕ | ⭕ | ✅ | ❌ | ❌ | 40 |
 | <img src="/images/city/nn.gif" width="20" hegiht="20"/>南宁/ Nanning | ✅ | ⭕ | ⭕ | ✅ | ✅ | 80 | 
 | <img src="/images/city/hf.gif" width="20" hegiht="20"/>合肥/ Hefei | ⭕ | ⭕ | ✅ | ✅ | ✅ | 80 |
 | <img src="/images/city/sjz.gif" width="20" hegiht="20"/>石家庄/ Shijiazhuang | ⭕ | ⭕ | ⭕ | ✅ | ✅ | 70 |
-| <img src="/images/city/gy.gif" width="20" hegiht="20"/>贵阳/ Guiyang | ⭕ | ⭕ | ❌ | ✅ | ❌ | 40 |
+| <img src="/images/city/gy.gif" width="20" hegiht="20"/>贵阳/ Guiyang | ⭕ | ⭕ | ❌ | ✅ | ⭕ | 50 |
 | <img src="/images/city/xm.gif" width="20" hegiht="20"/>厦门/ Xiamen | ✅ | ⭕ | ✅ | ✅ | ✅ | 90 |
 | <img src="/images/city/wlmq.gif" width="20" hegiht="20"/>乌鲁木齐/ Urumqi | ⭕ | ⭕ | ❌ | ❌ | ❌ | 20 |
 | <img src="/images/city/wz.gif" width="20" hegiht="20"/>温州/ Wenzhou | ⭕ | ⭕ | ✅ | ❌ | ❌ | 40 | 
