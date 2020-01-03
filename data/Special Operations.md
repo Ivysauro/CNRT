@@ -12,6 +12,7 @@
 - <img src="/images/city/gz.gif" width="20" hegiht="20"/>***广州地铁11号线***
 - <img src="/images/city/gz.gif" width="20" hegiht="20"/>***广州地铁15号线***
 - <img src="/images/city/wh.gif" width="20" hegiht="20"/>***武汉地铁12号线***
+- <img src="/images/city/kh.gif" width="20" hegiht="20"/>***高雄捷运环线***
 - <img src="/images/city/cd.gif" width="20" hegiht="20"/>***成都地铁9号线***
 - <img src="/images/city/xa.gif" width="20" hegiht="20"/>***西安地铁8号线***
 - <img src="/images/city/jn.gif" width="20" hegiht="20"/>***济南地铁环线***
@@ -204,6 +205,7 @@
 - <img src="/images/city/wlmq.gif" width="20" hegiht="20"/>乌鲁木齐，汉维英
 - <img src="/images/city/wz.gif" width="20" hegiht="20"/>温州，普英温
 - <img src="/images/city/mo.gif" width="20" hegiht="20"/>澳门，粤葡国英
+- <img src="/images/city/hhht.gif" width="20" hegiht="20"/>呼和浩特，汉蒙英
 
 ### 男声
 - <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海
