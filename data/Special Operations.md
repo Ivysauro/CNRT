@@ -217,6 +217,7 @@
 - <img src="/images/city/km.gif" width="20" hegiht="20"/>昆明
 - <img src="/images/city/nb.gif" width="20" hegiht="20"/>宁波
 - <img src="/images/city/hf.gif" width="20" hegiht="20"/>合肥
+- <img src="/images/city/xm.gif" width="20" hegiht="20"/>厦门
 
 ### 童声
 - <img src="/images/city/tj.gif" width="20" hegiht="20"/>天津，9号线
