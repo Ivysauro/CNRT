@@ -97,6 +97,7 @@
 | 望城坡 | <img src="/images/city/cs.gif" width="20" hegiht="20"/>长沙2、<img src="/images/city/gy.gif" width="20" hegiht="20"/>贵阳1 |
 | 迎宾路口 | <img src="/images/city/cs.gif" width="20" hegiht="20"/>长沙2、<img src="/images/city/wlmq.gif" width="20" hegiht="20"/>乌鲁木齐1 |
 | 地铁大厦 | <img src="/images/city/qd.gif" width="20" hegiht="20"/>青岛3、<img src="/images/city/nc.gif" width="20" hegiht="20"/>南昌1/2 |
+| 人民会堂 | <img src="/images/city/qd.gif" width="20" hegiht="20"/>青岛3、<img src="/images/city/hhht.gif" width="20" hegiht="20"/>呼和浩特1 |
 | 茶山 | <img src="/images/city/dg.gif" width="20" hegiht="20"/>东莞2、<img src="/images/city/cz.gif" width="20" hegiht="20"/>常州1 |
 
 
