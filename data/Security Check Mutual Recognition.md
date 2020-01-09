@@ -8,7 +8,7 @@
 
 ## 单向互认/ One-way Mutual Recognition➡️
 
-- 北京/ Beijing：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>北京南/ Beijingnan→<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京南站/ Beijing South Railway Station、<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>北京北/ Beijingbei→<img src="/images/city/bj.gif" width="20" hegiht="20"/>西直门/ XIZHIMEN
+- 北京/ Beijing：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>北京西/ Beijingxi→<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京西站/ Beijing West Railway Station、<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>北京南/ Beijingnan→<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京南站/ Beijing South Railway Station、<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>北京北/ Beijingbei→<img src="/images/city/bj.gif" width="20" hegiht="20"/>西直门/ XIZHIMEN
 - 上海/ Shanghai：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>上海/ Shanghai→<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海火车站/ Shanghai Railway Station（仅1号线/ Only to Line 1）
 - 深圳/ Shenzhen：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>深圳北/ Shenzhenbei→<img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳北站/ Shenzhen North Staiton
 - 成都/ Chengdu：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>成都东/ Chengdudong→<img src="/images/city/cd.gif" width="20" hegiht="20"/>成都东客站/ East Chengdu Railway Station
