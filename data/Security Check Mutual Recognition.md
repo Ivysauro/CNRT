@@ -14,7 +14,7 @@
 - 武汉/ Wuhan：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>汉口/ Hankou→<img src="/images/city/wh.gif" width="20" hegiht="20"/>汉口火车站/ Hankou Railway Station
 - 深圳/ Shenzhen：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>深圳北/ Shenzhenbei→<img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳北站/ Shenzhen North Staiton
 - 成都/ Chengdu：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>成都东/ Chengdudong→<img src="/images/city/cd.gif" width="20" hegiht="20"/>成都东客站/ East Chengdu Railway Station
-- 苏州/ Suzhou：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>苏州/ Suzhou→<img src="/images/city/suz.gif" width="20" hegiht="20"/>苏州火车站/ Suzhou Railway Station（仅限非节假日期间/ Only on normal days)
+- 苏州/ Suzhou：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>苏州/ Suzhou→<img src="/images/city/suz.gif" width="20" hegiht="20"/>苏州火车站/ Suzhou Railway Station（超大客流期间可能会关闭/ May be closed during extra busy days)
 - 杭州/ Hangzhou：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>杭州东/ Hangzhoudong→<img src="/images/city/hz.gif" width="20" hegiht="20"/>火车东站/ East Railway Station
 - 长沙/ Changsha：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>长沙南/ Changshanan→<img src="/images/city/cs.gif" width="20" hegiht="20"/>长沙火车南站/ South Railway Station
 - 无锡/ Wuxi：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>无锡/ Wuxi→<img src="/images/city/wx.gif" width="20" hegiht="20"/>无锡火车站/ Wuxi Railway Station
