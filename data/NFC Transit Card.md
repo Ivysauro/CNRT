@@ -42,33 +42,33 @@
 | 哈尔滨城市通	| 哈尔滨/ Harbin | ✅ | ✅ | ✅ | | | | ✅ | ✅ |
 | 上海公共交通卡 | 上海/ Shanghai | | 🕓 |
 | 江苏交通一卡通·南京（金陵通） |南京（宁镇扬）/ Nanjing (Ningzhenyang) | | ✅ | | | | | | ✅ |
-| 江苏交通一卡通·扬州 | 扬州（宁镇扬）/ Yangzhou (Ningzhenyang) | | ✅ |
+| 江苏交通一卡通·扬州 | 扬州（宁镇扬）/ Yangzhou (Ningzhenyang) | | ✅ | | | | | | ✅ |
 | 江苏交通一卡通·苏州 | 苏州（苏锡常）/ Suzhou (Suxichang) | ✅ | ✅ | ✅ | | ✅ | ✅ | ✅ | ✅ |
 | 江苏交通一卡通·无锡 | 无锡（苏锡常）/ Wuxi (Suxichang) | 🕓 | ✅ | | | | | ✅ | ✅ |
-| 江苏交通一卡通·常州（龙城通） | 常州（苏锡常）/ Changzhou (Suxichang) | 🕓 | ✅ | | | | | | ✅ |
+| 江苏交通一卡通·常州（龙城通） | 常州（苏锡常）/ Changzhou (Suxichang) | ✅ | ✅ | | | | | | ✅ |
 | 江苏交通一卡通·盐城（黄海通） | 盐城（盐通泰）/ Yancheng (Yantongtai) | | ✅ | | | | | | ✅ |
-| 江苏交通一卡通·南通 | 南通（盐通泰）/ Nantong (Yantongtai) | ✅ | 🕓 | | | | | | ✅ |
+| 江苏交通一卡通·南通 | 南通（盐通泰）/ Nantong (Yantongtai) | ✅ | ✅ | | | | | | ✅ |
 | 江苏交通一卡通·徐州（淮海通） | 徐州（徐淮连宿）/ Xuzhou (Xuhuailiansu) | | ✅ |
-| 江苏交通一卡通·淮安 | 淮安（徐淮连宿）/ Huai'an (Xuhuailiansu) | | 🕓 |
+| 江苏交通一卡通·淮安 | 淮安（徐淮连宿）/ Huai'an (Xuhuailiansu) | | ✅ |
 | 江苏交通一卡通·连云港 | 连云港（徐淮连宿）/ Lianyungang（Xuhuailiansu） | | ✅ | | | | | | ✅ |
-| 江苏交通一卡通·宿迁 | 宿迁（徐淮连宿）/ Suqian（Xuhuailiansu） | | 🕓 | | | | | | ✅ |
+| 江苏交通一卡通·宿迁 | 宿迁（徐淮连宿）/ Suqian（Xuhuailiansu） | | ✅ | | | | | | ✅ |
 | 甬城通 | 宁波/ Ningbo | | 🕓 | | | | | | |
-| 金华市民卡·八婺通 | 金华/ Jinhua | | ✅ |
+| 绍兴一卡通 | 绍兴/ Shaoxing | | | | | | | | ✅ |
 | 厦门e通卡 | 厦门/ Xiamen | ✅ |
-| 洪城通 | 南昌/ Nanchang | | ⭕ | | | | | ⭕ |
 | 琴岛通	| 青岛/ Qingdao | ✅ | ✅ | | | | | ✅ | ✅ |
 | 潍坊通 | 潍坊/ Weifang | | 🕓 |
 | 轩辕通 | 郑州/ Zhengzhou | | ✅ |
 | 车城通 | 十堰/ Shiyan | | | | | | | | ✅ |
-| 潇湘卡 | 长沙/ Changsha | | ✅ | | | | | ✅ | ✅ |
+| 潇湘卡 | 长沙/ Changsha | 🕓 | ✅ | | | | | ✅ | ✅ |
 | 岭南通	| 广东/ Guangdong | ✅ | ✅ | | 🕓 | ✅ | ✅ | ✅ | ✅ |
 | 深圳通 | 深圳/ Shenzhen | | ✅ | | 🕓 | | | | ✅ |
 | 广西交通一卡通（桂民卡）	| 广西/ Guangxi | ✅ | ✅ | | | ✅ | | ✅ | ✅ |
 | 海南一卡通（海岛通）	| 海南/ Hainan | ✅ | ✅ | | | | | ✅ | ✅ |
 | 贵州通 | 贵州/ Guizhou | | 🕓 |
+| 西藏一卡通 | 西藏/ Tibet | | | | | | | | ✅ |
 | 长安通 | 西安/ Xi'an | | | ✅ | | | | | | ✅ |
 | 驼城通 | 榆林/ Yulin | | ✅ |
-| 兰州公交一卡通 | 兰州/ Lanzhou | | 🕓 | | | | | | ✅ |
+| 兰州公交一卡通 | 兰州/ Lanzhou | | ✅ | | | | | | ✅ |
 | 红山通 | 乌鲁木齐/ Urumqi | | 🕓 |
 | | | <img src="/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | <img src="/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | <img src="/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | <img src="/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | <img src="/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | <img src="/images/OnePlus.png" width="25" hegiht="25" alt="OnePlus"/> | <img src="/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/>  | <img src="/images/vivo.png" width="40" hegiht="40" alt="vivo"/> | <img src="/images/Mini Program.png" width="25" hegiht="25" alt="WeChat Transit Card"/> |
 
@@ -90,8 +90,10 @@
 | 苏州市民卡	| 苏州/ Suzhou | ❌ | ❌ |
 | 杭州通	| 杭州/ Hangzhou | ❌ | 🕓 |
 | 甬城通 | 宁波/ Ningbo | 🕓 | | | | | | ✅ | ✅ |
+| 金华市民卡·八婺通 | 金华/ Jinhua | | ✅ |
 | 合肥通	| 合肥/ Hefei | ✅ | ✅ | ✅ | | ✅ | | ✅ | ✅ |
 | 厦门e通卡	| 厦门/ Xiamen | ✅ | ✅ | | | | | ✅ | ✅ |
+| 洪城通 | 南昌/ Nanchang | | ⭕ | | | | | ⭕ |
 | 武汉通	| 武汉/ Wuhan | ✅ | ✅ | ✅ | | ✅ | ✅ | ✅ | ✅ |
 | 岭南通	| 广东/ Guangdong | ❌ | ✅ | ✅ | | | | | |
 | 羊城通	| 广州/ Guangzhou | | ✅ | | | | | | |
