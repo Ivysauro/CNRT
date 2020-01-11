@@ -10,6 +10,8 @@
 
 - 北京/ Beijing：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>北京南/ Beijingnan→<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京南站/ Beijing South Railway Station
 - 上海/ Shanghai：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>上海/ Shanghai→<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海火车站/ Shanghai Railway Station（仅1号线/ Only to Line 1）
+- 广州/ Guangzhou：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>广州/ Guangzhou→<img src="/images/city/gz.gif" width="20" hegiht="20"/>广州火车站/ Guangzhou Railway Station、<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>广州东/ Guangzhoudong→<img src="/images/city/gz.gif" width="20" hegiht="20"/>广州东站/ Guangzhou East Railway Station
+- 武汉：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>汉口/ Hankou→<img src="/images/city/wh.gif" width="20" hegiht="20"/>汉口火车站/ Hankou Railway Station
 - 深圳/ Shenzhen：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>深圳北/ Shenzhenbei→<img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳北站/ Shenzhen North Staiton
 - 成都/ Chengdu：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>成都东/ Chengdudong→<img src="/images/city/cd.gif" width="20" hegiht="20"/>成都东客站/ East Chengdu Railway Station
 - 苏州/ Suzhou：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>苏州/ Suzhou→<img src="/images/city/suz.gif" width="20" hegiht="20"/>苏州火车站/ Suzhou Railway Station（仅限非节假日期间/ Only on normal days)
@@ -21,7 +23,6 @@
 
 ## 改造中/ In Process🕓
 
-- 广州/ Guangzhou：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>广州/ Guangzhou→<img src="/images/city/gz.gif" width="20" hegiht="20"/>广州火车站/ Guangzhou Railway Station
 - 重庆/ Chongqing：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>重庆北/ Chongqingbei→<img src="/images/city/cq.gif" width="20" hegiht="20"/>重庆北站南广场/ Chongqing North Station South Square
 - 南京/ Nanjing：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>南京/ Nanjing→<img src="/images/city/nj.gif" width="20" hegiht="20"/>南京站/ NANJING RAILWAY STATION、<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>南京南/ Nanjingnan→<img src="/images/city/nj.gif" width="20" hegiht="20"/>南京南站/ NANJING SOUTH RAILWAY STATION
 - 西安/ Guangzhou：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>西安北/ Guangzhou→<img src="/images/city/xa.gif" width="20" hegiht="20"/>北客站/ BEIKEZHAN、<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>西安北/ Guangzhou→<img src="/images/city/xa.gif" width="20" hegiht="20"/>北客站（北广场）/ BEIKEZHAN (BEIGUANGCHANG)
