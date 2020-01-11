@@ -29,4 +29,5 @@
 
 ## 有计划/ On Plan📝
 
+- 北京/ Beijing：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>北京北/ Beijingbei→<img src="/images/city/bj.gif" width="20" hegiht="20"/>西直门/ XIZHIMEN
 - 上海/ Shanghai：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>上海虹桥/ Shanghai-Hongqiao→<img src="/images/city/sh.gif" width="20" hegiht="20"/>虹桥火车站/ Hongqiao Railway Station
