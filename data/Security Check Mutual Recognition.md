@@ -9,7 +9,7 @@
 ## 单向互认/ One-way Mutual Recognition➡️
 
 - 北京/ Beijing：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>北京南/ Beijingnan→<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京南站/ Beijing South Railway Station
-- 上海/ Shanghai：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>上海/ Shanghai→<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海火车站/ Shanghai Railway Station（仅1号线/ Only to Line 1）
+- 上海/ Shanghai：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>上海/ Shanghai→<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海火车站/ Shanghai Railway Station（**仅1号线**，超大客流期间可能会关闭/ **Only to Line 1**, and may be closed during extra busy days）
 - 广州/ Guangzhou：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>广州/ Guangzhou→<img src="/images/city/gz.gif" width="20" hegiht="20"/>广州火车站/ Guangzhou Railway Station、<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>广州东/ Guangzhoudong→<img src="/images/city/gz.gif" width="20" hegiht="20"/>广州东站/ Guangzhou East Railway Station
 - 武汉/ Wuhan：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>汉口/ Hankou→<img src="/images/city/wh.gif" width="20" hegiht="20"/>汉口火车站/ Hankou Railway Station
 - 深圳/ Shenzhen：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>深圳北/ Shenzhenbei→<img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳北站/ Shenzhen North Staiton
