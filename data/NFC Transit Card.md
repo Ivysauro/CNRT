@@ -31,7 +31,7 @@
 ## 交通联合卡/ T-Union Cards <img src="/images/T-Union.png" width="35" hegiht="35">
 | 卡名称/ Card Name | 地区/ Area | <img src="/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | <img src="/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | <img src="/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | <img src="/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | <img src="/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | <img src="/images/OnePlus.png" width="25" hegiht="25" alt="OnePlus"/> | <img src="/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/>  | <img src="/images/vivo.png" width="40" hegiht="40" alt="vivo"/> | <img src="/images/Mini Program.png" width="25" hegiht="25" alt="WeChat Transit Card"/> |
 | :- | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 京津冀互联互通卡 | 京津冀/ Jingjinji | ✅ | ✅ | ✅ | | ✅ | ✅ | ✅ | ✅ |
+| 京津冀互联互通卡 | 京津冀/ Jingjinji | ✅ | ✅ | ✅ | 🕓 | ✅ | ✅ | ✅ | ✅ |
 | 天津城市卡	| 天津/ Tianjin | ✅ | ✅ | | | | | | ✅ |
 | 河北交通一卡通	| 河北/ Hebei | | ✅ | ✅ | | | | | ✅ | ✅ |
 | 石家庄一卡通 | 石家庄/ Shijiazhuang | ✅ | ✅ | | | | | ✅ | ✅ |
