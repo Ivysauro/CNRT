@@ -33,7 +33,7 @@
 | <img src="/images/city/wh.gif" width="20" hegiht="20"/>武汉/ Wuhan | 🕓 | 🕓 | | | | ✅ | |
 | <img src="/images/city/cq.gif" width="20" hegiht="20"/>重庆/ Chongqing | 🕓 | 🕓 | ✅💥 | ✅💥 | ✅💥 | ✅💥 |
 | <img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳/ Shenzhen | ✅ | ✅ | | ✅ | | ✅ | |
-| <img src="/images/city/nj.gif" width="20" hegiht="20"/>南京/ Nanjing | ✅ | ✅ | ✅ | | ✅ | ✅ | 苏宁支付 |
+| <img src="/images/city/nj.gif" width="20" hegiht="20"/>南京/ Nanjing | ✅ | ✅ | ✅ | | ✅ | ✅ | 苏宁支付💥 |
 | <img src="/images/city/sy.gif" width="20" hegiht="20"/>沈阳/ Shenyang | ✅ | | | | | ✅ | |
 | <img src="/images/city/cd.gif" width="20" hegiht="20"/>成都/ Chengdu | 🕓 | | | | ✅ | ✅ | |
 | <img src="/images/city/xa.gif" width="20" hegiht="20"/>西安/ Xi'an | ✅ | | ✅ | ✅ | ✅ | ✅ | |
