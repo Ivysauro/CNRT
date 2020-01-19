@@ -48,8 +48,8 @@
 | 江苏交通一卡通·常州（龙城通） | 常州（苏锡常）/ Changzhou (Suxichang) | ✅ | ✅ | | | | | | ✅ |
 | 江苏交通一卡通·盐城（黄海通） | 盐城（盐通泰）/ Yancheng (Yantongtai) | | ✅ | | | | | | ✅ |
 | 江苏交通一卡通·南通 | 南通（盐通泰）/ Nantong (Yantongtai) | ✅ | ✅ | | | | | | ✅ |
-| 江苏交通一卡通·徐州（淮海通） | 徐州（徐淮连宿）/ Xuzhou (Xuhuailiansu) | | ✅ |
-| 江苏交通一卡通·淮安 | 淮安（徐淮连宿）/ Huai'an (Xuhuailiansu) | | ✅ |
+| 江苏交通一卡通·徐州（淮海通） | 徐州（徐淮连宿）/ Xuzhou (Xuhuailiansu) | | ✅ | | | | | | ✅ |
+| 江苏交通一卡通·淮安 | 淮安（徐淮连宿）/ Huai'an (Xuhuailiansu) | | ✅ | | | | | | ✅ |
 | 江苏交通一卡通·连云港 | 连云港（徐淮连宿）/ Lianyungang（Xuhuailiansu） | | ✅ | | | | | | ✅ |
 | 江苏交通一卡通·宿迁 | 宿迁（徐淮连宿）/ Suqian（Xuhuailiansu） | | ✅ | | | | | | ✅ |
 | 甬城通 | 宁波/ Ningbo | | 🕓 | | | | | | |
@@ -67,7 +67,7 @@
 | 贵州通 | 贵州/ Guizhou | | 🕓 |
 | 西藏一卡通 | 西藏/ Tibet | | | | | | | | ✅ |
 | 长安通 | 西安/ Xi'an | | | ✅ | | | | | | ✅ |
-| 驼城通 | 榆林/ Yulin | | ✅ |
+| 驼城通 | 榆林/ Yulin | | ✅ | | | | | | ✅ |
 | 兰州公交一卡通 | 兰州/ Lanzhou | | ✅ | | | | | | ✅ |
 | 红山通 | 乌鲁木齐/ Urumqi | | 🕓 |
 | | | <img src="/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | <img src="/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | <img src="/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | <img src="/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | <img src="/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | <img src="/images/OnePlus.png" width="25" hegiht="25" alt="OnePlus"/> | <img src="/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/>  | <img src="/images/vivo.png" width="40" hegiht="40" alt="vivo"/> | <img src="/images/Mini Program.png" width="25" hegiht="25" alt="WeChat Transit Card"/> |
