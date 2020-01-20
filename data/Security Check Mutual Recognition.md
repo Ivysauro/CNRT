@@ -1,12 +1,12 @@
-# 安检互认/ Security Check Mutual Recognition
+# 安检互认/ Security Check Recognition
 
-## 双向互认/ Two-way Mutual Recognition🔁
+## 双向互认/ Mutual Recognition🔁
 
 - 北京/ Beijing：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>北京西/ Beijingxi↔<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京西站/ Beijing West Railway Station、<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>清河/ Qinghe↔<img src="/images/city/bj.gif" width="20" hegiht="20"/>清河/ Qing He
 - 天津/ Tianjin：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>天津/ Tianjin↔<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津站/ TIANJINZHAN、<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>天津西/ Tianjinxi↔<img src="/images/city/tj.gif" width="20" hegiht="20"/>西站/ XIZHAN、<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>天津南/ Tianjinnan↔<img src="/images/city/tj.gif" width="20" hegiht="20"/>南站/ NANZHAN
 - 成都/ Chengdu：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>犀浦/ Xipu↔<img src="/images/city/cd.gif" width="20" hegiht="20"/>犀浦/ Xipu
 
-## 单向互认/ One-way Mutual Recognition➡️
+## 单向认可/ One-way Recognition➡️
 
 - 北京/ Beijing：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>北京南/ Beijingnan→<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京南站/ Beijing South Railway Station
 - 上海/ Shanghai：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>上海/ Shanghai→<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海火车站/ Shanghai Railway Station（**仅1号线**，超大客流期间可能会关闭/ **Only to Line 1**, and may be closed during extra busy days）、<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>上海虹桥/ Shanghai-Hongqiao→<img src="/images/city/sh.gif" width="20" hegiht="20"/>虹桥火车站/ Hongqiao Railway Station
