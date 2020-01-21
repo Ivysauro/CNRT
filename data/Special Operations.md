@@ -6,9 +6,9 @@
 - <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海地铁4号线（2005.12-2007.12，共线环线）
 - <img src="/images/city/cd.gif" width="20" hegiht="20"/>成都地铁7号线（2017.12，独立环线）
 - <img src="/images/city/zz.gif" width="20" hegiht="20"/>郑州地铁5号线（2019.5，独立环线）
+- <img src="/images/city/tp.gif" width="20" hegiht="20"/>***台北捷运环状线***(2020.1-，未闭环）
 - <img src="/images/city/cq.gif" width="20" hegiht="20"/>***重庆地铁环线***（2018.12-，未闭环）
 - <img src="/images/city/hrb.gif" width="20" hegiht="20"/>***哈尔滨地铁3号线***（2017.1-，未闭环）
-- <img src="/images/city/tp.gif" width="20" hegiht="20"/>***台北捷运环状线***
 - <img src="/images/city/gz.gif" width="20" hegiht="20"/>***广州地铁11号线***
 - <img src="/images/city/gz.gif" width="20" hegiht="20"/>***广州地铁15号线***
 - <img src="/images/city/wh.gif" width="20" hegiht="20"/>***武汉地铁12号线***
