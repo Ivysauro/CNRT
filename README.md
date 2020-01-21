@@ -14,7 +14,7 @@
 - [优惠政策（中文）/ Discount Policies (In Chinese)](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Discount%20Policies.md)
 - [官方指定应用及其功能/ Official Additional Apps and Its Functions](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Official%20Additional%20Apps.md)
 - [各地轨道交通开放性评分/ Open Score of China Rail Transit](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Open%20Score.md)
-- [安检互认/ Security Check Mutual Recognition](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Security%20Check%20Mutual%20Recognition.md)
+- [安检互认/ Security Check Recognition](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Security%20Check%20Recognition.md)
 - [手机交通卡支持情况/ NFC Transit Card on mobile phone](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/NFC%20Transit%20Card.md)
 - [住建部互联互通说明（中文）/ Notes of City Union (In Chinese)](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/City%20Union.md)
 - [*计时卡/ Timing Card*](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Timing%20Card.md) 
