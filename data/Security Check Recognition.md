@@ -27,4 +27,5 @@
 
 - 北京/ Beijing：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>北京北/ Beijingbei→<img src="/images/city/bj.gif" width="20" hegiht="20"/>西直门/ XIZHIMEN
 - 重庆/ Chongqing：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>重庆北/ Chongqingbei→<img src="/images/city/cq.gif" width="20" hegiht="20"/>重庆北站南广场/ Chongqing North Station South Square
-- 西安/ Guangzhou：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>西安北/ Guangzhou→<img src="/images/city/xa.gif" width="20" hegiht="20"/>北客站/ BEIKEZHAN、<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>西安北/ Guangzhou→<img src="/images/city/xa.gif" width="20" hegiht="20"/>北客站（北广场）/ BEIKEZHAN (BEIGUANGCHANG)
+- 南京/ Nanjing：<img src="/images/Airport.png" width="15" hegiht="15" alt="Airport"/>南京禄口/ Nanjing Lukou→<img src="/images/city/nj.gif" width="20" hegiht="20"/>禄口机场/ LUKOU INTERNATIONAL AIRPORT
+- 西安：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>西安北/ Xi'anbei→<img src="/images/city/xa.gif" width="20" hegiht="20"/>北客站/ BEIKEZHAN、<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>西安北/ Xi'anbei→<img src="/images/city/xa.gif" width="20" hegiht="20"/>北客站（北广场）/ BEIKEZHAN (BEIGUANGCHANG)
