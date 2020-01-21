@@ -23,7 +23,7 @@
 - 贵阳/ Guiyang：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>贵阳北/ Guiyangbei/ KQW→<img src="/images/city/gy.gif" width="20" hegiht="20"/>贵阳北站/ Guiyangbei Railway Station
 - 厦门/ Xiamen：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>厦门北/ Xiamenbei/ XKS→<img src="/images/city/xm.gif" width="20" hegiht="20"/>厦门北站/ Xiamen North Railway Station
 
-## 特定时间/ Special Days
+## 特定时间/ On Special Days⏳
 - 深圳/ Shenzhen：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>深圳北/ Shenzhenbei/ IOQ→<img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳北站/ Shenzhen North Staiton（**仅限法定节假日/ Only on statutory holidays**）
 - 南昌/ Nanchang：<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>南昌/ Nanchang/ NCG→<img src="/images/city/nc.gif" width="20" hegiht="20"/>南昌火车站/ Nanchang Railway Staiton（**仅限春运期间/ Only during the Spring Festival travel rush**）
 
