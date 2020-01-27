@@ -4,6 +4,12 @@
 
 **Data base of China Rail Transit (Non-tech) - Another view of China Rail Transit**
 
+## 公告/ NOTICE
+
+受新型冠状病毒肺炎疫情影响，全国公共交通应急措施情况可参见[@通行线Toursline的微博](https://m.weibo.cn/u/6882481489/)
+
+Affected by the pneumonia epidemic, the public transportation emergency measures can be found in [@通行线Toursline's Microblog](https://m.weibo.cn/u/6882481489/)
+
 ## 目录/ Content
 
 *斜体字*表示未完工/ *Italics* indicates "In Construction" 🏗
