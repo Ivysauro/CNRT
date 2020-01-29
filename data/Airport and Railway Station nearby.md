@@ -10,7 +10,7 @@
 | 🏗 | 在建 | Under Construction |
 
 ## 主表/ Content
-| 符号/ emoji | 机场名/ Airport Name | 空管信息/ ICAO Info | 火车站名/ Railway Station Name | 铁路信息/ Railway Info |
+| | <img src="/images/Airport.png" width="15" hegiht="15" alt="Airport"/>机场/ Airport | 空管信息/ ICAO Info | <img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>火车站/ Railway Station | 铁路信息/ Railway Info |
 | :-: | :- | :- | :- | :- |
 | | 北京大兴/ Beijing Daxing/ PKX | 华北-北京/ ZBAD | 大兴机场/ Daxing Airport / IWP | 北京局/ CR Beijing-京雄城际线 |
 | 🚌~4km | 石家庄正定/ Shijiazhuang Zhengding/ SJW | 华北-北京/ ZBSJ | 正定机场/ Zhengding Airport/ ZHP | 北京局/ CR Beijing-京广高速线 |
@@ -35,7 +35,7 @@
 | 🥾1.2km | 吐鲁番交河/ Turpan Jiaohe/ TLQ | 新疆-乌鲁木齐/ ZWTL | 吐鲁番北/ Tulufanbei/ TAR | 乌鲁木齐局/ CR Urumqi-兰新客专线 |
 
 ## 副表/ Sub-Content
-| 符号/ emoji | 机场名/ Airport Name | 空管信息/ ICAO Info | 火车站名/ Railway Station Name | 铁路信息/ Railway Info |
+| | <img src="/images/Airport.png" width="15" hegiht="15" alt="Airport"/>机场/ Airport | 空管信息/ ICAO Info | <img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>火车站/ Railway Station | 铁路信息/ Railway Info |
 | :-: | :- | :- | :- | :- |
 | | 天津滨海/ Tianjin Binhai/ TSN | 华北-北京/ ZBTJ | 🏗滨海机场/ Binhai Airport | 北京局/ CR Beijing-🏗京滨城际线 |
 | 🚌~4km | 上海浦东/ Shanghai Pudong/ PVG | 华东-上海/ ZSPD | 🏗上海东/ Shanghaidong | 上海局/ CR-Shanghai-🏗北沿江高速线、🏗沪通线 |
