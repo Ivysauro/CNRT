@@ -27,9 +27,9 @@
 | | 广州白云/ Guangzhou Baiyun/ CAN | 中南-广州/ ZGGG | 🏗白云机场/ Baiyun Airport | 广州局/ CR Guangzhou-穗深城际线 | 
 | | 深圳宝安/ Shenzhen Bao'an/ SZX | 中南-广州/ ZGSZ | 深圳机场/ Shenzhen Airport/ SCA | 广州局/ CR Guangzhou-穗深城际线 |
 | | 揭阳潮汕/ Jieyang Chaoshan/ SWA | 中南-广州/ ZGOW | 揭阳机场/ Jieyang-Jichang/ JUA | 广州局/ CR Guangzhou-梅汕线 |
-| | 三亚凤凰/ Sanya Phoenix/ SYX | 中南-三亚/ ZJSY | 凤凰机场/ Fenghuang-Jichang/ FJQ | 广州局/ CR Guangzhou-海南环岛高速线 |
-| | 海口美兰/ Haikou Meilan/ HAK | 中南-三亚/ ZJHK | 美兰/ Meilan/ MHQ | 广州局/ CR Guangzhou-海南环岛高速线 |
-| 🚌~4km | 琼海博鳌/ Qionghai Bo'ao/ BAR | 中南-三亚/ ZJQH | 博鳌/ Bo'ao/ BWQ | 广州局/ CR Guangzhou-海南环岛高速线 |
+| | 三亚凤凰/ Sanya Phoenix/ SYX | 中南-三亚/ ZJSY | 凤凰机场/ Fenghuang-Jichang/ FJQ | 广州局/ CR Guangzhou-海南环岛线 |
+| | 海口美兰/ Haikou Meilan/ HAK | 中南-三亚/ ZJHK | 美兰/ Meilan/ MHQ | 广州局/ CR Guangzhou-海南环岛线 |
+| 🚌~4km | 琼海博鳌/ Qionghai Bo'ao/ BAR | 中南-三亚/ ZJQH | 博鳌/ Bo'ao/ BWQ | 广州局/ CR Guangzhou-海南环岛线 |
 | | 成都双流/ Chengdu Shuangliu/ CTU | 西南-昆明/ ZUUU | 双流机场/ Shuangliu Airport/ IPW | 成都局/ CR Chengdu-成贵客专线 |
 | | 贵阳龙洞堡/ Guiyang Longdongbao/ KWE | 西南-昆明/ ZUGY | 龙洞堡/ Longdongbao / FVW | 成都局/ CR Chengdu-贵广客专线 |
 | | 兰州中川/ Lanzhou Zhongchuan/ LHW | 西北-兰州/ ZLLL | 中川机场/ Zhongchuan Airport/ ZJJ | 兰州局/ CR Lanzhou-中川城际线 |
@@ -55,6 +55,8 @@
 | 🚕~8km | 安庆天柱山/ Anqing Tianzhushan/ AQG | 华东-上海/ ZSAQ | 安庆/ Anqing/ AQH | 上海局/ CR Shanghai-宁安城际线 |
 | 🚕~8km | 潍坊南苑/ Weifang Nanyuan/ WEF | 华东-上海/ ZSWF | 潍坊/ Weifang/ WFK | 济南局/ CR Jinan-胶济客专线 |
 | 🚕~9km | 澳门/ Macao/ MFM | 中南-香港/ VMMC | 横琴/ Hengqin | 广州局/ CR Guangzhou-珠机城际线 |
+| 🚕~10km | 大连周水子/ Dalian Zhoushuizi/ DLC | 东北-沈阳/ ZYTL | 大连/ Dalian/ DLT | 沈阳局/ CR Shenyang-沈大高速线 |
+| 🚕~10km | 厦门高崎/ Xiamen Gaoqi/ XMN | 华东-上海/ ZSAM | 厦门/ Xiamen/ XMS | 南昌局/ CR Nanchang-杭深线 |
 | 🚕~10km | 赣州黄金/ Ganzhou Huangjin/ KOW | 华东-上海/ ZSGZ | 赣州西/ Ganzhouxi/ GOG | 南昌局/ CR Nanchang-京港高速线 |
 | 🚕~10km | 百色巴马/ Baise Bama/ AEB | 中南-广州/ ZGBS | 田阳/ Tianyang/ TRZ | 南宁局/ CR Nanning-南昆客专线 |
 
