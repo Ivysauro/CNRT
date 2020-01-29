@@ -24,11 +24,8 @@ Affected by the pneumonia epidemic, the public transportation emergency measures
 - [手机交通卡支持情况/ NFC Transit Card on mobile phone](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/NFC%20Transit%20Card.md)
 - [住建部互联互通说明（中文）/ Notes of City Union (In Chinese)](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/City%20Union.md)
 - [*计时卡/ Timing Card*](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Timing%20Card.md) 
+- [*运营方式（中文）/ Operations (In Chinese)*](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Operations.md)
 - 充值方式/ Payment Methods for Charging Transit Card
-- P+R
-- 票价/ Prices
-- 同车不同温/ Different Temperature on One Train
-- 专线/ Dedicated Lines
 
 ### 车迷向/ For Fans 🕵️‍♂️🕵️‍♀️
 - [航空铁路枢纽的地铁站名（中文）/ Rail Transit Station Name of Airports and Railway Stations (In Chinese)](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Rail%20Transit%20Station%20Name%20of%20Airports%20and%20Railway%20Stations.md)
@@ -46,6 +43,12 @@ Affected by the pneumonia epidemic, the public transportation emergency measures
 - [铁路局名称资料（中文）/ Name data of FRA (In Chinese)](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Name%20data%20of%20FRA.md)
 - [空铁联运/ Airport and Railway Station nearby](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Airport%20and%20Railway%20Station%20nearby.md)
 - [*主要城市公交支付方式/ Payment Methods for Bus in Main Cities*](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Payment%20Methods%20for%20Bus%20in%20Main%20Cities.md)
+
+## 实用工具/ Tools 🛠
+- [Rail Map Generator](https://wongchito.github.io/RailMapGenerator/)
+- [地铁族签名档模拟器](https://imisty.github.io/Metro-Simulator/dist/index.html)
+- [中国铁路地图](http://cnrail.geogv.org/zhcn/?useMapboxGl=true)
+- [駅名標メーカー](http://aniani.me/station/)
 
 ## 友情链接/ Links 🔗
 - [程轨通](https://mcmcrt.china-emu.cn/)
