@@ -8,11 +8,11 @@
 - <img src="/images/city/zz.gif" width="20" hegiht="20"/>郑州地铁5号线（2019.5，独立环线）
 - <img src="/images/city/tp.gif" width="20" hegiht="20"/>***台北捷运环状线***(2020.1-，未闭环）
 - <img src="/images/city/cq.gif" width="20" hegiht="20"/>***重庆地铁环线***（2018.12-，未闭环）
+- <img src="/images/city/kh.gif" width="20" hegiht="20"/>***高雄捷运环状轻轨（绿线）***（2015.10-，未闭环）
 - <img src="/images/city/hrb.gif" width="20" hegiht="20"/>***哈尔滨地铁3号线***（2017.1-，未闭环）
 - <img src="/images/city/gz.gif" width="20" hegiht="20"/>***广州地铁11号线***
 - <img src="/images/city/gz.gif" width="20" hegiht="20"/>***广州地铁15号线***
 - <img src="/images/city/wh.gif" width="20" hegiht="20"/>***武汉地铁12号线***
-- <img src="/images/city/kh.gif" width="20" hegiht="20"/>***高雄捷运环线***
 - <img src="/images/city/cd.gif" width="20" hegiht="20"/>***成都地铁9号线***
 - <img src="/images/city/xa.gif" width="20" hegiht="20"/>***西安地铁8号线***
 - <img src="/images/city/jn.gif" width="20" hegiht="20"/>***济南地铁环线***
