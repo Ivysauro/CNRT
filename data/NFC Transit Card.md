@@ -43,6 +43,7 @@
 | 哈尔滨城市通	| 哈尔滨/ Harbin | ✅ | ✅ | ✅ | | | | ✅ | ✅ |
 | 上海公共交通卡 | 上海/ Shanghai | | 🕓 |
 | 江苏交通一卡通·南京（金陵通） |南京（宁镇扬）/ Nanjing (Ningzhenyang) | | ✅ | | | | | | ✅ |
+| 江苏交通一卡通·镇江 | 镇江（宁镇扬）/ Zhenjiang (Ningzhenyang) | | | | | | | | ✅ |
 | 江苏交通一卡通·扬州 | 扬州（宁镇扬）/ Yangzhou (Ningzhenyang) | | ✅ | | | | | | ✅ |
 | 江苏交通一卡通·苏州 | 苏州（苏锡常）/ Suzhou (Suxichang) | ✅ | ✅ | ✅ | | ✅ | ✅ | ✅ | ✅ |
 | 江苏交通一卡通·无锡 | 无锡（苏锡常）/ Wuxi (Suxichang) | ✅ | ✅ | | | | | ✅ | ✅ |
