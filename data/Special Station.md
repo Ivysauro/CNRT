@@ -252,6 +252,11 @@
 #### <img src="/images/city/suz.gif" width="20" hegiht="20"/>苏州
 - 苏州乐园→狮子山（1号线，2019.12）
 
+#### <img src="/images/city/hrb.gif" width="20" hegiht="20"/>哈尔滨
+- 哈尔滨大街→凯盛源广场（3号线，2018.11）
+- 哈东站→哈尔滨东站（1号线，2019.1）
+- 哈南站→哈尔滨南站（1号线，2019.1）
+
 #### <img src="/images/city/zz.gif" width="20" hegiht="20"/>郑州
 - 桐柏路→五一公园（1号线，2016.12）
 
