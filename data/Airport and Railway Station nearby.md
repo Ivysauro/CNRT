@@ -42,7 +42,7 @@
 | | 杭州萧山/ Hangzhou Xiaoshan/ HGH | 华东-上海/ ZSHC | 🏗萧山机场/ Xiaoshan Airport | 上海局/ CR Shanghai-🏗杭绍台高速线 |
 | | 🏗青岛胶东/ Qingdao Jiaodong/ TAO | 华东-上海/ ZSQD | 🏗青岛机场/ Qingdao Airport | 济南局/ CR Jinan-济青高速线、胶济客专线 |
 | | 烟台蓬莱/ Yantai Penglai/ YNT | 华东-上海/ ZSYT | 🏗蓬莱机场/ Penglai Airport | 济南局/ CR Jinan-🏗环渤海高速线 |
-| | 南昌昌北/ Nanchang Changbei/ KHN | 华东-上海/ ZSCN | 🏗昌北机场/ Changbei Airport | 南昌局/ CR Nanchang-🏗昌九高速线 |
+| | 南昌昌北/ Nanchang Changbei/ KHN | 华东-上海/ ZSCN | 🏗昌北机场/ Changbei Airport | 南昌局/ CR Nanchang-🏗京港高速线 |
 | | 广州白云/ Guangzhou Baiyun/ CAN | 中南-广州/ ZGGG | 🏗白云机场/ Baiyun Airport | 广州局/ CR Guangzhou-🏗穗深城际线 |
 | | 长沙黄花/ Changsha Huanghua/ CSX | 中南-广州/ ZGHA | 🏗黄花机场/ Huanghua Airport | 广州局/ CR Guangzhou-🏗渝厦高速线 |
 | | 南宁吴圩/ Nanning Wuxu/ NNG | 中南-广州/ZGNN | 🏗吴圩机场/ Wuxu Airport | 南宁局/ CR Nanning-🏗南崇城际线 |
