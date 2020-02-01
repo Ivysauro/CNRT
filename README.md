@@ -6,9 +6,7 @@
 
 ## 公告/ NOTICE
 
-受新型冠状病毒肺炎疫情影响，全国公共交通应急措施情况可参见[@通行线Toursline的微博](https://m.weibo.cn/u/6882481489/)
-
-Due to the pneumonia epidemic, the public transportation emergency measures can be found in [@通行线Toursline's Weibo](https://m.weibo.cn/u/6882481489/)
+受新型冠状病毒肺炎疫情影响，全国公共交通应急措施情况可参见[@通行线Toursline的微博](https://m.weibo.cn/u/6882481489/)/ Due to the pneumonia epidemic, the public transportation emergency measures can be found in [@通行线Toursline's Weibo](https://m.weibo.cn/u/6882481489/)
 
 ## 目录/ Content
 
@@ -35,8 +33,7 @@ Due to the pneumonia epidemic, the public transportation emergency measures can 
 - [特殊站（中文）/ Special Station (In Chinese)](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Special%20Station.md)
 - [*之最/ No.1*](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/zui.md)
 - [*单程票种类/ Type of One-way Ticket*](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Type%20of%20One-way%20Ticket.md)
-- 城市轨道标识及意义/ Logo of Rail Transit and Its Meaning
-- 线路标识色/ Line Color
+- 标识及标识色/ Logo and Color
 
 ### 不务正业的/ Files of Related Topic 🧷
 - [主要城市名称资料/ Something about Name of Big Cities](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Name%20data%20of%20Big%20Cities.md)
