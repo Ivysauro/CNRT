@@ -15,6 +15,8 @@
 - <img src="/images/city/wh.gif" width="20" hegiht="20"/>***武汉地铁12号线***
 - <img src="/images/city/cd.gif" width="20" hegiht="20"/>***成都地铁9号线***
 - <img src="/images/city/xa.gif" width="20" hegiht="20"/>***西安地铁8号线***
+- <img src="/images/city/cs.gif" width="20" hegiht="20"/>***长沙地铁8号线***
+- <img src="/images/city/nb.gif" width="20" hegiht="20"/>***宁波地铁5号线***
 - <img src="/images/city/jn.gif" width="20" hegiht="20"/>***济南地铁环线***
 - <img src="/images/city/mo.gif" width="20" hegiht="20"/>***澳门轻轨半岛线***
 
