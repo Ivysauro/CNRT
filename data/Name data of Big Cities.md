@@ -10,7 +10,7 @@
 
 | 中文名/ Chinese Name | 简称/ Short Name | 拼音/ Bopomofo Name | 常见拉丁名/ General Latin Name | 城市代码/ Metro Area Code | 拉丁名来源/ Origin of Latin Name | 备注/ Notes |
 | :------------------ | :--------------: | :----------------- | :---------------------------- | :-------------------------- | :----------- | :- |
-| 北京 | 京 | **Beijing** | Peking | BJS | 邮政式拼音 |
+| 北京 | 京 | **Beijing** | Peking | BJS | 邮政式拼音 | 北平，Peiping |
 | 天津 | 津 | **Tianjin** | Tientsin | TSN | 邮政式拼音 |
 | 石家庄 | 石 | **Shijiazhuang** | | SJW |
 | 承德 | 承 | **Chengde** | Chengteh | CDE | 邮政式拼音 | 热河，Jehol |
