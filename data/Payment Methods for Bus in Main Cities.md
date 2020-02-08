@@ -20,7 +20,7 @@
 ## 主表/ Content
 | 城市/ City | <img src="/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay QR Code"/> | <img src="/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Official Apps"/> |
 | :- | :-: | :-: | :-: | :-: | :-: | :-: | :- |
-| 北京/ Beijing | ⭕ | ✅ | | | 🕓 | | 北京公交、北京一卡通、亿通行 |
+| 北京/ Beijing | ⭕ | ✅ | ✅ | | 🕓 | | 北京公交、北京一卡通、亿通行 |
 | 天津/ Tianjin | ✅ | ✅ | ✅ | ✅ | ✅ | | |
 | 上海/ Shanghai | ✅ | | ✅ | ✅ | ⭕ | | 上海一卡通 |
 | 广州/ Guangzhou | ✅ | | ✅ | ✅ | ✅ | | 羊城通、岭南通 |
