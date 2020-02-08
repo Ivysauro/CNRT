@@ -17,7 +17,7 @@
 | | 长春龙嘉/ Changchun Longjia / CGQ | 东北-沈阳/ ZYCC | 龙嘉/ Longjia/ UJL | 沈阳局/ CR Shenyang-长珲城际线 |
 | | 上海虹桥/ Shanghai Hongqiao/ SHA | 华东-上海/ ZSSS | 上海虹桥/ Shanghai-Hongqiao/ AOH | 上海局/ CR Shanghai-京沪高速线、沪昆高速线、沪宁城际线 |
 | | 阜阳西关/ Fuyang Xiguan/ FUG | 华东-上海/ ZSFY | 阜阳西/ Fuyangxi/ FXU | 上海局/ CR Shanghai-京港高速线、郑阜高速线 |
-| | 徐州观音/ Xuzhou Guanyin/ XUZ | 华东-上海/ ZSXZ | 观音机场/ Guanyin Airport/ GCU | 上海局/ CR Shanghai-徐盐城际线 |
+| 🚌1.5km | 徐州观音/ Xuzhou Guanyin/ XUZ | 华东-上海/ ZSXZ | 观音机场/ Guanyin Airport/ GCU | 上海局/ CR Shanghai-徐盐城际线 |
 | 🚌~10km | 台北桃园/ Taipei Taoyuan/ TPE | 华东-台北/ RCTP | 桃园/ Taoyuan/ TAY | 台铁/ TRA-台湾高速线 |
 | | 武汉天河/ Wuhan Tianhe/ WUH | 中南-武汉/ ZHHH | 天河机场/ Tianhe Airport/ TJN | 武汉局/ CR Wuhan-武孝城际线 |
 | | 郑州新郑/ Zhengzhou Xinzheng/ CGO | 中南-武汉/ ZHCC | 新郑机场/ Xinzheng Airport/ EZF | 郑州局/ CR Zhengzhou-郑机城际线 |
