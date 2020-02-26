@@ -57,6 +57,7 @@
 - 上海火车站（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，1号线、3/4号线）
 - 虹桥2号航站楼（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，2号线、10号线）
 - 南京西路（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，2号线、12号线、13号线）
+- 板桥、新埔/新埔民生（<img src="/images/city/tp.gif" width="20" hegiht="20"/>台北，环线、板桥线，**单程票有效**）
 - ~~大葆台/新宫~~（<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京，房山线、大兴线）
 - ~~长清路~~（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，7号线、13号线）
 - ~~龙华~~（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海，11号线、12号线）
