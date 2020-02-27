@@ -197,7 +197,10 @@
 
 ### 特殊站名
 
-#### 带有数字/字母（机场区域除外）
+#### 带有数字/字母
+
+机场区域的车站不计入
+
 - 双D港（<img src="/images/city/dl.gif" width="20" hegiht="20"/>大连，3号线）
 
 #### 对“ü”的处理
@@ -326,7 +329,10 @@
 #### <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海
 - 明珠线→3号线
 
-#### <img src="/images/city/tp.gif" width="20" hegiht="20"/>台北（来自[维基百科](https://zh.wikipedia.org/wiki/%E8%87%BA%E5%8C%97%E6%8D%B7%E9%81%8B#%E8%AE%8A%E6%9B%B4%E6%AD%B7%E7%A8%8B)）
+#### <img src="/images/city/tp.gif" width="20" hegiht="20"/>台北
+
+来自[维基百科](https://zh.wikipedia.org/wiki/%E8%87%BA%E5%8C%97%E6%8D%B7%E9%81%8B#%E8%AE%8A%E6%9B%B4%E6%AD%B7%E7%A8%8B)
+
 - 文山线（中运量1号线→TTC棕线→木栅线→木栅内湖线→1文湖线→BR文湖线）
 - 内湖线（内湖线→木栅内湖线→1文湖线→BR文湖线）
 - 淡水线（运委会U1→BMTC红线→TTC红线→淡水线→2淡水信义线→R淡水信义线）
