@@ -1,6 +1,26 @@
 # 特殊运营方式（中文）/ Special Operations (In Chinese)
 
-## 环行（开通时间-闭环时间）
+## 目录
+- [环行](#环行)
+- [越行](#越行)
+- [编组](#编组)
+- [换乘](#换乘)
+- [跨城](#跨城)
+- [直通/跨线](#直通/跨线)
+- [贯通](#贯通)
+- [拆分](#拆分)
+- [支线](#支线)
+- [分段](#分段)
+- [脱网](#脱网)
+- [停运](#停运)
+- [座席](#座席)
+- [广播](#广播)
+- [参考资料](#参考资料)
+
+## 环行
+
+括号内为开通时间-闭环时间
+
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁2号线（1984.9-1987.12，独立环线）
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁10号线（2008.7-2013.5，独立环线）
 - <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海地铁4号线（2005.12-2007.12，共线环线）
@@ -20,7 +40,10 @@
 - <img src="/images/city/jn.gif" width="20" hegiht="20"/>***济南地铁环线***
 - <img src="/images/city/mo.gif" width="20" hegiht="20"/>***澳门轻轨半岛线***
 
-## 越行（快车开通时间）
+## 越行
+
+括号内为越行车（快车）开通时间
+
 ### 有越行线
 - <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海地铁16号线（2013.12试行，2016.3正式）
 - <img src="/images/city/ty.gif" width="20" hegiht="20"/>桃园机场捷运（2017.3）
@@ -34,7 +57,10 @@
 - <img src="/images/city/zz.gif" width="20" hegiht="20"/>~~郑州地铁城郊线~~（2017.4-2019.7）
 
 ## 编组
-### 混编（具体编组）
+### 混编
+
+括号内为具体编组
+
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁大兴机场线（4/8节）
 - <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海地铁2号线（4/8A)
 - <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海地铁5号线（4/6C)
@@ -43,7 +69,10 @@
 - <img src="/images/city/nj.gif" width="20" hegiht="20"/>南京地铁S7线（4/6B)
 
 ## 换乘
-### 连续同台换乘（同向在前，反向在后）
+### 连续同台换乘
+
+同向在前，反向在后
+
 - 旺角&太子（<img src="/images/city/hk.gif" width="20" hegiht="20"/>港铁荃湾线/观塘线）
 - 北角&鲗鱼涌（<img src="/images/city/hk.gif" width="20" hegiht="20"/>港铁港岛线/将军澳线）
 - 调景岭&油塘（<img src="/images/city/hk.gif" width="20" hegiht="20"/>港铁观塘线/将军澳线）
@@ -55,7 +84,10 @@
 - 火车站&朝阳广场（<img src="/images/city/nn.gif" width="20" hegiht="20"/>南宁地铁1/2号线）
 
 ## 跨城
-### 单线跨城（具体城市及跨城时间）
+### 单线跨城
+
+括号内为具体城市及跨城时间
+
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁大兴机场线（北京&廊坊，2019.9）
 - <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海地铁11号线（上海&苏州昆山，2013.10）
 - <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州地铁广佛线(<img src="/images/city/fs.gif" width="20" hegiht="20"/>佛山地铁1号线)（广州&佛山，2010.11）
@@ -85,7 +117,10 @@
 ### 跨城贯通
 - <img src="/images/city/hz.gif" width="20" hegiht="20"/>*杭州地铁柯桥线/<img src="/images/city/sx.gif" width="20" hegiht="20"/>绍兴地铁1号线*
 
-### 同城贯通（贯通时间）
+### 同城贯通
+
+括号内为贯通时间
+
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁1号线/复八线（2000.6）
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁4号线/大兴线（2010.12）
 - <img src="/images/city/km.gif" width="20" hegiht="20"/>昆明地铁1号线/2号线（2014.4）
@@ -98,7 +133,10 @@
 - <img src="/images/city/nj.gif" width="20" hegiht="20"/>***南京地铁6号线/S1线***
 - <img src="/images/city/wx.gif" width="20" hegiht="20"/>***无锡地铁1号线/S1线***
 
-## 拆分（拆分时间）
+## 拆分
+
+括号内为拆分时间
+
 ### 支线拆分
 - <img src="/images/city/nj.gif" width="20" hegiht="20"/>南京地铁1号线/10号线（2014.6）
 - <img src="/images/city/gz.gif" width="20" hegiht="20"/>***广州地铁3号线/10号线***
@@ -140,16 +178,22 @@
 - <img src="/images/city/suz.gif" width="20" hegiht="20"/>苏州地铁4号线支线
 - <img src="/images/city/sz.gif" width="20" hegiht="20"/>***深圳地铁7号线(文体公园)支线***
 
-## 分段（具体分段）
+## 分段
+
+括号内为具体分段
+
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁8号线（南段、北段）
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁14号线（东段、西段）
 - <img src="/images/city/tj.gif" width="20" hegiht="20"/>~~天津地铁2号线~~（东段、西段）
 
 ## 脱网
 
-此处“成网”均指两条线（含支线）有交叉点，而非多条线组成封闭区域
+此处借“成网”表示两条线（含支线）有交叉点，而非本意（多条线组成封闭区域）
 
-### 成网时脱网（脱网时间-入网时间）
+### 成网时脱网
+
+括号内为脱网时间-入网时间
+
 - <img src="/images/city/dl.gif" width="20" hegiht="20"/>大连地铁3号线（2015.10-）
 - <img src="/images/city/qd.gif" width="20" hegiht="20"/>青岛地铁13号线（2018.12-）
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>~~北京地铁9号线~~（2011.12-2012.12）
@@ -175,13 +219,19 @@
 #### <img src="/images/city/jn.gif" width="20" hegiht="20"/>济南
 - 1号线（2019.4）、3号线（2019.12）互不连通
 
-## 停运（停运时间-重开时间）
+## 停运
+
+括号内为停运时间-重开时间
+
 - <img src="/images/city/tj.gif" width="20" hegiht="20"/>~~天津地铁1号线~~（2001.10-2006.6）
 - <img src="/images/city/tj.gif" width="20" hegiht="20"/>~~天津地铁9号线~~（2015.8-2015.12-2016.12）
 - <img src="/images/city/km.gif" width="20" hegiht="20"/>~~昆明地铁6号线~~（2016.3-2017.8）
 
 ## 座席
-### 商务车厢（运营时间）
+### 商务车厢
+
+括号内为运营时间
+
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁大兴机场线（2019.9）
 - <img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳地铁11号线（2016.6）
 
@@ -189,7 +239,10 @@
 - <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州（2017.6试行）
 - <img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳（2017.6试行）
 
-### 行李车厢（启用时间）
+### 行李车厢
+
+括号内为启用时间
+
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁大兴机场线（2019.9）
 - <img src="/images/city/cs.gif" width="20" hegiht="20"/>长沙磁浮快线（2019.3）
 
