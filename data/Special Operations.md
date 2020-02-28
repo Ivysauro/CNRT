@@ -199,6 +199,7 @@
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>~~北京地铁9号线~~（2011.12-2012.12）
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>~~北京地铁房山线~~（2010.12-2012.12）
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>~~北京地铁S1线~~（2017.12-2018.12）
+- <img src="/images/city/sh.gif" width="20" hegiht="20"/>~~上海地铁9号线~~（2007.12-2008.12）
 - <img src="/images/city/gz.gif" width="20" hegiht="20"/>~~广州地铁14号线知识城支线~~（2017.12-2018.12）
 - <img src="/images/city/dl.gif" width="20" hegiht="20"/>~~大连地铁12号线~~（2015.10-2017.6）
 - <img src="/images/city/wh.gif" width="20" hegiht="20"/>~~武汉地铁11号线~~（2018.10-2019.2）
