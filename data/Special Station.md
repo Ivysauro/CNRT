@@ -26,7 +26,7 @@
 
 #### 永久关闭
 - 新华路（<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津，既有线，1984.12-2001.10）
-- 芙蓉桥(<img src="/images/city/cc.gif" width="20" hegiht="20"/>长春，3号线，2002.10-2017.11，将与辽宁路站合并）
+- 芙蓉桥（<img src="/images/city/cc.gif" width="20" hegiht="20"/>长春，3号线，2002.10-2017.11，将与辽宁路站合并）
 
 #### 暂缓开通
 
