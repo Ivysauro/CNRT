@@ -236,6 +236,7 @@
 
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁8号线（南段、北段）
 - <img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁14号线（东段、西段）
+- <img src="/images/city/wh.gif" width="20" hegiht="20"/>武汉地铁8号线（南段、北段）
 - <img src="/images/city/tj.gif" width="20" hegiht="20"/>~~天津地铁2号线~~（东段、西段）
 
 ## 脱网
