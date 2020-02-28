@@ -149,10 +149,32 @@
 - 会展中心、汽车城（磁浮快线，2016.5-）
 
 #### <img src="/images/city/wx.gif" width="20" hegiht="20"/>无锡
+- 安镇（2号线，2014.12-）
 - ~~映月湖公园、迎宾广场~~（2号线，2014.12-2015.4）
+
+#### <img src="/images/city/qd.gif" width="20" hegiht="20"/>青岛
+- 鳌山湾（11号线，2018.4-）
+
+#### <img src="/images/city/nn.gif" width="20" hegiht="20"/>南宁
+- 东沟岭（3号线，2019.6-）
 
 #### <img src="/images/city/gy.gif" width="20" hegiht="20"/>贵阳
 - ~~窦官~~（1号线，2017.12-2019.12）
+
+#### <img src="/images/city/xm.gif" width="20" hegiht="20"/>厦门
+- 东瑶、鼎美、马峦中心（2号线，2019.12-）
+
+#### <img src="/images/city/wz.gif" width="20" hegiht="20"/>温州
+- 秀屿、温州火车站、文昌路（S1线，2019.1-）
+
+#### <img src="/images/city/jn.gif" width="20" hegiht="20"/>济南
+- 裴家营（3号线，2019.12-）
+
+#### <img src="/images/city/lz.gif" width="20" hegiht="20"/>兰州
+- 省政府（1号线，2019.6-）
+
+#### <img src="/images/city/mo.gif" width="20" hegiht="20"/>澳门
+- 莲花圆形地（氹仔线，2019.12-）
 
 ### 换乘
 
