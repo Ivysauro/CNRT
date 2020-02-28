@@ -25,6 +25,9 @@
 ### 关闭
 
 #### 永久关闭
+
+不统计港铁车站
+
 - 新华路（<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津，既有线，1984.12-2001.10）
 - 芙蓉桥（<img src="/images/city/cc.gif" width="20" hegiht="20"/>长春，3号线，2002.10-2017.11，将与辽宁路站合并）
 
@@ -328,6 +331,7 @@
 
 #### <img src="/images/city/hk.gif" width="20" hegiht="20"/>香港
 - 马料水→大学（东铁线，1966.12）
+- 油麻地→旺角→旺角东（东铁线，1969，2007.12）
 
 #### <img src="/images/city/tj.gif" width="20" hegiht="20"/>天津
 - 洋货市场→塘沽（9号线，2005.4）
