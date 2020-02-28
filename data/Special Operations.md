@@ -69,7 +69,8 @@
 - <img src="/images/city/nj.gif" width="20" hegiht="20"/>南京地铁S7线（4/6B)
 
 ## 换乘
-### 连续同台换乘
+### 同台换乘
+#### 连续同台换乘
 
 同向在前，反向在后
 
@@ -77,11 +78,53 @@
 - 北角&鲗鱼涌（<img src="/images/city/hk.gif" width="20" hegiht="20"/>港铁港岛线/将军澳线）
 - 调景岭&油塘（<img src="/images/city/hk.gif" width="20" hegiht="20"/>港铁观塘线/将军澳线）
 - 肿瘤医院&天津宾馆（<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津地铁5/6号线）
-- 中正纪念堂/古亭&东门（<img src="/images/city/tp.gif" width="20" hegiht="20"/>台北捷运松山新店线/中和新芦线/淡水信义线）
 - 中南路&洪山广场（<img src="/images/city/wh.gif" width="20" hegiht="20"/>武汉地铁2/4号线）
 - 冉家坝&大龙山（<img src="/images/city/cq.gif" width="20" hegiht="20"/>重庆地铁5/6号线）
 - 彭埠&火车东站（<img src="/images/city/hz.gif" width="20" hegiht="20"/>杭州地铁1/4号线）
 - 火车站&朝阳广场（<img src="/images/city/nn.gif" width="20" hegiht="20"/>南宁地铁1/2号线）
+
+#### 三角同台换乘
+- 中正纪念堂-古亭-东门（<img src="/images/city/tp.gif" width="20" hegiht="20"/>台北捷运松山新店线/中和新芦线/淡水信义线）
+
+#### 双向同台换乘
+- 国家图书馆（<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁4号线/9号线，同向）
+- 北京西站（<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁7号线/9号线，同向）
+- 朱辛庄（<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁8号线/昌平线，同向）
+- 郭公庄（<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁9号线/房山线，同向）
+- 阎村东（<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁房山线/燕房线，同向）
+- 金钟（<img src="/images/city/hk.gif" width="20" hegiht="20"/>港铁荃湾线/港岛线，反向）
+- 荔景（<img src="/images/city/hk.gif" width="20" hegiht="20"/>港铁荃湾线/东涌线，同向）
+- 红磡（<img src="/images/city/hk.gif" width="20" hegiht="20"/>港铁西铁线/东铁线，反向）
+- 虹桥火车站（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海地铁2号线/17号线，同向）
+- 东方体育中心（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海地铁6号线/11号线，同向）
+- 西门（<img src="/images/city/tp.gif" width="20" hegiht="20"/>台北捷运板南线/松山新店线，同向）
+- 东门（<img src="/images/city/tp.gif" width="20" hegiht="20"/>台北捷运中和新芦线/淡水信义线，反向）
+- 嘉禾望岗（<img src="/images/city/gz.gif" width="20" hegiht="20"/>广州地铁2号线/3号线，同向）
+- 沙园（<img src="/images/city/gz.gif" width="20" hegiht="20"/>广州地铁8号线/1广佛线，反向）
+- 镇龙（<img src="/images/city/gz.gif" width="20" hegiht="20"/>广州地铁14号线/21号线，同向）
+- 钱江路（<img src="/images/city/hz.gif" width="20" hegiht="20"/>杭州地铁2号线/4号线，同向）
+
+#### 单向同台换乘
+- 大围（<img src="/images/city/hk.gif" width="20" hegiht="20"/>港铁东铁线/屯马线一期，下行同向）
+- 南昌（<img src="/images/city/hk.gif" width="20" hegiht="20"/>港铁西铁线/东涌线，下行反向）
+- 欣澳（<img src="/images/city/hk.gif" width="20" hegiht="20"/>港铁东涌线/迪士尼线，上行反向）
+- 天津站（<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津地铁2号线/9号线，上行同向）
+- 虹桥2号航站楼（<img src="/images/city/sh.gif" width="20" hegiht="20"/>上海地铁2号线/10号线，上行同向，❗其他方向可穿行换乘）
+- 广州南站（<img src="/images/city/gz.gif" width="20" hegiht="20"/>广州地铁2号线/7号线，上/下行反向）
+
+#### 支线同台换乘
+- 客运中心（<img src="/images/city/hz.gif" width="20" hegiht="20"/>杭州地铁1号线，上行同向）
+
+### 其他便利换乘
+#### 连续同线换乘
+
+只统计三站及以上
+
+- 太子-旺角-油麻地（<img src="/images/city/hk.gif" width="20" hegiht="20"/>港铁荃湾线/观塘线）
+- 肿瘤医院-天津宾馆-文化中心（<img src="/images/city/tj.gif" width="20" hegiht="20"/>天津地铁5/6号线）
+
+#### 叠侧式换乘
+- 南锣鼓巷（<img src="/images/city/bj.gif" width="20" hegiht="20"/>北京地铁6号线/8号线，同向）
 
 ## 跨城
 ### 单线跨城
