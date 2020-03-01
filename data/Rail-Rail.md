@@ -1,6 +1,6 @@
 # 双铁联运/ Rail-Rail
 
-英文版点[这里](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Rail-Rail%2002.md)跳转/ [HERE](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Rail-Rail%2002.md) for English version
+[HERE](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Rail-Rail%2002.md) for English version/ 英文版点[这里](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Rail-Rail%2002.md)跳转
 
 ## 主表
 “/”前是<img src="/images/Rail Transit.png" width="15" hegiht="15" alt="Railway Transit"/>轨道交通站名，后是<img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>国铁站名
