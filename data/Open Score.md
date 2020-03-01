@@ -1,4 +1,4 @@
-# 各地轨道交通开放性评分/ Open Score of China Rail Transit
+# 开放性评分/ Open Score
 
 ## 图例/ Legend
 
@@ -62,5 +62,5 @@
 | <img src="/images/city/hk.gif" width="20" hegiht="20"/>香港/ Hong Kong | ⭕ | ⭕ | [⭕](https://www.unionpayintl.com/cn/mediaCenter/newsCenter/companyNews/4733.shtml) | | ⭕ | - |
 | <img src="/images/city/mo.gif" width="20" hegiht="20"/>澳门/ Macao | | | | | | - |
 | <img src="/images/city/tp.gif" width="20" hegiht="20"/><img src="/images/city/ty.gif" width="20" hegiht="20"/>台北&桃园/ Taipei & Taoyuan | | | | | | - |
-| <img src="/images/city/kh.gif" width="20" hegiht="20"/>高雄/ Kaohsiung | | | ⭕ | | | - |
+| <img src="/images/city/kh.gif" width="20" hegiht="20"/>高雄/ Kaohsiung | | | ✅ | | | - |
 | | <img src="/images/Alipay.png" width="30" hegiht="30" alt="Alipay"/> | <img src="/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay"/> | <img src="/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay"/> | <img src="/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="/images/NFC.png" width="25" hegiht="25" alt="NFC Local Card"/> | |
