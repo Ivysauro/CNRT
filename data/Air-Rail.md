@@ -1,7 +1,6 @@
 # 空铁联运/ Air-Rail
 
-## 狭义空铁联运/ Narrow Sense Air-Rail
-### 图例/ Legend
+## 图例/ Legend
 | 符号/ emoji | 中文含义/ Chinese Meaning | 英文含义/ English Meaning |
 | :- | :- | :- |
 | 🥾 | 很近，有步道 | Need Walk |
@@ -10,7 +9,8 @@
 | 🚕 | 较近，需要出租车 | Need Taxi |
 | 🏗 | 在建 | Under Construction |
 
-### 主表/ Content
+## 狭义空铁联运/ Narrow Sense Air-Rail
+
 | | <img src="/images/Airport.png" width="15" hegiht="15" alt="Airport"/>机场/ Airport | 空管信息/ ICAO Info | <img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>火车站/ Railway Station | 铁路信息/ Railway Info |
 | :-: | :- | :- | :- | :- |
 | | 北京大兴/ Beijing Daxing/ PKX | 华北-北京/ ZBAD | 大兴机场/ Daxing Airport / IWP | 北京局/ CR Beijing-京雄城际线 |
@@ -35,7 +35,6 @@
 | | 银川河东/ Yinchuan Hedong/ INC | 西北-兰州/ ZLIC | 河东机场/ Hedong Airport/ HFJ | 兰州局/ CR Lanzhou-西银客专线 |
 | 🥾1.2km | 吐鲁番交河/ Turpan Jiaohe/ TLQ | 新疆-乌鲁木齐/ ZWTL | 吐鲁番北/ Tulufanbei/ TAR | 乌鲁木齐局/ CR Urumqi-兰新客专线 |
 
-### 副表/ Sub-Content
 | | <img src="/images/Airport.png" width="15" hegiht="15" alt="Airport"/>机场/ Airport | 空管信息/ ICAO Info | <img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>火车站/ Railway Station | 铁路信息/ Railway Info |
 | :-: | :- | :- | :- | :- |
 | | 天津滨海/ Tianjin Binhai/ TSN | 华北-北京/ ZBTJ | 🏗滨海机场/ Binhai Airport | 北京局/ CR Beijing-🏗京滨城际线 |
@@ -49,7 +48,9 @@
 | | 南宁吴圩/ Nanning Wuxu/ NNG | 中南-广州/ZGNN | 🏗吴圩机场/ Wuxu Airport | 南宁局/ CR Nanning-🏗南崇城际线 |
 | | 昆明长水/ Kunming Changshui/ KMG | 西南-昆明/ ZPPP | 🏗长水机场/ Changshui Airport | 昆明局/ CR Kunming-🏗渝昆高速线 |
 | | 🏗成都天府/ Chengdu Tianfu/ TFU | 西南-昆明/ ZU?? | 🏗天府机场/ Tianfu Airport | 成都局/ CR Chengdu-🏗成自泸城际线 |
-| |
+
+| | <img src="/images/Airport.png" width="15" hegiht="15" alt="Airport"/>机场/ Airport | 空管信息/ ICAO Info | <img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>火车站/ Railway Station | 铁路信息/ Railway Info |
+| :-: | :- | :- | :- | :- |
 | 🚕~4km | 延吉朝阳川/ Yanji Chaoyangchuan/ YNJ | 东北-沈阳/ ZYYJ | 延吉西/ Yanjixi/ YXL | 沈阳局/ CR Shenyang-长珲城际线 |
 | 🚕~4km | 苏南硕放/ Sunan Shuofang/ WUX | 华东-上海/ ZSWX | 无锡新区/ Wuxi-Xinqu/ IFH | 上海局/ CR Shanghai-沪宁城际线 |
 | 🚕~5km | 包头东河/ Baotou Donghe/ BAV | 华北-北京/ ZBOW | 包头东/ Baotoudong/ BDC | 呼和浩特局/ CR Hohhot-京包客专线 |
@@ -72,8 +73,65 @@
 | 🚕~10km | 怀化芷江/ Huaihua Zhijiang/ HJJ | 中南-广州/ ZGCJ | 芷江/ Zhijiang/ ZPQ | 广州局/ CR Guangzhou-沪昆高速线 |
 
 ## 广义空铁联运/ Broad Sense Air-Rail
-| | <img src="/images/Airport.png" width="15" hegiht="15" alt="Airport"/>机场/ Airport | 空管信息/ ICAO Info | <img src="/images/Rail Transit.png" width="15" hegiht="15" alt="China Railway"/>车站/ Rail Station | 线路信息/ Rail Info |
+
+|  | <img src="/images/Airport.png" width="15" hegiht="15" alt="Airport"/>机场/ Airport | 空管信息/ ICAO Info | <img src="/images/Rail Transit.png" width="15" hegiht="15" alt="China Railway"/>车站/ Rail Station | 已开通线路信息/ Rail Info Now |
 | :-: | :- | :- | :- | :- |
+|  | 北京首都/ Beijing Capital/ PEK | 华北-北京/ ZBAA | 3号航站楼、2号航站楼 | 首都机场线 |
+|  | 北京大兴/ Beijing Daxing/ PKX | 华北-北京/ ZBAD | 大兴机场 | 大兴机场线 |
+|  | 香港/ Hong Kong/ HKG | 中南-香港/ VHHH | 机场 | 机场快线 |
+|  | 天津滨海/ Tianjin Binhai/ TSN | 华北-北京/ ZBTJ | 滨海国际机场 | 2号线 |
+|  | 上海虹桥/ Shanghai Hongqiao/ SHA | 华东-上海/ ZSSS | 虹桥1号航站楼、虹桥2号航站楼 | 2号线、10号线 |
+|  | 上海浦东/ Shanghai Pudong/ PVG | 华东-上海/ ZSPD | 浦东国际机场 | 2号线、磁浮线 |
+|  | 台北松山/ Taipei Songshan/ TSA | 华东-台北/ RCSS | 松山机场 | 文湖线 |
+|  | 台北桃园/ Taipei Taoyuan/ TPE | 华东-台北/ RCTP | 机场第一航厦、机场第二航厦、机场旅馆、*机场第三航厦* | 桃园机场线 |
+|  | 广州白云/ Guangzhou Baiyun/ CAN | 中南-广州/ ZGGG | 机场北、机场南 | 3号线 |
+|  | 佛山沙堤/ Foshan Shadi/ FUO | 中南-广州/ ZGFS | 🏗佛山机场 | |
+|  | 长春龙嘉/ Changchun Longjia/ CGQ | 东北-沈阳/ ZYCC | 🏗龙嘉机场 | |
+|  | 大连周水子/ Dalian Zhoushuizi/ DLC | 东北-沈阳/ ZYTL | 机场/大连周水子 | 2号线 |
+|  | 🏗大连金州湾/ Dalian Jinzhouwan/ DLC | 东北-沈阳/ ZYTL | 🏗金州湾机场 | |
+|  | 武汉天河/ Wuhan Tianhe/ WUH | 中南-武汉/ ZHHH | 天河机场 | 2号线 |
+|  | 重庆江北/ Chongqing Jiangbei/ CKG | 西南-昆明/ ZUCK | 江北机场T2航站楼、江北机场T3航站楼 | 3号线 |
+|  | 深圳宝安/ Shenzhen Bao'an/ SZX | 中南-广州/ ZGSZ | 机场 | 11号线 |
+|  | 南京禄口/ Najing Lukou/ NKG | 华东-上海/ ZSNJ | 禄口机场 | S1线 |
+|  | 高雄/ Kaohsiung/ KHH | 华东-台北/ RCKH | 高雄国际机场 | 红线 |
+|  | 沈阳桃仙/ Shenyang Taoxian/ SHE | 东北-沈阳/ ZYTX | 🏗航站楼、🏗桃仙机场 | |
+|  | 成都双流/ Chengdu Shuangliu/ CTU | 西南-昆明/ ZUUU | 双流机场1航站楼/成都双流、双流机场2航站楼/成都双流 | 10号线 |
+|  | 🏗成都天府/ Chengdu Tianfu/ TFU | 西南-昆明/ ZU?? | 🏗天府机场1号2号航站楼、🏗天府机场3号4号航站楼 | |
+|  | 西安咸阳/ Xi'an Xianyang/ XIY | 西北-兰州/ ZLXY | *机场*、机场西 | 机场城际线 |
+|  | 昆明长水/ Kunming Changshui/ KMG | 西南-昆明/ ZPPP | 机场前、机场中心 | 6号线 |
+|  | 杭州萧山/ Hangzhou Xiaoshan/ HGH | 华东-上海/ ZSHC | 🏗萧山机场 | |
+|  | 郑州新郑/ Zhengzhou Xinzheng/ CGO | 中南-武汉/ ZHCC | 新郑机场 | 城郊线 |
+|  | 长沙黄花/ Changsha Huanghua/ CSX | 中南-广州/ ZGHA | 磁浮机场、🏗黄花机场西 | 磁浮快线 |
+|  | 宁波栎社/ Ningbo Lishe/ NGB | 华东-上海/ ZSNB | 栎社国际机场 | 2号线 |
+|  | 苏南硕放/ Sunan Shuofang/ WUX | 华东-上海/ ZSWX | 🏗硕放机场 | |
+|  | 青岛流亭/ Qingdao Liuting/ TAO | 华东-上海/ ZSQD | 🏗流亭机场 | |
+|  | *青岛胶东/Qingdao Jiaodong/ TAO* | 华东-上海/ ZSQD | 🏗胶东机场 | |
+|  | 福州长乐/ Fuzhou Changle / FOC | 华东-上海/ ZSFZ | 🏗长乐机场 | |
+|  | 贵阳龙洞堡/ Guiyang Longdongbao/ KWE | 西南-昆明/ ZUGY | 🏗机场 | |
+| 👟2.2km | 厦门高崎/ Xiamen Gaoqi/ XMN | 华东-上海/ ZSAM | 高崎 | 1号线 |
+|  | 🏗厦门翔安/ Xiamen Xiang'an/ XMN | 华东-上海/ ZSAM | 🏗翔安机场 | |
+|  | 乌鲁木齐地窝堡/ Urumqi Diwopu/ URC | 新疆-乌鲁木齐/ ZWWW | 国际机场 | 1号线 |
+|  | 温州龙湾/ Wenzhou Longwan/ WNZ | 华东-上海/ ZSWZ | 机场 | S1线 |
+|  | 济南遥墙/ Jinan Yaoqiang/ TNA | 华东-上海/ ZSJN | 🏗遥墙机场 | |
+|  | 澳门/ Macao/ MFM | 中南-香港/ VMMC | 机场 | 氹仔线 |
+|  | 呼和浩特白塔/ Hohhot Baita/ HET | 华北-北京/ ZBHH | 白塔西、坝堰（机场） | 1号线 |
+|  | 太原武宿/ Taiyuan Wusu/ TYN | 华北-北京/ ZBYN | 🏗武宿机场 | |
+
+命名方式分析:
+- 机场：大连周水子 深圳宝安 等
+- 国际机场：乌鲁木齐地窝铺
+- 航站楼：沈阳桃仙
+- 机场+方位词：广州白云（机场北、机场南） 昆明长水（机场前、机场中心）
+- 机场名+机场+方位词：长沙黄花（黄花机场西）
+- 机场名+机场：武汉天河（天河机场） 南京禄口（禄口机场） 等
+- 机场名+国际机场：天津滨海（滨海国际机场） 上海浦东（浦东国际机场） 等
+- 机场名：厦门高崎（高崎）
+- 机场所在地名：呼和浩特白塔（白塔西）
+- 航站楼名：北京首都T3（3号航站楼） 北京首都T1/T2（二号航站楼）
+- 机场名+航站楼名：上海虹桥T1（虹桥1号航站楼） 上海虹桥T2（虹桥2号航站楼）
+- 机场名+机场+航站楼名：重庆江北T2（江北机场T2航站楼\*） 成都双流T1（双流机场1航站楼）
+
+\*注：“T2航站楼”是不规范的说法，规范说法应为“2(号)航站楼”
 
 ## 参考资料/ Reference
 - https://www.zhihu.com/question/36850556
