@@ -63,10 +63,11 @@
 | 鲁班路 | <img src="/images/city/sh.gif" width="20" hegiht="20"/>上海4、<img src="/images/city/nn.gif" width="20" hegiht="20"/>南宁1 |
 | 新庄 | <img src="/images/city/tp.gif" width="20" hegiht="20"/>台北中和新芦、<img src="/images/city/nj.gif" width="20" hegiht="20"/>南京3 |
 | 北门 | <img src="/images/city/tp.gif" width="20" hegiht="20"/>台北松山新店、<img src="/images/city/wlmq.gif" width="20" hegiht="20"/>乌鲁木齐1 |
+| 体育中心 | <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州1、<img src="/images/city/wh.gif" width="20" hegiht="20"/>武汉3 |
 | 人和 | <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州3、<img src="/images/city/cq.gif" width="20" hegiht="20"/>重庆5 |
 | 机场北 | <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州3、<img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳11 |
 | 塘坑 | <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州4、<img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳3 |
-| 体育中心 | <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州1、<img src="/images/city/wh.gif" width="20" hegiht="20"/>武汉3 |
+| 科学城 | <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州21、<img src="/images/city/cd.gif" width="20" hegiht="20"/>成都1 |
 | 大学城南 | <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州4、<img src="/images/city/km.gif" width="20" hegiht="20"/>昆明1 |
 | 新塘 | <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州13、<img src="/images/city/hz.gif" width="20" hegiht="20"/>杭州4 |
 | 西门口 | <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州1、<img src="/images/city/nb.gif" width="20" hegiht="20"/>宁波1 |
