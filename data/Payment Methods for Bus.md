@@ -1,4 +1,6 @@
-# 全国主要城市公交支付方式/ Payment Methods for Bus in Main Cities
+# 地面公交支付方式/ Payment Methods for Bus
+
+仅统计全国主要城市/ Only Main Cities in China
 
 ## 图例/ Legend
 
