@@ -2,7 +2,7 @@
 
 ## 车票/ Ticket
 
-### 单程票种类/ Type of One-way Ticket
+### 单程票/ One-way Ticket
 
 #### 代币式
 #### 卡片式
@@ -25,6 +25,10 @@
 - <img src="/images/city/gz.gif" width="20" hegiht="20"/>广州，APM线（一票制，￥2）
 - <img src="/images/city/xa.gif" width="20" hegiht="20"/>西安，机场城际线（里程制，￥2~16，刷卡9折）
 - <img src="/images/city/cs.gif" width="20" hegiht="20"/>长沙，磁浮快线（区间制，￥10/20，刷卡9折）
+
+### 计时卡/ Timing Card
+#### 短时卡(旅游向)/ Short Timing Card (For Traveling)
+#### 长时卡(通勤向)/ Long Timing Card (For Work-Trip)
 
 ## 服务/ Service
 
