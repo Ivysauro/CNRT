@@ -1,6 +1,6 @@
 # Rail-Rail/ 双铁联运
 
-中文版点[这里](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Rail-Rail.md)跳转/ [HERE](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Rail-Rail.md)
+中文版点[这里](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Rail-Rail.md)跳转/ [HERE](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Rail-Rail.md) for Chinese version
 
 ## Content
 In front of “/” is <img src="/images/Rail Transit.png" width="15" hegiht="15" alt="Railway Transit"/>Rail Transit Station name, and after it is <img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>China Railway Station name
