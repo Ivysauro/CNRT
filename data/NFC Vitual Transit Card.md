@@ -3,7 +3,9 @@
 
 排序方式为省份区划代码/ Rank by Province Code
 
-## 图例/ Legend
+## 主表/ Content
+
+### 图例/ Legend
 
 | 商标/ Logo | 中文/ Chinese | 英文/ English |
 | :-: | :- | :- |
@@ -29,7 +31,7 @@
 
 **Note**: Not all phones of one brand support NFC Transit Card
  
-## 交通联合卡/ T-Union Cards <img src="/images/T-Union.png" width="35" hegiht="35">
+### 交通运输部·交通联合卡/ T-Union Cards <img src="/images/T-Union.png" width="35" hegiht="35">
 | 卡名称/ Card Name | 地区/ Area | <img src="/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | <img src="/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | <img src="/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | <img src="/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | <img src="/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | <img src="/images/OnePlus.png" width="25" hegiht="25" alt="OnePlus"/> | <img src="/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/>  | <img src="/images/vivo.png" width="40" hegiht="40" alt="vivo"/> | <img src="/images/Mini Program.png" width="25" hegiht="25" alt="WeChat Transit Card"/> |
 | :- | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 京津冀互联互通卡 | 京津冀/ Jingjinji | ✅ | ✅ | ✅ | 🕓 | ✅ | ✅ | ✅ | ✅ |
@@ -76,7 +78,7 @@
 | 红山通 | 乌鲁木齐/ Urumqi | | 🕓 |
 | | | <img src="/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | <img src="/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | <img src="/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | <img src="/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | <img src="/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | <img src="/images/OnePlus.png" width="25" hegiht="25" alt="OnePlus"/> | <img src="/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/>  | <img src="/images/vivo.png" width="40" hegiht="40" alt="vivo"/> | <img src="/images/Mini Program.png" width="25" hegiht="25" alt="WeChat Transit Card"/> |
 
-## 城市一卡通卡/ City Union Cards <img src="/images/City Union.png" width="30" hegiht="30">
+### 住房与城乡建设部·城市一卡通卡/ City Union Cards <img src="/images/City Union.png" width="30" hegiht="30">
 | 卡名称/ Card Name | 地区/ Area | <img src="/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | <img src="/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | <img src="/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | <img src="/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | <img src="/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | <img src="/images/OnePlus.png" width="25" hegiht="25" alt="OnePlus"/> | <img src="/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/>  | <img src="/images/vivo.png" width="40" hegiht="40" alt="vivo"/> | <img src="/images/Mini Program.png" width="25" hegiht="25" alt="WeChat Transit Card"/> |
 | :- | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 上海公共交通卡 | 上海/ Shanghai | ✅ | ✅ | ✅ | ✅ | | | ✅ | ✅ |
@@ -84,12 +86,12 @@
 | 金华市民卡·八婺通 | 金华/ Jinhua | | ✅ |
 | 绿城通 | 郑州/ Zhengzhou | ✅ | | | | ✅ | | ✅ | ✅ |
 
-## 双标卡/ TU&CU Cards <img src="/images/T-Union.png" width="35" hegiht="35"><img src="/images/City Union.png" width="30" hegiht="30">
+### 双标卡/ TU&CU Cards <img src="/images/T-Union.png" width="35" hegiht="35"><img src="/images/City Union.png" width="30" hegiht="30">
 | 卡名称/ Card Name | 地区/ Area | <img src="/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | <img src="/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | <img src="/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | <img src="/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | <img src="/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | <img src="/images/OnePlus.png" width="25" hegiht="25" alt="OnePlus"/> | <img src="/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/>  | <img src="/images/vivo.png" width="40" hegiht="40" alt="vivo"/> | <img src="/images/Mini Program.png" width="25" hegiht="25" alt="WeChat Transit Card"/> |
 | :- | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 台州公共交通卡 | 台州/ Taizhou, Zhejiang | ✅ | | | | | | ✅ | ✅ |
 
-## 市民卡/ Local Transit Cards <img src="/images/Citizen Card.png" width="30" hegiht="30">
+### 市民卡/ Local Transit Cards <img src="/images/Citizen Card.png" width="30" hegiht="30">
 | 卡名称/ Card Name | 地区/ Area | <img src="/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | <img src="/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | <img src="/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | <img src="/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | <img src="/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | <img src="/images/OnePlus.png" width="25" hegiht="25" alt="OnePlus"/> | <img src="/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/>  | <img src="/images/vivo.png" width="40" hegiht="40" alt="vivo"/> | <img src="/images/Mini Program.png" width="25" hegiht="25" alt="WeChat Transit Card"/> |
 | :- | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 北京市政交通一卡通 | 北京/ Beijing | ❌ | ❌ | ✅ | ✅ | | | | |
@@ -108,6 +110,21 @@
 | 八达通/ Octopus Card | 香港/ Hong Kong | | | ✅ | 🕓 |
 | | | <img src="/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | <img src="/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | <img src="/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | <img src="/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | <img src="/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | <img src="/images/OnePlus.png" width="25" hegiht="25" alt="OnePlus"/> | <img src="/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/>  | <img src="/images/vivo.png" width="40" hegiht="40" alt="vivo"/> | <img src="/images/Mini Program.png" width="25" hegiht="25" alt="WeChat Transit Card"/> |
 
+## 城市一卡通互联互通说明/ Notes of City Union
+
+### 分类/ Types
+- 上海系统（可在上海使用）：上海、江苏、浙江（限发行城市一卡通卡的地区，见下）
+- 澳门系统（不可在上海使用，可在澳门使用）：沈阳、郑州、南昌（是否能互相互通有待测试）
+- 已退出（已退出本标准）：兰州
+- 自有系统（仅加载本标准，不与其他城市互通）：[城市一卡通名单](http://www.icfw.com.cn/city_card.php)中的其他城市
+
+### 其他说明/ Other Notes
+- 上海交通卡（紫卡）可用城市：太仓、金华、宜兴、**宁波**（公交）、**绍兴**、**湖州**、**台州**、**常熟**、**昆山**、**江阴**、**淮安**、**启东**、**无锡**（公交）、**南通**、**泰州**、长兴、舟山、**嘉兴**、义乌、**温州**（公交、轮渡）
+
+注1：除舟山外，其他城市发行的城市一卡通卡（或城市一卡通+交通联合双标卡）均与上海互通，是否能通过CU互相互通有待测试
+
+注2：**加粗**的是交通联合城市，可通过T-Union互通
+
 ## 参考来源/ References
 - http://www.miui.com/thread-17774691-1-1.html
 - https://www.xiaomi.cn/post/18076498
@@ -117,3 +134,5 @@
 - https://www.apple.com/cn/apple-pay/transit/
 - https://support-cn.samsung.com/samsungpay/
 - https://bbs.vivo.com.cn/thread-4392640-1-1.html
+- https://www.zhihu.com/question/270837291
+- https://card.whutech.com/page/827f7c7742a8cc36bf91fe40fdbca6d0.html
