@@ -1,6 +1,8 @@
 # 地面公交支付方式/ Payment Methods for Bus
 
-仅统计全国主要城市/ Only Main Cities in China
+仅统计全国主要城市/ Only counts Main Cities in China
+
+暂统计非现金购票方式/ Only counts Buying One-Way Ticket without Cash
 
 ## 图例/ Legend
 
