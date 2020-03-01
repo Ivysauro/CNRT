@@ -1,6 +1,7 @@
-# 空铁联运/ Airport and Railway Station nearby
+# 空铁联运/ Air-Rail
 
-## 图例/ Legend
+## 狭义空铁联运/ Narrow Sense Air-Rail
+### 图例/ Legend
 | 符号/ emoji | 中文含义/ Chinese Meaning | 英文含义/ English Meaning |
 | :- | :- | :- |
 | 🥾 | 很近，有步道 | Need Walk |
@@ -9,7 +10,7 @@
 | 🚕 | 较近，需要出租车 | Need Taxi |
 | 🏗 | 在建 | Under Construction |
 
-## 主表/ Content
+### 主表/ Content
 | | <img src="/images/Airport.png" width="15" hegiht="15" alt="Airport"/>机场/ Airport | 空管信息/ ICAO Info | <img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>火车站/ Railway Station | 铁路信息/ Railway Info |
 | :-: | :- | :- | :- | :- |
 | | 北京大兴/ Beijing Daxing/ PKX | 华北-北京/ ZBAD | 大兴机场/ Daxing Airport / IWP | 北京局/ CR Beijing-京雄城际线 |
@@ -34,7 +35,7 @@
 | | 银川河东/ Yinchuan Hedong/ INC | 西北-兰州/ ZLIC | 河东机场/ Hedong Airport/ HFJ | 兰州局/ CR Lanzhou-西银客专线 |
 | 🥾1.2km | 吐鲁番交河/ Turpan Jiaohe/ TLQ | 新疆-乌鲁木齐/ ZWTL | 吐鲁番北/ Tulufanbei/ TAR | 乌鲁木齐局/ CR Urumqi-兰新客专线 |
 
-## 副表/ Sub-Content
+### 副表/ Sub-Content
 | | <img src="/images/Airport.png" width="15" hegiht="15" alt="Airport"/>机场/ Airport | 空管信息/ ICAO Info | <img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>火车站/ Railway Station | 铁路信息/ Railway Info |
 | :-: | :- | :- | :- | :- |
 | | 天津滨海/ Tianjin Binhai/ TSN | 华北-北京/ ZBTJ | 🏗滨海机场/ Binhai Airport | 北京局/ CR Beijing-🏗京滨城际线 |
@@ -69,6 +70,10 @@
 | 🚕~10km | 赣州黄金/ Ganzhou Huangjin/ KOW | 华东-上海/ ZSGZ | 赣州西/ Ganzhouxi/ GOG | 南昌局/ CR Nanchang-京港高速线 |
 | 🚕~10km | 百色巴马/ Baise Bama/ AEB | 中南-广州/ ZGBS | 田阳/ Tianyang/ TRZ | 南宁局/ CR Nanning-南昆客专线 |
 | 🚕~10km | 怀化芷江/ Huaihua Zhijiang/ HJJ | 中南-广州/ ZGCJ | 芷江/ Zhijiang/ ZPQ | 广州局/ CR Guangzhou-沪昆高速线 |
+
+## 广义空铁联运/ Broad Sense Air-Rail
+| | <img src="/images/Airport.png" width="15" hegiht="15" alt="Airport"/>机场/ Airport | 空管信息/ ICAO Info | <img src="/images/Rail Transit.png" width="15" hegiht="15" alt="China Railway"/>车站/ Rail Station | 线路信息/ Rail Info |
+| :-: | :- | :- | :- | :- |
 
 ## 参考资料/ Reference
 - https://www.zhihu.com/question/36850556
