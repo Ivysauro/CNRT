@@ -27,7 +27,7 @@
 - [*运营方式/ General Operations*](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/General%20Operations.md)
 - [空铁联运/ Air-Rail](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Air-Rail.md)
 - [安检互认/ Security Check Recognition](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Security%20Check%20Recognition.md)
-- [*地面公交支付方式/ Payment Methods for Bus*](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Payment%20Methods%20for%20Bus%20in%20Main%20Cities.md)
+- [*地面公交支付方式/ Payment Methods for Bus*](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Payment%20Methods%20for%20Bus.md)
 
 ### 车迷向/ For Fans 🕵️‍♂️🕵️‍♀️
 - [特殊运营方式（中文）/ Special Operations (In Chinese)](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Special%20Operations.md)
