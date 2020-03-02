@@ -9,13 +9,13 @@
  ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝   ╚═╝  
 ```
 
-[**索引**](https://ivysauro.github.io/CNRT/) | [**Index**](https://ivysauro.github.io/CNRT/)
+[**索引 | Index**](https://ivysauro.github.io/CNRT/)
 
 ## 简介/ Info
 
 本项目是关于中国轨道交通非技术类信息的一个数据库
 
-This is Data base about some non-tech information of China Rail Transit
+This is data base about some non-tech information of China Rail Transit
 
 发现错误或有建议请直接提 `issue`😀~
 
