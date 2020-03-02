@@ -1,0 +1,758 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <title>template</title>
+  <script src="https://cdn.bootcss.com/marked/0.3.17/marked.min.js"></script>
+</head>
+<body>
+<div id="content"><h1 id="空铁联运-air-rail">空铁联运/ Air-Rail</h1>
+<h2 id="图例-legend">图例/ Legend</h2>
+<table>
+<thead>
+<tr>
+<th align="left">符号/ emoji</th>
+<th align="left">中文含义/ Chinese Meaning</th>
+<th align="left">英文含义/ English Meaning</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">🥾</td>
+<td align="left">很近，有步道</td>
+<td align="left">Need Walk</td>
+</tr>
+<tr>
+<td align="left">👟</td>
+<td align="left">很近，可步行</td>
+<td align="left">Need Walk</td>
+</tr>
+<tr>
+<td align="left">🚌</td>
+<td align="left">较近，有接驳车</td>
+<td align="left">Need Shuttle Bus</td>
+</tr>
+<tr>
+<td align="left">🚕</td>
+<td align="left">较近，需要出租车</td>
+<td align="left">Need Taxi</td>
+</tr>
+<tr>
+<td align="left">🏗</td>
+<td align="left">在建</td>
+<td align="left">Under Construction</td>
+</tr>
+</tbody></table>
+<h2 id="狭义空铁联运-narrow-sense-air-rail">狭义空铁联运/ Narrow Sense Air-Rail</h2>
+<table>
+<thead>
+<tr>
+<th align="center"></th>
+<th align="left"><img src="/images/Airport.png" width="15" hegiht="15" alt="Airport"/>机场/ Airport</th>
+<th align="left">空管信息/ ICAO Info</th>
+<th align="left"><img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>火车站/ Railway Station</th>
+<th align="left">铁路信息/ Railway Info</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center"></td>
+<td align="left">北京大兴/ Beijing Daxing/ PKX</td>
+<td align="left">华北-北京/ ZBAD</td>
+<td align="left">大兴机场/ Daxing Airport / IWP</td>
+<td align="left">北京局/ CR Beijing-京雄城际线</td>
+</tr>
+<tr>
+<td align="center">🚌~4km</td>
+<td align="left">石家庄正定/ Shijiazhuang Zhengding/ SJW</td>
+<td align="left">华北-北京/ ZBSJ</td>
+<td align="left">正定机场/ Zhengding Airport/ ZHP</td>
+<td align="left">北京局/ CR Beijing-京广高速线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">长春龙嘉/ Changchun Longjia / CGQ</td>
+<td align="left">东北-沈阳/ ZYCC</td>
+<td align="left">龙嘉/ Longjia/ UJL</td>
+<td align="left">沈阳局/ CR Shenyang-长珲城际线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">上海虹桥/ Shanghai Hongqiao/ SHA</td>
+<td align="left">华东-上海/ ZSSS</td>
+<td align="left">上海虹桥/ Shanghai-Hongqiao/ AOH</td>
+<td align="left">上海局/ CR Shanghai-京沪高速线、沪昆高速线、沪宁城际线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">阜阳西关/ Fuyang Xiguan/ FUG</td>
+<td align="left">华东-上海/ ZSFY</td>
+<td align="left">阜阳西/ Fuyangxi/ FXU</td>
+<td align="left">上海局/ CR Shanghai-京港高速线、郑阜高速线</td>
+</tr>
+<tr>
+<td align="center">🚌1.5km</td>
+<td align="left">徐州观音/ Xuzhou Guanyin/ XUZ</td>
+<td align="left">华东-上海/ ZSXZ</td>
+<td align="left">观音机场/ Guanyin Airport/ GCU</td>
+<td align="left">上海局/ CR Shanghai-徐盐城际线</td>
+</tr>
+<tr>
+<td align="center">🚌~10km</td>
+<td align="left">台北桃园/ Taipei Taoyuan/ TPE</td>
+<td align="left">华东-台北/ RCTP</td>
+<td align="left">桃园/ Taoyuan/ TAY</td>
+<td align="left">台铁/ TRA-台湾高速线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">武汉天河/ Wuhan Tianhe/ WUH</td>
+<td align="left">中南-武汉/ ZHHH</td>
+<td align="left">天河机场/ Tianhe Airport/ TJN</td>
+<td align="left">武汉局/ CR Wuhan-武孝城际线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">郑州新郑/ Zhengzhou Xinzheng/ CGO</td>
+<td align="left">中南-武汉/ ZHCC</td>
+<td align="left">新郑机场/ Xinzheng Airport/ EZF</td>
+<td align="left">郑州局/ CR Zhengzhou-郑机城际线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">深圳宝安/ Shenzhen Bao&#39;an/ SZX</td>
+<td align="left">中南-广州/ ZGSZ</td>
+<td align="left">深圳机场/ Shenzhen Airport/ SCA</td>
+<td align="left">广州局/ CR Guangzhou-穗深城际线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">揭阳潮汕/ Jieyang Chaoshan/ SWA</td>
+<td align="left">中南-广州/ ZGOW</td>
+<td align="left">揭阳机场/ Jieyang-Jichang/ JUA</td>
+<td align="left">广州局/ CR Guangzhou-梅汕线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">三亚凤凰/ Sanya Phoenix/ SYX</td>
+<td align="left">中南-三亚/ ZJSY</td>
+<td align="left">凤凰机场/ Fenghuang-Jichang/ FJQ</td>
+<td align="left">广州局/ CR Guangzhou-海南环岛线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">海口美兰/ Haikou Meilan/ HAK</td>
+<td align="left">中南-三亚/ ZJHK</td>
+<td align="left">美兰/ Meilan/ MHQ</td>
+<td align="left">广州局/ CR Guangzhou-海南环岛线</td>
+</tr>
+<tr>
+<td align="center">🚌~4km</td>
+<td align="left">琼海博鳌/ Qionghai Bo&#39;ao/ BAR</td>
+<td align="left">中南-三亚/ ZJQH</td>
+<td align="left">博鳌/ Bo&#39;ao/ BWQ</td>
+<td align="left">广州局/ CR Guangzhou-海南环岛线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">成都双流/ Chengdu Shuangliu/ CTU</td>
+<td align="left">西南-昆明/ ZUUU</td>
+<td align="left">双流机场/ Shuangliu Airport/ IPW</td>
+<td align="left">成都局/ CR Chengdu-成贵客专线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">贵阳龙洞堡/ Guiyang Longdongbao/ KWE</td>
+<td align="left">西南-昆明/ ZUGY</td>
+<td align="left">龙洞堡/ Longdongbao / FVW</td>
+<td align="left">成都局/ CR Chengdu-贵广客专线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">兰州中川/ Lanzhou Zhongchuan/ LHW</td>
+<td align="left">西北-兰州/ ZLLL</td>
+<td align="left">中川机场/ Zhongchuan Airport/ ZJJ</td>
+<td align="left">兰州局/ CR Lanzhou-中川城际线</td>
+</tr>
+<tr>
+<td align="center">👟2.2km</td>
+<td align="left">敦煌/ Dunhuang/ DNH</td>
+<td align="left">西北-兰州/ ZLDH</td>
+<td align="left">敦煌/ Dunhuang/ DHJ</td>
+<td align="left">兰州局/ CR Lanzhou-柳敦线</td>
+</tr>
+<tr>
+<td align="center">👟1.6km</td>
+<td align="left">天水麦积山/ Tianshui Maijishan/ THQ</td>
+<td align="left">西北-兰州/ ZLTS</td>
+<td align="left">天水南/ Tianshuinan/ TIJ</td>
+<td align="left">兰州局/ CR Lanzhou-徐兰高速线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">银川河东/ Yinchuan Hedong/ INC</td>
+<td align="left">西北-兰州/ ZLIC</td>
+<td align="left">河东机场/ Hedong Airport/ HFJ</td>
+<td align="left">兰州局/ CR Lanzhou-西银客专线</td>
+</tr>
+<tr>
+<td align="center">🥾1.2km</td>
+<td align="left">吐鲁番交河/ Turpan Jiaohe/ TLQ</td>
+<td align="left">新疆-乌鲁木齐/ ZWTL</td>
+<td align="left">吐鲁番北/ Tulufanbei/ TAR</td>
+<td align="left">乌鲁木齐局/ CR Urumqi-兰新客专线</td>
+</tr>
+</tbody></table>
+<table>
+<thead>
+<tr>
+<th align="center"></th>
+<th align="left"><img src="/images/Airport.png" width="15" hegiht="15" alt="Airport"/>机场/ Airport</th>
+<th align="left">空管信息/ ICAO Info</th>
+<th align="left"><img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>火车站/ Railway Station</th>
+<th align="left">铁路信息/ Railway Info</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center"></td>
+<td align="left">天津滨海/ Tianjin Binhai/ TSN</td>
+<td align="left">华北-北京/ ZBTJ</td>
+<td align="left">🏗滨海机场/ Binhai Airport</td>
+<td align="left">北京局/ CR Beijing-🏗京滨城际线</td>
+</tr>
+<tr>
+<td align="center">🚌~4km</td>
+<td align="left">上海浦东/ Shanghai Pudong/ PVG</td>
+<td align="left">华东-上海/ ZSPD</td>
+<td align="left">🏗上海东/ Shanghaidong</td>
+<td align="left">上海局/ CR-Shanghai-🏗北沿江高速线、🏗沪通线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">杭州萧山/ Hangzhou Xiaoshan/ HGH</td>
+<td align="left">华东-上海/ ZSHC</td>
+<td align="left">🏗萧山机场/ Xiaoshan Airport</td>
+<td align="left">上海局/ CR Shanghai-🏗杭绍台高速线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">🏗青岛胶东/ Qingdao Jiaodong/ TAO</td>
+<td align="left">华东-上海/ ZSQD</td>
+<td align="left">🏗青岛机场/ Qingdao Airport</td>
+<td align="left">济南局/ CR Jinan-济青高速线、胶济客专线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">烟台蓬莱/ Yantai Penglai/ YNT</td>
+<td align="left">华东-上海/ ZSYT</td>
+<td align="left">🏗蓬莱机场/ Penglai Airport</td>
+<td align="left">济南局/ CR Jinan-🏗环渤海高速线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">南昌昌北/ Nanchang Changbei/ KHN</td>
+<td align="left">华东-上海/ ZSCN</td>
+<td align="left">🏗昌北机场/ Changbei Airport</td>
+<td align="left">南昌局/ CR Nanchang-🏗京港高速线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">广州白云/ Guangzhou Baiyun/ CAN</td>
+<td align="left">中南-广州/ ZGGG</td>
+<td align="left">🏗白云机场/ Baiyun Airport</td>
+<td align="left">广州局/ CR Guangzhou-🏗穗深城际线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">长沙黄花/ Changsha Huanghua/ CSX</td>
+<td align="left">中南-广州/ ZGHA</td>
+<td align="left">🏗黄花机场/ Huanghua Airport</td>
+<td align="left">广州局/ CR Guangzhou-🏗渝厦高速线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">南宁吴圩/ Nanning Wuxu/ NNG</td>
+<td align="left">中南-广州/ZGNN</td>
+<td align="left">🏗吴圩机场/ Wuxu Airport</td>
+<td align="left">南宁局/ CR Nanning-🏗南崇城际线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">昆明长水/ Kunming Changshui/ KMG</td>
+<td align="left">西南-昆明/ ZPPP</td>
+<td align="left">🏗长水机场/ Changshui Airport</td>
+<td align="left">昆明局/ CR Kunming-🏗渝昆高速线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">🏗成都天府/ Chengdu Tianfu/ TFU</td>
+<td align="left">西南-昆明/ ZU??</td>
+<td align="left">🏗天府机场/ Tianfu Airport</td>
+<td align="left">成都局/ CR Chengdu-🏗成自泸城际线</td>
+</tr>
+</tbody></table>
+<table>
+<thead>
+<tr>
+<th align="center"></th>
+<th align="left"><img src="/images/Airport.png" width="15" hegiht="15" alt="Airport"/>机场/ Airport</th>
+<th align="left">空管信息/ ICAO Info</th>
+<th align="left"><img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>火车站/ Railway Station</th>
+<th align="left">铁路信息/ Railway Info</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">🚕~4km</td>
+<td align="left">延吉朝阳川/ Yanji Chaoyangchuan/ YNJ</td>
+<td align="left">东北-沈阳/ ZYYJ</td>
+<td align="left">延吉西/ Yanjixi/ YXL</td>
+<td align="left">沈阳局/ CR Shenyang-长珲城际线</td>
+</tr>
+<tr>
+<td align="center">🚕~4km</td>
+<td align="left">苏南硕放/ Sunan Shuofang/ WUX</td>
+<td align="left">华东-上海/ ZSWX</td>
+<td align="left">无锡新区/ Wuxi-Xinqu/ IFH</td>
+<td align="left">上海局/ CR Shanghai-沪宁城际线</td>
+</tr>
+<tr>
+<td align="center">🚕~5km</td>
+<td align="left">包头东河/ Baotou Donghe/ BAV</td>
+<td align="left">华北-北京/ ZBOW</td>
+<td align="left">包头东/ Baotoudong/ BDC</td>
+<td align="left">呼和浩特局/ CR Hohhot-京包客专线</td>
+</tr>
+<tr>
+<td align="center">🚕~5km</td>
+<td align="left">义乌/ Yiwu/ YIW</td>
+<td align="left">华东-上海/ ZSYW</td>
+<td align="left">义乌/ Yiwu/ YWH</td>
+<td align="left">上海局/ CR Shanghai-沪昆高速线</td>
+</tr>
+<tr>
+<td align="center">🚕~6km</td>
+<td align="left">呼和浩特白塔/ Hohhot Baita/ HET</td>
+<td align="left">华北-北京/ ZBHH</td>
+<td align="left">呼和浩特东/ Huhehaotedong/ NDC</td>
+<td align="left">呼和浩特局/ CR Hohhot-京包客专线、呼鄂线</td>
+</tr>
+<tr>
+<td align="center">🚕~6km</td>
+<td align="left">台北松山/ Taipei Songshan/ TSA</td>
+<td align="left">华东-台北/ RCSS</td>
+<td align="left">台北/ Taipei/ TPE</td>
+<td align="left">台铁/ TRA-台湾纵贯线、台湾高速线</td>
+</tr>
+<tr>
+<td align="center">🚕~6km</td>
+<td align="left">信阳明港/ Xinyang Minggang/ XAI</td>
+<td align="left">中南-武汉/ ZHXY</td>
+<td align="left">明港东/ Minggangdong/ MDN</td>
+<td align="left">武汉局/ CR Wuhan-京广高速线</td>
+</tr>
+<tr>
+<td align="center">🚕~6km</td>
+<td align="left">西宁曹家堡/ Xining Caojiapu/ XNN</td>
+<td align="left">西北-兰州/ ZLXN</td>
+<td align="left">海东西/ Haidongxi/ HDO</td>
+<td align="left">青藏公司/ CR Qingzang-兰新客专线</td>
+</tr>
+<tr>
+<td align="center">🚕~7km</td>
+<td align="left">太原武宿/ Taiyuan Wusu/ TYN</td>
+<td align="left">华北-北京/ ZBYN</td>
+<td align="left">太原南/ Taiyuannan/ TNV</td>
+<td align="left">太原局/ CR Taiyuan-大西高速线、石太客专线</td>
+</tr>
+<tr>
+<td align="center">🚕~7km</td>
+<td align="left">齐齐哈尔三家子/ Qiqihar Sanjiazi/ NDG</td>
+<td align="left">东北-沈阳/ ZYQQ</td>
+<td align="left">齐齐哈尔南/ Qiqihaernan/ QNB</td>
+<td align="left">哈尔滨局/ CR Harbin-哈齐客专线</td>
+</tr>
+<tr>
+<td align="center">🚕~8km</td>
+<td align="left">鞍山腾鳌/ Anshan Teng&#39;ao/ AOG</td>
+<td align="left">东北-沈阳/ ZYAS</td>
+<td align="left">鞍山西/ Anshanxi/ AXT</td>
+<td align="left">沈阳局/ CR Shenyang-沈大高速线</td>
+</tr>
+<tr>
+<td align="center">🚕~8km</td>
+<td align="left">佳木斯东郊/ Jiamusi Dongjiao/ JMU</td>
+<td align="left">东北-沈阳/ ZYJM</td>
+<td align="left">佳木斯/ Jiamusi/ JMB</td>
+<td align="left">哈尔滨局/ CR Harbin-哈佳线</td>
+</tr>
+<tr>
+<td align="center">🚕~8km</td>
+<td align="left">安庆天柱山/ Anqing Tianzhushan/ AQG</td>
+<td align="left">华东-上海/ ZSAQ</td>
+<td align="left">安庆/ Anqing/ AQH</td>
+<td align="left">上海局/ CR Shanghai-宁安城际线</td>
+</tr>
+<tr>
+<td align="center">🚕~8km</td>
+<td align="left">潍坊南苑/ Weifang Nanyuan/ WEF</td>
+<td align="left">华东-上海/ ZSWF</td>
+<td align="left">潍坊/ Weifang/ WFK</td>
+<td align="left">济南局/ CR Jinan-胶济客专线</td>
+</tr>
+<tr>
+<td align="center">🚕~9km</td>
+<td align="left">澳门/ Macao/ MFM</td>
+<td align="left">中南-香港/ VMMC</td>
+<td align="left">横琴/ Hengqin</td>
+<td align="left">广州局/ CR Guangzhou-珠机城际线</td>
+</tr>
+<tr>
+<td align="center">🚕~10km</td>
+<td align="left">大连周水子/ Dalian Zhoushuizi/ DLC</td>
+<td align="left">东北-沈阳/ ZYTL</td>
+<td align="left">大连/ Dalian/ DLT</td>
+<td align="left">沈阳局/ CR Shenyang-沈大高速线</td>
+</tr>
+<tr>
+<td align="center">🚕~10km</td>
+<td align="left">厦门高崎/ Xiamen Gaoqi/ XMN</td>
+<td align="left">华东-上海/ ZSAM</td>
+<td align="left">厦门/ Xiamen/ XMS</td>
+<td align="left">南昌局/ CR Nanchang-杭深线</td>
+</tr>
+<tr>
+<td align="center">🚕~10km</td>
+<td align="left">赣州黄金/ Ganzhou Huangjin/ KOW</td>
+<td align="left">华东-上海/ ZSGZ</td>
+<td align="left">赣州西/ Ganzhouxi/ GOG</td>
+<td align="left">南昌局/ CR Nanchang-京港高速线</td>
+</tr>
+<tr>
+<td align="center">🚕~10km</td>
+<td align="left">百色巴马/ Baise Bama/ AEB</td>
+<td align="left">中南-广州/ ZGBS</td>
+<td align="left">田阳/ Tianyang/ TRZ</td>
+<td align="left">南宁局/ CR Nanning-南昆客专线</td>
+</tr>
+<tr>
+<td align="center">🚕~10km</td>
+<td align="left">怀化芷江/ Huaihua Zhijiang/ HJJ</td>
+<td align="left">中南-广州/ ZGCJ</td>
+<td align="left">芷江/ Zhijiang/ ZPQ</td>
+<td align="left">广州局/ CR Guangzhou-沪昆高速线</td>
+</tr>
+</tbody></table>
+<h2 id="广义空铁联运-broad-sense-air-rail">广义空铁联运/ Broad Sense Air-Rail</h2>
+<table>
+<thead>
+<tr>
+<th align="center"></th>
+<th align="left"><img src="/images/Airport.png" width="15" hegiht="15" alt="Airport"/>机场/ Airport</th>
+<th align="left">空管信息/ ICAO Info</th>
+<th align="left"><img src="/images/Rail Transit.png" width="15" hegiht="15" alt="China Railway"/>车站/ Rail Station</th>
+<th align="left">已开通线路信息/ Rail Info Now</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center"></td>
+<td align="left">北京首都/ Beijing Capital/ PEK</td>
+<td align="left">华北-北京/ ZBAA</td>
+<td align="left">3号航站楼/ Terminal 3、2号航站楼/ Terminal 2</td>
+<td align="left">首都机场线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">北京大兴/ Beijing Daxing/ PKX</td>
+<td align="left">华北-北京/ ZBAD</td>
+<td align="left">大兴机场/ Daxing Airport</td>
+<td align="left">大兴机场线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">香港/ Hong Kong/ HKG</td>
+<td align="left">中南-香港/ VHHH</td>
+<td align="left">机场/ Airport</td>
+<td align="left">机场快线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">天津滨海/ Tianjin Binhai/ TSN</td>
+<td align="left">华北-北京/ ZBTJ</td>
+<td align="left">滨海国际机场/ BINHAIGUOJIJICHANG</td>
+<td align="left">2号线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">上海虹桥/ Shanghai Hongqiao/ SHA</td>
+<td align="left">华东-上海/ ZSSS</td>
+<td align="left">虹桥1号航站楼/ Hongqiao Airport Terminal 1、虹桥2号航站楼/ Hongqiao Airport Terminal 2</td>
+<td align="left">2号线、10号线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">上海浦东/ Shanghai Pudong/ PVG</td>
+<td align="left">华东-上海/ ZSPD</td>
+<td align="left">浦东国际机场/ Pudong International Airport</td>
+<td align="left">2号线、磁浮线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">台北松山/ Taipei Songshan/ TSA</td>
+<td align="left">华东-台北/ RCSS</td>
+<td align="left">松山机场/ Songshan Airport</td>
+<td align="left">文湖线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">台北桃园/ Taipei Taoyuan/ TPE</td>
+<td align="left">华东-台北/ RCTP</td>
+<td align="left">机场第一航厦/ Airport Terminal 1、机场第二航厦/ Airport Terminal 2、<em>机场第三航厦/ Airport Terminal 3</em>、机场旅馆/ Airport Hotel</td>
+<td align="left">桃园机场线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">广州白云/ Guangzhou Baiyun/ CAN</td>
+<td align="left">中南-广州/ ZGGG</td>
+<td align="left">机场北/ Airport North、机场南/ Airport South</td>
+<td align="left">3号线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">佛山沙堤/ Foshan Shadi/ FUO</td>
+<td align="left">中南-广州/ ZGFS</td>
+<td align="left">🏗佛山机场/ Foshan Shadi Airport</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">长春龙嘉/ Changchun Longjia/ CGQ</td>
+<td align="left">东北-沈阳/ ZYCC</td>
+<td align="left">🏗龙嘉机场/ LONGJIA International Airport</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">大连周水子/ Dalian Zhoushuizi/ DLC</td>
+<td align="left">东北-沈阳/ ZYTL</td>
+<td align="left">机场/ Airport</td>
+<td align="left">2号线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">🏗大连金州湾/ Dalian Jinzhouwan/ DLC</td>
+<td align="left">东北-沈阳/ ZYTL</td>
+<td align="left">🏗金州湾机场/ Dalian Jinzhou Bay Airport</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">武汉天河/ Wuhan Tianhe/ WUH</td>
+<td align="left">中南-武汉/ ZHHH</td>
+<td align="left">天河机场/ Tianhe International Airport</td>
+<td align="left">2号线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">重庆江北/ Chongqing Jiangbei/ CKG</td>
+<td align="left">西南-昆明/ ZUCK</td>
+<td align="left">江北机场T2航站楼/ Terminal 2 of Jiangbei Airport、江北机场T3航站楼/ Terminal 3 of Jiangbei Airport</td>
+<td align="left">3号线、10号线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">深圳宝安/ Shenzhen Bao&#39;an/ SZX</td>
+<td align="left">中南-广州/ ZGSZ</td>
+<td align="left">机场/ Airport、<del>机场东/ Airport East</del></td>
+<td align="left">11号线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">南京禄口/ Najing Lukou/ NKG</td>
+<td align="left">华东-上海/ ZSNJ</td>
+<td align="left">禄口机场/ LUKOU INTERNATIONAL AIRPORT</td>
+<td align="left">S1线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">高雄/ Kaohsiung/ KHH</td>
+<td align="left">华东-台北/ RCKH</td>
+<td align="left">高雄国际机场/ Kaohsiung International Airport</td>
+<td align="left">红线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">沈阳桃仙/ Shenyang Taoxian/ SHE</td>
+<td align="left">东北-沈阳/ ZYTX</td>
+<td align="left">🏗航站楼/ HANGZHANLOU、🏗桃仙机场/ TAOXIANJICHANG</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">成都双流/ Chengdu Shuangliu/ CTU</td>
+<td align="left">西南-昆明/ ZUUU</td>
+<td align="left">双流机场1航站楼/ Terminal 1 of Shuangliu International Airport、双流机场2航站楼/ Terminal 2 of Shuangliu International Airport</td>
+<td align="left">10号线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">🏗成都天府/ Chengdu Tianfu/ TFU</td>
+<td align="left">西南-昆明/ ZU??</td>
+<td align="left">🏗天府机场1号2号航站楼/ Terminal 1 &amp; 2 of Tianfu International Airport、🏗天府机场3号4号航站楼/ Terminal 3 &amp; 4 of Tianfu International Airport</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">西安咸阳/ Xi&#39;an Xianyang/ XIY</td>
+<td align="left">西北-兰州/ ZLXY</td>
+<td align="left"><em>机场/ Airport</em>、机场西/ Airport West</td>
+<td align="left">机场城际线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">昆明长水/ Kunming Changshui/ KMG</td>
+<td align="left">西南-昆明/ ZPPP</td>
+<td align="left">机场前/ Airport Front、机场中心/ KUNMING Airport</td>
+<td align="left">6号线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">杭州萧山/ Hangzhou Xiaoshan/ HGH</td>
+<td align="left">华东-上海/ ZSHC</td>
+<td align="left">🏗萧山机场/ Xiaoshan Airport</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">郑州新郑/ Zhengzhou Xinzheng/ CGO</td>
+<td align="left">中南-武汉/ ZHCC</td>
+<td align="left">新郑机场/ XINZHENG INTERNATIONAL AIRPORT</td>
+<td align="left">城郊线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">长沙黄花/ Changsha Huanghua/ CSX</td>
+<td align="left">中南-广州/ ZGHA</td>
+<td align="left">磁浮机场/ Airport Maglev、🏗黄花机场西/ West Huanghua Airport</td>
+<td align="left">磁浮快线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">宁波栎社/ Ningbo Lishe/ NGB</td>
+<td align="left">华东-上海/ ZSNB</td>
+<td align="left">栎社国际机场/ Lishe International Airport</td>
+<td align="left">2号线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">苏南硕放/ Sunan Shuofang/ WUX</td>
+<td align="left">华东-上海/ ZSWX</td>
+<td align="left">🏗硕放机场/ Shuofang Airport</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">青岛流亭/ Qingdao Liuting/ TAO</td>
+<td align="left">华东-上海/ ZSQD</td>
+<td align="left">🏗流亭机场/ Liuting Airport</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left"><em>青岛胶东/Qingdao Jiaodong/ TAO</em></td>
+<td align="left">华东-上海/ ZSQD</td>
+<td align="left">🏗胶东机场/ Jiaodong Airport</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">福州长乐/ Fuzhou Changle / FOC</td>
+<td align="left">华东-上海/ ZSFZ</td>
+<td align="left">🏗长乐机场/ Fuzhou Changle International Airport</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">贵阳龙洞堡/ Guiyang Longdongbao/ KWE</td>
+<td align="left">西南-昆明/ ZUGY</td>
+<td align="left">🏗机场/ Airport</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="center">👟2.2km</td>
+<td align="left">厦门高崎/ Xiamen Gaoqi/ XMN</td>
+<td align="left">华东-上海/ ZSAM</td>
+<td align="left">高崎/ Gaoqi</td>
+<td align="left">1号线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">🏗厦门翔安/ Xiamen Xiang&#39;an/ XMN</td>
+<td align="left">华东-上海/ ZSAM</td>
+<td align="left">🏗翔安机场/ Xiang&#39;an Airport</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">乌鲁木齐地窝堡/ Urumqi Diwopu/ URC</td>
+<td align="left">新疆-乌鲁木齐/ ZWWW</td>
+<td align="left">国际机场/ International Airport</td>
+<td align="left">1号线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">温州龙湾/ Wenzhou Longwan/ WNZ</td>
+<td align="left">华东-上海/ ZSWZ</td>
+<td align="left">机场/ Airport</td>
+<td align="left">S1线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">济南遥墙/ Jinan Yaoqiang/ TNA</td>
+<td align="left">华东-上海/ ZSJN</td>
+<td align="left">🏗遥墙机场/ YAOQIANG AIRPORT</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">澳门/ Macao/ MFM</td>
+<td align="left">中南-香港/ VMMC</td>
+<td align="left">机场/ Airport</td>
+<td align="left">氹仔线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">呼和浩特白塔/ Hohhot Baita/ HET</td>
+<td align="left">华北-北京/ ZBHH</td>
+<td align="left">白塔西/ BAITA West、坝堰（机场）/ BAYAN(Airport)</td>
+<td align="left">1号线</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="left">太原武宿/ Taiyuan Wusu/ TYN</td>
+<td align="left">华北-北京/ ZBYN</td>
+<td align="left">🏗武宿机场/ Wusu International Airport</td>
+<td align="left"></td>
+</tr>
+</tbody></table>
+<p>命名方式分析:</p>
+<ul>
+<li>机场：大连周水子 深圳宝安 等</li>
+<li>国际机场：乌鲁木齐地窝铺</li>
+<li>航站楼：沈阳桃仙</li>
+<li>机场+方位词：广州白云（机场北、机场南） 昆明长水（机场前、机场中心）</li>
+<li>机场名+机场+方位词：长沙黄花（黄花机场西）</li>
+<li>机场名+机场：武汉天河（天河机场） 南京禄口（禄口机场） 等</li>
+<li>机场名+国际机场：天津滨海（滨海国际机场） 上海浦东（浦东国际机场） 等</li>
+<li>机场名：厦门高崎（高崎）</li>
+<li>机场所在地名：呼和浩特白塔（白塔西）</li>
+<li>航站楼名：北京首都T3（3号航站楼） 北京首都T1/T2（二号航站楼）</li>
+<li>机场名+航站楼名：上海虹桥T1（虹桥1号航站楼） 上海虹桥T2（虹桥2号航站楼）</li>
+<li>机场名+机场+航站楼名：重庆江北T2（江北机场T2航站楼*） 成都双流T1（双流机场1航站楼）</li>
+</ul>
+<p>*注：“T2航站楼”是不规范的说法，规范说法应为“2(号)航站楼”</p>
+<h2 id="参考资料-reference">参考资料/ Reference</h2>
+<ul>
+<li><a href="https://www.zhihu.com/question/36850556">https://www.zhihu.com/question/36850556</a></li>
+<li><a href="https://www.zhihu.com/question/307831338">https://www.zhihu.com/question/307831338</a></li>
+</ul>
+</div>
+</body>
+</html>
