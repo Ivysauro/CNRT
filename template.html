@@ -6,21 +6,6 @@
   <script src="https://cdn.bootcss.com/marked/0.3.17/marked.min.js"></script>
 </head>
 <body>
-<div id="content">
-# template content
-## by me  
-</div>
-  <script>
-    let content = document.getElementById('content');
-    let markdown = content.innerHTML;
-    let newMarkdown = HTMLDecode(markdown);
-    let html = marked(newMarkdown);
-    content.innerHTML = html;    
-    
-    //特殊字符在获取 innerHTML 时，会被转换为转义字符，影响 Markdown 内容转换，此处反转回来。 &gt对应 > 
-    function HTMLDecode(text) { 
-      return text.replace(/&gt;/g, '>')
-    }
-  </script>
+%content%
 </body>
 </html>
