@@ -4,7 +4,7 @@
 ### 四至
 - 最东边的站：哈尔滨东站（<img src="/images/city/hrb.gif" width="20" hegiht="20"/>哈尔滨，126°42′E）
 - 最西边的站：国际机场（<img src="/images/city/wlmq.gif" width="20" hegiht="20"/>乌鲁木齐，87°28′E）
-- 最南边的站：利东（<img src="/images/city/hk.gif" width="20" hegiht="20"/>香港，22°14′N）
+- 最南边的站：莲花口岸（<img src="/images/city/mo.gif" width="20" hegiht="20"/>澳门，22°13′N）
 - 最北边的站：哈尔滨东站（<img src="/images/city/hrb.gif" width="20" hegiht="20"/>哈尔滨，45°47′N）
 ### 建筑
 - 出口最多的站：福田（<img src="/images/city/sz.gif" width="20" hegiht="20"/>深圳，规划36个） 三阳广场（<img src="/images/city/wx.gif" width="20" hegiht="20"/>无锡，27个）
