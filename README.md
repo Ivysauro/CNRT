@@ -1,8 +1,8 @@
 # ChinaRailTransit
 
-**中国轨道交通数据库（非技术类） - 用不同的角度看地铁**
+**中国轨道交通数据库（非技术类） - 不同角度看地铁**
 
-**Data base of China Rail Transit (Non-tech) - Another view of China Rail Transit**
+**Data base of China Rail Transit (Non-tech) - Another view of Rail Transit**
 
 ```
  ██████╗██╗  ██╗██╗███╗   ██╗ █████╗ ██████╗  █████╗ ██╗██╗  ████████╗██████╗  █████╗ ███╗   ██╗███████╗██╗████████╗
