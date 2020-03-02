@@ -26,6 +26,7 @@
 - [虚拟交通卡/ NFC Vitual Transit Card](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/NFC%20Vitual%20Transit%20Card.md)
 - [*运营方式/ General Operations*](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/General%20Operations.md)
 - [空铁联运/ Air-Rail](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Air-Rail.md)
+- [双铁联运/ Rail-Rail](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Rail-Rail.md)
 - [安检互认/ Security Check Recognition](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Security%20Check%20Recognition.md)
 - [*地面公交支付方式/ Payment Methods for Bus*](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Payment%20Methods%20for%20Bus.md)
 
@@ -33,8 +34,6 @@
 - [特殊运营方式（中文）/ Special Operations (In Chinese)](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Special%20Operations.md)
 - [特殊站（中文）/ Special Station (In Chinese)](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Special%20Station.md)
 - [重名站（中文）/ Stations of Same Name (In Chinese)](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Stations%20of%20Same%20Name.md)
-- [双铁联运（中文）/ Rail-Rail(In Chinese)](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Rail-Rail.md)
-- [Rail-Rail (In English) / 双铁联运（英文）](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Rail-Rail%2002.md)
 - [*之最/ No.1*](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/zui.md)
 
 ### 相关信息/ Related Info 🧷
