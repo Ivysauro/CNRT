@@ -90,7 +90,7 @@
 | | 大连周水子/ Dalian Zhoushuizi/ DLC | 东北-沈阳/ ZYTL | 机场/ Airport | 2号线 |
 | | 🏗大连金州湾/ Dalian Jinzhouwan/ DLC | 东北-沈阳/ ZYTL | 🏗金州湾机场/ Dalian Jinzhou Bay Airport | |
 | | 武汉天河/ Wuhan Tianhe/ WUH | 中南-武汉/ ZHHH | 天河机场/ Tianhe International Airport | 2号线 |
-| | 重庆江北/ Chongqing Jiangbei/ CKG | 西南-昆明/ ZUCK | 江北机场T2航站楼/ Terminal 2 of Jiangbei Airport、江北机场T3航站楼/ Terminal 3 of Jiangbei Airport | 3号线 |
+| | 重庆江北/ Chongqing Jiangbei/ CKG | 西南-昆明/ ZUCK | 江北机场T2航站楼/ Terminal 2 of Jiangbei Airport、江北机场T3航站楼/ Terminal 3 of Jiangbei Airport | 3号线、10号线 |
 | | 深圳宝安/ Shenzhen Bao'an/ SZX | 中南-广州/ ZGSZ | 机场/ Airport、~~机场东/ Airport East~~ | 11号线 |
 | | 南京禄口/ Najing Lukou/ NKG | 华东-上海/ ZSNJ | 禄口机场/ LUKOU INTERNATIONAL AIRPORT | S1线 |
 | | 高雄/ Kaohsiung/ KHH | 华东-台北/ RCKH | 高雄国际机场/ Kaohsiung International Airport | 红线 |
