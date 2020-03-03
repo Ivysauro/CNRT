@@ -31,10 +31,10 @@
 
 | 城市/ City | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Official Apps"/> | 其他/ Other |
 | ---------  | :-----: | :------:  | :---------: | :-------: | :-------: | :-----------: | :- |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京/ Beijing | ⭕[^北京] | | | | | ✅ |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京/ Beijing | ⭕[^bj] | | | | | ✅ |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tj.gif" width="20" hegiht="20"/>天津/ Tianjin | ✅ | ✅ | | | | ✅ | |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海/ Shanghai[^购票上海] | ✅[^上海1] | ⭕[^上海2] | | | | ✅ | |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州/ Guangzhou[^购票广州] | ✅ | ⭕[^广州] | ✅ | ✅ | | ✅ | |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海/ Shanghai[^csh] | ✅[^sh1] | ⭕[^sh2] | | | | ✅ | |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州/ Guangzhou[^cgz] | ✅ | ⭕[^gz] | ✅ | ✅ | | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cc.gif" width="20" hegiht="20"/>长春/ Changchun | ✅ | ✅ | | | ✅ | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/dl.gif" width="20" hegiht="20"/>大连/ Dalian | ✅ | ✅ | | | | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wh.gif" width="20" hegiht="20"/>武汉/ Wuhan | 🕓 | 🕓 | | | | ✅ | |
@@ -47,16 +47,16 @@
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/suz.gif" width="20" hegiht="20"/>苏州/ Suzhou | ✅ | | | | | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/km.gif" width="20" hegiht="20"/>昆明/ Kunming | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hz.gif" width="20" hegiht="20"/>杭州/ Hangzhou | 🕓 | ✅ | ✅ | | ✅ | ✅ | |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hrb.gif" width="20" hegiht="20"/>哈尔滨/ Harbin | ⭕[^哈尔滨1] | ⭕[^哈尔滨2] | ✅ | | ✅ | ✅ | |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hrb.gif" width="20" hegiht="20"/>哈尔滨/ Harbin | ⭕[^hrb1] | ⭕[^hrb2] | ✅ | | ✅ | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/zz.gif" width="20" hegiht="20"/>郑州/ Zhengzhou | ✅ | | ✅ | ✅ | ✅ | ✅ | |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cs.gif" width="20" hegiht="20"/>长沙/ Changsha[^购票长沙] | ✅ | | | | | ✅ | |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cs.gif" width="20" hegiht="20"/>长沙/ Changsha[^ccs] | ✅ | | | | | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nb.gif" width="20" hegiht="20"/>宁波/ Ningbo | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wx.gif" width="20" hegiht="20"/>无锡/ Wuxi | ✅ | | | | | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/qd.gif" width="20" hegiht="20"/>青岛/ Qingdao | ✅ | | | | | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nc.gif" width="20" hegiht="20"/>南昌/ Nanchang | ✅ | ✅ | ✅ | | ✅ | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/fz.gif" width="20" hegiht="20"/>福州/ Fuzhou | ✅ | | | | | ✅ | |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/dg.gif" width="20" hegiht="20"/>东莞/ Dongguan | | ⭕[^东莞] | | | | ✅ | |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nn.gif" width="20" hegiht="20"/>南宁/ Nanning | ✅ | ⭕[^南宁] | | | | ✅ | |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/dg.gif" width="20" hegiht="20"/>东莞/ Dongguan | | ⭕[^dg] | | | | ✅ | |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nn.gif" width="20" hegiht="20"/>南宁/ Nanning | ✅ | ⭕[^nn] | | | | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hf.gif" width="20" hegiht="20"/>合肥/ Hefei | ✅ | ✅ | | | | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sjz.gif" width="20" hegiht="20"/>石家庄/ Shijiazhuang | ✅ | | | | | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gy.gif" width="20" hegiht="20"/>贵阳/ Guiyang | ✅ | | | | | ✅ | |
@@ -64,27 +64,37 @@
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wlmq.gif" width="20" hegiht="20"/>乌鲁木齐/ Urumqi | | | | | | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wz.gif" width="20" hegiht="20"/>温州/ Wenzhou | | ✅ | | | | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/jn.gif" width="20" hegiht="20"/>济南/ Jinan | ✅ | | | | | ✅ | |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/lz.gif" width="20" hegiht="20"/>兰州/ Lanzhou | ✅ | ⭕[^兰州] | ✅ | ✅ | | ✅ | 翼支付 |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/lz.gif" width="20" hegiht="20"/>兰州/ Lanzhou | ✅ | ⭕[^lz] | ✅ | ✅ | | ✅ | 翼支付 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cz.gif" width="20" hegiht="20"/>常州/ Changzhou | ✅ | | | | | ✅ |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xz.gif" width="20" hegiht="20"/>徐州/ Xuzhou | ✅ | ✅ | | | | ✅ |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hhht.gif" width="20" hegiht="20"/>呼和浩特/ Hohhot | 🕓 | | | | | ✅ |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hk.gif" width="20" hegiht="20"/>香港/ Hong Kong | | | | | 🕓 | | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/mo.gif" width="20" hegiht="20"/>澳门/ Macao | | | | | | | |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tp.gif" width="20" hegiht="20"/>台北/ Taipei[^购票台北] | | 🕓 | | | | ⭕[^台北] | |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/kh.gif" width="20" hegiht="20"/>高雄/ Kaohsiung | | ⭕[^高雄] | | | ✅💥 | ✅ | Mastercard |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tp.gif" width="20" hegiht="20"/>台北/ Taipei[^ctp] | | 🕓 | | | | ⭕[^tp] | |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/kh.gif" width="20" hegiht="20"/>高雄/ Kaohsiung | | ⭕[^kh] | | | ✅💥 | ✅ | Mastercard |
 | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Official Apps"/> |
 
-[^北京]: 北京：交通联合采用[专版白名单](https://mp.weixin.qq.com/s/JF4pULn90EA7S5lUWaxNyw)/ [Special whitelist](https://mp.weixin.qq.com/s/JF4pULn90EA7S5lUWaxNyw) in T-Union
-[^上海1]: 上海：异地交通联合卡可享受虚拟换乘优惠；磁悬浮暂不支持交通联合/ Non-local T-Union card can enjoy virtual-transfer discount; Maglev doesn't accept T-Union
-[^上海2]: 上海：仅磁悬浮支持银联信用卡闪付/ Only Shanghai Maglev accept credit card Quickpass
-[^广州]: 广州：银联云闪付仅支持[信用卡](http://cs.gzmtr.com/ckfw/pwzy/201811/t20181106_60161.htm)和招行借记卡（APM无此限制）/ Only [credit card](http://cs.gzmtr.com/ckfw/pwzy/201811/t20181106_60161.htm) and CMB debit card accepted in Quickpass (APM accept all cards)
-[^哈尔滨1]: 哈尔滨：交通联合采用[专版黑名单](https://www.zhihu.com/question/312911617)/ [Special Blacklist](https://www.zhihu.com/question/312911617) in T-Union
-[^哈尔滨2]: 哈尔滨：银联云闪付仅支持工行、交行、广发、浦发、邮储借记卡信用卡和招商银行借记卡/ Only CMB debit card and ICBC, COM, CGB, SPDB, CPG debit or credit cards accepted in Qucikpass
-[^东莞]: 东莞：银联云闪付仅支持东莞通合作银行/ Only banks that cooperates with DongguanTong accepted in Quickpass
-[^南宁]: 南宁：银联云闪付仅支持除浦发、华夏以外的信用卡和交行、招行借记卡/ Only credit card(except SPDB, HXB) and COM, CMB debit card accepted in Quickpass
-[^兰州]: 兰州：银联云闪付仅支持信用卡/ Only credit card accepted in Quickpass
-[^台北]: 台北：仅桃园机场捷运支持在线购票后扫码过闸/ Only Taoyuan Airport MRT support after buying ticket online
-[^高雄]: 高雄：银联云闪付仅支持信用卡/ Only credit card accepted in Quickpass
+[^bj]: 北京：交通联合采用[专版白名单](https://mp.weixin.qq.com/s/JF4pULn90EA7S5lUWaxNyw)/ [Special whitelist](https://mp.weixin.qq.com/s/JF4pULn90EA7S5lUWaxNyw) in T-Union
+
+[^sh1]: 上海：异地交通联合卡可享受虚拟换乘优惠；磁悬浮暂不支持交通联合/ Non-local T-Union card can enjoy virtual-transfer discount; Maglev doesn't accept T-Union
+
+[^sh2]: 上海：仅磁悬浮支持银联信用卡闪付/ Only Shanghai Maglev accept credit card Quickpass
+
+[^gz]: 广州：银联云闪付仅支持[信用卡](http://cs.gzmtr.com/ckfw/pwzy/201811/t20181106_60161.htm)和招行借记卡（APM无此限制）/ Only [credit card](http://cs.gzmtr.com/ckfw/pwzy/201811/t20181106_60161.htm) and CMB debit card accepted in Quickpass (APM accept all cards)
+
+[^hrb1]: 哈尔滨：交通联合采用[专版黑名单](https://www.zhihu.com/question/312911617)/ [Special Blacklist](https://www.zhihu.com/question/312911617) in T-Union
+
+[^hrb2]: 哈尔滨：银联云闪付仅支持工行、交行、广发、浦发、邮储借记卡信用卡和招商银行借记卡/ Only CMB debit card and ICBC, COM, CGB, SPDB, CPG debit or credit cards accepted in Qucikpass
+
+[^dg]: 东莞：银联云闪付仅支持东莞通合作银行/ Only banks that cooperates with DongguanTong accepted in Quickpass
+
+[^nn]: 南宁：银联云闪付仅支持除浦发、华夏以外的信用卡和交行、招行借记卡/ Only credit card(except SPDB, HXB) and COM, CMB debit card accepted in Quickpass
+
+[^lz]: 兰州：银联云闪付仅支持信用卡/ Only credit card accepted in Quickpass
+
+[^tp]: 台北：仅桃园机场捷运支持在线购票后扫码过闸/ Only Taoyuan Airport MRT support after buying ticket online
+
+[^kh]: 高雄：银联云闪付仅支持信用卡/ Only credit card accepted in Quickpass
 
 ## 购票/ Tickets
 
@@ -113,8 +123,8 @@
 | --------- | :----------: | :-------------: | :----------------: | :-----------------: | :-: |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京/ Beijing | ✅ | ✅ |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tj.gif" width="20" hegiht="20"/>天津/ Tianjin | ✅ | ✅ | ✅ |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海/ Shanghai[^购票上海] | ✅ | ✅ | ✅ |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州/ Guangzhou[^购票广州] | ✅ | ✅ |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海/ Shanghai[^csh] | ✅ | ✅ | ✅ |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州/ Guangzhou[^cgz] | ✅ | ✅ |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cc.gif" width="20" hegiht="20"/>长春/ Changchun | | | ✅ |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/dl.gif" width="20" hegiht="20"/>大连/ Dalian |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wh.gif" width="20" hegiht="20"/>武汉/ Wuhan | ✅ | ✅ | ✅ |
@@ -129,7 +139,7 @@
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hz.gif" width="20" hegiht="20"/>杭州/ Hangzhou | | | | ✅ |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hrb.gif" width="20" hegiht="20"/>哈尔滨/ Harbin | ✅ | ✅ |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/zz.gif" width="20" hegiht="20"/>郑州/ Zhengzhou | ⭕ | ⭕ |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cs.gif" width="20" hegiht="20"/>长沙/ Changsha[^购票长沙] | ✅ | ✅ | ✅ |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cs.gif" width="20" hegiht="20"/>长沙/ Changsha[^ccs] | ✅ | ✅ | ✅ |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nb.gif" width="20" hegiht="20"/>宁波/ Ningbo | | | ✅ | ✅ |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wx.gif" width="20" hegiht="20"/>无锡/ Wuxi |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/qd.gif" width="20" hegiht="20"/>青岛/ Qingdao | ✅ | ✅ |
@@ -150,14 +160,14 @@
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hhht.gif" width="20" hegiht="20"/>呼和浩特/ Hohhot |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hk.gif" width="20" hegiht="20"/>香港/ Hong Kong | ⭕ | ⭕ | | | ✅ |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/mo.gif" width="20" hegiht="20"/>澳门/ Macao |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tp.gif" width="20" hegiht="20"/>台北/ Taipei[^购票台北] |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tp.gif" width="20" hegiht="20"/>台北/ Taipei[^ctp] |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/kh.gif" width="20" hegiht="20"/>高雄/ Kaohsiung |
 | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | 💳 |
 
-[^购票上海]: 上海：包括磁浮线/ Maglev is included in Shanghai
-[^购票长沙]: 长沙：包括磁浮快线/ Maglev is included in Changsha
-[^购票广州]: 广州：包括APM线和广佛线/ APM Line and Guang-Fo Metro are included in Guangzhou
-[^购票台北]: 台北：包括桃园机场捷运/ Taoyuan Metro is included in Taipei
+[^csh]: 上海：包括磁浮线/ Maglev is included in Shanghai
+[^ccs]: 长沙：包括磁浮快线/ Maglev is included in Changsha
+[^cgz]: 广州：包括APM线和广佛线/ APM Line and Guang-Fo Metro are included in Guangzhou
+[^ctp]: 台北：包括桃园机场捷运/ Taoyuan Metro is included in Taipei
 
 ### 网上购票（线下取票）/ Buying Tickets Online
 
