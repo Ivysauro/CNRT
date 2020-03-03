@@ -113,5 +113,7 @@
 | 新疆 | **Xinjiang** | Sinkiang | 邮政式拼音 |
 
 ## 参考资料/ References
-- https://www.zhihu.com/question/26552511/answer/153189952
-- https://cul.qq.com/a/20171118/003322.htm
+- <https://www.zhihu.com/question/26552511/answer/153189952>
+- <https://cul.qq.com/a/20171118/003322.htm>
+
+---
