@@ -11,7 +11,7 @@
 
 ## 狭义空铁联运/ Narrow Sense Air-Rail
 
-| | <img src="/images/Airport.png" width="15" hegiht="15" alt="Airport"/>机场/ Airport | 空管信息/ ICAO Info | <img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>火车站/ Railway Station | 铁路信息/ Railway Info |
+| | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Airport.png" width="15" hegiht="15" alt="Airport"/>机场/ Airport | 空管信息/ ICAO Info | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>火车站/ Railway Station | 铁路信息/ Railway Info |
 | :-: | :- | :- | :- | :- |
 | | 北京大兴/ Beijing Daxing/ PKX | 华北-北京/ ZBAD | 大兴机场/ Daxing Airport / IWP | 北京局/ CR Beijing-京雄城际线 |
 | 🚌~4km | 石家庄正定/ Shijiazhuang Zhengding/ SJW | 华北-北京/ ZBSJ | 正定机场/ Zhengding Airport/ ZHP | 北京局/ CR Beijing-京广高速线 |
@@ -35,7 +35,7 @@
 | | 银川河东/ Yinchuan Hedong/ INC | 西北-兰州/ ZLIC | 河东机场/ Hedong Airport/ HFJ | 兰州局/ CR Lanzhou-西银客专线 |
 | 🥾1.2km | 吐鲁番交河/ Turpan Jiaohe/ TLQ | 新疆-乌鲁木齐/ ZWTL | 吐鲁番北/ Tulufanbei/ TAR | 乌鲁木齐局/ CR Urumqi-兰新客专线 |
 
-| | <img src="/images/Airport.png" width="15" hegiht="15" alt="Airport"/>机场/ Airport | 空管信息/ ICAO Info | <img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>火车站/ Railway Station | 铁路信息/ Railway Info |
+| | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Airport.png" width="15" hegiht="15" alt="Airport"/>机场/ Airport | 空管信息/ ICAO Info | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>火车站/ Railway Station | 铁路信息/ Railway Info |
 | :-: | :- | :- | :- | :- |
 | | 天津滨海/ Tianjin Binhai/ TSN | 华北-北京/ ZBTJ | 🏗滨海机场/ Binhai Airport | 北京局/ CR Beijing-🏗京滨城际线 |
 | 🚌~4km | 上海浦东/ Shanghai Pudong/ PVG | 华东-上海/ ZSPD | 🏗上海东/ Shanghaidong | 上海局/ CR-Shanghai-🏗北沿江高速线、🏗沪通线 |
@@ -49,7 +49,7 @@
 | | 昆明长水/ Kunming Changshui/ KMG | 西南-昆明/ ZPPP | 🏗长水机场/ Changshui Airport | 昆明局/ CR Kunming-🏗渝昆高速线 |
 | | 🏗成都天府/ Chengdu Tianfu/ TFU | 西南-昆明/ ZU?? | 🏗天府机场/ Tianfu Airport | 成都局/ CR Chengdu-🏗成自泸城际线 |
 
-| | <img src="/images/Airport.png" width="15" hegiht="15" alt="Airport"/>机场/ Airport | 空管信息/ ICAO Info | <img src="/images/CR.png" width="15" hegiht="15" alt="China Railway"/>火车站/ Railway Station | 铁路信息/ Railway Info |
+| | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Airport.png" width="15" hegiht="15" alt="Airport"/>机场/ Airport | 空管信息/ ICAO Info | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>火车站/ Railway Station | 铁路信息/ Railway Info |
 | :-: | :- | :- | :- | :- |
 | 🚕~4km | 延吉朝阳川/ Yanji Chaoyangchuan/ YNJ | 东北-沈阳/ ZYYJ | 延吉西/ Yanjixi/ YXL | 沈阳局/ CR Shenyang-长珲城际线 |
 | 🚕~4km | 苏南硕放/ Sunan Shuofang/ WUX | 华东-上海/ ZSWX | 无锡新区/ Wuxi-Xinqu/ IFH | 上海局/ CR Shanghai-沪宁城际线 |
@@ -62,7 +62,7 @@
 | 🚕~7km | 太原武宿/ Taiyuan Wusu/ TYN | 华北-北京/ ZBYN | 太原南/ Taiyuannan/ TNV | 太原局/ CR Taiyuan-大西高速线、石太客专线 |
 | 🚕~7km | 齐齐哈尔三家子/ Qiqihar Sanjiazi/ NDG | 东北-沈阳/ ZYQQ | 齐齐哈尔南/ Qiqihaernan/ QNB | 哈尔滨局/ CR Harbin-哈齐客专线 |
 | 🚕~8km | 鞍山腾鳌/ Anshan Teng'ao/ AOG | 东北-沈阳/ ZYAS | 鞍山西/ Anshanxi/ AXT | 沈阳局/ CR Shenyang-沈大高速线 |
-| 🚕~8km | 佳木斯东郊/ Jiamusi Dongjiao/ JMU | 东北-沈阳/ ZYJM | 佳木斯/ Jiamusi/ JMB | 哈尔滨局/ CR Harbin-哈佳线 | 
+| 🚕~8km | 佳木斯东郊/ Jiamusi Dongjiao/ JMU | 东北-沈阳/ ZYJM | 佳木斯/ Jiamusi/ JMB | 哈尔滨局/ CR Harbin-哈佳线 |
 | 🚕~8km | 安庆天柱山/ Anqing Tianzhushan/ AQG | 华东-上海/ ZSAQ | 安庆/ Anqing/ AQH | 上海局/ CR Shanghai-宁安城际线 |
 | 🚕~8km | 潍坊南苑/ Weifang Nanyuan/ WEF | 华东-上海/ ZSWF | 潍坊/ Weifang/ WFK | 济南局/ CR Jinan-胶济客专线 |
 | 🚕~9km | 澳门/ Macao/ MFM | 中南-香港/ VMMC | 横琴/ Hengqin | 广州局/ CR Guangzhou-珠机城际线 |
@@ -74,7 +74,7 @@
 
 ## 广义空铁联运/ Broad Sense Air-Rail
 
-| | <img src="/images/Airport.png" width="15" hegiht="15" alt="Airport"/>机场/ Airport | 空管信息/ ICAO Info | <img src="/images/Rail Transit.png" width="15" hegiht="15" alt="China Railway"/>车站/ Rail Station | 已开通线路信息/ Rail Info Now |
+| | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Airport.png" width="15" hegiht="15" alt="Airport"/>机场/ Airport | 空管信息/ ICAO Info | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="15" hegiht="15" alt="China Railway"/>车站/ Rail Station | 已开通线路信息/ Rail Info Now |
 | :-: | :- | :- | :- | :- |
 | | 北京首都/ Beijing Capital/ PEK | 华北-北京/ ZBAA | 3号航站楼/ Terminal 3、2号航站楼/ Terminal 2 | 首都机场线 |
 | | 北京大兴/ Beijing Daxing/ PKX | 华北-北京/ ZBAD | 大兴机场/ Daxing Airport | 大兴机场线 |
