@@ -475,8 +475,10 @@
 - 5号线→环中线→5号线（2008.4，2013.10）
 
 ## 参考资料
-- https://www.zhihu.com/question/279503795
-- https://tieba.baidu.com/p/5818419329
-- https://tieba.baidu.com/p/5042303190
-- https://tieba.baidu.com/p/4860604942
-- https://tieba.baidu.com/p/6043800476
+- <https://www.zhihu.com/question/279503795>
+- <https://tieba.baidu.com/p/5818419329>
+- <https://tieba.baidu.com/p/5042303190>
+- <https://tieba.baidu.com/p/4860604942>
+- <https://tieba.baidu.com/p/6043800476>
+
+---
