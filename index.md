@@ -20,8 +20,8 @@ The public transportation emergency measures during the pneumonia epidemic can b
 ### 车迷向/ For Fans 🕵️‍♂️🕵️‍♀️
 - [特殊运营方式（中文）/ Special Operations (In Chinese)](https://ivysauro.github.io/CNRT/data/Special%20Operations)
 - [特殊站（中文）/ Special Station (In Chinese)](https://ivysauro.github.io/CNRT/data/Special%20Station)
-- [重名站（中文）/ Stations of Same Name (In Chinese)](https://ivysauro.github.io/CNRT/data/Stations%20of%20Same%20Name)
-- [*之最/ No.1*](https://ivysauro.github.io/CNRT/data/zui)
+- [重名站/ Stations of Same Chinese Name](https://ivysauro.github.io/CNRT/data/Stations%20of%20Same%20Name)
+- [*之最（中文）/ No.1 (In Chinese)*](https://ivysauro.github.io/CNRT/data/zui)
 
 ### 相关信息/ Related Info 🧷
 - [GaWC 世界城市名册/ GaWC World Cities](https://ivysauro.github.io/CNRT/data/GaWC)
