@@ -1,6 +1,6 @@
-# 同名站（中文）/ Stations of Same Name (In Chinese)
+# 重名站/ Stations of Same Chinese Name
 
-有轨电车站不计入
+有轨电车站不计入/ Tram Stations are not counted
 
 ## 主表/ Content
 
