@@ -36,7 +36,7 @@
 - 最深的站：红土地（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cq.gif" width="20" hegiht="20"/>重庆，10号线，94.467m）
 
 ## 最·文字
-- 最长中文站名（多站名不计）：昆明青少年活动中心（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/km.gif" width="20" hegiht="20"/>昆明，9字）
+- 最长中文站名（多站名不计）：上海儿童医学中心（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，8字）
 
 ## 最·运营
 - 数字编号最大的运营线路：广州地铁21号线（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/fs.gif" width="20" hegiht="20"/>广州，21）
