@@ -135,7 +135,7 @@
 [^1]: “T2航站楼”是不规范的说法，规范说法应为“2(号)航站楼”
 
 ## 参考资料/ Reference
-- https://www.zhihu.com/question/36850556
-- https://www.zhihu.com/question/307831338
+- <https://www.zhihu.com/question/36850556>
+- <https://www.zhihu.com/question/307831338>
 
 ---
