@@ -1,6 +1,6 @@
 # GaWC 世界城市名册/ GaWC World Cities
 
-https://www.lboro.ac.uk/gawc/world2018t.html
+<https://www.lboro.ac.uk/gawc/world2018t.html>
 
 🏛️代表该国首都/ 🏛️indicates capital of the country
 
@@ -377,3 +377,7 @@ https://www.lboro.ac.uk/gawc/world2018t.html
 | 369 | 54 | S | Memphis | 孟菲斯 | 美国 |
 | 370 | 13 | S | Nottingham | 诺丁汉 | 英国 |
 | 371 | 14 | S | Leicester | 莱斯特 | 英国 |
+
+*[WR]: World Ranking
+*[NR]: Nation Ranking
+*[🏛️]: Capital of the Country
