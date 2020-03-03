@@ -278,7 +278,7 @@
 
 ## 停运
 
-括号内为停运时间-重开时间
+仅统计较长时间的停运，括号内为停运时间-重开时间
 
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tj.gif" width="20" hegiht="20"/>~~天津地铁1号线~~（2001.10-2006.6）
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tj.gif" width="20" hegiht="20"/>~~天津地铁9号线~~（2015.8-2015.12-2016.12）
