@@ -3,4 +3,5 @@ description:  另一角度看地铁/ Another view of Rail Transit
 theme: jekyll-theme-minimal
 show_downloads: false
 markdown: kramdown
+logo: https://raw.githubusercontent.com/Ivysauro/CNRT/master/favicon.png
 favicon: https://raw.githubusercontent.com/Ivysauro/CNRT/master/favicon.png
