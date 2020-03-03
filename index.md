@@ -24,7 +24,7 @@ The public transportation emergency measures during the pneumonia epidemic can b
 - [*之最/ No.1*](https://ivysauro.github.io/CNRT/data/zui)
 
 ### 相关信息/ Related Info 🧷
-- [GaWC 世界城市名册/ GaWC World Cities](https://github.com/Ivysauro/CNRT/blob/master/data/GaWC)
+- [GaWC 世界城市名册/ GaWC World Cities](https://ivysauro.github.io/CNRT/data/GaWC)
 - [主要城市名称资料/ Name data of Big Cities](https://ivysauro.github.io/CNRT/data/Name%20data%20of%20Big%20Cities)
 - [铁路局名称资料（中文）/ Name data of FRA (In Chinese)](https://ivysauro.github.io/CNRT/data/Name%20data%20of%20FRA)
 
