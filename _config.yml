@@ -2,4 +2,5 @@ title: <a href="https://ivysauro.github.io/CNRT/">ChinaRailTransit</a>
 description:  另一角度看地铁/ Another view of Rail Transit
 theme: jekyll-theme-minimal
 show_downloads: false
-favicon: /favicon.png
+markdown: kramdown
+favicon: https://raw.githubusercontent.com/Ivysauro/CNRT/master/favicon.png
