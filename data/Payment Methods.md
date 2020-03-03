@@ -171,7 +171,7 @@
 
 ### 网上购票（线下取票）/ Buying Tickets Online
 
-请参见[运营方式-服务-App](https://ivysauro.github.io/CNRT/data/General%20Operations#app)/ Please see [General Operation_Service_App]((https://ivysauro.github.io/CNRT/data/General%20Operations#app)
+请参见[运营方式-服务-App](https://ivysauro.github.io/CNRT/data/General%20Operations#app)/ Please see [General Operation_Service_App](https://ivysauro.github.io/CNRT/data/General%20Operations#app)
 
 ## 充值/ Charging
 
