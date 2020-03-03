@@ -171,7 +171,7 @@
 
 ### 网上购票（线下取票）/ Buying Tickets Online
 
-请参见[各地轨道交通官方应用](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Official%20Additional%20Apps.md)/ Please see [local officials apps](https://github.com/Ivysauro/ChinaRailTransit/blob/master/data/Official%20Additional%20Apps.md)
+请参见[运营方式-服务-App](https://ivysauro.github.io/CNRT/data/General%20Operations#app)/ Please see [General Operation_Service_App]((https://ivysauro.github.io/CNRT/data/General%20Operations#app)
 
 ## 充值/ Charging
 
