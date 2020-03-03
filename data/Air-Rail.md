@@ -1,6 +1,7 @@
 # 空铁联运/ Air-Rail
 
 ## 图例/ Legend
+
 | 符号/ emoji | 中文含义/ Chinese Meaning | 英文含义/ English Meaning |
 | :- | :- | :- |
 | 🥾 | 很近，有步道 | Need Walk |
