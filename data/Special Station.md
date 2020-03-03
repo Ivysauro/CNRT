@@ -3,8 +3,10 @@
 ## 目录
 - [功能](#功能)
   - [关闭](#关闭)
-    - [永久关闭](#永久关闭)
-    - [暂缓开通](#暂缓开通)
+    - [废弃](#废弃)
+    - [迁址](#迁址)
+    - [重建/封站改造](#重建-封站改造)
+    - [暂缓开通/预留](#暂缓开通-预留)
   - [换乘](#换乘)
     - [虚拟换乘](#虚拟换乘)
     - [出站换乘](#出站换乘)
@@ -16,24 +18,39 @@
 - [名称](#名称)
   - [多站名](#多站名)
   - [特殊站名](#特殊站名)
-  - [更名（车站）](#更名（车站）)
-  - [更名（线路）](#更名（线路）)
+  - [更名（车站）](#更名车站)
+  - [更名（线路）](#更名线路)
 - [参考资料](#参考资料)
 
 ## 功能
 
 ### 关闭
 
-#### 永久关闭
+#### 废弃
 
 不统计港铁车站
 
 - 新华路（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tj.gif" width="20" hegiht="20"/>天津，既有线，1984.12-2001.10）
-- 芙蓉桥（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cc.gif" width="20" hegiht="20"/>长春，3号线，2002.10-2017.11，将与辽宁路站合并）
 
-#### 暂缓开通
+#### 迁址
+- 西二旗（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，13号线，为配合换乘2010.12关闭，迁至北侧）
+- 新龙华（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，1号线，为配合新上海南站和上海南站换乘站建设2004.1关闭，迁至地下）
+- 张江高科（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，2号线，为配合2号线东延2010.2关闭，迁至地下）
+- 芙蓉桥（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cc.gif" width="20" hegiht="20"/>长春，3号线，2017.11关闭，将与辽宁路站合并）
 
-#### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京
+#### 重建/封站改造
+
+仅统计较长时间的封站
+
+- 郝家府（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，6号线，2017.10因站外道路扩宽抬高而关闭，2018.11恢复服务）
+- 西站（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tj.gif" width="20" hegiht="20"/>天津，1号线，2009.5配合天津西站综合改造工程而关闭，2011.6恢复服务）
+- 东海路（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tj.gif" width="20" hegiht="20"/>天津，9号线，2015.8因天津滨海新区爆炸事件而关闭拆除，2016.12恢复服务）
+- 双林（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tj.gif" width="20" hegiht="20"/>天津，1号线，2016.12配合1号线东延而关闭拆除，2018.12恢复服务）
+- 上海南站（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，3号线，2004.1配合新上海南站和上海南站换乘站建设而关闭，2005.10恢复服务）
+
+#### 暂缓开通/预留
+
+##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京
 - 二里沟（6号线，2012.12-）
 - 高家园（14号线，2014.12-预计2021.12）
 - 通运门（6号线，2014.12-）
@@ -59,12 +76,12 @@
 - ~~平乐园~~（14号线，2015.12-2017.12）
 - ~~农大南路~~（16号线，2016.12-2017.12）
 
-#### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tj.gif" width="20" hegiht="20"/>天津
+##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tj.gif" width="20" hegiht="20"/>天津
 - 李七庄南（5号线，2018.10-）
 - 梨双路北、洪泥河东、上郭庄（1号线，2019.12-）
 - ~~北辰科技园北~~（5号线，2018.10-2019.1）
 
-#### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海
+##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海
 - ~~东方体育中心~~（6号线，2007.12-2011.4）
 - ~~中华艺术宫~~（8号线，2007.12-2012.9）
 - ~~东方体育中心~~（8号线，2009.7-2011.4）
@@ -76,10 +93,10 @@
 - ~~曲阜路~~（12号线，2013.12-2014.5）
 - ~~迪士尼~~（11号线，2015.12-2016.4）
 
-#### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tp.gif" width="20" hegiht="20"/><img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/ty.gif" width="20" hegiht="20"/>台北&桃园
+##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tp.gif" width="20" hegiht="20"/><img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/ty.gif" width="20" hegiht="20"/>台北&桃园
 - 机场第三航厦（桃园机场捷运，2017.3-）
 
-#### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州
+##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州
 - 官桥（4号线，2007.6-）
 - 沙河（6号线，2013.12-）
 - ~~庆盛~~（4号线，2007.6-2017.12）
@@ -87,12 +104,12 @@
 - ~~一德路~~（6号线，2013.12-2015.1）
 - ~~植物园、柯木塱~~（6号线，2016.12-2017.6）
 
-#### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cc.gif" width="20" hegiht="20"/>长春
+##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cc.gif" width="20" hegiht="20"/>长春
 - 东新路（4号线，2011.6-）
 - 龙翔（8号线，2018.10-）
 - ~~长春站~~（1号线，2017.6-2019.1）
 
-#### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/dl.gif" width="20" hegiht="20"/>大连
+##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/dl.gif" width="20" hegiht="20"/>大连
 - 高城山、黄海大道（3号线，2003.5-）
 - ~~大连站~~（3号线，2003.5-2004.9）
 - ~~小窑湾~~（3号线，2003.5-2006.12）
@@ -101,12 +118,12 @@
 - ~~会展中心~~（1号线，2015.10-2016.1）
 - ~~华南北~~（1号线，2015.10-2017.6）
 
-#### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wh.gif" width="20" hegiht="20"/>武汉&鄂州
+##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wh.gif" width="20" hegiht="20"/>武汉&鄂州
 - 葛店南站（11号线，2018.10-）
 - ~~太平洋~~（1号线，2004.7-2006.4）
 - ~~竹叶海~~（1号线，2010.7-2014.9）
 
-#### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cq.gif" width="20" hegiht="20"/>重庆
+##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cq.gif" width="20" hegiht="20"/>重庆
 - 朝天门（1号线，2011.7-）
 - 天星桥、仁济、上浩（环线，2018.12-）
 - 港城（4号线，2018.12-）
@@ -117,66 +134,66 @@
 - ~~弹子石、罗家坝~~（环线，2018.12-2019.7）
 - ~~南桥寺~~（环线，2018.12-2019.12）
 
-#### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sz.gif" width="20" hegiht="20"/>深圳
+##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sz.gif" width="20" hegiht="20"/>深圳
 - 福邻（7号线，2016.10-）
 - ~~福田口岸~~（4号线，2004.12-2007.6）
 
-#### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nj.gif" width="20" hegiht="20"/>南京
+##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nj.gif" width="20" hegiht="20"/>南京
 - ~~南京南站~~（1号线，2010.5-2011.6）
 - ~~上元门~~（3号线，2015.4-2015.10）
 
-#### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sy.gif" width="20" hegiht="20"/>沈阳
+##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sy.gif" width="20" hegiht="20"/>沈阳
 - 皇姑屯站（9号线，2019.5-）
 
-#### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xa.gif" width="20" hegiht="20"/>西安
+##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xa.gif" width="20" hegiht="20"/>西安
 - 火车站（4号线，2018.12-）
 - 机场（T5）（机场城际，2019.9-）
 
-#### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hz.gif" width="20" hegiht="20"/>杭州
+##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hz.gif" width="20" hegiht="20"/>杭州
 - 下宁桥（2号线，2017.7-）
 - ~~火车东站~~（1号线，2012.11-2013.6）
 - ~~新塘~~（4号线，2015.2-2015.6）
 - ~~联庄~~（4号线，2018.1-2018.6）
 
-#### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hrb.gif" width="20" hegiht="20"/>哈尔滨
+##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hrb.gif" width="20" hegiht="20"/>哈尔滨
 - ~~博物馆~~（1号线，2013.9-2014.9）
 - ~~哈尔滨大街~~（3号线，2017.1-2017.6）
 - ~~瓦盆窑~~（1号线，2019.4-2019.9）
 
-#### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/zz.gif" width="20" hegiht="20"/>郑州
+##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/zz.gif" width="20" hegiht="20"/>郑州
 - 小乔、华南城东（城郊线，2017.1-）
 - 莲湖、市民大道、须水（14号线，2019.9-）
 - ~~河南大学新区~~（1号线，2017.1-2019.11）
 
-#### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cs.gif" width="20" hegiht="20"/>长沙
+##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cs.gif" width="20" hegiht="20"/>长沙
 - 会展中心、汽车城（磁浮快线，2016.5-）
 
-#### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wx.gif" width="20" hegiht="20"/>无锡
+##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wx.gif" width="20" hegiht="20"/>无锡
 - 安镇（2号线，2014.12-）
 - ~~映月湖公园、迎宾广场~~（2号线，2014.12-2015.4）
 
-#### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/qd.gif" width="20" hegiht="20"/>青岛
+##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/qd.gif" width="20" hegiht="20"/>青岛
 - 鳌山湾（11号线，2018.4-）
 
-#### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nn.gif" width="20" hegiht="20"/>南宁
+##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nn.gif" width="20" hegiht="20"/>南宁
 - 东沟岭（3号线，2019.6-）
 
-#### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gy.gif" width="20" hegiht="20"/>贵阳
+##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gy.gif" width="20" hegiht="20"/>贵阳
 - ~~窦官~~（1号线，2017.12-2019.12）
 
-#### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xm.gif" width="20" hegiht="20"/>厦门
+##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xm.gif" width="20" hegiht="20"/>厦门
 - 东瑶、鼎美、马峦中心（2号线，2019.12-）
 
-#### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wz.gif" width="20" hegiht="20"/>温州
+##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wz.gif" width="20" hegiht="20"/>温州
 - 秀屿、温州火车站、文昌路（S1线，2019.1-）
 
-#### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/jn.gif" width="20" hegiht="20"/>济南
+##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/jn.gif" width="20" hegiht="20"/>济南
 - 裴家营（3号线，2019.12-）
 
-#### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/lz.gif" width="20" hegiht="20"/>兰州
+##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/lz.gif" width="20" hegiht="20"/>兰州
 - 省政府（1号线，2019.6-）
 
-#### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/mo.gif" width="20" hegiht="20"/>澳门
+##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/mo.gif" width="20" hegiht="20"/>澳门
 - 莲花圆形地（氹仔线，2019.12-）
 
 ### 换乘
