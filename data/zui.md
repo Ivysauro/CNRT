@@ -39,6 +39,6 @@
 - 最长中文站名（多站名不计）：上海儿童医学中心（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，8字）、国际生态会议中心（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gy.gif" width="20" hegiht="20"/>贵阳，8字）
 
 ## 最·运营
-- 数字编号最大的运营线路：广州地铁21号线（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/fs.gif" width="20" hegiht="20"/>广州，21）
+- 数字编号最大的运营线路：广州地铁21号线（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州，21）
 - 最多换乘线路的站：世纪大道（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，4线，2/4/6/9）、车公庙（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sz.gif" width="20" hegiht="20"/>深圳，4线，1/7/9/11）、南京南站（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nj.gif" width="20" hegiht="20"/>南京，4线，1/3/S1/S3）、龙阳路（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，4线含磁悬浮，2/7/16/磁悬浮）
 - 最多换乘次数的线（不考虑共线）：长沙地铁2号线/4号线（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cs.gif" width="20" hegiht="20"/>长沙，4次，溁湾镇、沙湾公园、长沙火车南站、光达）
