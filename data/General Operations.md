@@ -198,12 +198,22 @@
 
 ### P+R
 
-*待完善*
+#### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京
+
+#### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海
+- 5元停车场：富锦路(1)、江杨北路(3)、美兰湖(7)、松江大学城(9)、嘉定西(11)、安亭(11)、漕盈路(17)
+- 10元停车场：汶水路(1)、外环路(1)、淞虹路(2)、唐镇(2)、大场镇(7)、沈杜公路(8)、芦恒路(8)、南翔(11)、嘉定新城(11)
+
+#### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nj.gif" width="20" hegiht="20"/>南京
+
+#### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/suz.gif" width="20" hegiht="20"/>苏州
+- 星塘街1、钟南街1、狮子山1/3、木渎1、月亮湾2、桑田岛2、高铁苏州北站2、阳澄湖中路2、新家桥2、龙道浜4、天鹅荡路4、吴江人民广场4、流虹路4、笠泽路4、松陵大道4、同里4
+
+#### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hz.gif" width="20" hegiht="20"/>杭州
 
 ### 车厢温度/ Temperature
 
 *待完善*
-
 
 ## 设计/ Design
 
