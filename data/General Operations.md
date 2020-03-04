@@ -4,11 +4,16 @@
 - [车票/ Ticket](#车票-Ticket)
   - [单程票材质/ Material of One-way Ticket](#单程票材质-Material-of-One-way-Ticket)
   - [票价/ Price](#票价-Price)
+    - [基础票价/ Basic](#基础票价-Basic)
+    - [专线/ Dedicated Line](#专线-Dedicated-Line)
+    - [优惠政策/ Discount Policies](#优惠政策-Discount-Policies)
   - [计时卡/ Timing Card](#计时卡-Timing-Card)
  - [服务/ Service](#服务-Service)
-  - [App](#App)
-  - [P+R](#P+R)
-  - [车厢温度/ Temperature](#车厢温度-Temperature)
+   - [App](#App)
+     - [功能/ General Functions](#功能-General-Functions)
+     - [城轨二维码互联互通/ City Rail QR Code Union](#城轨二维码互联互通-City-Rail-QR-Code-Union)
+   - [P+R](#P+R)
+   - [车厢温度/ Temperature](#车厢温度-Temperature)
 - [设计/ Design](#设计-Design)
   - [标识/ Logo](#标识-Logo)
   - [标识色/ Color](#标识色-Color)
@@ -117,7 +122,7 @@
 
 ❗ 由于消息来源复杂且无条件测试，本表有很多错漏，应以实际支持情况为准/ There may be many mistakes😑
 
-#### 主要功能/ General Functions
+#### 功能/ General Functions
 
 | 支付方式 | Payment Method |
 | :-: | :-: |
