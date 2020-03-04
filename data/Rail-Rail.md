@@ -9,6 +9,7 @@
 |  | 北京/ Beijing | 北京/ Beijing/ BJP | 北京局/ CR Beijing | 北京站/ Beijing RS |
 |  | 北京/ Beijing | 北京北/ Beijingbei/ VAP | 北京局/ CR Beijing | 西直门/ XIZHIMEN |
 | 👟~1.2km | 北京/ Beijing | 北京大兴/ Beijingdaxing/ IPP | 北京局/ CR Beijing | 黄村火车站/ HUANGCUN RS |
+|  | 北京/ Beijing | 北京东/ Beijingdong/ BOP | 北京局/ CR Beijing | 🏗北京东站/ Beijing East RS |
 |  | 北京/ Beijing | 北京南/ Beijingnan/ VNP | 北京局/ CR Beijing | 北京南站/ Beijing South RS |
 |  | 北京/ Beijing | 北京西/ Beijingxi/ BXP | 北京局/ CR Beijing | 北京西站/ Beijing West RS |
 | 👟~1.3km | 北京/ Beijing | 昌平北/ Changpingbei/ VBP | 北京局/ CR Beijing | 昌平/ CHANGPING |
@@ -17,14 +18,27 @@
 | 👟~500m | 北京/ Beijing | 黄土店/ Huangtudian/ HKP | 北京局/ CR Beijing | 霍营/ HUOYING |
 |  | 北京/ Beijing | 清河/ Qinghe/ QIP | 北京局/ CR Beijing | 清河/ Qing He |
 | 👟 | 北京/ Beijing | *沙河/ Shahe/ SHP* | 北京局/ CR Beijing | 🏗巩华城西/ Gonghuacheng Xi(W) |
-| 👟~800m | 北京/ Beijing | *顺义/ Shunyi/ SOP* | 北京局/ CR Beijing | 石门/ SHIMEN |
-| 👟~900m | 北京/ Beijing | *通州西/ Tongzhouxi/ TAP* | 北京局/ CR Beijing | 八里桥/ BALIQIAO |
+| 👟~800m | 北京/ Beijing | 顺义/ Shunyi/ SOP | 北京局/ CR Beijing | 石门/ SHIMEN |
+| 👟~1.4km | 北京/ Beijing | 通州/ Tongzhouxi/ TOP | 北京局/ CR Beijing | 九棵树/ JIUKESHU |
+| 👟~900m | 北京/ Beijing | 通州西/ Tongzhouxi/ TAP | 北京局/ CR Beijing | 八里桥/ BALIQIAO |
+| 👟 | 北京/ Beijing | *衙门口/ Yamenkou/ ??P* | 北京局/ CR Beijing | 🏗衙门口东/ Yamenkou Dong(E) |
+| 👟~1000m | 北京/ Beijing | *望京/ Wangjing/ WFP* | 北京局/ CR Beijing | 善各庄/ SHANGEZHUANG |
 |  | 北京/ Beijing | *亦庄/ Yizhuang/ YUP* | 北京局/ CR Beijing | 亦庄火车站/ YIZHUANG RS |
+| 👟 | 北京/ Beijing | *周口店/ Zhoukoudian/ ZPP* | 北京局/ CR Beijing | 周口店/ Zhoukou Dian |
 |  | 北京/ Beijing | 🏗北京城市副中心/ Beijingchengshifuzhongxin | 北京局/ CR Beijing | 北运河东/ BEIYUNHE East |
 |  | 北京/ Beijing | 🏗北京城市副中心/ Beijingchengshifuzhongxin | 北京局/ CR Beijing | 🏗副中心站/ Fuzhongxin RS |
-|  | 北京/ Beijing | 🏗丰台/ Fengtai/ FTP | 北京局/ CR Beijing | 丰台站/ FENGTAI RS |
-|  | 北京/ Beijing | 🏗施园/ Shiyuan | 北京局/ CR Beijing | 花庄/ Hua Zhuang |
 |  | 北京/ Beijing | 🏗首都机场/ Capital Airport | 北京局/ CR Beijing | 3号航站楼/ Terminal 3 |
+|  | 北京/ Beijing | 🏗大兴新城/ Daxingxincheng | 北京局/ CR Beijing | 大兴新城/ Daxing Xincheng |
+|  | 北京/ Beijing | 🏗丰台/ Fengtai/ FTP | 北京局/ CR Beijing | 丰台站/ FENGTAI RS |
+|  | 北京/ Beijing | 🏗广阳城/ Guangyangcheng | 北京局/ CR Beijing | 广阳城/ GUANGYANGCHENG |
+|  | 北京/ Beijing | 🏗海子角/ Haizijiao | 北京局/ CR Beijing | 🏗海子角/ Haizi Jiao |
+|  | 北京/ Beijing | 🏗后辛庄/ Houxinzhuang | 北京局/ CR Beijing | 🏗后辛庄/ Houxin Zhuang |
+|  | 北京/ Beijing | 🏗花庄/ Huazhuang | 北京局/ CR Beijing | 花庄/ Hua Zhuang |
+|  | 北京/ Beijing | 🏗金安桥/ Jin'anqiao | 北京局/ CR Beijing | 金安桥/ JIN'ANQIAO |
+|  | 北京/ Beijing | 🏗酒仙桥/ Jiuxianqiao | 北京局/ CR Beijing | 酒仙桥/ JIUXIANQIAO |
+|  | 北京/ Beijing | 🏗立水桥/ Lishuiqiao | 北京局/ CR Beijing | 立水桥/ LISHUIQIAO |
+|  | 北京/ Beijing | 🏗南法信/ Nanfaxin | 北京局/ CR Beijing | 南法信/ NANFAXIN |
+|  | 北京/ Beijing | 🏗四惠东/ Sihuidong | 北京局/ CR Beijing | 四惠东/ SIHUI East |
 |  | 北京/ Beijing | 🏗星火/ Xihuo/ XUP | 北京局/ CR Beijing | 🏗星火站/ Xinghuo RS |
 |  | 北京/ Beijing | 🏗亦庄东/ Yizhuangdong | 北京局/ CR Beijing | 🏗亦庄东站/ Yizhuang East RS |
 |  | 廊坊/ Langfang | 燕郊/ Yanjiao/ AJP | 北京局/ CR Beijing | 🏗燕郊/ Yanjiao |
