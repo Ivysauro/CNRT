@@ -246,6 +246,7 @@
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京地铁14号线（东段、西段）
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wh.gif" width="20" hegiht="20"/>武汉地铁8号线（南段、北段）
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tj.gif" width="20" hegiht="20"/>~~天津地铁2号线~~（东段、西段）
+- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>~~上海地铁1号线~~（南段、北段）
 
 ## 脱网
 
