@@ -24,7 +24,9 @@
 ### 单程票材质/ Material of One-way Ticket
 
 #### 代币式
+
 #### 卡片式
+
 #### 纸质票
 
 ### 票价/ Price
@@ -97,6 +99,7 @@
 | 高雄/ Kaohsiung | 85折 | 累计优惠（每日第3次免费） | 轻轨优惠20元新台币，换乘优惠(2小时内优惠3元新台币） |
 
 ##### 本地优惠（电子卡）/ Local Discount (e-Card)
+
 | 城市/ City | 地铁/ Rail Transit | 公交/ Buses | 其他/ Other |
 | :- | :- | :- | :- |
 | 昆明/ Kunming | | 支付宝同等优惠 |
@@ -104,6 +107,7 @@
 | …… |
 
 ##### 异地优惠/ Non-local Discount
+
 | 城市/ City | 地铁/ Rail Transit | 公交/ Buses | 其他/ Other | 
 | :- | :- | :- | :- |
 | 南京/ Nanjing | 95折（仅省内卡） | 无 |
@@ -113,7 +117,9 @@
 | …… |
 
 ### 计时卡/ Timing Card
+
 #### 短时卡(旅游向)/ Short Timing Card (For Traveling)
+
 #### 长时卡(通勤向)/ Long Timing Card (For Work-Trip)
 
 ## 服务/ Service
