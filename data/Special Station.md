@@ -51,6 +51,7 @@
 #### 暂缓开通/预留
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京
+- 福寿岭（1号线，1973.4-）
 - 二里沟（6号线，2012.12-）
 - 高家园（14号线，2014.12-预计2021.12）
 - 通运门（6号线，2014.12-）
