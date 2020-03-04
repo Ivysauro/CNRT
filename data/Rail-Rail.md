@@ -176,9 +176,12 @@
 |  | 合肥/ Hefei | 合肥南/ Hefeinan/ ENH | 上海局/ CR Shanghai | 合肥南站/ Heifeinan RS |
 |  | 合肥/ Hefei | 合肥南/ Hefeinan/ ENH | 上海局/ CR Shanghai | 南站南广场/ HEFEI South Railway South Square |
 |  | 合肥/ Hefei | 🏗合肥西/ Hefeixi/ HTH | 上海局/ CR Shanghai | 合肥西站/ Hefeixi RS |
+| 👟~1.6km | 南京/ Nanjing | 江宁/ Nanjing/ JJH | 上海局/ CR Shanghai | 南医大·江苏经贸学院/ NMU/JIETT |
+| 👟~1.0km | 南京/ Nanjing | 六合/ Nanjing/ KLH | 上海局/ CR Shanghai | 方州广场/ FANGZHOUGUANGCHANG |
 |  | 南京/ Nanjing | 南京/ Nanjing/ NJH | 上海局/ CR Shanghai | 南京站/ NANJING RAILWAY STATION |
+| 👟~1.5km | 南京/ Nanjing | *南京北/ Nanjingbei/ VBH（即浦口）* | 上海局/ CR Shanghai | 🏗新马路/ XINMALU |
 |  | 南京/ Nanjing | 南京南/ Nanjingnan/ NKH | 上海局/ CR Shanghai | 南京南站/ NANJING SOUTH RAILWAY STATION |
-|  | 南京/ Nanjing | 南京西/ Nanjingxi/ NIH | 上海局/ CR Shanghai | 🏗南京西站/ NANJING WEST RAILWAY STATION |
+|  | 南京/ Nanjing | *南京西/ Nanjingxi/ NIH* | 上海局/ CR Shanghai | 🏗南京西站/ NANJING WEST RAILWAY STATION |
 |  | 南京/ Nanjing | *中华门/ Zhonghuamen/ VNH* | 上海局/ CR Shanghai | 中华门/ ZHONGHUAMEN |
 |  | 南京/ Nanjing | 🏗南京北/ Nanjingbei/ VBH? | 上海局/ CR Shanghai | 🏗南京北站/ NANJING NORTH RAILWAY STATION |
 |  | 南京/ Nanjing | 🏗紫金山东/ Zijinshandong | 上海局/ CR Shanghai | 金马路/ JINMALU |
