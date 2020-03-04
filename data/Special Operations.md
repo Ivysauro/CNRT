@@ -200,6 +200,7 @@
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hz.gif" width="20" hegiht="20"/>***杭州地铁1号线/9号线***
 
 ### 贯通拆分/一分为二
+- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京地铁一线/环线（1987.12）
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tp.gif" width="20" hegiht="20"/>台北捷运（请参见[维基百科](https://zh.wikipedia.org/zh-cn/%E8%87%BA%E5%8C%97%E6%8D%B7%E9%81%8B#%E6%AD%B7%E5%8F%B2)）
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州地铁2号线/8号线（2010.9）
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>***北京地铁13A线/13B线***
