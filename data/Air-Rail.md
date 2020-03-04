@@ -38,7 +38,7 @@
 
 | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Airport.png" width="15" hegiht="15" alt="Airport"/>机场/ Airport | 空管信息/ ICAO Info | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>火车站/ Railway Station | 铁路信息/ Railway Info |
 | :-: | :- | :- | :- | :- |
-| | 北京首都/ Beijing Capital/ PEK | 华北-北京/ ZBAA | 🏗首都机场?/ Capital Airport? | 北京局/ CR Beijing-🏗? |
+| | 北京首都/ Beijing Capital/ PEK | 华北-北京/ ZBAA | 🏗首都机场/ Capital Airport | 北京局/ CR Beijing-🏗市域铁路城际联络线 |
 | | 天津滨海/ Tianjin Binhai/ TSN | 华北-北京/ ZBTJ | 🏗滨海机场/ Binhai Airport | 北京局/ CR Beijing-🏗京滨城际线 |
 | 🚌~4km | 上海浦东/ Shanghai Pudong/ PVG | 华东-上海/ ZSPD | 🏗上海东/ Shanghaidong | 上海局/ CR-Shanghai-🏗北沿江高速线、🏗沪通线 |
 | | 杭州萧山/ Hangzhou Xiaoshan/ HGH | 华东-上海/ ZSHC | 🏗萧山机场/ Xiaoshan Airport | 上海局/ CR Shanghai-🏗杭绍台高速线 |
