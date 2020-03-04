@@ -9,8 +9,8 @@
   - [App](#App)
   - [P+R](#P+R)
   - [车厢温度/ Temperature](#车厢温度-Temperature)
-- [设计/ Design](#设计-Design）
-  - [标识/ Logo](#标识-Logo）
+- [设计/ Design](#设计-Design)
+  - [标识/ Logo](#标识-Logo)
   - [标识色/ Color](#标识色-Color)
 - [参考资料/ References](参考资料-References)
 
