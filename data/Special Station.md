@@ -105,6 +105,7 @@
 - ~~机场北~~（3号线，2010.10-2018.4）
 - ~~一德路~~（6号线，2013.12-2015.1）
 - ~~植物园、柯木塱~~（6号线，2016.12-2017.6）
+- ~~清塘~~（9号线，2017.12-2018.6）
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cc.gif" width="20" hegiht="20"/>长春
 - 东新路（4号线，2011.6-）
@@ -159,7 +160,7 @@
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sz.gif" width="20" hegiht="20"/>深圳
 - 福邻（7号线，2016.10-）
-- ~~福田口岸~~（4号线，2004.12-2007.6）
+- ~~皇岗~~（4号线，2004.12-2007.6）
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nj.gif" width="20" hegiht="20"/>南京
 - ~~南京南站~~（1号线，2010.5-2011.6）
@@ -446,7 +447,6 @@
 
 #### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sz.gif" width="20" hegiht="20"/>深圳
 - 皇岗→福田口岸（4号线，2008.8）
-- 体育新城→大运（3号线，?）
 
 #### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/suz.gif" width="20" hegiht="20"/>苏州
 - 苏州乐园→狮子山（1号线，2019.12）
