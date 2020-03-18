@@ -72,11 +72,11 @@
 | 深圳通 | | ✅ | | 🕓 | | | ✅ | ✅ ||
 | 广西交通一卡通（桂民卡）	| ✅ | ✅ | | | ✅ | | ✅ | ✅ ||
 | 海南一卡通（海岛通）	| ✅ | ✅ | | | | | ✅ | ✅ ||
-| 贵州通 | | 🕓 ||||||||
+| 贵州通 | | 🕓 ||||| ✅ |||
 | 西藏一卡通 | | | | | | | | ✅ ||
 | 西安·长安通 | ✅ | | ✅ | | | | | ✅💥 | ✅ |
 | 榆林·驼城通 | | ✅ | | | | | | ✅ ||
-| 兰州公交一卡通 | | ✅ | | | | | | ✅ ||
+| 兰州公交一卡通 | | ✅ | | | | | ✅ | ✅ ||
 | 乌鲁木齐·红山通 | | 🕓 ||||||||
 | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/OnePlus.png" width="25" hegiht="25" alt="OnePlus"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/>  | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/vivo.png" width="40" hegiht="40" alt="vivo"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Mini Program.png" width="25" hegiht="25" alt="WeChat Transit Card"/> |
 
