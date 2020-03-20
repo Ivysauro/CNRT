@@ -58,7 +58,6 @@
 | 江苏交通一卡通·淮安 | | ✅ | | | | | | ✅ ||
 | 江苏交通一卡通·连云港 | | ✅ | | | | | ✅ | ✅ ||
 | 江苏交通一卡通·宿迁 | | ✅ | | | | | | ✅ ||
-| 宁波·甬城通 | | 🕓 | | | | | | ||
 | 绍兴一卡通 | | | | | | | ✅ | ✅ ||
 | 合肥通 | 🕓 | | | | | | | ✅💥 ||
 | 厦门e通卡 | ✅ | | | | | | | ✅💥 | ✅ |
@@ -88,10 +87,17 @@
 | 金华市民卡·八婺通 | | ✅ ||||| ✅ |||
 | 郑州·绿城通 | ✅ | | | | ✅ | ✅ | ✅ | ✅ ||
 
+城市一卡通互联互通说明/ Notes of City Union：
+- 上海系统（可在上海使用）：上海、江苏（太仓常熟昆山、无锡公交及宜兴江阴、南通及启东、泰州、淮安）、浙江（宁波公交、绍兴、湖州及长兴、台州、舟山、嘉兴、金华及义乌、温州公交及轮渡）
+- 澳门系统（不可在上海使用，可在澳门使用）：沈阳、郑州、南昌
+- 已退出（已退出本标准）：兰州
+- 自有系统（仅加载本标准，是否与其他城市互通有待测试）：[城市一卡通名单](http://www.icfw.com.cn/city_card.php)中的其他城市
+
 ### 双标卡/ TU&CU Cards <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="35" hegiht="35"><img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/City Union.png" width="30" hegiht="30">
 
 | 卡名称/ Card Name | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/OnePlus.png" width="25" hegiht="25" alt="OnePlus"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/>  | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/vivo.png" width="40" hegiht="40" alt="vivo"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Mini Program.png" width="25" hegiht="25" alt="WeChat Transit Card"/> |
 | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 宁波·甬城通 | | 🕓 | | | | | | ||
 | 台州公共交通卡 | ✅ | | | | | | ✅ | ✅ ||
 
 ### 市民卡/ Local Transit Cards <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Citizen Card.png" width="30" hegiht="30">
@@ -119,13 +125,6 @@
 [^nc]: 需要通过洪城一卡通app开通
 [^cd]: 需要通过天府通app开通
 [^yy]: 可开通普通卡之外的如学生卡、1280定期票等特殊卡种
-
-## 城市一卡通互联互通说明/ Notes of City Union
-
-- 上海系统（可在上海使用）：上海、江苏（太仓常熟昆山、无锡公交及宜兴江阴、南通及启东、泰州、淮安）、浙江（宁波公交、绍兴、湖州及长兴、台州、舟山、嘉兴、金华及义乌、温州公交及轮渡）
-- 澳门系统（不可在上海使用，可在澳门使用）：沈阳、郑州、南昌
-- 已退出（已退出本标准）：兰州
-- 自有系统（仅加载本标准，不与其他城市互通）：[城市一卡通名单](http://www.icfw.com.cn/city_card.php)中的其他城市
 
 ## 参考来源/ References
 - <http://www.miui.com/thread-17774691-1-1.html>
