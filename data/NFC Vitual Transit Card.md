@@ -61,7 +61,7 @@
 | 宁波·甬城通 | | 🕓 | | | | | | ||
 | 绍兴一卡通 | | | | | | | ✅ | ✅ ||
 | 合肥通 | 🕓 | | | | | | | ✅💥 ||
-| 厦门e通卡 | ✅ | | | | | | | ✅💥 ||
+| 厦门e通卡 | ✅ | | | | | | | ✅💥 | ✅ |
 | 青岛·琴岛通	| ✅ | ✅ | ✅💥 | | | ✅ | ✅ | ✅ ||
 | 潍坊通 | | 🕓 ||||| ✅ |||
 | 郑州·轩辕通 | | ✅ ||||||||
@@ -100,7 +100,7 @@
 | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 北京市政交通一卡通 | ❌ | ❌ | ✅ | ✅ | | | | ||
 | 苏州市民卡	| ❌ | ❌ ||||||||
-| 杭州通	| ❌ | 🕓 ||||||||
+| 杭州通	| ❌ | ✅ ||||||||
 | 合肥通	| ✅ | ✅ | ✅ | | ✅ | ✅ | ✅ | ✅ ||
 | 厦门e通卡	| ✅ | ✅ | | | | ✅ | ✅ | ✅ ||
 | 南昌·洪城通 | | ⭕[^nc] | | | | | ✅ | ✅💥 ||
@@ -111,6 +111,7 @@
 | 重庆畅通卡	| ✅ | ✅ | | | ✅ | | ✅ | ✅ ||
 | 成都·天府通	| 🕓 | ⭕[^cd] | | | | | ⭕[^cd] |||
 | 西安·长安通	| ✅ | ✅ | | | ✅ | | | ✅ ||
+| 乌鲁木齐·红山通 | | | | | | | | | ✅ |
 | 香港·八达通 | | | ✅ | 🕓 ||||||
 | 台湾·悠游卡 | | | ✅💥[^yy] |
 | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/OnePlus.png" width="25" hegiht="25" alt="OnePlus"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/>  | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/vivo.png" width="40" hegiht="40" alt="vivo"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Mini Program.png" width="25" hegiht="25" alt="WeChat Transit Card"/> |
