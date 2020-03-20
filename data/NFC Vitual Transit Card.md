@@ -27,7 +27,6 @@
 | 图标/ Icon | 中文/ Chinese | 英文/ English |
 | :-: | :- | :- |
 | ✅ | 已上线 | Support |
-| ⭕ | 需要其他App辅助开通 | Support but needs other App |
 | 🕓 | 即将上线 | Coming Soon |
 | ❌ | 已下线 | Closed |
 | 💥 | 新变动 | New Update |
@@ -61,7 +60,7 @@
 | 江苏交通一卡通·宿迁 | | ✅ | | | | | | ✅ ||
 | 宁波·甬城通 | | 🕓 | | | | | | ||
 | 绍兴一卡通 | | | | | | | ✅ | ✅ ||
-| 合肥通 | | | | | | | | ✅💥 ||
+| 合肥通 | 🕓 | | | | | | | ✅💥 ||
 | 厦门e通卡 | ✅ | | | | | | | ✅💥 ||
 | 青岛·琴岛通	| ✅ | ✅ | ✅💥 | | | ✅ | ✅ | ✅ ||
 | 潍坊通 | | 🕓 ||||| ✅ |||
@@ -104,7 +103,7 @@
 | 杭州通	| ❌ | 🕓 ||||||||
 | 合肥通	| ✅ | ✅ | ✅ | | ✅ | ✅ | ✅ | ✅ ||
 | 厦门e通卡	| ✅ | ✅ | | | | ✅ | ✅ | ✅ ||
-| 南昌·洪城通 | | ⭕ | | | | | ⭕ | ⭕💥 ||
+| 南昌·洪城通 | | ⭕[^nc] | | | | | ✅ | ✅💥 ||
 | 武汉通	| ✅ | ✅ | ✅ | | ✅ | ✅ | ✅ | ✅ ||
 | 广东·岭南通	| ❌ | ✅ | ✅ | | | | | ||
 | 广州·羊城通	| | ✅ | | | | | | ||
@@ -116,6 +115,7 @@
 | 台湾·悠游卡 | | | ✅💥[^yy] |
 | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/OnePlus.png" width="25" hegiht="25" alt="OnePlus"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/>  | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/vivo.png" width="40" hegiht="40" alt="vivo"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Mini Program.png" width="25" hegiht="25" alt="WeChat Transit Card"/> |
 
+[^nc]: 需要通过洪城一卡通app开通
 [^yy]: 可开通普通卡之外的如学生卡、1280定期票等特殊卡种
 
 ## 城市一卡通互联互通说明/ Notes of City Union
