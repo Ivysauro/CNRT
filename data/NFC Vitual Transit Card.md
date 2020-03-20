@@ -80,14 +80,14 @@
 | 乌鲁木齐·红山通 | | 🕓 ||||||||
 | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/OnePlus.png" width="25" hegiht="25" alt="OnePlus"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/>  | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/vivo.png" width="40" hegiht="40" alt="vivo"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Mini Program.png" width="25" hegiht="25" alt="WeChat Transit Card"/> |
 
-### 住房与城乡建设部·[城市一卡通]及市民卡(http://www.icfw.com.cn/city_card.php)卡/ City Union Cards & Citizen Cards <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/City Union.png" width="30" hegiht="30"><img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Citizen Card.png" width="30" hegiht="30"> 
+### 住房与城乡建设部·[城市一卡通](http://www.icfw.com.cn/city_card.php)卡及市民卡/ City Union Cards & Citizen Cards <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/City Union.png" width="30" hegiht="30"><img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Citizen Card.png" width="30" hegiht="30"> 
 
 | 卡名称/ Card Name | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/OnePlus.png" width="25" hegiht="25" alt="OnePlus"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/>  | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/vivo.png" width="40" hegiht="40" alt="vivo"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Mini Program.png" width="25" hegiht="25" alt="WeChat Transit Card"/> |
 | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 北京市政交通一卡通 | ❌ | ❌ | ✅ | ✅ | | | | ||
 | 上海公共交通卡 | ✅ | ✅ | ✅ | ✅ | | ✅ | ✅ | ✅ ||
 | 苏州市民卡	| ❌ | ❌ ||||||||
-| 杭州通	| ❌ | ✅ ||||||||
+| 杭州通	| ❌ | ✅💥 ||||||||
 | 宁波·甬城通 | 🕓 | | | | | | ✅ | ✅ ||
 | 金华市民卡·八婺通 | | ✅ ||||| ✅ |||
 | 合肥通	| ✅ | ✅ | ✅ | | ✅ | ✅ | ✅ | ✅ ||
