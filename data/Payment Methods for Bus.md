@@ -25,11 +25,15 @@
 
 | 城市/ City | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Official Apps"/> |
 | :- | :-: | :-: | :-: | :-: | :-: | :-: | :- |
-| 北京/ Beijing | ⭕ | ✅ | ✅ | | 🕓 | | 北京公交、北京一卡通、亿通行 |
+| 北京/ Beijing | ⭕[^bj] | ✅ | ✅ | ⭕[^bj2] | 🕓 | | 北京公交、北京一卡通、亿通行 |
 | 天津/ Tianjin | ✅ | ✅ | ✅ | ✅ | ✅ | | |
-| 石家庄/ Shijiazhuang |
-| 保定/ Baoding |
-| 唐山/ Tangshan |
+| 石家庄/ Shijiazhuang | ✅ | ✅ | ✅ | ✅ | | | 石家庄智慧公交 |
+| 承德/ Chengde | ✅ | | | | | | 承德公交行、美团 |
+| 张家口/ Zhangjiakou | ✅ | ✅ | ✅ | ✅ | | ✅ | |
+| 秦皇岛/ Qinhuangdao | ✅ | | ✅ | | | | 秦皇岛公交卡 |
+| 唐山/ Tangshan | ✅ | ✅ | | | | ✅ | 唐山行 |
+| 廊坊/ Langfang | ✅ | ✅ | ✅ | | | ✅ | 廊坊行 |
+| 保定/ Baoding | ✅ | ✅ | | | | ✅ | 保定通 |
 | 太原/ Taiyuan |
 | 大同/ Datong |
 | 呼和浩特/ Hohhot |
@@ -66,7 +70,7 @@
 | 武汉/ Wuhan | 
 | 宜昌/ Yichang |
 | 襄阳/ Xiangyang |
-| 长沙/ Changsha |
+| 长沙/ Changsha | ✅ | | ✅ | | | | 湘行一卡通、长沙地铁 |
 | 衡阳/ Hengyang |
 | 株洲/ Zhuzhou |
 | 广州/ Guangzhou | ✅ | | ✅ | ✅ | ✅ | | 羊城通、岭南通 |
@@ -97,6 +101,9 @@
 | 乌鲁木齐/ Urumqi |
 | … |
 | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Official Apps"/> |
+
+[^bj]: 北京公交交通联合采用专有白名单
+[^bj2]: 仅北京郊区公交支持微信乘车码
 
 ## 充值/ Charging
 
