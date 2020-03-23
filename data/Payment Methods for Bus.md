@@ -14,7 +14,7 @@
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | 微信乘车码 | WeChat Pay Transit QR Code |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | 银联乘车码 | Unionpay Transit QR Code |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay QR Code"/> | 银联付款码 | Unionpay QR Code |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Official Apps"/> | 官方应用乘车码 | Transit QR Code of Official Apps |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> | 其他应用乘车码 | Transit QR Code of Additional Apps |
 
 | 图标/ Icon | 中文/ Chinese | 英文/ English |
 | :-: | :- | :- |
@@ -30,12 +30,15 @@
 | 石家庄/ Shijiazhuang | ✅ | ✅ | ✅ | ✅ | | | 石家庄智慧公交 |
 | 承德/ Chengde | ✅ | | | | | | 承德公交行、美团 |
 | 张家口/ Zhangjiakou | ✅ | ✅ | ✅ | ✅ | | ✅ | |
-| 秦皇岛/ Qinhuangdao | ✅ | | ✅ | | | | 秦皇岛公交卡 |
+| 秦皇岛/ Qinhuangdao | ✅ | | ✅ | | | | 秦皇岛公交卡、美团 |
 | 唐山/ Tangshan | ✅ | ✅ | | | | ✅ | 唐山行 |
 | 廊坊/ Langfang | ✅ | ✅ | ✅ | | | ✅ | 廊坊行 |
 | 保定/ Baoding | ✅ | ✅ | | | | ✅ | 保定通 |
-| 太原/ Taiyuan |
-| 大同/ Datong |
+| 太原/ Taiyuan | ✅ | ✅ | ✅ | | | ✅ | 太原公交 |
+| 大同/ Datong | ✅ | | ✅ | | | | |
+| 阳泉/ Yangquan | ✅ | ✅ | | | | | 阳泉公交在线、美团 |
+| 长治/ Changzhi | ✅ | | ✅ | ✅ | | ❔ | 长治公交通 |
+| 晋城/ Jincheng | ✅ | ✅ | ✅ | ✅ | | ✅ | |
 | 呼和浩特/ Hohhot |
 | 包头/ Baotou |
 | 沈阳/ Shenyang |
