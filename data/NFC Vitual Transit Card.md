@@ -76,7 +76,7 @@
 
 ## 住房与城乡建设部·城市一卡通卡及各地市民卡/ City Union Cards & Citizen Cards <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/City Union.png" width="30" hegiht="30"><img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Citizen Card.png" width="30" hegiht="30"> 
 
-目前，大部分加入住建部[全国城市一卡通互联互通项目]((http://www.icfw.com.cn/city_card.php))的城市仅加载该标准，不与其他城市结算或互通，与一地的市民卡区别已不大，故将二者合并列出。
+目前，大部分加入住建部[全国城市一卡通互联互通项目](http://www.icfw.com.cn/city_card.php)的城市仅加载该标准，不与其他城市结算或互通，与一地的市民卡区别已不大，故将二者合并列出。
 
 | 卡名称/ Card Name | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/OnePlus.png" width="25" hegiht="25" alt="OnePlus"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/>  | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/vivo.png" width="40" hegiht="40" alt="vivo"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Mini Program.png" width="25" hegiht="25" alt="WeChat Transit Card"/> |
 | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
