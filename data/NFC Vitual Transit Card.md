@@ -25,7 +25,7 @@
 | ❌ | 已下线 | Closed |
 | 💥 | 新变动 | New Update |
 
-大部分加入住建部[全国城市一卡通互联互通项目](http://www.icfw.com.cn/city_card.php)（即City Union，简称CU）的城市目前仅加载该标准或已加入交通部全国交通一卡通互联互通项目，已不与其他城市结算或互通，与一地的市民卡区别不大，故将二者合并列出，仅在加载该标准的卡名称后标注“#”。
+大部分加入住建部[全国城市一卡通互联互通项目](http://www.icfw.com.cn/city_card.php)（即City Union，简称CU）的城市目前仅加载该标准或已加入交通部[全国交通一卡通互联互通项目](https://www.cttic.cn/info/2349)（即China T-Union，简称TU），已不通过该标准与其他城市结算或互通，故将单标CU卡列入市民卡、CU&TU双标卡列入交通联合卡，仅在加载该标准的卡名称后标注“#”。
 
 ## 交通运输部·交通联合卡/ T-Union Cards <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="35" hegiht="35">
 
