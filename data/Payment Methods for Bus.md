@@ -43,8 +43,8 @@
 | 包头/ Baotou | ✅ | ✅ | ✅ | ✅ | ✅ | | |
 | 乌海/ Wuhai | ✅ | ✅ | ✅ | | | ✅ | |
 | 鄂尔多斯/ Ordos | ✅ | ✅ | | ✅ | | | 天骄通、美团 |
-| 沈阳/ Shenyang |
-| 大连/ Dalian |
+| 沈阳/ Shenyang | ✅ | ✅ | ✅ | ✅ | | ✅ | 盛京通 |
+| 大连/ Dalian | ✅ | | ✅ | | | | 亿通行(大连) |
 | 营口/ Yingkou |
 | 锦州/ Jinzhou |
 | 长春/ Changchun | ✅ | | | | | | 码码通 |
@@ -52,15 +52,15 @@
 | 四平/ Siping |
 | 辽源/ Liaoyuan |
 | 通化/ Tonghua |
-| 哈尔滨/ Harbin |
+| 哈尔滨/ Harbin | ✅ | ✅ | ✅ | ✅ | | | 哈尔滨城市通 |
 | 齐齐哈尔/ Qiqihar |
 | 牡丹江/ Mudanjiang |
 | 佳木斯/ Jiamusi |
 | 上海/ Shanghai | ✅ | | ✅ | ✅ | ✅ | | 上海一卡通 |
-| 南京/ Nanjing |
+| 南京/ Nanjing | ✅ | | ✅ | | ✅ | | |
 | 扬州/ Yangzhou |
-| 苏州/ Suzhou |
-| 无锡/ Wuxi |
+| 苏州/ Suzhou | ✅ | | ✅ | ✅ | ✅ | | 苏州市民卡 |
+| 无锡/ Wuxi | ✅ | | ✅ | | ✅ | | 无锡市民卡、无锡智慧公交、码上行 |
 | 常州/ Changzhou |
 | 南通/ Nantong |
 | 徐州/ Xuzhou |
