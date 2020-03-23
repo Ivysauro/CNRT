@@ -158,15 +158,21 @@
 | 克拉玛依/ Karamay |
 | 吐鲁番/ Turfan |
 | 哈密/ Hami |
-| 香港/ Hong Kong | | | ⭕ | | | | |
-| 澳门/ Macao | | ✅ | | | | | 澳门通 |
-| 台北/ Taipei | | | | | | | |
+| 香港/ Hong Kong | | | ⭕[^hk] | | | | |
+| 澳门/ Macao | | ⭕[^mo] | | | | | 澳门通、上海公共交通卡[^mo2] |
+| 台北/ Taipei | | | | | | | 上海公共交通卡[^tp] |
 | 高雄/ Kaohsiung | | | | | | | |
 | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Official Apps"/> |
 
 [^bj]: 北京公交交通联合采用专有白名单
 [^bj2]: 仅北京郊区公交支持微信乘车码
+[^hk]: 仅支持AlipayHk（即支付宝香港版）
+[^mo]: 仅支持电子现金（即内地已经淘汰的银联脱机闪付），为发卡行当日汇率
+[^mo2]: 理论上支持所有住建部城市一卡通标准的公交卡，推荐上海公共交通卡（紫卡），经多人测试可用，疑为固定汇率
+[^tp]: ❗上海公共交通卡（紫卡）可能可用（见https://www.v2ex.com//t/569309），未经测试，汇率不明，请准备好其他可用的付款方式
 
 ## 充值/ Charging
+
+*待完善*
 
 ---
