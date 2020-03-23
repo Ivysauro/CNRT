@@ -39,70 +39,129 @@
 | 阳泉/ Yangquan | ✅ | ✅ | | | | | 阳泉公交在线、美团 |
 | 长治/ Changzhi | ✅ | | ✅ | ✅ | | ❔ | 长治公交通 |
 | 晋城/ Jincheng | ✅ | ✅ | ✅ | ✅ | | ✅ | |
-| 呼和浩特/ Hohhot |
-| 包头/ Baotou |
+| 呼和浩特/ Hohhot | ✅ | ✅ | | ✅ | | ✅ | 青城通 |
+| 包头/ Baotou | ✅ | ✅ | ✅ | ✅ | ✅ | | |
+| 乌海/ Wuhai | ✅ | ✅ | ✅ | | | ✅ | |
+| 鄂尔多斯/ Ordos | ✅ | ✅ | | ✅ | | | 天骄通、美团 |
 | 沈阳/ Shenyang |
 | 大连/ Dalian |
+| 营口/ Yingkou |
+| 锦州/ Jinzhou |
 | 长春/ Changchun | ✅ | | | | | | 码码通 |
 | 吉林/ Jilin |
+| 四平/ Siping |
+| 辽源/ Liaoyuan |
+| 通化/ Tonghua |
 | 哈尔滨/ Harbin |
 | 齐齐哈尔/ Qiqihar |
+| 牡丹江/ Mudanjiang |
+| 佳木斯/ Jiamusi |
 | 上海/ Shanghai | ✅ | | ✅ | ✅ | ✅ | | 上海一卡通 |
 | 南京/ Nanjing |
+| 扬州/ Yangzhou |
 | 苏州/ Suzhou |
 | 无锡/ Wuxi |
+| 常州/ Changzhou |
 | 南通/ Nantong |
 | 徐州/ Xuzhou |
 | 连云港/ Lianyungang |
 | 杭州/ Hangzhou |
 | 宁波/ Ningbo |
 | 温州/ Wenzhou |
+| 嘉兴/ Jiaxing |
+| 绍兴/ Shaoxing |
 | 合肥/ Hefei |
+| 蚌埠/ Bengbu |
 | 芜湖/ Wuhu |
+| 安庆/ Anqing |
+| 黄山/ Huangshan |
 | 福州/ Fuzhou |
 | 泉州/ Quanzhou |
 | 厦门/ Xiamen |
+| 漳州/ Zhangzhou |
 | 南昌/ Nanchang |
+| 赣州/ Ganzhou |
+| 吉安/ Ji'an |
 | 九江/ Jiujiang |
 | 济南/ Jinan |
 | 青岛/ Qingdao |
 | 烟台/ Yantai |
+| 威海/ Weihai |
+| 潍坊/ Weifang |
 | 郑州/ Zhengzhou |
 | 开封/ Kaifeng |
 | 洛阳/ Luoyang |
+| 焦作/ Jiaozuo |
+| 许昌/ Xuchang |
+| 南阳/ Nanyang |
 | 武汉/ Wuhan | 
 | 宜昌/ Yichang |
 | 襄阳/ Xiangyang |
+| 荆州/ Jingzhou |
 | 长沙/ Changsha | ✅ | | ✅ | | | | 湘行一卡通、长沙地铁 |
-| 衡阳/ Hengyang |
 | 株洲/ Zhuzhou |
+| 湘潭/ Xiangtan |
+| 岳阳/ Yueyang |
+| 衡阳/ Hengyang |
+| 张家界/ Zhangjiajie |
 | 广州/ Guangzhou | ✅ | | ✅ | ✅ | ✅ | | 羊城通、岭南通 |
 | 深圳/ Shenzhen |
 | 东莞/ Dongguan |
 | 佛山/ Foshan |
 | 珠海/ Zhuhai |
 | 汕头/ Shantou |
+| 惠州/ Huizhou |
+| 中山/ Zhongshan |
+| 湛江/ Zhanjiang |
 | 南宁/ Nanning |
 | 桂林/ Guilin |
 | 柳州/ Liuzhou |
+| 北海/ Beihai |
 | 海口/ Haikou |
 | 三亚/ Sanya |
 | 重庆/ Chongqing |
 | 成都/ Chengdu |
-| 绵阳/ Mianyang
+| 绵阳/ Mianyang |
+| 内江/ Neijiang |
+| 乐山/ Leshan |
+| 泸州/ Luzhou |
+| 南充/ Nanchong |
+| 攀枝花/ Panzhihua |
 | 贵阳/ Guiyang |
+| 毕节/ Bijie |
 | 遵义/ Zunyi |
+| 六盘水/ Liupanshui |
 | 昆明/ Kunming |
 | 大理/ Dali |
+| 玉溪/ Yuxi |
+| 曲靖/ Qujing |
 | 拉萨/ Lhasa |
 | 日喀则/ Xigaze |
 | 西安/ Xi'an |
+| 宝鸡/ Baoji |
 | 咸阳/ Xianyang |
+| 渭南/ Weinan |
+| 延安/ Yan'an |
+| 汉中/ Hanzhong |
 | 兰州/ Lanzhou |
+| 武威/ Wuwei |
+| 张掖/ Zhangye |
+| 酒泉/ Jiuquan |
 | 西宁/ Xining |
+| 海东/ Haidong |
 | 银川/ Yinchuan |
+| 固原/ Guyuan |
+| 吴忠/ Wuzhong |
+| 中川/ Zhongchuan |
+| 石嘴山/ Shizuishan |
 | 乌鲁木齐/ Urumqi |
-| … |
+| 克拉玛依/ Karamay |
+| 吐鲁番/ Turfan |
+| 哈密/ Hami |
+| 香港/ Hong Kong |
+| 澳门/ Macao |
+| 台北/ Taipei |
+| 高雄/ Kaohsiung |
 | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Official Apps"/> |
 
 [^bj]: 北京公交交通联合采用专有白名单
