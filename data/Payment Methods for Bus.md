@@ -157,10 +157,10 @@
 | 遵义/ Zunyi | ✅ | | | | ✅ | ❌ | 遵义公交、贵州通、翼支付 |
 | 六盘水/ Liupanshui | ✅ | ❔ | | ✅ | | ✅ | |
 | 昆明/ Kunming | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 春城e路通 |
-| 大理/ Dali |
+| 丽江/ Lijiang |
 | 玉溪/ Yuxi |
 | 曲靖/ Qujing |
-| 拉萨/ Lhasa |
+| 拉萨/ Lhasa | ✅ | ✅ | | | ✅ | ✅ | |
 | 日喀则/ Xigaze |
 | 西安/ Xi'an | ✅ | | ✅ | ✅ | ✅ | | 西安公交出行 |
 | 宝鸡/ Baoji |
@@ -172,12 +172,12 @@
 | 武威/ Wuwei |
 | 张掖/ Zhangye |
 | 酒泉/ Jiuquan |
-| 西宁/ Xining |
+| 西宁/ Xining | ✅ | ✅ | ✅ | | ✅ | ✅ | 西宁智能公交 |
 | 海东/ Haidong |
-| 银川/ Yinchuan |
+| 银川/ Yinchuan | ✅ | ✅ | ⭕ | | ✅ | | 码上行 |
 | 固原/ Guyuan |
 | 吴忠/ Wuzhong |
-| 中川/ Zhongchuan |
+| 中卫/ Zhongwei |
 | 石嘴山/ Shizuishan |
 | 乌鲁木齐/ Urumqi | ✅ | ✅ | ✅ | ✅ | | | 红山通 |
 | 克拉玛依/ Karamay |
