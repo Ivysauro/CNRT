@@ -133,14 +133,14 @@
 | 东莞/ Dongguan | ✅ | ✅ | ✅ | ✅ | | | 东莞通 |
 | 佛山/ Foshan | ✅ | ✅ | ✅ | ✅ | | | 佛山城市通 |
 | 珠海/ Zhuhai | ✅ | ✅ | ✅ | ✅ | | | 珠海TONG、上海公共交通卡[^zh] |
-| 汕头/ Shantou |
-| 惠州/ Huizhou |
-| 中山/ Zhongshan |
-| 湛江/ Zhanjiang |
-| 南宁/ Nanning | ✅ | | | ✅ | ✅ | | 出行南宁、爱南宁 |
-| 桂林/ Guilin |
-| 柳州/ Liuzhou |
-| 北海/ Beihai |
+| 汕头/ Shantou | ✅ | ✅ | | ✅ | ✅ | ✅ | |
+| 惠州/ Huizhou | ✅ | ✅ | | ✅ | | ✅ | |
+| 中山/ Zhongshan | ✅ | ✅ | ✅ | ✅ | | ✅ | |
+| 湛江/ Zhanjiang | ✅ | ✅ | ✅ | | | ✅ | |
+| 南宁/ Nanning | ✅ | | ⭕ | ✅ | ✅ | | 出行南宁、爱南宁 |
+| 桂林/ Guilin | ✅ | ✅ | | | ✅ | ✅ | 桂林出行网 |
+| 柳州/ Liuzhou | ✅ | ⭕[^lz] | ⭕ | ✅ | ✅ | | 道行龙城 |
+| 北海/ Beihai | ✅ | | ✅ | ⭕ | | | |
 | 海口/ Haikou |
 | 三亚/ Sanya |
 | 重庆/ Chongqing | ⭕[^cq] | ✅ | ✅ | ✅ | ✅ | | 重庆市民通 |
@@ -188,13 +188,14 @@
 | 高雄/ Kaohsiung | | | | | | | |
 | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Official Apps"/> |
 
-[^bj]: 北京：北京公交交通联合采用专有白名单
-[^bj2]: 北京：仅北京郊区公交支持微信乘车码
+[^bj]: 北京：交通联合采用专有白名单
+[^bj2]: 北京：仅郊区公交支持微信乘车码
 [^ha]: 淮安：仅支持支付宝付款码
 [^zs]: 舟山：需要关注“舟山市民卡”微信公众号，注册个人“市民码”账号后充值
 [^zh]: 珠海：理论上支持所有住建部城市一卡通标准的公交卡，推荐上海公共交通卡（紫卡）
 [^hs]: 黄山：自2020年4月1日起，将停止乘车微信小程序二维码扫码功能（http://huangshan.bendibao.com/news/2020214/578.shtm）
 [^gz]: 赣州：市区公交不支持微信乘车码
+[^lz]: 柳州：市区公交不支持银联云闪付
 [^cq]: 重庆：仅区县公交支持交通联合
 [^hk]: 香港：仅支持AlipayHk（即支付宝香港版）
 [^mo]: 澳门：仅支持电子现金（即内地已经逐渐淘汰的银联脱机闪付），为发卡行当日汇率
