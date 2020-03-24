@@ -24,6 +24,7 @@
 | ❌ | 已下线 | Closed |
 
 ## 拼音相同的地级市/ Cities of Same Pinyin Name
+
 | 省份/ Province | 城市中文名/ Chinese Name | 城市拼音/ Pinyin Name | [国语罗马字](https://zh.wikipedia.org/zh-hans/%E5%9C%8B%E8%AA%9E%E7%BE%85%E9%A6%AC%E5%AD%97)/ [Gwoyeu Romatzyh](https://simple.wikipedia.org/wiki/Gwoyeu_Romatzyh) | 本文处理方式/ Disposal Method of THIS TABLE | 
 | :- | :- | :- | :- | :- |
 | 福建/ Fujian | 福州 | Fuzhou, Fúzhōu  | Fwuzhou, Fwujou | Fuzhou |
@@ -112,11 +113,11 @@
 | 威海/ Weihai | ✅ | | ✅ | | | 🕓 | |
 | 潍坊/ Weifang | ✅ | | | ✅ | | | 潍坊通 |
 | 郑州/ Zhengzhou | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | |
-| 开封/ Kaifeng |
-| 洛阳/ Luoyang |
-| 焦作/ Jiaozuo |
-| 许昌/ Xuchang |
-| 南阳/ Nanyang |
+| 开封/ Kaifeng | ✅ | | ✅ | | | | 汴梁通 |
+| 洛阳/ Luoyang | ✅ | ✅ | ✅ | | ✅ | ✅ |
+| 焦作/ Jiaozuo | ✅ | | ✅ | | | | 焦作行 |
+| 许昌/ Xuchang | ✅ | ✅ | ✅ | | ✅ | ✅ | 许昌公交 |
+| 南阳/ Nanyang | ✅ | ✅ | ✅ | ✅ | | ✅ | 南阳码上行 |
 | 武汉/ Wuhan | ✅ | | ✅ | | | | |
 | 宜昌/ Yichang |
 | 襄阳/ Xiangyang |
