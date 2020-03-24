@@ -119,15 +119,15 @@
 | 许昌/ Xuchang | ✅ | ✅ | ✅ | | ✅ | ✅ | 许昌公交 |
 | 南阳/ Nanyang | ✅ | ✅ | ✅ | ✅ | | ✅ | 南阳码上行 |
 | 武汉/ Wuhan | ✅ | | ✅ | | | | |
-| 宜昌/ Yichang |
-| 襄阳/ Xiangyang |
-| 荆州/ Jingzhou |
+| 宜昌/ Yichang | ✅ | ✅ | ✅ | | ✅ | | 宜知行 |
+| 襄阳/ Xiangyang | ✅ | ✅ | ✅ | ✅ | | ✅ | 襄阳出行 |
+| 荆州/ Jingzhou | | ✅ | ✅ | ✅ | | ✅ | |
 | 长沙/ Changsha | ✅ | | ✅ | | | | 湘行一卡通、长沙地铁 |
-| 株洲/ Zhuzhou |
-| 湘潭/ Xiangtan |
-| 岳阳/ Yueyang |
-| 衡阳/ Hengyang |
-| 张家界/ Zhangjiajie |
+| 株洲/ Zhuzhou | ✅ | ✅ | ✅ | | | ✅ | |
+| 湘潭/ Xiangtan | ✅ | ✅ | ✅ | | ✅ | ✅ | 湘潭出行 |
+| 岳阳/ Yueyang | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 衡阳/ Hengyang | ✅ | ✅ | ✅ | ✅ | ✅ | | |
+| 张家界/ Zhangjiajie | ✅ | ✅ | | | ✅ | ❌ | |
 | 广州/ Guangzhou | ✅ | | ✅ | ✅ | ✅ | | 羊城通、岭南通 |
 | 深圳/ Shenzhen | ✅ | ✅ | ✅ | ✅ | | | 深圳通 |
 | 东莞/ Dongguan | ✅ | ✅ | ✅ | ✅ | | | 东莞通 |
