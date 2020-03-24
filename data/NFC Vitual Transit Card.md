@@ -87,9 +87,9 @@
 | 宁波·甬城通# | 🕓 | | | | | | ✅ | ✅ ||
 | 金华市民卡·八婺通# | | ✅ ||||| ✅ |||
 | 合肥通	| ✅ | ✅ | ✅ | | ✅ | ✅ | ✅ | ✅ ||
-| 厦门e通卡	| ✅ | ✅ | | | | ✅ | ✅ | ✅ ||
+| 厦门e通卡	| ✅ | ✅ | ✅ | | | ✅ | ✅ | ✅ ||
 | 南昌·洪城通# | | ⭕[^nc] | | | | | ✅ | ✅💥 ||
-| 郑州·绿城通# | ✅ | | | | ✅ | ✅ | ✅ | ✅ ||
+| 郑州·绿城通# | ✅ | | ✅ | | ✅ | ✅ | ✅ | ✅ ||
 | 武汉通	| ✅ | ✅ | ✅ | | ✅ | ✅ | ✅ | ✅ ||
 | 广东·岭南通	| ❌ | ✅ | ✅ | | | | | ||
 | 广州·羊城通	| | ✅ | | | | | | ||
@@ -107,14 +107,16 @@
 [^yy]: 可开通普通卡之外的如学生卡、1280定期票等特殊卡种
 
 ## 参考来源/ References
-- <http://www.miui.com/thread-17774691-1-1.html>
-- <https://www.xiaomi.cn/post/18076498>
-- <http://www.mpaypass.com.cn/news/201904/20161617.html>
-- <https://club.huawei.com/thread-17955876-1-1.html>
-- <http://xiaoiwx.meizu.com/robot/imgmsgData/87d512733f4d425db4a13aed3edac704/index_1.html>
-- <https://www.apple.com/cn/apple-pay/transit/>
-- <https://support-cn.samsung.com/samsungpay/>
-- <https://bbs.vivo.com.cn/thread-4392640-1-1.html>
+- 小米：<http://www.miui.com/thread-17774691-1-1.html>
+- 小米：<https://www.xiaomi.cn/post/18076498>
+- 华为：<https://club.huawei.com/thread-17955876-1-1.html>
+- 三星：<https://www.samsung.com/cn/apps/samsung-pay/type2/>
+- 苹果：<https://www.apple.com/cn/apple-pay/transit/>
+- 魅族：<http://xiaoiwx.meizu.com/robot/imgmsgData/87d512733f4d425db4a13aed3edac704/index_1.html>
+- 欧珀、维沃：<http://www.mpaypass.com.cn/news/201904/20161617.html>
+- 维沃：<https://bbs.vivo.com.cn/thread-4392640-1-1.html>
+
+## 相关资料/ More
 - <https://www.zhihu.com/question/270837291>
 - <https://card.whutech.com/page/827f7c7742a8cc36bf91fe40fdbca6d0.html>
 
