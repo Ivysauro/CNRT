@@ -64,18 +64,24 @@
 | 常州/ Changzhou | ✅ | ✅ | ✅ | | ✅ | | 常州行 |
 | 南通/ Nantong | ✅ | ✅ | ✅ | | | ✅ | 畅行南通、上海公共交通卡 |
 | 徐州/ Xuzhou | ✅ | ✅ | ✅ | ✅ | ✅ | | e行无忧 |
-| 连云港/ Lianyungang |
+| 连云港/ Lianyungang | ✅ | ✅ | ✅ | | ✅ | 智慧港城 |
+| 淮安/ Huai'an | ✅ | ✅ | ⭕[^ha] | | | ✅ | 城客e家、嘟客、上海公共交通卡 |
+| 泰州/ Taizhou, Jiangsu | ✅ | | ✅ | | | ✅ | 泰州市民卡、上海公共交通卡 |
 | 杭州/ Hangzhou | ✅ | ✅ | ✅ | | ✅ | | 杭州市民卡、杭州办事服务 |
 | 宁波/ Ningbo | ✅ | ✅ | ✅ | ✅ | ✅ | | 宁波市民通、上海公共交通卡 |
 | 温州/ Wenzhou | ✅ | ✅ | ✅ | ✅ | | | 上海公共交通卡 |
 | 嘉兴/ Jiaxing | ✅ | ✅ | ✅ | | | ✅ | 上海公共交通卡 |
 | 绍兴/ Shaoxing | ✅ | ✅ | ✅ | | | ✅ | 上海公共交通卡 |
 | 金华/ Jinhua | ✅ | ✅ | ✅ | | | | 金华行、上海公共交通卡 |
+| 台州/ Taizhou, Zhejiang | ✅ | ✅ | ✅ | | ✅ | | 台州出行、上海公共交通卡 |
+| 湖州/ Huzhou | ✅ | ✅ | ✅ | ✅ | | ✅ | 湖州掌上通、上海公共交通卡 |
+| 舟山/ Zhoushan | | ✅ | ✅ | ⭕[^zs] | | ✅ | 上海公共交通卡 |
 | 合肥/ Hefei | ✅ | ✅ | ✅ | ✅ | ✅ | | 合肥通 |
 | 蚌埠/ Bengbu |
 | 芜湖/ Wuhu |
 | 安庆/ Anqing |
 | 黄山/ Huangshan |
+| 宿州/ Suzhou, Anhui |
 | 福州/ Fuzhou | ✅ | ✅ | ✅ | ✅ | ✅ | | 榕城通、e福州 |
 | 泉州/ Quanzhou |
 | 厦门/ Xiamen | ✅ | ✅ | ✅ | ✅ | ✅ | | 厦门市民卡 |
@@ -161,17 +167,18 @@
 | 哈密/ Hami |
 | 香港/ Hong Kong | | | ⭕[^hk] | | | | |
 | 澳门/ Macao | | ⭕[^mo] | | | | | 澳门通、上海公共交通卡[^mo2] |
-| 台北/ Taipei | | | | | | | 上海公共交通卡[^tp] |
+| 台北/ Taipei | | | | | | | |
 | 高雄/ Kaohsiung | | | | | | | |
 | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Official Apps"/> |
 
 [^bj]: 北京公交交通联合采用专有白名单
 [^bj2]: 仅北京郊区公交支持微信乘车码
+[^ha]: 仅支持支付宝付款码
+[^zs]: 需要关注“舟山市民卡”微信公众号，注册个人“市民码”账号后充值
 [^zh]: 理论上支持所有住建部城市一卡通标准的公交卡，推荐上海公共交通卡（紫卡）
 [^hk]: 仅支持AlipayHk（即支付宝香港版）
 [^mo]: 仅支持电子现金（即内地已经淘汰的银联脱机闪付），为发卡行当日汇率
 [^mo2]: 理论上支持所有住建部城市一卡通标准的公交卡，推荐上海公共交通卡（紫卡），经多人测试可用，疑为固定汇率
-[^tp]: ❗上海公共交通卡（紫卡）可能可用（见https://www.v2ex.com//t/569309），未经测试，汇率不明，请准备好其他可用的付款方式
 
 ## 充值/ Charging
 
