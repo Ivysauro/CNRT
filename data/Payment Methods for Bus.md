@@ -20,6 +20,8 @@
 | :-: | :- | :- |
 | ✅ | 完全支持 | Full Support |
 | ⭕ | 部分支持或有条件的支持 | Partly Support or Conditional Support |
+| 🕓 | 即将上线或仅零星支持 | Coming Soon or Seldom Support |
+| ❌ | 已下线 | Closed |
 
 ## 购票/ Tickets
 
