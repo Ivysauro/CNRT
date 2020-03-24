@@ -45,20 +45,20 @@
 | 鄂尔多斯/ Ordos | ✅ | ✅ | | ✅ | | | 天骄通、美团 |
 | 沈阳/ Shenyang | ✅ | ✅ | ✅ | ✅ | | ✅ | 盛京通 |
 | 大连/ Dalian | ✅ | | ✅ | | | | 亿通行(大连) |
-| 营口/ Yingkou |
-| 锦州/ Jinzhou |
+| 营口/ Yingkou | ✅ | ✅ | ✅ | | | ✅ | |
+| 锦州/ Jinzhou | ✅ | ✅ | | | | ✅ | |
 | 长春/ Changchun | ✅ | | | | | | 码码通 |
-| 吉林/ Jilin |
-| 四平/ Siping |
-| 辽源/ Liaoyuan |
-| 通化/ Tonghua |
+| 吉林/ Jilin | ✅ | ✅ | ✅ | | ✅ | ✅ | 码码通 |
+| 四平/ Siping | ✅ | | | | | ✅ | |
+| 辽源/ Liaoyuan | ✅ | | | | | ✅ | |
+| 通化/ Tonghua | ✅ | | | | | | 通化公交 |
 | 哈尔滨/ Harbin | ✅ | ✅ | ✅ | ✅ | | | 哈尔滨城市通 |
-| 齐齐哈尔/ Qiqihar |
-| 牡丹江/ Mudanjiang |
-| 佳木斯/ Jiamusi |
+| 齐齐哈尔/ Qiqihar | ✅ | | | | | | |
+| 牡丹江/ Mudanjiang | ✅ | ✅ | | | | ✅ | |
+| 佳木斯/ Jiamusi | | | ✅ | ✅ | | | 佳木斯城市通、美团 |
 | 上海/ Shanghai | ✅ | | ✅ | ✅ | ✅ | | 上海一卡通 |
 | 南京/ Nanjing | ✅ | | ✅ | | ✅ | | |
-| 扬州/ Yangzhou |
+| 扬州/ Yangzhou | ✅ | ✅ | ✅ | | | | 我的扬州 |
 | 苏州/ Suzhou | ✅ | | ✅ | ✅ | ✅ | | 苏州市民卡 |
 | 无锡/ Wuxi | ✅ | | ✅ | | ✅ | | 无锡市民卡、无锡智慧公交、码上行、上海公共交通卡 |
 | 常州/ Changzhou | ✅ | ✅ | ✅ | | ✅ | | 常州行 |
