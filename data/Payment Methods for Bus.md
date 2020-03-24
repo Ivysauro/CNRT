@@ -23,6 +23,20 @@
 | 🕓 | 即将上线或仅零星支持 | Coming Soon or Seldom Support |
 | ❌ | 已下线 | Closed |
 
+## 拼音相同的地级市/ Cities of Same Pinyin Name
+| 省份/ Province | 城市中文名/ Chinese Name | 城市拼音/ Pinyin Name | [国语罗马字](https://zh.wikipedia.org/zh-hans/%E5%9C%8B%E8%AA%9E%E7%BE%85%E9%A6%AC%E5%AD%97)/ [Gwoyeu Romatzyh](https://simple.wikipedia.org/wiki/Gwoyeu_Romatzyh) | 本文处理方式/ Disposal Method of THIS TABLE | 
+| :- | :- | :- | :- | :- |
+| 福建/ Fujian | 福州 | Fuzhou, Fúzhōu  | Fwuzhou, Fwujou | Fuzhou |
+| 江西/ Jiangxi | 抚州 | Fuzhou,Fǔzhōu | Fuuzhou, Fuujou | Fuzhou, Jiangxi |
+| 安徽/ Anhui | 宿州 | Suzhou, Sùzhōu | Suhzhou, Suhjou | Suzhou, Anhui |
+| 江苏/ Jiangsu | 苏州 | Suzhou, Sūzhōu | Suzhou, Sujou | Suzhou |
+| 江苏/ Taizhou | 泰州 | Taizhou, Tàizhōu | Tayzhou, Tayjou | Taizhou, Jiangsu |
+| 浙江/ Zhejiang | 台州 | Taizhou, Tāizhōu | Taizhou, Taijou | Taizhou, Zhejiang |
+| 黑龙江/ Heilongjiang | 伊春 | Yichun, Yīchūn | Yichun, Yichuen | Yichun, Heilongjiang |
+| 江西/ Jiangxi | 宜春 | Yichun, Yíchūn | Yyichun, Yyichuen | Yichun, Jiangxi |
+| 广西/ Guangxi | 玉林 | Yulin, Yùlín | Yiuhlin, Yiuhlyn | Yulin, Guangxi |
+| 陕西/ Shaanxi | 榆林 | Yulin, Yúlín | Yyulin, Yyulyn | Yulin, Shaanxi |
+
 ## 购票/ Tickets
 
 | 城市/ City | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Official Apps"/> |
