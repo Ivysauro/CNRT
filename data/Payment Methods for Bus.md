@@ -27,16 +27,16 @@
 
 | 省份/ Province | 城市中文名/ Chinese Name | 城市拼音/ Pinyin Name | [国语罗马字](https://zh.wikipedia.org/zh-hans/%E5%9C%8B%E8%AA%9E%E7%BE%85%E9%A6%AC%E5%AD%97)/ [Gwoyeu Romatzyh](https://simple.wikipedia.org/wiki/Gwoyeu_Romatzyh) | 本文处理方式/ Disposal Method of THIS TABLE | 
 | :- | :- | :- | :- | :- |
-| 福建/ Fujian | 福州 | Fuzhou, Fúzhōu  | Fwuzhou, Fwujou | Fuzhou |
-| 江西/ Jiangxi | 抚州 | Fuzhou,Fǔzhōu | Fuuzhou, Fuujou | Fuzhou, Jiangxi |
-| 安徽/ Anhui | 宿州 | Suzhou, Sùzhōu | Suhzhou, Suhjou | Suzhou, Anhui |
-| 江苏/ Jiangsu | 苏州 | Suzhou, Sūzhōu | Suzhou, Sujou | Suzhou |
-| 江苏/ Taizhou | 泰州 | Taizhou, Tàizhōu | Tayzhou, Tayjou | Taizhou, Jiangsu |
-| 浙江/ Zhejiang | 台州 | Taizhou, Tāizhōu | Taizhou, Taijou | Taizhou, Zhejiang |
-| 黑龙江/ Heilongjiang | 伊春 | Yichun, Yīchūn | Yichun, Yichuen | Yichun, Heilongjiang |
-| 江西/ Jiangxi | 宜春 | Yichun, Yíchūn | Yyichun, Yyichuen | Yichun, Jiangxi |
-| 广西/ Guangxi | 玉林 | Yulin, Yùlín | Yiuhlin, Yiuhlyn | Yulin, Guangxi |
-| 陕西/ Shaanxi | 榆林 | Yulin, Yúlín | Yyulin, Yyulyn | Yulin, Shaanxi |
+| 福建/ Fujian | 福州 | Fuzhou/ Fúzhōu  | Fwuzhou/ Fwujou | Fuzhou |
+| 江西/ Jiangxi | 抚州 | Fuzhou/ Fǔzhōu | Fuuzhou/ Fuujou | Fuzhou, Jiangxi |
+| 安徽/ Anhui | 宿州 | Suzhou/ Sùzhōu | Suhzhou/ Suhjou | Suzhou, Anhui |
+| 江苏/ Jiangsu | 苏州 | Suzhou/ Sūzhōu | Suzhou/ Sujou | Suzhou |
+| 江苏/ Taizhou | 泰州 | Taizhou/ Tàizhōu | Tayzhou/ Tayjou | Taizhou, Jiangsu |
+| 浙江/ Zhejiang | 台州 | Taizhou/ Tāizhōu | Taizhou/ Taijou | Taizhou, Zhejiang |
+| 黑龙江/ Heilongjiang | 伊春 | Yichun/ Yīchūn | Yichun/ Yichuen | Yichun, Heilongjiang |
+| 江西/ Jiangxi | 宜春 | Yichun/ Yíchūn | Yyichun/ Yyichuen | Yichun, Jiangxi |
+| 广西/ Guangxi | 玉林 | Yulin/ Yùlín | Yiuhlin/ Yiuhlyn | Yulin, Guangxi |
+| 陕西/ Shaanxi | 榆林 | Yulin/ Yúlín | Yyulin/ Yyulyn | Yulin, Shaanxi |
 
 ## 购票/ Tickets
 
@@ -146,7 +146,7 @@
 | 儋州/ Danzhou | ✅ | | | | | | 翼支付 |
 | 重庆/ Chongqing | ⭕[^cq] | ✅ | ✅ | ✅ | ✅ | | 重庆市民通 |
 | 成都/ Chengdu | ✅ | | | | ✅ | | 天府通 |
-| 绵阳/ Mianyang | ✅ | ✅ | ✅ | ✅ | | ✅ | 绵州通、和宝支付、沃支付、翼支付 |
+| 绵阳/ Mianyang | ✅ | ✅ | ✅ | ✅ | | ✅ | 绵州通、和包支付、沃支付、翼支付 |
 | 内江/ Neijiang | ✅ | ✅ | ✅ | ✅ | ✅ | | |
 | 乐山/ Leshan | ✅ | ✅ | | | ✅ | ✅ | 嘉州通 |
 | 泸州/ Luzhou | ✅ | | ✅ | ✅ | ✅ | ❌ | |
@@ -169,20 +169,21 @@
 | 延安/ Yan'an | ✅ | | | ✅ | | ✅ | |
 | 汉中/ Hanzhong | ✅ | ✅ | ✅ | | | ✅ | 天汉通 |
 | 兰州/ Lanzhou | ✅ | ✅ | ✅ | ✅ | | ✅ | 万支付·甘肃一卡通 |
-| 武威/ Wuwei |
-| 张掖/ Zhangye |
-| 酒泉/ Jiuquan |
+| 武威/ Wuwei | ✅ | ✅ | ✅ | ✅ | | ✅ | |
+| 张掖/ Zhangye | ✅ | ✅ | ⭕[^zy] | ⭕[^zy] | | ✅ | |
+| 酒泉/ Jiuquan | ✅ | | ✅ | ✅ | | | |
+| 陇南/ Longnan | ✅ | ✅ | ⭕[^ln] | ⭕[^ln] | | ✅ | |
 | 西宁/ Xining | ✅ | ✅ | ✅ | | ✅ | ✅ | 西宁智能公交 |
 | 海东/ Haidong | ✅ | ✅ | | | ✅ | | |
 | 银川/ Yinchuan | ✅ | ✅ | ⭕ | | ✅ | | 码上行 |
-| 固原/ Guyuan |
-| 吴忠/ Wuzhong |
-| 中卫/ Zhongwei |
-| 石嘴山/ Shizuishan |
+| 固原/ Guyuan | ✅ | ✅ | | | | ✅ | |
+| 吴忠/ Wuzhong | ✅ | ✅ | ⭕[^wz] | ⭕[^wz] | | ✅ | |
+| 中卫/ Zhongwei | | | | ✅ | | | |
+| 石嘴山/ Shizuishan | ✅ | | | ✅ | | | |
 | 乌鲁木齐/ Urumqi | ✅ | ✅ | ✅ | ✅ | | | 红山通 |
-| 克拉玛依/ Karamay |
-| 吐鲁番/ Turfan |
-| 哈密/ Hami |
+| 克拉玛依/ Karamay | | ❔ | ⭕[^kr] | ⭕[^kr] | | ⭕[^kr] | |
+| 吐鲁番/ Turfan | | ✅ | | | | | |
+| 哈密/ Hami | ✅ | ✅ | | | | ✅ | |
 | 香港/ Hong Kong | | | ⭕[^hk] | | | | |
 | 澳门/ Macao | | ⭕[^mo] | | | | | 澳门通、上海公共交通卡[^mo2] |
 | 台北/ Taipei | | | | | | | |
@@ -200,6 +201,10 @@
 [^cq]: 重庆：仅区县公交支持交通联合
 [^yx]: 玉溪：仅部分线路支持微信付款码
 [^wn]: 渭南：需要关注“渭南通”微信公众号，注册个人账号后充值
+[^zy]: 张掖：仅支持支付宝和微信的付款码
+[^ln]: 陇南：仅支持支付宝和微信的付款码
+[^wz]: 吴忠：仅支持支付宝和微信的付款码
+[^kr]: 克拉玛依：仅部分线路支持支付宝、微信和银联的付款码
 [^hk]: 香港：仅支持AlipayHk（即支付宝香港版）
 [^mo]: 澳门：仅支持电子现金（即内地已经逐渐淘汰的银联脱机闪付），为发卡行当日汇率
 [^mo2]: 澳门：理论上支持所有住建部城市一卡通标准的公交卡，推荐上海公共交通卡（紫卡），经多人测试可用，为卡机设定的固定汇率
