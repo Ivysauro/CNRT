@@ -80,11 +80,16 @@
 | 忻州/ Xinzhou | ✅ | ✅ | | | | ✅ | |
 | 临汾/ Linfen | ✅ | ✅ | ✅ | ✅ | | ✅ | 临汾公交e出行、美团、和包支付 |
 | 吕梁/ Lüliang | ✅ | | ✅ | | | | |
-| **内蒙古/ Nei Mongolia** | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
-| 呼和浩特/ Hohhot | ✅ | ✅ | | ✅ | | ✅ | 青城通 |
+| **内蒙古/ Nei Mongol** | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
+| 呼和浩特/ Hohhot | ✅ | ✅ | 🕓 | ✅ | | ✅ | 青城通 |
 | 包头/ Baotou | ✅ | ✅ | ✅ | ✅ | ✅ | | |
 | 乌海/ Wuhai | ✅ | ✅ | ✅ | | | ✅ | |
-| 鄂尔多斯/ Ordos | ✅ | ✅ | | ✅ | | | 天骄通、美团 |
+| 赤峰/ Chifeng | | ✅ | ✅ | | | ✅ | 美团 |
+| 通辽/ Tongliao | ✅ | ✅ | 🕓 | | | ✅ | |
+| 鄂尔多斯/ Ordos | ✅ | ✅ | ✅ | ✅ | | | 天骄通、美团 |
+| 呼伦贝尔/ Hulun Buir | ✅ | ✅ | 🕓 | | | ✅ | |
+| 巴彦淖尔/ Bayan Nur | | ✅ | ✅ | ⭕[^bn] | | ✅ | |
+| 乌兰察布/ Ulanqab | ✅ | ✅ | 🕓 | ⭕[^uq] | | ✅ | 乌兰察布公交 |
 
 #### 东北地区/ Northeastern China
 
@@ -155,9 +160,11 @@
 | 潍坊/ Weifang | ✅ | | | ✅ | | | 潍坊通 |
 | 台湾/ Taiwan | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
 | 台北/ Taipei | | | | | | | |
-| 高雄/ Kaohsiung | | | | | | | |
-| 台南/ Tainan | | | | | | | |
+| 新北/ Xinbei | | | | | | | |
+| 桃园/ Taoyuan | | | | | | | |
 | 台中/ Taichung | | | | | | | |
+| 台南/ Tainan | | | | | | | |
+| 高雄/ Kaohsiung | | | | | | | |
 
 #### 中南地区/ Central & Southern China
 
@@ -268,6 +275,8 @@
 
 [^bj]: 北京：交通联合采用专有白名单
 [^bj2]: 北京：仅郊区公交支持微信乘车码
+[^bn]: 巴彦淖尔：仅支持微信付款码
+[^uq]: 乌兰察布：仅支持微信付款码
 [^ha]: 淮安：仅支持支付宝付款码
 [^zs]: 舟山：需要关注“舟山市民卡”微信公众号，注册个人“市民码”账号后充值
 [^zh]: 珠海：理论上支持所有住建部城市一卡通标准的公交卡，推荐上海公共交通卡（紫卡）
