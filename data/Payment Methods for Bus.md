@@ -31,7 +31,7 @@
 | 江西/ Jiangxi | 抚州 | Fuzhou/ Fǔzhōu | Fuuzhou/ Fuujou | Fuzhou, Jiangxi |
 | 安徽/ Anhui | 宿州 | Suzhou/ Sùzhōu | Suhzhou/ Suhjou | Suzhou, Anhui |
 | 江苏/ Jiangsu | 苏州 | Suzhou/ Sūzhōu | Suzhou/ Sujou | Suzhou |
-| 江苏/ Taizhou | 泰州 | Taizhou/ Tàizhōu | Tayzhou/ Tayjou | Taizhou, Jiangsu |
+| 江苏/ Jiangsu | 泰州 | Taizhou/ Tàizhōu | Tayzhou/ Tayjou | Taizhou, Jiangsu |
 | 浙江/ Zhejiang | 台州 | Taizhou/ Tāizhōu | Taizhou/ Taijou | Taizhou, Zhejiang |
 | 黑龙江/ Heilongjiang | 伊春 | Yichun/ Yīchūn | Yichun/ Yichuen | Yichun, Heilongjiang |
 | 江西/ Jiangxi | 宜春 | Yichun/ Yíchūn | Yyichun/ Yyichuen | Yichun, Jiangxi |
