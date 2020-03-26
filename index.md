@@ -25,8 +25,8 @@ The public transportation emergency measures during the pneumonia epidemic can b
 
 ### 相关信息/ Related Info 🧷
 - [GaWC 世界城市名册/ GaWC World Cities](https://ivysauro.github.io/CNRT/data/GaWC)
-- [主要城市名称资料/ Name data of Big Cities](https://ivysauro.github.io/CNRT/data/Name%20data%20of%20Big%20Cities)
-- [铁路局名称资料（中文）/ Name data of FRA (In Chinese)](https://ivysauro.github.io/CNRT/data/Name%20data%20of%20FRA)
+- [省份、城市名称资料/ Name data of Provinces and Cities](https://ivysauro.github.io/CNRT/data/Name)
+- [铁路局（中文）/ FRA (In Chinese)](https://ivysauro.github.io/CNRT/data/FRA)
 
 ## 实用工具/ Tools 🛠
 - [Rail Map Generator](https://wongchito.github.io/RailMapGenerator/)
