@@ -59,7 +59,7 @@
 | 长治 | 潞 | 古称，潞州 | **Changzhi** | | CIH |
 | 晋城 | 泽 | 古称，泽州 | **Jincheng** | |
 | 呼和浩特 | 呼 | 缩略 | Huhehaote | **Hohhot** | HET | 蒙语 | 归绥，Kweisui |
-| 沈阳 | 沈 | 缩略 | **Shenyang** | Mukden | SHE | 邮政式拼音(蒙语/满语，“盛京”) |
+| 沈阳 | 沈 | 缩略 | **Shenyang** | Mukden | SHE | 邮政式拼音(蒙语/满语，“盛京”) | 奉天，Fengtien |
 | 大连 | 鲲/连/*大* | 寓意/缩略 | **Dalian** | Dairen | DLC | 邮政式拼音(日语) |
 | 锦州 | | | **Jinzhou** | Chinchow | JNZ | 邮政式拼音 |
 | 长春 | 长 | 缩略 | **Changchun** | Hisinking | CGQ | 邮政式拼音(“新京”) |
@@ -82,10 +82,10 @@
 | 金华 | 婺/金 | 古称，婺州/缩略 | **Jinhua** | | YIW |
 | 合肥 | 庐/合/淝 | 古称，卢州/缩略/河流，淝水 | **Hefei** | | HFE |
 | 芜湖 | 芜 | 缩略 | **Wuhu** | |
-| 黄山 | 徽/黄 | 古称，徽州/缩略 | **Huangshan** | | TXN |
+| 黄山 | 徽/黄 | 古称，徽州/缩略 | **Huangshan** | | TXN | | 屯溪，Tunki |
 | 铜陵 | 铜 | 缩略 | **Tongling** | |
 | 福州 | 福/榕 | 缩略/别称，榕城 | **Fuzhou** | Foochow | FOC | 邮政式拼音 |
-| 厦门 | 厦/鹭 | 缩略/古称，鹭岛 | **Xiamen** | Amoy | XMN | 邮政式拼音(闽语) |
+| 厦门 | 厦/鹭 | 缩略/古称，鹭岛 | **Xiamen** | Amoy/Hsiamen | XMN | 邮政式拼音(闽语) |
 | 泉州 | 鲤/*泉* | 别称，鲤城 | **Quanzhou** | Chinchew/Chinchu | JJN | 邮政式拼音 |
 | 金门 | | | Jinmen | Quemoy/Kinmen | KNH | 邮政式拼音/威妥玛拼音 |
 | 南昌 | 洪/昌/*南* | 古称，洪城/缩略 | **Nanchang** | | KHN | |
@@ -98,7 +98,7 @@
 | 开封 | 汴/*开* | 古称，汴梁 | **Kaifeng** | 
 | 南阳 | 宛 | 古称，宛城 | **Nanyang** | | NNY | |
 | 安阳 | 殷/邺 | 古称，殷墟/邺城 | **Anyang** | | 
-| 武汉 | 汉/*武* | 缩略 | **Wuhan** | | WUH | |
+| 武汉 | 汉/*武* | 缩略 | **Wuhan** | | WUH | | 汉口，Hankow |
 | 长沙 | 长 | 缩略 | **Changsha** | | CSX |
 | 湘潭 | 潭 | 缩略 | **Xiangtan** | Siangtan | | 邮政式拼音 |
 | 常德 | 常 | 缩略 | **Changde** | Changteh | CGD | 邮政式拼音 |
