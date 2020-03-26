@@ -185,6 +185,9 @@
 | 三明/ Sanming | ✅ | ✅ | ✅ | ✅ | | ✅ | |
 | 泉州/ Quanzhou | ✅ | ✅ | ✅ | ✅ | ✅ | | 泉城通、翼支付 |
 | 漳州/ Zhangzhou | ✅ | ✅ | ✅ | | | ✅ | 漳州达达通、福路通·福建出行助手 |
+| 南平/ Nanping | ✅ | ✅ | ✅ | | | ✅ | |
+| 龙岩/ Longyan | ✅ | ✅ | ✅ | ⭕ | | ✅ | e龙岩 |
+| 宁德/ Ningde | ✅ | ⭕ | ✅ | ✅ | | ✅ | |
 | **江西/ Jiangxi** | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
 | 南昌/ Nanchang | ✅ | ✅ | ✅ | ✅ | | | 鹭鹭行 |
 | 景德镇/ Jingdezhen | ✅ | ✅ | | | | ✅ | |
@@ -199,11 +202,15 @@
 | 济南/ Jinan | ✅ | ✅ | ✅ | ✅ | | ✅ | |
 | 青岛/ Qingdao | ✅ | ✅ | ✅ | ✅ | | ✅ | 青岛地铁 |
 | 淄博/ Zibo | ⭕ | ✅ | ⭕ | ✅ | | ✅ | 畅行淄博 |
+| 枣庄/ Zaozhuang | ✅ | ✅ | ⭕ | ✅ | | ✅ | |
+| 东营/ Dongying | ✅ | ✅ | ✅ | ✅ | | ✅ | |
 | 烟台/ Yantai | ✅ | ✅ | ✅ | ✅ | | ✅ | |
 | 潍坊/ Weifang | ✅ | | | ✅ | | | 潍坊通 |
+| 济宁/ Jining | ✅ | ✅ | ✅ | ✅ | | ✅ | |
 | 泰安/ Tai'an | ⭕ | ✅ | ✅ | ✅ | | ✅ | 小码联城 |
 | 威海/ Weihai | ✅ | | ✅ | | | 🕓 | |
 | 日照/ Rizhao | ⭕ | | ✅ | | | | 新出行 |
+| 临沂/ Linyi | ✅ | ✅ | ✅ | ✅ | | ✅ | 美团 |
 | 台湾/ Taiwan | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
 | 台北/ Taipei | | | | | | | |
 | 新北/ Xinbei | | | | | | | |
@@ -219,14 +226,22 @@
 | 郑州/ Zhengzhou | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | |
 | 开封/ Kaifeng | ✅ | | ✅ | | | | 汴梁通 |
 | 洛阳/ Luoyang | ✅ | ✅ | ✅ | | ✅ | ✅ |
+| 平顶山/ Pingdingshan | ✅ | ✅ | ✅ | ✅ | | ✅ | 鹰城一卡通 |
+| 安阳/ Anyang | ✅ | ✅ | ✅ | | ✅ | ✅ | 安阳行 |
+| 鹤壁/ Hebi | ✅ | ✅ | ✅ | | | ✅ | 鹤壁行 |
+| 新乡/ Xinxiang | ✅ | ✅ | | | | ✅ | 新乡公交码上行 |
 | 焦作/ Jiaozuo | ✅ | | ✅ | | | | 焦作行 |
+| 濮阳/ Puyang | ✅ | ✅ | ✅ | ✅ | | ✅ | 龙都行、美团 |
 | 许昌/ Xuchang | ✅ | ✅ | ✅ | | ✅ | ✅ | 许昌公交 |
 | 南阳/ Nanyang | ✅ | ✅ | ✅ | ✅ | | ✅ | 南阳码上行 |
 | 商丘/ Shangqiu | ✅ | ✅ | ✅ | | ✅ | ✅ | |
 | **湖北/ Hubei** | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
 | 武汉/ Wuhan | ✅ | | ✅ | | | | |
+| 黄石/ Huangshi | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | |
+| 十堰/ Shiyan | ✅ | ✅ | ✅ | ✅ | ✅ | | |
 | 宜昌/ Yichang | ✅ | ✅ | ✅ | | ✅ | | 宜知行 |
 | 襄阳/ Xiangyang | ✅ | ✅ | ✅ | ✅ | | ✅ | 襄阳出行 |
+| 鄂州/ Ezhou | ✅ | ✅ | ✅ | | ✅ | ✅ | 美团 |
 | 荆州/ Jingzhou | | ✅ | ✅ | ✅ | | ✅ | |
 | **湖南/ Hunan** | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
 | 长沙/ Changsha | ✅ | | ✅ | | | | 湘行一卡通、长沙地铁、和包支付、闪客蜂 |
@@ -330,8 +345,8 @@
 [^ls]: 丽水：仅支持微信付款码
 [^ls2]: 丽水：仅支持浙江农信丰收互联App生成的银联付款码
 [^zh]: 珠海：理论上支持所有住建部城市一卡通标准的公交卡，推荐上海公共交通卡（紫卡）
-[^hs]: 黄山：自2020年4月1日起，将停止乘车微信小程序二维码扫码功能（http://huangshan.bendibao.com/news/2020214/578.shtm）
-[^px]: 萍乡：需要关注”公交联盟“公众号，注册个人账号后充值
+[^hs]: 黄山：自2020年4月1日起，将停止微信小程序二维码扫码乘车功能（http://huangshan.bendibao.com/news/2020214/578.shtm）
+[^px]: 萍乡：需要关注“公交联盟”公众号或小程序，充值后使用
 [^gz]: 赣州：市区公交不支持微信乘车码
 [^lz]: 柳州：市区公交不支持银联云闪付
 [^cq]: 重庆：仅区县公交支持交通联合
