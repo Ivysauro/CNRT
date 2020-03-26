@@ -115,11 +115,22 @@
 | 四平/ Siping | ✅ | | | | 🕓 | ✅ | |
 | 辽源/ Liaoyuan | ✅ | | | | | ✅ | |
 | 通化/ Tonghua | ✅ | | | | 🕓 | | 通化公交 |
+| 白山/ Baishan | ✅ | | | | | | |
+| 松原/ Songyuan | ✅ | ✅ | | | 🕓 | ✅ | |
+| 白城/ Baicheng | ✅ | | | ✅ | 🕓 | ✅ | |
 | **黑龙江/ Heilongjiang** | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
 | 哈尔滨/ Harbin | ✅ | ✅ | ✅ | ✅ | | | 哈尔滨城市通 |
 | 齐齐哈尔/ Qiqihar | ✅ | | | | | | |
-| 牡丹江/ Mudanjiang | ✅ | ✅ | | | | ✅ | |
+| 鸡西/ Jixi | | | ✅ | ✅ | | ✅ | 美团 |
+| 鹤岗/ Hegang | | | ✅ | ✅ | | | |
+| 双鸭山/ Shuangyashan | | ⭕ | ✅ | ✅ | | ⭕ | |
+| 大庆/ Daqing | | ✅ | | | | ✅ | |
+| 伊春/ Yichun, Heilongjiang | ✅ | | ✅ | ✅ | | | |
 | 佳木斯/ Jiamusi | | | ✅ | ✅ | | | 佳木斯城市通、美团 |
+| 七台河/ Qitaihe | ✅ | | ✅ | ✅ | | ✅ | 美团 |
+| 牡丹江/ Mudanjiang | ✅ | ✅ | | | | ✅ | |
+| 黑河/ Heihe | | ✅ | ⭕[^hh] | ⭕[^hh] | | ✅ | |
+| 绥化/ Suihua | ⭕ | | ✅ | | | ✅ | |
 
 #### 华东地区/ Eastern China
 
@@ -288,6 +299,7 @@
 [^bn]: 巴彦淖尔：仅支持微信付款码
 [^uq]: 乌兰察布：仅支持微信付款码
 [^cy]: 朝阳：仅支持微信付款码
+[^hh]: 黑河：仅支持支付宝和微信的付款码
 [^ha]: 淮安：仅支持支付宝付款码
 [^zs]: 舟山：需要关注“舟山市民卡”微信公众号，注册个人“市民码”账号后充值
 [^zh]: 珠海：理论上支持所有住建部城市一卡通标准的公交卡，推荐上海公共交通卡（紫卡）
