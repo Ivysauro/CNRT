@@ -137,48 +137,61 @@
 | **江苏/ Jiangsu** | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
 | :- | :-: | :-: | :-: | :-: | :-: | :-: | :- |
 | 南京/ Nanjing | ✅ | | ✅ | | ✅ | | |
-| 扬州/ Yangzhou | ✅ | ✅ | ✅ | | | | 我的扬州 |
-| 苏州/ Suzhou | ✅ | | ✅ | ✅ | ✅ | | 苏州市民卡 |
 | 无锡/ Wuxi | ✅ | | ✅ | | ✅ | | 无锡市民卡、无锡智慧公交、码上行、上海公共交通卡 |
-| 常州/ Changzhou | ✅ | ✅ | ✅ | | ✅ | | 常州行 |
-| 南通/ Nantong | ✅ | ✅ | ✅ | | | ✅ | 畅行南通、上海公共交通卡 |
 | 徐州/ Xuzhou | ✅ | ✅ | ✅ | ✅ | ✅ | | e行无忧 |
+| 常州/ Changzhou | ✅ | ✅ | ✅ | | ✅ | | 常州行 |
+| 苏州/ Suzhou | ✅ | | ✅ | ✅ | ✅ | | 苏州市民卡 |
+| 南通/ Nantong | ✅ | ✅ | ✅ | | | ✅ | 畅行南通、上海公共交通卡 |
 | 连云港/ Lianyungang | ✅ | ✅ | ✅ | | | ✅ | 智慧港城 |
 | 淮安/ Huai'an | ✅ | ✅ | ⭕[^ha] | | | ✅ | 城客e家、嘟客、上海公共交通卡 |
+| 盐城/ Yancheng | ✅ | | ✅ | | | ✅ | |
+| 扬州/ Yangzhou | ✅ | ✅ | ✅ | | | | 我的扬州 |
+| 镇江/ Zhenjiang | ✅ | ✅ | ✅ | | | ✅ | 畅行镇江 |
 | 泰州/ Taizhou, Jiangsu | ✅ | | ✅ | | | ✅ | 泰州市民卡、上海公共交通卡 |
+| 宿迁/ Suqian | ✅ | ✅ | ✅ | ✅ | | ✅ | |
 | **浙江/ Zhejiang** | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
 | 杭州/ Hangzhou | ✅ | ✅ | ✅ | | ✅ | | 杭州市民卡、杭州办事服务 |
 | 宁波/ Ningbo | ✅ | ✅ | ✅ | ✅ | ✅ | | 宁波市民通、上海公共交通卡 |
 | 温州/ Wenzhou | ✅ | ✅ | ✅ | ✅ | | | 上海公共交通卡 |
 | 嘉兴/ Jiaxing | ✅ | ✅ | ✅ | | | ✅ | 上海公共交通卡 |
+| 湖州/ Huzhou | ✅ | ✅ | ✅ | ✅ | | ✅ | 湖州掌上通、翼支付、上海公共交通卡 |
 | 绍兴/ Shaoxing | ✅ | ✅ | ✅ | | | ✅ | 上海公共交通卡 |
 | 金华/ Jinhua | ✅ | ✅ | ✅ | | | | 金华行、上海公共交通卡 |
-| 台州/ Taizhou, Zhejiang | ✅ | ✅ | ✅ | | ✅ | | 台州出行、上海公共交通卡 |
-| 湖州/ Huzhou | ✅ | ✅ | ✅ | ✅ | | ✅ | 湖州掌上通、翼支付、上海公共交通卡 |
+| 衢州/ Quzhou | ✅ | ✅ | ✅ | | | ✅ | 衢州行 |
 | 舟山/ Zhoushan | | ✅ | ✅ | ⭕[^zs] | | ✅ | 上海公共交通卡 |
+| 台州/ Taizhou, Zhejiang | ✅ | ✅ | ✅ | | ✅ | | 台州出行、上海公共交通卡 |
+| 丽水/ Lishui | ✅ | ✅ | ✅ | ⭕[^ls] | | ⭕[^ls2] | |
 | **安徽/ Anhui** | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
 | 合肥/ Hefei | ✅ | ✅ | ✅ | ✅ | ✅ | | 合肥通、翼支付 |
-| 蚌埠/ Bengbu | ✅ | ✅ | ✅ | | | ✅ | |
 | 芜湖/ Wuhu | ✅ | ✅ | ✅ | | ✅ | | |
+| 蚌埠/ Bengbu | ✅ | ✅ | ✅ | | | ✅ | |
+| 淮南/ Huainan | ✅ | ✅ | | ✅ | ✅ | | 淮南码上行 |
 | 安庆/ Anqing | ✅ | ✅ | ✅ | | 🕓 | ✅ | 安庆掌上公交 |
 | 黄山/ Huangshan | ✅ | ✅ | ✅ | ❌[^hs] | | ✅ | |
+| 阜阳/ Fuyang | ✅ | ✅ | ✅ | ✅ | | ✅ | 颍州通 |
 | 宿州/ Suzhou, Anhui | ✅ | ✅ | | | | ✅ | |
+| 滁州/ Chuzhou | ✅ | ✅ | ✅ | 🕓 | | ✅ | |
 | **福建/ Fujian** | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
 | 福州/ Fuzhou | ✅ | ✅ | ✅ | ✅ | ✅ | | 榕城通、e福州 |
-| 泉州/ Quanzhou | ✅ | ✅ | ✅ | ✅ | ✅ | | 泉城通、翼支付 |
 | 厦门/ Xiamen | ✅ | ✅ | ✅ | ✅ | ✅ | | 厦门市民卡 |
+| 莆田/ Putian | ✅ | ⭕ | ✅ | ✅ | | ✅ | 惠民宝 |
+| 三明/ Sanming | ✅ | ✅ | ✅ | ✅ | | ✅ | |
+| 泉州/ Quanzhou | ✅ | ✅ | ✅ | ✅ | ✅ | | 泉城通、翼支付 |
 | 漳州/ Zhangzhou | ✅ | ✅ | ✅ | | | ✅ | 漳州达达通、福路通·福建出行助手 |
 | **江西/ Jiangxi** | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
 | 南昌/ Nanchang | ✅ | ✅ | ✅ | ✅ | | | 鹭鹭行 |
+| 九江/ Jiujiang | ✅ | ✅ | ✅ | ✅ | | ✅ | 九江通 |
+| 抚州/ Fuzhou, Jiangxi | ✅ | ✅ | ✅ | | | ✅ | |
+| 鹰潭/ Yingtan | ✅ | ✅ | | | | ✅ | 鹰潭公交🕓 |
 | 赣州/ Ganzhou | ✅ | ✅ | ✅ | ⭕[^gz] | | ✅ | 汇通行、美团 |
 | 吉安/ Ji'an | ✅ | ✅ | ✅ | | | ✅ | 吉安公交 |
-| 九江/ Jiujiang | ✅ | ✅ | ✅ | ✅ | | ✅ | 九江通 |
+| 宜春/ Yichun, Jiangxi | ✅ | ✅ | ✅ | 🕓 | 🕓 | ✅ | 宜春公交行 |
 | **山东/ Shandong** | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
 | 济南/ Jinan | ✅ | ✅ | ✅ | ✅ | | ✅ | |
 | 青岛/ Qingdao | ✅ | ✅ | ✅ | ✅ | | ✅ | 青岛地铁 |
 | 烟台/ Yantai | ✅ | ✅ | ✅ | ✅ | | ✅ | |
-| 威海/ Weihai | ✅ | | ✅ | | | 🕓 | |
 | 潍坊/ Weifang | ✅ | | | ✅ | | | 潍坊通 |
+| 威海/ Weihai | ✅ | | ✅ | | | 🕓 | |
 | 台湾/ Taiwan | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
 | 台北/ Taipei | | | | | | | |
 | 新北/ Xinbei | | | | | | | |
@@ -302,6 +315,8 @@
 [^hh]: 黑河：仅支持支付宝和微信的付款码
 [^ha]: 淮安：仅支持支付宝付款码
 [^zs]: 舟山：需要关注“舟山市民卡”微信公众号，注册个人“市民码”账号后充值
+[^ls]: 丽水：仅支持微信付款码
+[^ls2]: 丽水：仅支持浙江农信丰收互联App生成的银联付款码
 [^zh]: 珠海：理论上支持所有住建部城市一卡通标准的公交卡，推荐上海公共交通卡（紫卡）
 [^hs]: 黄山：自2020年4月1日起，将停止乘车微信小程序二维码扫码功能（http://huangshan.bendibao.com/news/2020214/578.shtm）
 [^gz]: 赣州：市区公交不支持微信乘车码
