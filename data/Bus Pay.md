@@ -97,8 +97,18 @@
 | :- | :-: | :-: | :-: | :-: | :-: | :-: | :- |
 | 沈阳/ Shenyang | ✅ | ✅ | ✅ | ✅ | | ✅ | 盛京通 |
 | 大连/ Dalian | ✅ | | ✅ | | | | 亿通行(大连) |
-| 营口/ Yingkou | ✅ | ✅ | ✅ | | | ✅ | |
+| 鞍山/ Anshan | ✅ | ✅ | ✅ | 🕓 | ✅ | | |
+| 抚顺/ Fushun | ✅ | ✅ | | ✅ | | ✅ | |
+| 本溪/ Benxi | ✅ | | | | | | |
+| 丹东/ Dandong | ✅ | ✅ | | | | ✅ | 安东行 |
 | 锦州/ Jinzhou | ✅ | ✅ | | | | ✅ | |
+| 营口/ Yingkou | ✅ | ✅ | ✅ | | | ✅ | |
+| 阜新/ Fuxin | ✅ | ✅ | ✅ | ✅ | | ✅ | |
+| 辽阳/ Liaoyang | ✅ | ✅ | ✅ | | | ✅ | 辽阳惠民卡 |
+| 盘锦/ Panjin | ✅ | ✅ | | ✅ | | ✅ | |
+| 铁岭/ Tieling | ✅ | | | ✅ | | | 美团 |
+| 朝阳/ Chaoyang | ✅ | ✅ | | ⭕[^cy] | | ✅ | |
+| 葫芦岛/ Huludao | ✅ | | ✅ | | | | |
 | **吉林/ Jilin** | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
 | 长春/ Changchun | ✅ | | | | | | 码码通 |
 | 吉林/ Jilin | ✅ | ✅ | ✅ | | ✅ | ✅ | 码码通 |
@@ -277,6 +287,7 @@
 [^bj2]: 北京：仅郊区公交支持微信乘车码
 [^bn]: 巴彦淖尔：仅支持微信付款码
 [^uq]: 乌兰察布：仅支持微信付款码
+[^cy]: 朝阳：仅支持微信付款码
 [^ha]: 淮安：仅支持支付宝付款码
 [^zs]: 舟山：需要关注“舟山市民卡”微信公众号，注册个人“市民码”账号后充值
 [^zh]: 珠海：理论上支持所有住建部城市一卡通标准的公交卡，推荐上海公共交通卡（紫卡）
