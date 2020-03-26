@@ -62,7 +62,7 @@
 | 秦皇岛/ Qinhuangdao | ✅ | | ✅ | | | | 秦皇岛公交卡、美团 |
 | 邯郸/ Handan | ✅ | ✅ | | | ✅ | ✅ | 坐公交-燕赵行 |
 | 邢台/ Xingtai | ✅ | | ✅ | ❔ | | ❔ | |
-| 保定/ Baoding | ✅ | ✅ | | | | ✅ | 保定通 |
+| 保定/ Baoding | ✅ | ✅ | ✅ | | | ✅ | 保定通 |
 | 张家口/ Zhangjiakou | ✅ | ✅ | ✅ | ✅ | | ✅ | |
 | 承德/ Chengde | ✅ | | | | | | 承德公交行、美团 |
 | 沧州/ Cangzhou | ✅ | ✅ | ✅ | ✅ | | | 沧州行 |
@@ -75,7 +75,7 @@
 | 长治/ Changzhi | ✅ | | ✅ | ✅ | | ❔ | 长治公交通 |
 | 晋城/ Jincheng | ✅ | ✅ | ✅ | ✅ | | ✅ | |
 | 朔州/ Shuozhou | ✅ | | ✅ | | | ✅ | |
-| 晋中/ Jinzhong | ✅ | ✅ | ❔ | ✅ | | ✅ | |
+| 晋中/ Jinzhong | ✅ | ✅ | ✅ | ✅ | | ✅ | |
 | 运城/ Yuncheng | ✅ | | | ✅ | | | |
 | 忻州/ Xinzhou | ✅ | ✅ | | | | ✅ | |
 | 临汾/ Linfen | ✅ | ✅ | ✅ | ✅ | | ✅ | 临汾公交e出行、美团、和包支付 |
@@ -308,5 +308,10 @@
 ## 充值/ Charging
 
 *待完善*
+
+## 参考资料/ References
+- 银联：<http://www.mpaypass.com.cn/news/201907/24112333.html>
+- 支付宝：<https://render.alipay.com/p/f/fd-jpwnyevx/index.html>
+- 翼支付：<http://gd.zhidao.189.cn/ckb/knowledge_detail/sz/20181116/702381>
 
 ---
