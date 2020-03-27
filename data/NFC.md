@@ -1,4 +1,4 @@
-# 虚拟交通卡/ NFC Vitual Transit Card
+# NFC交通卡/ NFC Transit Card
 
 排序方式为省份区划代码/ Rank by Province Code
 
