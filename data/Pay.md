@@ -1,4 +1,6 @@
-# 支付方式/ Payment Methods
+# 轨道交通支付方式/ Payment Methods for Rail Transit
+
+地面交通支付方式点[这里](https://ivysauro.github.io/CNRT/data/Bus%20Pay)跳转/ For Buses, go to [HERE](https://ivysauro.github.io/CNRT/data/Bus%20Pay)
 
 ## 目录/ Content
 - [过闸/ Passing Gate](#过闸-passing-gate)
