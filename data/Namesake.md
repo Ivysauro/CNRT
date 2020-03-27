@@ -2,7 +2,7 @@
 
 有轨电车站不计入/ Tram stations are not counted
 
-## 主表/ Content
+## 中文同名站/ Namesake in Chinese
 
 | 站名/ Station Name | 归属/ Affiliated City |
 | :----------------: | :------------------- |
@@ -108,6 +108,9 @@
 | 龙岗 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nc.gif" width="20" hegiht="20"/>南昌2、<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hf.gif" width="20" hegiht="20"/>合肥2 |
 | 茶山 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/dg.gif" width="20" hegiht="20"/>东莞2、<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cz.gif" width="20" hegiht="20"/>常州1 |
 
+## 英文同名站/ Namesake in English
+
+*待完善/ Coming Soon*
 
 ## 参考资料/ References
 - <https://tieba.baidu.com/p/5232014601>
