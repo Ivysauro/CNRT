@@ -2,6 +2,8 @@
 
 轨道交通支付方式点[这里](https://ivysauro.github.io/CNRT/data/Pay)跳转/ For Rail Transit, go to [HERE](https://ivysauro.github.io/CNRT/data/Pay)
 
+## 说明/ NOTICE
+
 ❗ 由于信息来源复杂，可能存在很多错漏，乘车前请备好零钱/ There may be many mistakes, please PREPARE CASH in case🤔
 
 仅统计全国地级以上城市/ Only counts Prefecture-level Cities and above
@@ -9,6 +11,8 @@
 排序方式为省份区划代码/ Rank by Province Code
 
 包括由公交集团运营的有轨电车/ Including Tram Line Operated by Bus Groups
+
+对于卡名称不明的卡片，交通联合卡命名为“xx交通一卡通”，非交通联合卡命名为“xx公交卡”
 
 ## 图例/ Legend
 
@@ -443,7 +447,7 @@
 *待完善*
 
 ## 参考资料/ References
-- 交通联合：<https://zh.wikipedia.org/zh-hans/%E5%85%A8%E5%9B%BD%E4%BA%A4%E9%80%9A%E4%B8%80%E5%8D%A1%E9%80%9A%E4%BA%92%E8%81%94%E4%BA%92%E9%80%9A>; <http://w.zhbus.org/index.php?title=%E5%85%A8%E5%9B%BD%E4%BA%A4%E9%80%9A%E4%B8%80%E5%8D%A1%E9%80%9A>
+- 交通联合：<https://zh.wikipedia.org/zh-hans/全国交通一卡通互联互通>; <http://w.zhbus.org/index.php?title=全国交通一卡通>
 - 银联：<http://www.mpaypass.com.cn/news/201907/24112333.html>
 - 支付宝：<https://render.alipay.com/p/f/fd-jpwnyevx/index.html>
 - 翼支付：<http://gd.zhidao.189.cn/ckb/knowledge_detail/sz/20181116/702381>
