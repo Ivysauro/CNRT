@@ -1,5 +1,7 @@
 # 地面公交支付方式/ Payment Methods for Bus
 
+轨道交通支付方式点[这里](https://ivysauro.github.io/CNRT/data/Pay)跳转/ For Rail Transit, go to [HERE](https://ivysauro.github.io/CNRT/data/Pay)
+
 ❗ 由于信息来源复杂，可能存在很多错漏，乘车前请备好零钱/ There may be many mistakes, please PREPARE CASH in case🤔
 
 仅统计全国地级以上城市/ Only counts Prefecture-level Cities and above
