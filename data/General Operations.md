@@ -252,16 +252,15 @@
 
 ### 标识/ Logo
 
-*待完善/ Coming soon*
+暂时请参见[这里](https://zhuanlan.zhihu.com/p/62524304)/ See Chinese version [HERE](https://zhuanlan.zhihu.com/p/62524304)
 
 ### 标识色/ Color
 
-*待完善/ Coming soon*
+暂时请参见[这里](http://www.ditiezu.com/thread-630211-1-1.html)及[这里](http://www.ditiezu.com/thread-664974-1-1.html)（可能需要登录）/ See Chinese version [HERE](http://www.ditiezu.com/thread-630211-1-1.html) and [HERE](http://www.ditiezu.com/thread-664974-1-1.html)(Maybe needs Login)
 
 ## 参考资料/ References
 - <http://money.163.com/photoview/50ST0025/17082.html>
 - <https://zhuanlan.zhihu.com/p/77777893>
-- <https://zhuanlan.zhihu.com/p/62524304>
 - <https://zhuanlan.zhihu.com/p/83168651>
 - <http://www.mpaypass.com.cn/news/201909/03110411.html>
 
