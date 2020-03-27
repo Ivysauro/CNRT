@@ -11,7 +11,7 @@ The public transportation emergency measures during the pneumonia epidemic can b
 ### 乘客向/ For Passengers 👨‍🚀👩‍🚀
 - [轨道交通支付方式/ Payment Methods for Rail Transit](https://ivysauro.github.io/CNRT/data/Pay)
 - [地面公交支付方式/ Payment Methods for Bus](https://ivysauro.github.io/CNRT/data/Bus%20Pay)
-- [虚拟交通卡/ NFC Vitual Transit Card](https://ivysauro.github.io/CNRT/data/NFC)
+- [NFC交通卡/ NFC Transit Card](https://ivysauro.github.io/CNRT/data/NFC)
 - [*运营方式/ General Operations*](https://ivysauro.github.io/CNRT/data/General%20Operations)
 - [安检互认/ Security Check Recognition](https://ivysauro.github.io/CNRT/data/Security%20Check)
 
