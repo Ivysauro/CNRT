@@ -371,16 +371,27 @@
 | **陕西/ Shaanxi** | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
 | :- | :-: | :-: | :-: | :-: | :-: | :-: | :- |
 | 西安/ Xi'an | ✅ | | ✅ | ✅ | ✅ | | 西安公交出行 |
+| 铜川/ Tongchuan | ✅ | | | | | ✅ | |
 | 宝鸡/ Baoji | ✅ | ✅ | ✅ | | | ✅ | |
 | 咸阳/ Xianyang | ✅ | | ✅ | | | | |
 | 渭南/ Weinan | ✅ | | | ⭕[^wn] | | | 美团 |
 | 延安/ Yan'an | ✅ | | | ✅ | | ✅ | |
 | 汉中/ Hanzhong | ✅ | ✅ | ✅ | | | ✅ | 天汉通 |
+| 榆林/ Yulin, Shaanxi | ✅ | ✅ | ✅ | | | ✅ | |
+| 安康/ Ankang | ✅ | ✅ | ✅ | | | ✅ | |
+| 商洛/ Shangluo | ✅ | | | | | | |
 | **甘肃/ Gansu** | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
 | 兰州/ Lanzhou | ✅ | ✅ | ✅ | ✅ | | ✅ | 万支付·甘肃一卡通 |
+| 嘉峪关/ Jiayuguan | ✅ | ✅ | ⭕[^jyg] | ⭕[^jyg] | | ✅ | |
+| 金昌/ Jinchang | ✅ | | | ✅ | | | |
+| 白银/ Baiyin | ⭕ | ✅ | | ✅ | | ✅ | |
+| 天水/ Tianshui | ⭕ | | ✅ | ✅ | | | |
 | 武威/ Wuwei | ✅ | ✅ | ✅ | ✅ | | ✅ | |
 | 张掖/ Zhangye | ✅ | ✅ | ⭕[^zy] | ⭕[^zy] | | ✅ | |
+| 平凉/ Pingliang | ✅ | | | ✅ | | ✅ | |
 | 酒泉/ Jiuquan | ✅ | | ✅ | ✅ | | | |
+| 庆阳/ Qingyang | ⭕ | ✅ | | | ✅ | | |
+| 定西/ Dingxi | ✅ | ✅ | ⭕[^dx] | ⭕[^dx] | | ✅ | |
 | 陇南/ Longnan | ✅ | ✅ | ⭕[^ln] | ⭕[^ln] | | ✅ | |
 | **青海/ Qinghai** | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
 | 西宁/ Xining | ✅ | ✅ | ✅ | | ✅ | ✅ | 西宁智能公交 |
@@ -416,7 +427,9 @@
 [^cq]: 重庆：仅区县公交支持交通联合
 [^yx]: 玉溪：仅部分线路支持微信付款码
 [^wn]: 渭南：需要关注“渭南通”微信公众号，注册个人账号后充值
+[^jyg]: 嘉峪关：仅支持支付宝和微信的付款码
 [^zy]: 张掖：仅支持支付宝和微信的付款码
+[^dx]: 定西：仅支持支付宝和微信的付款码
 [^ln]: 陇南：仅支持支付宝和微信的付款码
 [^wz]: 吴忠：仅支持支付宝和微信的付款码
 [^kr]: 克拉玛依：仅部分线路支持支付宝、微信和银联的付款码
