@@ -82,8 +82,9 @@
 - ~~农大南路~~（16号线，2016.12-2017.12）
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tj.gif" width="20" hegiht="20"/>天津
+- 北运河（6号线，2016.12-）
 - 李七庄南（5号线，2018.10-）
-- 梨双路北、洪泥河东、上郭庄（1号线，2019.12-）
+- 梨双路北、洪泥河东、上郭庄、咸水沽北、双桥河（1号线，2019.12-）
 - ~~北辰科技园北~~（5号线，2018.10-2019.1）
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海
@@ -334,7 +335,7 @@
 
 ##### 中途站
 - 八角游乐园（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，1号线）
-- 刘园、瑞景新苑、佳园里、双林（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tj.gif" width="20" hegiht="20"/>天津，1号线）
+- 瑞景新苑、佳园里、双林（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tj.gif" width="20" hegiht="20"/>天津，1号线）
 - 华北集团（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tj.gif" width="20" hegiht="20"/>天津，3号线）
 - 西南楼（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tj.gif" width="20" hegiht="20"/>天津，5号线）
 - 水上公园东路（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tj.gif" width="20" hegiht="20"/>天津，6号线）
