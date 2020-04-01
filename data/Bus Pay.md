@@ -286,7 +286,7 @@
 | 广州/ Guangzhou | 羊城通、岭南通 | ✅ | | ✅ | ✅ | ✅ | | 羊城通、岭南通、翼支付 |
 | 韶关/ Shaoguan | 岭南通、韶州通 | ✅ | ✅ | ✅ | ✅ | | ✅ | 韶州通、美团 |
 | 深圳/ Shenzhen | 岭南通、深圳通 | ✅ | ✅ | ✅ | ✅ | | | 深圳通 |
-| 珠海/ Zhuhai | 岭南通、珠海通 | ✅ | ✅ | ✅ | ✅ | | | 珠海TONG、翼支付、美团、上海公共交通卡[^zh] |
+| 珠海/ Zhuhai | 岭南通、珠海通 | ✅ | ✅ | ✅ | ✅ | | | 珠海TONG、翼支付、美团、CU卡[^zh] |
 | 汕头/ Shantou | 岭南通 | ✅ | ✅ | | ✅ | ✅ | ✅ | |
 | 佛山/ Foshan | 岭南通、广佛通 | ✅ | ✅ | ✅ | ✅ | | | 佛山城市通 |
 | 江门/ Jiangmen | 岭南通、五邑通 | ✅ | ✅ | ✅ | ✅ | | ✅ | |
@@ -417,21 +417,20 @@
 
 ❗数据完善中/ Searching Data
 
-仅列出地区（或自治州、盟）政府驻地和省直管县级行政单位
+仅列出地区（或自治州、盟）政府驻地和省直管县级市
 
 | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
 | :- | :-: | :-: | :-: | :-: | :-: | :-: | :- |
-| 兴安盟-乌兰浩特市/ Ulanhot, Nei Mongol | ⭕ |
-| 锡林郭勒盟-锡林浩特市/ Xilinhot, Nei Mongol | |
-| 阿拉善盟-阿拉善左旗/ Alxa Left, Nei Mongol | |
-| 延边州-延吉市/ Yanji, Jilin | ✅ |
-| 大兴安岭地区-加格达奇区/ Jiagedaqi, Heilongjiang | ✅ | ⭕ | | | | ⭕ | |
+| 兴安盟-乌兰浩特市/ Ulanhot, Nei Mongol | ⭕ | | 🕓 | | | ⭕ | |
+| 锡林郭勒盟-锡林浩特市/ Xilinhot, Nei Mongol | | | ✅ | ✅ | | | |
+| 阿拉善盟-阿拉善左旗/ Alxa Left, Nei Mongol | | ✅ | ⭕[^az] | ⭕[^az] | | ✅ | |
+| 延边州-延吉市/ Yanji, Jilin | ✅ | | | ✅ | | | |
+| 大兴安岭地区-加格达奇区/ Jiagedaqi, Heilongjiang | ✅ | ⭕[^jgdq] | | | | ⭕[jgdq] | |
 | 济源市/ Jiyuan, Henan | ✅ |
 | 恩施州-恩施市/ Enshi City, Hubei | |
 | 仙桃市/ Xiantao, Hubei | |
 | 潜江市/ Qianjiang, Hubei | ✅ |
 | 天门市/ Tianmen, Hubei | |
-| 神农架林区/ Shennongjia, Hubei | |
 | 湘西州-吉首市/ Jishou, Hunan | ✅ |
 | 五指山市/ Wuzhishan, Hainan | |
 | 琼海市/ Qionghai, Hainan | |
@@ -493,7 +492,7 @@
 [^zs]: 舟山：需要关注“舟山市民卡”微信公众号，注册个人“市民码”账号后充值
 [^ls]: 丽水：仅支持微信付款码
 [^ls2]: 丽水：仅支持浙江农信丰收互联App生成的银联付款码
-[^zh]: 珠海：理论上支持所有住建部城市一卡通标准的公交卡，推荐上海公共交通卡（紫卡）
+[^zh]: 珠海：理论上支持所有住建部城市一卡通标准的公交卡，但上海公共交通卡等部分卡片实测不支持（http://w.zhbus.org/index.php?title=全国城市一卡通）
 [^hs]: 黄山：自2020年4月1日起，将停止微信小程序二维码扫码乘车功能（http://huangshan.bendibao.com/news/2020214/578.shtm）
 [^px]: 萍乡：需要关注“公交联盟”公众号或小程序，充值后使用
 [^gz]: 赣州：市区公交不支持微信乘车码
@@ -511,6 +510,9 @@
 [^hk]: 香港：仅支持AlipayHk（即支付宝香港版）
 [^mo]: 澳门：仅支持电子现金（即内地已经逐渐淘汰的银联脱机闪付），为发卡行当日汇率
 [^mo2]: 澳门：理论上支持所有住建部城市一卡通标准的公交卡，推荐上海公共交通卡（紫卡），经多人测试可用，为卡机设定的固定汇率
+
+[^az]: 阿拉善左旗：巴彦浩特公交仅支持支付宝和微信的付款码
+[^jgdq]: 加格达奇：银联云闪付和银联付款码仅支持建设银行
 
 ## 充值/ Charging
 
