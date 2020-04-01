@@ -425,7 +425,7 @@
 | 锡林郭勒盟-锡林浩特市/ Xilinhot, Nei Mongol | | | ✅ | ✅ | | | |
 | 阿拉善盟-阿拉善左旗/ Alxa Left, Nei Mongol | | ✅ | ⭕[^az] | ⭕[^az] | | ✅ | |
 | 延边州-延吉市/ Yanji, Jilin | ✅ | | | ✅ | | | |
-| 大兴安岭地区-加格达奇区/ Jiagedaqi, Heilongjiang | ✅ | ⭕[^jgdq] | | | | ⭕[jgdq] | |
+| 大兴安岭地区-加格达奇区/ Jiagedaqi, Heilongjiang | ✅ | ⭕[^jgdq] | | | | ⭕[^jgdq] | |
 | 济源市/ Jiyuan, Henan | ✅ |
 | 恩施州-恩施市/ Enshi City, Hubei | |
 | 仙桃市/ Xiantao, Hubei | |
