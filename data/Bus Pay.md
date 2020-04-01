@@ -413,6 +413,76 @@
 | 吐鲁番/ Turfan | 吐鲁番公交卡 | | ✅ | | | | | |
 | 哈密/ Hami | 哈密交通一卡通 | ✅ | ✅ | | | | ✅ | |
 
+#### 一些重要的县级行政单位/ Some Important County-level Cities
+
+❗数据完善中/ Searching Data
+
+仅列出地区（或自治州、盟）政府驻地和省直管县级行政单位
+
+| | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: | :- |
+| 兴安盟-乌兰浩特市/ Ulanhot, Nei Mongol | ⭕ |
+| 锡林郭勒盟-锡林浩特市/ Xilinhot, Nei Mongol | |
+| 阿拉善盟-阿拉善左旗/ Alxa Left, Nei Mongol | |
+| 延边州-延吉市/ Yanji, Jilin | ✅ |
+| 大兴安岭地区-加格达奇区/ Jiagedaqi, Heilongjiang | ✅ | ⭕ | | | | ⭕ | |
+| 济源市/ Jiyuan, Henan | ✅ |
+| 恩施州-恩施市/ Enshi City, Hubei | |
+| 仙桃市/ Xiantao, Hubei | |
+| 潜江市/ Qianjiang, Hubei | ✅ |
+| 天门市/ Tianmen, Hubei | |
+| 神农架林区/ Shennongjia, Hubei | |
+| 湘西州-吉首市/ Jishou, Hunan | ✅ |
+| 五指山市/ Wuzhishan, Hainan | |
+| 琼海市/ Qionghai, Hainan | |
+| 文昌市/ Wenchang, Hainan | ✅ |
+| 万宁市/ Wanning, Hainan | |
+| 东方市/ Dongfang, Hainan | |
+| 阿坝州-马尔康市/ Barkam, Sichuan | ✅ |
+| 甘孜州-康定市/ Kangding, Sichuan | ✅ |
+| 凉山州-西昌市/ Xichang, Sichuan | ✅ |
+| 黔东南州-凯里市/ Kaili, Guizhou | ✅ |
+| 黔南州-都匀市/ Duyun, Guizhou | ✅ |
+| 黔西南州-兴义市/ Xingyi, Guizhou | ✅ |
+| 楚雄州-楚雄市/ Chuxiong City, Yunnan | ✅ |
+| 红河州-蒙自市/ Mengzi, Yunnan | ✅ |
+| 文山州-文山市/ Wenshan City, Yunnan | ✅ |
+| 西双版纳州-景洪市/ Jinghong, Yunnan | ✅ |
+| 大理州-大理市/ Dali City, Yunnan | ⭕ |
+| 德宏州-芒市/ Mang, Yunnan | ⭕ |
+| 怒江州-泸水市/ Lushui, Yunnan | ✅ |
+| 迪庆州-香格里拉市/ Shangri-la, Yunnan | ✅ |
+| 阿里地区-噶尔县/ Gar, Tibet | | | | | | | | |
+| 临夏州-临夏市/ Linxia City, Gansu | |
+| 甘南州-合作市/ Hezuo, Gansu | |
+| 海南州-共和县/ Gonghe, Qinghai | |
+| 海北州-海晏县/ Haiyan, Qinghai | |
+| 海西州-德令哈市/ Delhi, Qinghai | ✅ |
+| 黄南州-同仁县/ Tongren, Qinghai | |
+| 果洛州-玛沁县/ Maqin, Qinghai | |
+| 玉树州-玉树市/ Yushu City, Qinghai | ✅ |
+| 阿克苏地区-阿克苏市/ Aksu City, Xinjiang | |
+| 喀什地区-喀什市/ Qeshqer Shehiri City, Xinjiang | |
+| 和田地区-和田市/ Hotan City, Xinjiang | |
+| 博尔塔拉州-博乐市/ Bole, Xinjiang | |
+| 昌吉州-昌吉市/ Changji City, Xinjiang | |
+| 巴音郭勒州-库尔勒市/ Korla, Xinjiang | |
+| 克孜勒苏州-阿图什市/ Artux, Xinjiang | |
+| 伊犁州-伊宁市/ Yining, Xinjiang | ✅ |
+| 塔城地区-塔城市/ Tacheng City, Xinjiang | |
+| 阿勒泰地区-阿勒泰市/ Altay City, Xinjiang | |
+| 石河子市/ Shihezi, Xinjiang | ✅ |
+| 阿拉尔市/ Alaer, Xinjiang | ✅ |
+| 图木舒克市/ Tumushuke, Xinjiang | ✅ |
+| 五家渠市/ Wujiaqu, Xinjiang | ✅ |
+| 北屯市/ Beitun, Xinjiang | ✅ |
+| 铁门关市/ Tiemenguan, Xinjiang | ✅ |
+| 双河市/ Shuanghe, Xinjiang | ✅ |
+| 可克达拉市/ Cocodala, Xinjiang | ✅ |
+| 昆玉市/ Kunyu, Xinjiang | ✅ |
+| 胡杨河市/ Huyanghe, Xinjiang | ✅ |
+| | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
+
 [^bj]: 北京：交通联合采用专有白名单
 [^bj2]: 北京：仅郊区公交支持微信乘车码
 [^bn]: 巴彦淖尔：仅支持微信付款码
