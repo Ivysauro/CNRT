@@ -426,12 +426,12 @@
 | 阿拉善盟-阿拉善左旗/ Alxa Left, Nei Mongol | | ✅ | ⭕[^az] | ⭕[^az] | | ✅ | |
 | 延边州-延吉市/ Yanji, Jilin | ✅ | | | ✅ | | | |
 | 大兴安岭地区-加格达奇区/ Jiagedaqi, Heilongjiang | ✅ | ⭕[^jgdq] | | | | ⭕[^jgdq] | |
-| 济源市/ Jiyuan, Henan | ✅ |
-| 恩施州-恩施市/ Enshi City, Hubei | |
-| 仙桃市/ Xiantao, Hubei | |
-| 潜江市/ Qianjiang, Hubei | ✅ |
-| 天门市/ Tianmen, Hubei | |
-| 湘西州-吉首市/ Jishou, Hunan | ✅ |
+| 济源市/ Jiyuan, Henan | ✅ | | | ✅ | | | 济源公交 |
+| 恩施州-恩施市/ Enshi City, Hubei | | ✅ | ✅ | | | | |
+| 仙桃市/ Xiantao, Hubei | | | | ⭕[^xt] | | | 智慧仙桃 |
+| 潜江市/ Qianjiang, Hubei | ✅ | ✅ | ✅ | | | ✅ | 潜江公交 |
+| 天门市/ Tianmen, Hubei | | | | ⭕[^tm] | | | |
+| 湘西州-吉首市/ Jishou, Hunan | ✅ | ✅ | | | | ✅ | |
 | 五指山市/ Wuzhishan, Hainan | |
 | 琼海市/ Qionghai, Hainan | |
 | 文昌市/ Wenchang, Hainan | ✅ |
@@ -513,6 +513,22 @@
 
 [^az]: 阿拉善左旗：巴彦浩特公交仅支持支付宝和微信的付款码
 [^jgdq]: 加格达奇：银联云闪付和银联付款码仅支持建设银行
+[^xt]: 仙桃：微信仅支持武汉乘车码
+[^tm]: 天门：微信仅支持武汉乘车码
+
+#### 免费/ Free Charge
+
+以下统计不含城乡公交
+
+- 河北衡水市，部分公交（仅限供暖时段）
+- 山西怀仁市，全部公交
+- 内蒙古阿拉善左旗，巴彦浩特部分公交
+- 山东东明县，全部公交
+- 河南济源市，部分公交
+- 湖南常宁市，部分公交
+- 四川筠连县，部分公交
+- 陕西西安市高陵区，部分公交
+- ~~福建石狮市，部分公交~~
 
 ## 充值/ Charging
 
