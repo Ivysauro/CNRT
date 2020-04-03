@@ -432,17 +432,17 @@
 | 潜江市/ Qianjiang, Hubei | ✅ | ✅ | ✅ | | | ✅ | 潜江公交 |
 | 天门市/ Tianmen, Hubei | | | | ⭕[^tm] | | | |
 | 湘西州-吉首市/ Jishou, Hunan | ✅ | ✅ | | | | ✅ | |
-| 五指山市/ Wuzhishan, Hainan | |
-| 琼海市/ Qionghai, Hainan | |
-| 文昌市/ Wenchang, Hainan | ✅ |
-| 万宁市/ Wanning, Hainan | |
-| 东方市/ Dongfang, Hainan | |
-| 阿坝州-马尔康市/ Barkam, Sichuan | ✅ |
-| 甘孜州-康定市/ Kangding, Sichuan | ✅ |
-| 凉山州-西昌市/ Xichang, Sichuan | ✅ |
-| 黔东南州-凯里市/ Kaili, Guizhou | ✅ |
-| 黔南州-都匀市/ Duyun, Guizhou | ✅ |
-| 黔西南州-兴义市/ Xingyi, Guizhou | ✅ |
+| 五指山市/ Wuzhishan, Hainan | | | ✅ | | | ✅ | |
+| 琼海市/ Qionghai, Hainan | | ✅ | ✅ | ✅ | | ✅ | |
+| 文昌市/ Wenchang, Hainan | ✅ | ✅ | ✅ | | | ✅ | |
+| 万宁市/ Wanning, Hainan | | ✅ | ✅ | ✅ | | | |
+| 东方市/ Dongfang, Hainan | | ✅ | ✅ | | | ✅ | |
+| 阿坝州-马尔康市/ Barkam, Sichuan | ✅ | | | ⭕ | | | |
+| 甘孜州-康定市/ Kangding, Sichuan | ✅ | ✅ | | | | ✅ | |
+| 凉山州-西昌市/ Xichang, Sichuan | ✅ | ✅ | ✅ | ✅ | | ✅ | 月城公交、和包支付、翼支付 |
+| 黔东南州-凯里市/ Kaili, Guizhou | ✅ | ✅ | | ✅ | | ✅ | 美团 |
+| 黔南州-都匀市/ Duyun, Guizhou | ✅ | ✅ | ✅ | | | ✅ | 贵州通、美团 |
+| 黔西南州-兴义市/ Xingyi, Guizhou | ✅ | ✅ | | ⭕[^xy] | | ✅ | |
 | 楚雄州-楚雄市/ Chuxiong City, Yunnan | ✅ |
 | 红河州-蒙自市/ Mengzi, Yunnan | ✅ |
 | 文山州-文山市/ Wenshan City, Yunnan | ✅ |
@@ -515,6 +515,7 @@
 [^jgdq]: 加格达奇：银联云闪付和银联付款码仅支持建设银行
 [^xt]: 仙桃：微信仅支持武汉乘车码
 [^tm]: 天门：微信仅支持武汉乘车码
+[^xy]: 兴义：仅支持微信付款码
 
 #### 免费/ Free of Charge
 
