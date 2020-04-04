@@ -443,17 +443,17 @@
 | 黔东南州-凯里市/ Kaili, Guizhou | ✅ | ✅ | | ✅ | | ✅ | 美团 |
 | 黔南州-都匀市/ Duyun, Guizhou | ✅ | ✅ | ✅ | | | ✅ | 贵州通、美团 |
 | 黔西南州-兴义市/ Xingyi, Guizhou | ✅ | ✅ | | ⭕[^xy] | | ✅ | |
-| 楚雄州-楚雄市/ Chuxiong City, Yunnan | ✅ |
-| 红河州-蒙自市/ Mengzi, Yunnan | ✅ |
-| 文山州-文山市/ Wenshan City, Yunnan | ✅ |
-| 西双版纳州-景洪市/ Jinghong, Yunnan | ✅ |
-| 大理州-大理市/ Dali City, Yunnan | ⭕ |
-| 德宏州-芒市/ Mang, Yunnan | ⭕ |
-| 怒江州-泸水市/ Lushui, Yunnan | ✅ |
-| 迪庆州-香格里拉市/ Shangri-la, Yunnan | ✅ |
+| 楚雄州-楚雄市/ Chuxiong City, Yunnan | ✅ | ✅ | ✅ | ⭕[^cx] | | ✅ | |
+| 红河州-蒙自市/ Mengzi, Yunnan | ✅ | ✅ | | | | ✅ | |
+| 文山州-文山市/ Wenshan City, Yunnan | ✅ | ✅ | | | | ✅ | |
+| 西双版纳州-景洪市/ Jinghong, Yunnan | ✅ | ⭕ | | | | | |
+| 大理州-大理市/ Dali City, Yunnan | ⭕ | | | ✅ | | | |
+| 德宏州-芒市/ Mang, Yunnan | ⭕ | ✅ | | | | ✅ | |
+| 怒江州-泸水市/ Lushui, Yunnan | ✅ | ✅ | | | | ✅ | |
+| 迪庆州-香格里拉市/ Shangri-la, Yunnan | ✅ | ✅ | | | | ✅ | |
 | 阿里地区-噶尔县/ Gar, Tibet | | | | | | | | |
-| 临夏州-临夏市/ Linxia City, Gansu | |
-| 甘南州-合作市/ Hezuo, Gansu | |
+| 临夏州-临夏市/ Linxia City, Gansu | | ✅ | | ✅ | | | |
+| 甘南州-合作市/ Hezuo, Gansu | | ✅ | | | | |
 | 海南州-共和县/ Gonghe, Qinghai | |
 | 海北州-海晏县/ Haiyan, Qinghai | |
 | 海西州-德令哈市/ Delhi, Qinghai | ✅ |
@@ -516,6 +516,7 @@
 [^xt]: 仙桃：微信仅支持武汉乘车码
 [^tm]: 天门：微信仅支持武汉乘车码
 [^xy]: 兴义：仅支持微信付款码
+[^cx]: 楚雄市：仅支持微信付款码
 
 #### 免费/ Free of Charge
 
