@@ -415,8 +415,6 @@
 
 #### 一些重要的县级行政单位/ Some Important County-level Cities
 
-❗数据完善中/ Searching Data
-
 仅列出地区（或自治州、盟）政府驻地和省直管县级市
 
 | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
@@ -454,12 +452,12 @@
 | 阿里地区-噶尔县/ Gar, Tibet | | | | | | | | |
 | 临夏州-临夏市/ Linxia City, Gansu | | ✅ | | ✅ | | | |
 | 甘南州-合作市/ Hezuo, Gansu | | ✅ | | | | |
-| 海南州-共和县/ Gonghe, Qinghai | |
-| 海北州-海晏县/ Haiyan, Qinghai | |
-| 海西州-德令哈市/ Delhi, Qinghai | ✅ |
-| 黄南州-同仁县/ Tongren, Qinghai | |
-| 果洛州-玛沁县/ Maqin, Qinghai | |
-| 玉树州-玉树市/ Yushu City, Qinghai | ✅ |
+| 海南州-共和县/ Gonghe, Qinghai | | ✅ | | | | | |
+| 海北州-海晏县/ Haiyan, Qinghai | | | | | | | |
+| 海西州-德令哈市/ Delhi, Qinghai | ✅ | ✅ | ⭕[^dlh] | ⭕[^dlh] | | | |
+| 黄南州-同仁县/ Tongren, Qinghai | | ✅ | | | ✅ | | |
+| 果洛州-玛沁县/ Maqin, Qinghai | | | | | | | |
+| 玉树州-玉树市/ Yushu City, Qinghai | ✅ | ✅ | | | | ✅ | |
 | 阿克苏地区-阿克苏市/ Aksu City, Xinjiang | |
 | 喀什地区-喀什市/ Qeshqer Shehiri City, Xinjiang | |
 | 和田地区-和田市/ Hotan City, Xinjiang | |
@@ -517,6 +515,7 @@
 [^tm]: 天门：微信仅支持武汉乘车码
 [^xy]: 兴义：仅支持微信付款码
 [^cx]: 楚雄市：仅支持微信付款码
+[^dlh]: 德令哈：仅支持支付宝和微信的付款码
 
 #### 免费/ Free of Charge
 
