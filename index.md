@@ -1,9 +1,5 @@
 # 索引 Index 
 
-受新型冠状病毒肺炎疫情影响，全国公共交通应急措施情况可参见[@通行线Toursline的微博](https://m.weibo.cn/u/6882481489/)
-
-The public transportation emergency measures during the pneumonia epidemic can be found in [@通行线Toursline's Weibo](https://m.weibo.cn/u/6882481489/)
-
 ## 目录/ Content
 
 ### 乘客向/ For Passengers 👨‍🚀👩‍🚀
