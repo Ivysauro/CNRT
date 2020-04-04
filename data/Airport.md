@@ -107,7 +107,7 @@
 | 嘉峪关 | Jiayuguan | JGN, JiayuGuaN | ZLJQ |
 | 淮安涟水 | Huai'an Lianshui | HIA, HuaI'An | ZSSH, lianSHui |
 | 赣州黄金 | Guanzhou Huangjin | KOW, KanchOW | ZSGZ, Ganzhou |
-| 台中清泉岗 | Taichung Ching Chuang Kang | RMQ | RCMQ |
+| 台中清泉岗 | Taichung Ching Chuang Kang | RMQ, from ICAO; TXG, Taichun(X)G; CCK, Ching Chuang Kang | RCMQ, Middle Qingquangon |
 | 台南 | Tainan | TNN, TaiNaN | RCNN, taiNaN |
 | 花莲 | Hualien | HUN, HUalieN | RCYU |
 | 嘉义（水上） | Chiayi | CYI, ChiaYI | RCKU |
