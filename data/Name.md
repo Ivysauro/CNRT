@@ -126,7 +126,7 @@
 | 西安 | 镐(hào)/*西* | 古称，镐京 | **Xi'an** | Sian | XIY | 邮政式拼音 |
 | 宝鸡 | 宝 | 缩略 | **Baoji** | Paoki | | 邮政式拼音 |
 | 延安 | 延 | 缩略 | **Yan'an** | Yenan | ENY | 邮政式拼音 | 
-| 兰州 | 兰/皋 | 缩略/古称，皋兰 | **Lanzhou** | Lanzhow | LHW | 邮政式拼音 |
+| 兰州 | 兰/皋 | 缩略/古称，皋兰 | **Lanzhou** | Lanchow | LHW | 邮政式拼音 |
 | 敦煌 | | | **Dunhuang** | Tunhwang | DNH | 邮政式拼音 |
 | 西宁 | | | **Xining** | Sining | XNN | 邮政式拼音 |
 | 格尔木 | | | Ge'ermu | **Golmud** | GOQ | 蒙语 |
