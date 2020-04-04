@@ -454,30 +454,30 @@
 | 甘南州-合作市/ Hezuo, Gansu | | ✅ | | | | |
 | 海南州-共和县/ Gonghe, Qinghai | | ✅ | | | | | |
 | 海北州-海晏县/ Haiyan, Qinghai | | | | | | | |
-| 海西州-德令哈市/ Delhi, Qinghai | ✅ | ✅ | ⭕[^dlh] | ⭕[^dlh] | | | |
+| 海西州-德令哈市/ Delhi, Qinghai | ✅ | ✅ | ⭕[^dlh] | ⭕[^dlh] | ✅ | | |
 | 黄南州-同仁县/ Tongren, Qinghai | | ✅ | | | ✅ | | |
 | 果洛州-玛沁县/ Maqin, Qinghai | | | | | | | |
 | 玉树州-玉树市/ Yushu City, Qinghai | ✅ | ✅ | | | | ✅ | |
-| 阿克苏地区-阿克苏市/ Aksu City, Xinjiang | |
-| 喀什地区-喀什市/ Qeshqer Shehiri City, Xinjiang | |
-| 和田地区-和田市/ Hotan City, Xinjiang | |
-| 博尔塔拉州-博乐市/ Bole, Xinjiang | |
-| 昌吉州-昌吉市/ Changji City, Xinjiang | |
-| 巴音郭勒州-库尔勒市/ Korla, Xinjiang | |
-| 克孜勒苏州-阿图什市/ Artux, Xinjiang | |
-| 伊犁州-伊宁市/ Yining, Xinjiang | ✅ |
-| 塔城地区-塔城市/ Tacheng City, Xinjiang | |
-| 阿勒泰地区-阿勒泰市/ Altay City, Xinjiang | |
-| 石河子市/ Shihezi, Xinjiang | ✅ |
-| 阿拉尔市/ Alaer, Xinjiang | ✅ |
-| 图木舒克市/ Tumushuke, Xinjiang | ✅ |
-| 五家渠市/ Wujiaqu, Xinjiang | ✅ |
-| 北屯市/ Beitun, Xinjiang | ✅ |
-| 铁门关市/ Tiemenguan, Xinjiang | ✅ |
-| 双河市/ Shuanghe, Xinjiang | ✅ |
-| 可克达拉市/ Cocodala, Xinjiang | ✅ |
-| 昆玉市/ Kunyu, Xinjiang | ✅ |
-| 胡杨河市/ Huyanghe, Xinjiang | ✅ |
+| 阿克苏地区-阿克苏市/ Aksu City, Xinjiang | | ✅ | ⭕[^aks] | ⭕[^aks] | | ✅ | |
+| 喀什地区-喀什市/ Qeshqer Shehiri City, Xinjiang | | ✅ | ⭕[^qs] | ⭕[^qs] | | ✅ | |
+| 和田地区-和田市/ Hotan City, Xinjiang | | | | | | | |
+| 博尔塔拉州-博乐市/ Bole, Xinjiang | | ✅ | | | | ✅ | |
+| 昌吉州-昌吉市/ Changji City, Xinjiang | | ✅ | | | | ✅ | |
+| 巴音郭勒州-库尔勒市/ Korla, Xinjiang | | ✅ | | | | ✅ | |
+| 克孜勒苏州-阿图什市/ Artux, Xinjiang | | | | | | | |
+| 伊犁州-伊宁市/ Yining, Xinjiang | ✅ | ✅ | | | | ✅ | |
+| 塔城地区-塔城市/ Tacheng City, Xinjiang | | ✅ | | | | ✅ | |
+| 阿勒泰地区-阿勒泰市/ Altay City, Xinjiang | | ✅ | | | | ✅ | |
+| 石河子市/ Shihezi, Xinjiang | ✅ | | | ✅ | | | |
+| 阿拉尔市/ Alaer, Xinjiang | ✅ | | | | | | |
+| 图木舒克市/ Tumushuke, Xinjiang | ✅ | | | | | | |
+| 五家渠市/ Wujiaqu, Xinjiang | ✅ | ✅ | | | | ✅ | 红山通 |
+| 北屯市/ Beitun, Xinjiang | ✅ | | | | | | |
+| 铁门关市/ Tiemenguan, Xinjiang | ✅ | | | | | | |
+| 双河市/ Shuanghe, Xinjiang | ✅ | ✅ | | | | ✅ | |
+| 可克达拉市/ Cocodala, Xinjiang | ✅ | ✅ | | | | ✅ | |
+| 昆玉市/ Kunyu, Xinjiang | ✅ | | | | | | |
+| 胡杨河市/ Huyanghe, Xinjiang | ✅ | | | | | | |
 | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
 
 [^bj]: 北京：交通联合采用专有白名单
@@ -516,6 +516,8 @@
 [^xy]: 兴义：仅支持微信付款码
 [^cx]: 楚雄市：仅支持微信付款码
 [^dlh]: 德令哈：仅支持支付宝和微信的付款码
+[^aks]: 阿克苏：仅支持支付宝和微信的付款码
+[^qs]: 喀什：仅支持支付宝和微信的付款码
 
 #### 免费/ Free of Charge
 
