@@ -118,9 +118,102 @@
 | 敦煌 | Dunhuang | DNH, DuNHuang | ZLDH, DunHuang |
 | 呼伦贝尔东山 | Hulunbuir Dongshan | HLD, HuLubuir Dongshan | ZBLA, haiLAr |
 
-## 4C&3C
+## 4C
 
-资料略
+| 中文名/ Chinese Name | 英文名/ English Name | IATA | ICAO |
+| :- | :- | :- | :- |
+| 松原查干湖 | Songyuan Chaganhu | YSQ, from ICAO | ZYSQ, Songyuan+Q |
+| 承德普宁 | Chengde Puning | CDE, ChengDE | ZBCD, ChengDe |
+| 邯郸 | Handan | HDG, HanDan+G | ZBHD, Handan |
+| 宜宾五粮液 | Yibin Wuliangye | YBP, YiBin+P | ZUYB, YiBin |
+| 延吉朝阳川 | Yanji Chaoyangchuan | YNJ, YaNJi | ZYYJ, YanJi |
+| 衡阳南岳 | Hengyang Nanyue | HNY, HeNgYang/ Hengyang NanYue | ZGHY, HengYang |
+| 临汾乔李 | Linfen Qiaoli | LFQ, LinFen Qiaoli | ZBLF, LinFen |
+| 济宁曲阜 | Jining Qufu | JNG, JiNinG | ZLJN, JiNing |
+| 大庆萨尔图 | Daqing Sartu | DQA, DaQing+A | ZYDQ, DaQing |
+| 漠河古莲 | Mohe Gulian | OHE, mOHE | ZYMH, MoHe |
+| 南充高坪 | Nanchong Gaoping | NAO, NAnchOng | ZUNC, NanChong |
+| 泸州蓝田 | Luzhou Lantian | LZO, LuZhOu | ZULZ, LuZhou |
+| 龙岩冠豸山 | Luyan Guanzhishan | LCX, LianCheng+X | ZSLD |
+| 安顺黄果树 | Anshun Huangguoshu | AVA | ZUAS, AnShun |
+| 黑河瑷珲 | Heihe Aihui | HEK, HeihE+K | ZYHE, HeihE |
+| 六盘水月照 | Liupanshui Yuezhao | LPF, LiuPanshui+F | ZUPS, liuPanShui |
+| 荔波 | Libo | LLB, L+LiBo | ZULB, LiBo |
+| 宜春明月山 | Yichun Mingyueshan | YIC, YIChun | ZSYC, YiChun |
+| 加格达奇嘎仙 | Jiagedaqi Gaxian | JGD, JiaGeDaqi | ZYJD, JiageDaqi |
+| 通辽 | Tongliao | TGO, TonGliaO | ZBTL, TongLiao |
+| 布尔津喀纳斯 | Burqin Kanas | KJI, Kanasi BuerJIn | ZWKN, KaNas |
+| 博乐阿拉山口 | Bole Alashankou | BPL, Bo(P)+Le | ZWBL, BoLe |
+| 张掖甘州 | Zhangye Ganzhou | YZY, Y+ZhangYe | ZLZY, ZhangYe |
+| 甘南夏河 | Gannan Xiahe | GXH, Gannan XiaHe | ZLXH, XiaHe |
+| 日照山字河 | Rizhao Shanzihe | RIZ, RIZhao | ZSRZ, RiZhao |
+| 凯里黄平 | Kaili Huangping | KJH, Kaili+J+Huangping | ZUKJ |
+| 阿克苏温宿 | Aksu Wensu | AKU, AKsU | ZWAK, AKsu |
+| 乌兰察布集宁 | Ulanqab Tsining | UCB, Ulan-ChaBu | ZBUC, Ulan-Chabu; ZBWL, WuLanchabu |
+| 乌兰浩特义勒利特 | Ulanhot YiLeLeeTeuk | HLH | ZBUL, ULanhot |
+| 赤峰玉龙 | Chifeng Yulong | CIF, ChIFeng | ZBCF, ChiFeng |
+| 锡林浩特 | Xilinhot | XIL, XILinhot | ZBXH, XilinHot |
+| 阿尔山伊尔施 | Arxan Yi'ershi | YIE, YI'Ershi | ZBES, yi'ErShi |
+| 巴彦淖尔天吉泰 | Bayannur Tianjitai | RLK | ZBYZ |
+| 池州九华山 | Chizhou Jiuhuashan | JUH, JiUHuashan/ JiuhUasHan | ZSJH, JiuHuashan |
+| 安庆天柱山 | Anqing Tianzhushan | AQG, AnQinG | ZSAQ, AnQing |
+| 阜阳西关 | Fuyang Xiguan | FUG, FUyanG | ZSFY, FuYang |
+| 汉中城固 | Hanzhong Chenggu | HZG, HanZhonG | ZLHZ, HanZhong |
+| 遵义新舟 | Zunyi Xinzhou | ZYI, ZunYI | ZUZY, ZunYi |
+| 固原六盘山 | Guyuan Liupanshan | GUY, GUYuan | ZLGY, GuYuan |
+| 锦州锦州湾 | Jinzhou Jinzhouwan | JNZ, JiNZhou | ZYJZ, JinZhou |
+| 盐城南洋 | Yancheng Nanyang | YNZ, YaNcheng+Z | ZSYN, YaNcheng/ Yancheng Nanyang |
+| 长治王村 | Changzhi Wangcun | CIH, ChangzhI+H | ZBCZ, ChangZhi |
+| 唐山三女河 | Tangshan Sannühe | TVS, Tangshan sann'V'he+S | ZBSN, SanNühe |
+| 大同云冈 | Datong Yungang | DAT, DATong | ZBDT, DaTong |
+| 吕梁大武 | Lülang Dawu | LLV, L+L'V'liang | ZBLL, LüLang |
+| 庆阳西峰 | Qingyang Xifeng | IQN, I+QiNgyang | ZLQY, QingYang |
+| 万州五桥 | Wanzhou Wuqiao | WXN, WanXiaN | ZUWX, WanXian |
+| 普洱思茅 | Pu'er Simao | SYM, Si(Y)+Mao | ZPSM, SiMao |
+| 伊宁 | Yining | YIN, YINing | ZWYN, YiNing |
+| 伊春林都 | Yichun Lindu | LDS, LinDu+S | ZYLD, LinDu |
+| 林芝米林 | Linzhi Milin | LZY, LinZhi+Y | ZUNZ, liNZhi |
+| 景德镇罗家 | Jingdezhen Luojia | JDZ, JingDeZhen | ZSJD, JingDezhen |
+| 日喀则和平 | Shigatse Peace | RKZ, RiKaZe | ZURK, RiKaze |
+| 梅州梅县 | Meizhou Meixian | MXZ, MeiXian+Z | ZGMX, MeiXian |
+| 黔江武陵山 | Qianjiang Wulingshan | JIQ, qianJIang+Q | ZUQJ, QianJiang |
+| 白山长白山 | Baishan Changbaishan | NBS, chaNgBaiShan | ZYBS, BaiShan |
+| 台北松山 | Taipei Songshan | TSA, Taipei Songshan Airport/ Taipei SongshAn | RCSS, SongShan |
+| 广元盘龙 | Guangyuan Panlong | GYS, GuangYuan+S | ZUGU, GUangyuan |
+| 鞍山腾鳌 | Anshan Teng'ao | AOG, teng'AO+G | ZYAS, AnShan |
+| 九江庐山 | Jiujiang Lushan | JIU, JIUjiang | ZSJJ, JiuJiang |
+| 十堰武当山 | Shiyan Wudangshan | WDS, WuDangShan | ZHSY, ShiYan |
+| 怀化芷江 | Huaihua Zhijiang | HJJ, zHiJiang+J | ZGCJ |
+| 达州河市 | Dazhou Heshi | DAX, DAXian | ZUDX, DaXian |
+| 朝阳 | Chaoyang             | CHG, CHaoyanG | ZYCY, ChaoYang |
+| 临沧博尚 | Lincang | LNJ, LiNcang+J | ZPLC, LinCang |
+| 沧源佤山 | Cangyuan Washan | CWJ, Cangyuan Washan+J | ZPCW, Cangyuan Washan |
+| 腾冲驼峰 | Tengchong Tuofeng | TCZ, TengChong+Z | ZUTC, TengChong |
+| 大理 | Dali | DLU, DaLi+U | ZPDL, DaLi |
+| 邵阳武冈 | Shaoyang Wugang | WGN, WuGaNg | ZGSY, ShaoYang |
+| 信阳明港 | Xinyang Minggang | XAI, XinyAng mInggang | ZHXY, XinYang |
+| 延安南泥湾 | Yan'an Nanniwan | ENY, yENan+Y | ZLYA, Yan'An |
+| 巴中恩阳 | Bazhong Enyang | BZX, BaZhong+X | ZUBZ, BaZhong |
+| 上饶三清山 | Shangrao Sanqingshan | SQD, SanQingshan+D | ZSSR, ShangRao |
+| 佛山沙堤 | Foshan Shadi | FUO, F'U'Oshan | ZGFS, FoShan |
+| 抚远东极 | Fuyuan Dongji | FYJ, FuYuan dongJi | ZYFY, FuYuan |
+| 百色巴马 | Baise Bama | AEB, bAisE Bama | ZGBS, BaiSe |
+| 营口兰旗 | Yingkou Lanqi | YKH, YingKou+H | ZYYK, YingKou |
+| 永州零陵 | Yongzhou Lingling | LLF, LingLing+F | ZGLG, LinglinG |
+| 岳阳三荷 | Yueyang Sanhe | YYA, YueYAng | ZGYY, YueYang |
+| 齐齐哈尔三家子机场 | Qiqihar Sanjiazi | NDG | ZYQQ, QiQihar |
+| 乌海 | Wuhai | WUA, WUhAi | ZBUH, wUHai |
+| 阿勒泰 | Altay | AAT, A+AlTay | ZWAT, AlTay |
+
+## 3C
+
+| 中文名/ Chinese Name | 英文名/ English Name | IATA | ICAO |
+| :- | :- | :- | :- |
+| 罗定素龙 | Luoding Sulong | LDG, LuoDinG | ZGLD, LuoDing |
+| 天水麦积山 | Tianshui Maijishan | THQ | ZLTS, TianShui |
+| 额济纳旗桃来 | Ejin Banner Taolai | EJN, EJiN | ZBEN, EjiN |
+| 阿拉善左旗巴彦浩特 | Alxa Left Banner Bayanhot | AXF, AlXa leFt | ZBAL, Alxa Left |
+| 阿拉善右旗巴丹吉林 | Alxa Right Banner Badain Jaran | RHT, RigHT | ZBAR, Alxa Right |
 
 ## X
 
@@ -128,7 +221,7 @@
 | :- | :- | :- | :- |
 | 北京南苑 | Beijing Nanyuan | NAY, NanYuan | ZBNY, NanYuan |
 | 沈阳东塔 | Shenyang Dongta | SHE, SHEnyang | ZYYY |
-| 上海龙华 | Shanghai Longhua | | ZSSL, Longhua |
+| 上海龙华 | Shanghai Longhua | N/A | ZSSL, Longhua |
 | 郑州东郊 | Zhengzhou Dongjiao | CGO, ChenGchOw | ZHCC, ChengChow |
 | 武汉王家墩 | Wuhan Wangjiadun | WJD, WangJiaDun | ZHWT |
 | 长沙大托铺 | Changsha Datuopu | CSX, ChangSha+X | ZGHA, HuanghuA |
