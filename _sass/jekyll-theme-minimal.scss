@@ -1,6 +1,6 @@
 @import "fonts";
 @import "rouge-github";
-@import "scrollbar";
+@import "./_sass/scrollbar.scss";
 
 @media (prefers-color-scheme: dark){
   body {
