@@ -28,3 +28,13 @@
     background: rgba(64,120,192,0.8); /* 小按钮的底色 */
     color: #fff; /* 文字颜色 */
 }
+
+@media (prefers-color-scheme: dark){
+  #backtop a {
+    color: rgb(121, 168, 211);
+    background-image: initial;
+    background-color: rgb(24, 26, 27);
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 1px 2px, rgb(24, 26, 27) 0px 1px 0px inset;
+    text-decoration-color: initial !important;
+  }
+}
