@@ -22,21 +22,18 @@ body {
     color:#72B4E2;
     text-decoration:initial;
   }
+  dt {
+    color:#D0CCC5;
+  }
+  th {
+    color:#D0CCC5;
+  }
 }
 
 @media (prefers-color-scheme: light){
   h1, h2, h3, h4, h5, h6 {
     color:#222;
     margin:0 0 20px;
-  }
-  p, ul, ol, table, pre, dl {
-    margin:0 0 20px;
-  }
-  h1, h2, h3 {
-    line-height:1.1;
-  }
-  h1 {
-    font-size:28px;
   }
   h2 {
     color:#393939;
@@ -48,6 +45,24 @@ body {
     color:#267CB9;
     text-decoration:none;
   }
+  dt {
+    color:#444;
+  }
+  th {
+    color:#444;
+  }
+}
+
+p, ul, ol, table, pre, dl {
+  margin:0 0 20px;
+}
+
+h1, h2, h3 {
+  line-height:1.1;
+}
+
+h1 {
+  font-size:28px;
 }
 
 a:hover, a:focus {
@@ -103,12 +118,7 @@ th, td {
 }
 
 dt {
-  color:#444;
   font-weight:700;
-}
-
-th {
-  color:#444;
 }
 
 img {
