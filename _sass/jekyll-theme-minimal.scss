@@ -91,6 +91,54 @@
   }
 }
 
+@media (prefers-color-scheme: no-preference){
+  body {
+    background-color: #fff;
+    color:#727272;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    color:#222;
+    margin:0 0 20px;
+  }
+  h2 {
+    color:#393939;
+  }
+  h3, h4, h5, h6 {
+    color:#494949;
+  }
+  a {
+    color:#267CB9;
+    text-decoration:none;
+  }
+  dt {
+    color:#444;
+  }
+  th {
+    color:#444;
+  }
+  strong {
+    color:#222;
+  }
+  th, td {
+    border-bottom:1px solid #e5e5e5;
+  }
+  a small {
+    color:#777;
+  }
+  a:hover small {
+    color:#777;
+  }
+  blockquote {
+    border-left:1px solid #e5e5e5;
+  }
+  hr {
+    background:#e5e5e5;
+  }
+  code, pre {
+    color:#333;
+  }
+}
+
 body {
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
