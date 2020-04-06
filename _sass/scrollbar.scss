@@ -1,0 +1,16 @@
+@media (min-width: 1170px)
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+@media (min-width: 1170px)
+::-webkit-scrollbar-thumb {
+    border-radius: 6px;
+    background-color: rgba(85,85,85,.8);
+}
+
+@media (min-width: 1170px)
+::-webkit-scrollbar-track {
+    opacity: 0;
+}
