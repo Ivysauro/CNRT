@@ -26,6 +26,18 @@
   th, td {
     border-bottom:1px solid #383838;
   }
+  a small {
+    color:#BDB8AF;
+  }
+  a:hover small {
+    color:#BDB8AF;
+  }
+  blockquote {
+    border-left:1px solid #383838;
+  }
+  hr {
+    background:#383838;
+  }
 }
 
 @media (prefers-color-scheme: light){
@@ -59,6 +71,18 @@
   th, td {
     border-bottom:1px solid #e5e5e5;
   }
+  a small {
+    color:#777;
+  }
+  a:hover small {
+    color:#777;
+  }
+  blockquote {
+    border-left:1px solid #e5e5e5;
+  }
+  hr {
+    background:#e5e5e5;
+  }
 }
 
 body {
@@ -86,13 +110,8 @@ a:hover, a:focus {
 
 a small {
   font-size:11px;
-  color:#777;
   margin-top:-0.3em;
   display:block;
-}
-
-a:hover small {
-  color:#777;
 }
 
 .wrapper {
@@ -101,7 +120,6 @@ a:hover small {
 }
 
 blockquote {
-  border-left:1px solid #e5e5e5;
   margin:0;
   padding:0 0 0 20px;
   font-style:italic;
@@ -216,7 +234,6 @@ small {
 
 hr {
   border:0;
-  background:#e5e5e5;
   height:1px;
   margin:0 0 20px;
 }
