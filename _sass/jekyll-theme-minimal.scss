@@ -1,14 +1,6 @@
 @import "fonts";
 @import "rouge-github";
 
-body {
-  background-color: #fff;
-  padding:50px;
-  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#727272;
-  font-weight:400;
-}
-
 @media (prefers-color-scheme: dark){
   body {
     background-color: #181A1B;
@@ -31,9 +23,16 @@ body {
   strong {
     color:#DCD6D4;
   }
+  th, td {
+    border-bottom:1px solid #383838;
+  }
 }
 
 @media (prefers-color-scheme: light){
+  body {
+    background-color: #fff;
+    color:#727272;
+  }
   h1, h2, h3, h4, h5, h6 {
     color:#222;
     margin:0 0 20px;
@@ -57,6 +56,15 @@ body {
   strong {
     color:#222;
   }
+  th, td {
+    border-bottom:1px solid #e5e5e5;
+  }
+}
+
+body {
+  padding:50px;
+  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight:400;
 }
 
 p, ul, ol, table, pre, dl {
@@ -120,7 +128,6 @@ table {
 th, td {
   text-align:left;
   padding:5px 10px;
-  border-bottom:1px solid #e5e5e5;
 }
 
 dt {
