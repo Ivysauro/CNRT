@@ -28,6 +28,9 @@ body {
   th {
     color:#D0CCC5;
   }
+  strong {
+    color:#DCD6D4;
+  }
 }
 
 @media (prefers-color-scheme: light){
@@ -50,6 +53,9 @@ body {
   }
   th {
     color:#444;
+  }
+  strong {
+    color:#222;
   }
 }
 
@@ -177,7 +183,6 @@ ul.downloads {
 }
 
 strong {
-  color:#222;
   font-weight:700;
 }
 
