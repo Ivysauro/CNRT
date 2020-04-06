@@ -38,6 +38,9 @@
   hr {
     background:#383838;
   }
+  code, pre {
+    color:#D6D3CD;
+  }
 }
 
 @media (prefers-color-scheme: light){
@@ -83,6 +86,9 @@
   hr {
     background:#e5e5e5;
   }
+  code, pre {
+    color:#333;
+  }
 }
 
 body {
@@ -127,7 +133,6 @@ blockquote {
 
 code, pre {
   font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
-  color:#333;
 }
 
 pre {
