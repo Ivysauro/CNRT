@@ -25,7 +25,7 @@
 | ❌ | 已下线 | Closed |
 | 💥 | 新变动 | New Update |
 
-大部分加入住建部[全国城市一卡通互联互通项目](http://www.icfw.com.cn/city_card.php)（即City Union，简称CU）的城市目前仅加载该标准或已加入交通部[全国交通一卡通互联互通项目](https://www.cttic.cn/info/2349)（即China T-Union，简称TU），已不通过该标准与其他城市结算或互通，故将单标CU卡列入市民卡、CU&TU双标卡列入交通联合卡，仅在加载该标准的卡名称后标注“#”。
+大部分加入住建部[全国城市一卡通互联互通项目](http://www.icfw.com.cn/city_card.php)（即City Union，简称CU）的城市目前仅加载该标准或已加入交通部[全国交通一卡通互联互通项目](https://www.cttic.cn/info/2349)（即China T-Union，简称TU），很多已不通过该标准与其他城市结算或互通，故将单标CU卡列入市民卡、CU&TU双标卡列入交通联合卡，仅在加载该标准的卡名称后标注“#”。
 
 ## 交通运输部·交通联合卡/ T-Union Cards <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="35" hegiht="35">
 
@@ -85,6 +85,7 @@
 | 北京市政交通一卡通 | ❌ | ❌ | ❌ | ❌💥 | | | | | |
 | 上海公共交通卡# | ✅ | ✅ | ✅ | ✅ | | ✅ | ✅ | ✅ ||
 | 苏州市民卡	| ❌ | ❌ ||||||||
+| 太仓市民卡# | | | | | | | ✅[^tco] |
 | 杭州通#	| ❌ | ✅ ||||||||
 | 宁波·甬城通# | 🕓 | | | | | | ✅ | 🕓 ||
 | 金华市民卡·八婺通# | | ✅ ||||| ✅ |||
@@ -104,9 +105,10 @@
 | 台北·悠游卡 | | | ✅[^yy] |
 | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/OnePlus.png" width="25" hegiht="25" alt="OnePlus"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/>  | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/vivo.png" width="40" hegiht="40" alt="vivo"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Mini Program.png" width="25" hegiht="25" alt="WeChat Transit Card"/> |
 
-[^nc]: 需要通过洪城一卡通app开通
-[^cd]: 需要通过天府通app开通
-[^yy]: 可开通普通卡之外的如学生卡、1280定期票等特殊卡种
+[^nc]: 南昌：需要通过洪城一卡通app开通
+[^cd]: 成都：需要通过天府通app开通
+[^yy]: 台北：可开通普通卡之外的如学生卡、1280定期票等特殊卡种
+[^tco]: 太仓：OPPO上线的“澳门回归纪念卡”实为CU标准的太仓市民卡
 
 ## 其他品牌/ Others
 
@@ -129,7 +131,8 @@
 - 维沃：<https://bbs.vivo.com.cn/thread-4392640-1-1.html>
 
 ## 相关资料/ More
-- <https://www.zhihu.com/question/270837291>
-- <https://card.whutech.com/page/827f7c7742a8cc36bf91fe40fdbca6d0.html>
+- CU卡的编号和分类：<https://www.zhihu.com/question/270837291/answer/574164790>
+- 上海公共交通卡异地交通卡使用指南：<https://card.whutech.com/page/827f7c7742a8cc36bf91fe40fdbca6d0.html>
+- 住建部全国城市一卡通互联互通城市及应用领域优惠表：<http://www.tcsmk.cn/site_cardservice/20150212/56b8660a-62bf-423b-a65d-388d79451187.html>
 
 ---
