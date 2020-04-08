@@ -75,7 +75,7 @@
 | 保定/ Baoding | 河北交通一卡通 | ✅ | ✅ | ✅ | | | ✅ | 保定通 |
 | 张家口/ Zhangjiakou | 河北交通一卡通 | ✅ | ✅ | ✅ | ✅ | | ✅ | |
 | 承德/ Chengde | 河北交通一卡通 | ✅ | | | | | | 承德公交行、美团 |
-| 沧州/ Cangzhou | 河北交通一卡通 | ✅ | ✅ | ✅ | ✅ | | | 沧州行 |
+| 沧州/ Cangzhou | 河北交通一卡通 | ✅ | ✅ | ✅ | ✅ | | ✅ | 沧州行 |
 | 廊坊/ Langfang | 河北交通一卡通 | ✅ | ✅ | ✅ | | | ✅ | 廊坊行 |
 | 衡水/ Hengshui | 河北交通一卡通 | ✅ | ✅ | | ✅ | ✅ | ✅ | |
 | **山西/ Shanxi** | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
