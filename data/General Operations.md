@@ -104,21 +104,11 @@
 
 ##### 本地优惠（电子卡）/ Local Discount (e-Card)
 
-| 城市/ City | 地铁/ Rail Transit | 公交/ Buses | 其他/ Other |
-| :- | :- | :- | :- |
-| 昆明/ Kunming | | 支付宝同等优惠 |
-| 长沙/ Changsha | 官方应用同等优惠 | 官方应用同等优惠 |
-| …… |
+*待完善/ Coming Soon*
 
 ##### 异地优惠/ Non-local Discount
 
-| 城市/ City | 地铁/ Rail Transit | 公交/ Buses | 其他/ Other | 
-| :- | :- | :- | :- |
-| 南京/ Nanjing | 95折（仅省内卡） | 无 |
-| 昆明/ Kunming | 同等 | 同等 |
-| 长沙/ Changsha | 同等 | 无 | 磁悬浮同等 |
-| 兰州/ Lanzhou | 无 | 同等 |
-| …… |
+请参见/ Go to <https://ipt.kopisee.com/canton/zh-cn/t-union>
 
 ### 计时卡/ Timing Card
 
@@ -187,7 +177,7 @@
 | 长沙/ Changsha | 湘行一卡通 | 通卡 | | | ✅ | 微信 | 可刷公交 |
 | 宁波/ Ningbo | 宁波地铁 | 地铁 | ✅ | | ✅ | 银联 |
 | 无锡/ Wuxi | 码上行 | 地铁 | ✅ | | ✅ | 支付宝、银联、苏宁 |
-| 青岛/ Qingdao | 青岛地铁 | 地铁 | ✅ |✅ | ✅ | 支付宝、微信、银联 |
+| 青岛/ Qingdao | 青岛地铁 | 地铁 | ✅ |✅ | ✅ | 支付宝、微信、银联 | 可刷公交 |
 | 南昌/ Nanchang | 鹭鹭行 | 地铁 | ✅ | | ✅ | 银联 | 可刷公交 |
 | 福州/ Fuzhou | 福州地铁码上行 | 地铁 | ✅ | | ✅ | 银联 |
 | 福州/ Fuzhou | e福州 | 市政府 | | | ✅ | 支付宝 | 可刷公交 |
