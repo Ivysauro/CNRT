@@ -32,7 +32,7 @@
 ## 友情链接/ Links 🔗
 
 ### 電車/ Rail
-- [中国轨道交通（原程轨通）](https://urbanrail.china-emu.cn/)（[备用地址](https://mcmcrt.china-emu.cn/)）
+- [中国轨道交通](https://urbanrail.china-emu.cn/)（[程轨通](https://mcmcrt.china-emu.cn/)）
 - [地铁通](http://www.metroman.cn/)
 - [中国动车组](https://www.china-emu.cn/)
 
