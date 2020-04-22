@@ -34,6 +34,11 @@
 - [地铁通](http://www.metroman.cn/)
 - [中国动车组](https://www.china-emu.cn/)
 
+- [交联面条站](https://www.tunionfans.com/)
+- [全国交通一卡通_珠海交通维基](http://w.zhbus.org/index.php?title=全国交通一卡通)
+- [交通联合卡适用地区_公共交通信息](https://ipt.kopisee.com/canton/zh-cn/t-union)
+- [白菜酱谈交联](http://supershinetalkabouttu.mysxl.cn/）
+
 ---
 发现错误或有建议请直接至 [Github 项目主页](https://github.com/Ivysauro/CNRT)提 `issue`😀~
 
