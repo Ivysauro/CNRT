@@ -106,15 +106,23 @@
 
 *待完善/ Coming Soon*
 
-##### 异地优惠/ Non-local Discount
+##### 异地优惠/ Remote Discount
 
-请参见/ Go to <https://ipt.kopisee.com/canton/zh-cn/t-union>
+可参见/ Can refer to <https://ipt.kopisee.com/canton/zh-cn/t-union>
+
+- 普惠（无换乘和累计优惠）：北京公交（同本地优惠）、沈阳公交（9折，有轨电车95折）、沈阳地铁（9折）、白山公交（95折）、南京地铁（95折，限江苏发卡）、镇江公交（8折）、昆山公交（95折）、温州公交（同本地优惠）、绍兴公交（8折）、长沙地铁（9折）、广州地铁（95折）、保山公交（9折）
+
+- 城市圈优惠（无换乘和累计优惠）：京津冀（不含北京地铁）、宁镇扬、苏锡常（不含昆山）、盐通泰、徐淮连宿、
 
 ### 计时卡/ Timing Card
 
 #### 短时卡(旅游向)/ Short Timing Card (For Traveling)
 
+*待完善/ Coming Soon*
+
 #### 长时卡(通勤向)/ Long Timing Card (For Work-Trip)
+
+*待完善/ Coming Soon*
 
 ## 服务/ Service
 
@@ -260,6 +268,7 @@
 - <https://zhuanlan.zhihu.com/p/77777893>
 - <https://zhuanlan.zhihu.com/p/83168651>
 - <http://www.mpaypass.com.cn/news/201909/03110411.html>
+- <https://www.mpaypass.com.cn/news/202004/14104750.html>
 - <https://www.sohu.com/a/304317635_313745>
 
 ---
