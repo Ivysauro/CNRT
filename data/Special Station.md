@@ -179,6 +179,7 @@
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hz.gif" width="20" hegiht="20"/>杭州
 - 下宁桥（2号线，2017.7-）
+- 老余杭、宝善桥、火车南站（5号线，2020.4-）
 - ~~火车东站~~（1号线，2012.11-2013.6）
 - ~~新塘~~（4号线，2015.2-2015.6）
 - ~~联庄~~（4号线，2018.1-2018.6）
