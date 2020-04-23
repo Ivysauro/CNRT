@@ -165,7 +165,7 @@
 |  | 南宁/ Nanning | 🏗五象/ Wuxiang | 南宁局/ CR Nanning | 🏗五象火车站/ WUXIANG RS |
 |  | 常州/ Changzhou | 常州/ Changzhou/ CZH | 上海局/ CR Shanghai | 常州火车站/ Changzhou RS |
 |  | 常州/ Changzhou | 常州北/ Changzhoubei/ ESH | 上海局/ CR Shanghai | 常州北站/ Changzhou North RS |
-|  | 杭州/ Hangzhou | 海宁西/ Hainingxi/ EUH | 上海局/ CR Shanghai | 🏗海宁高铁/ Haining Hi-RS |
+|  | 滁州/ Chuzhou | 滁州/ Chuzhou/ CXH | 上海局/ CR Shanghai | 滁洲站/ CHUZHOU RAILWAY STATION |
 |  | 杭州/ Hangzhou | 杭州/ Hangzhou/ HZH | 上海局/ CR Shanghai | 城站/ Chengzhan |
 |  | 杭州/ Hangzhou | 杭州东/ Hangzhoudong/ HGH | 上海局/ CR Shanghai | 火车东站/ East RS |
 |  | 杭州/ Hangzhou | *杭州南/ Hangzhounan/ XHH* | 上海局/ CR Shanghai | 🏗火车南站/ South RS |
@@ -176,6 +176,7 @@
 |  | 合肥/ Hefei | 合肥南/ Hefeinan/ ENH | 上海局/ CR Shanghai | 合肥南站/ Heifeinan RS |
 |  | 合肥/ Hefei | 合肥南/ Hefeinan/ ENH | 上海局/ CR Shanghai | 南站南广场/ HEFEI South Railway South Square |
 |  | 合肥/ Hefei | 🏗合肥西/ Hefeixi/ HTH | 上海局/ CR Shanghai | 合肥西站/ Hefeixi RS |
+|  | 嘉兴/ Jiaxing | 海宁西/ Hainingxi/ EUH | 上海局/ CR Shanghai | 🏗海宁高铁/ Haining Hi-RS |
 | 👟~1.6km | 南京/ Nanjing | 江宁/ Nanjing/ JJH | 上海局/ CR Shanghai | 南医大·江苏经贸学院/ NMU/JIETT |
 | 👟~1.0km | 南京/ Nanjing | 六合/ Nanjing/ KLH | 上海局/ CR Shanghai | 方州广场/ FANGZHOUGUANGCHANG |
 |  | 南京/ Nanjing | 南京/ Nanjing/ NJH | 上海局/ CR Shanghai | 南京站/ NANJING RAILWAY STATION |
@@ -217,6 +218,7 @@
 |  | 芜湖/ Wuhu | 弋江/ Yijiang/ RVH | 上海局/ CR Shanghai | 🏗弋江站/ Yijiang RS |
 |  | 徐州/ Xuzhou | 徐州/ Xuzhou/ XCH | 上海局/ CR Shanghai | 徐州火车站/ Xuzhou RS |
 |  | 徐州/ Xuzhou | 徐州东/ Xuzhoudong/ UUH | 上海局/ CR Shanghai | 徐州东站/ Xuzhoudong RS |
+|  | 扬州/ Yangzhou | 扬州/ Yangzhou/ YLH | 上海局/ CR Shanghai | 🏗扬州站/ YANGZHOU RAILWAY STATION |
 |  | 大连/ Dalian | 大连/ Dalian/ DLT | 沈阳局/ CR Shenyang | 大连站/ Dalian Station |
 |  | 大连/ Dalian | 大连北/ Dalianbei/ DFT | 沈阳局/ CR Shenyang | 大连北站/ Dalian North RS |
 |  | 大连/ Dalian | *三十里堡/ Sanshilipu/ SST* | 沈阳局/ CR Shenyang | 🏗三十里堡/ Sanshilipu |
