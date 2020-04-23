@@ -160,17 +160,17 @@
 |  | 厦门/ Xiamen | 厦门/ Xiamen/ XMS | 南昌局/ CR Nanchang | 🏗厦门火车站/ Xiamen RS |
 |  | 厦门/ Xiamen | 厦门北/ Xiamenbei/ XKS | 南昌局/ CR Nanchang | 厦门北站/ Xiamen North RS |
 |  | 厦门/ Xiamen | *厦门高崎/ Xiamengaoqi/ XBS* | 南昌局/ CR Nanchang | 高崎/ Gaoqi |
-|  | 南宁/ Nanning | 南宁/ Nanning/ NNZ | 南宁局/ CR Nanning | 🏗火车站/ Foshan RS |
+|  | 南宁/ Nanning | 南宁/ Nanning/ NNZ | 南宁局/ CR Nanning | 火车站/ Nanning RS |
 |  | 南宁/ Nanning | 南宁东/ Nanningdong/ NFZ | 南宁局/ CR Nanning | 火车东站/ East RS |
 |  | 南宁/ Nanning | 🏗五象/ Wuxiang | 南宁局/ CR Nanning | 🏗五象火车站/ WUXIANG RS |
 |  | 常州/ Changzhou | 常州/ Changzhou/ CZH | 上海局/ CR Shanghai | 常州火车站/ Changzhou RS |
 |  | 常州/ Changzhou | 常州北/ Changzhoubei/ ESH | 上海局/ CR Shanghai | 常州北站/ Changzhou North RS |
 |  | 杭州/ Hangzhou | 海宁西/ Hainingxi/ EUH | 上海局/ CR Shanghai | 🏗海宁高铁/ Haining Hi-RS |
-|  | 杭州/ Hangzhou | 杭州/ Hangzhou/ HZH | 上海局/ CR Shanghai | 🏗城站/ Chengzhan |
+|  | 杭州/ Hangzhou | 杭州/ Hangzhou/ HZH | 上海局/ CR Shanghai | 城站/ Chengzhan |
 |  | 杭州/ Hangzhou | 杭州东/ Hangzhoudong/ HGH | 上海局/ CR Shanghai | 火车东站/ East RS |
-|  | 杭州/ Hangzhou | *杭州南/ Hangzhounan/ XHH* | 上海局/ CR Shanghai | 火车南站/ South RS |
+|  | 杭州/ Hangzhou | *杭州南/ Hangzhounan/ XHH* | 上海局/ CR Shanghai | 🏗火车南站/ South RS |
 |  | 杭州/ Hangzhou | 余杭/ Yuhang/ EVH | 上海局/ CR Shanghai | 余杭高铁/ Yuhang Hi-RS |
-|  | 杭州/ Hangzhou | 🏗杭州西/ Hangzhouxi | 上海局/ CR Shanghai | 火车西站/ West RS |
+|  | 杭州/ Hangzhou | 🏗杭州西/ Hangzhouxi | 上海局/ CR Shanghai | 🏗火车西站/ West RS |
 |  | 杭州/ Hangzhou | 🏗萧山机场/ Xiaoshan Airport | 上海局/ CR Shanghai | 🏗萧山机场/ Xiaoshan Airport |
 |  | 合肥/ Hefei | 合肥/ Hefei/ HFH | 上海局/ CR Shanghai | 合肥火车站/ Hefei RS |
 |  | 合肥/ Hefei | 合肥南/ Hefeinan/ ENH | 上海局/ CR Shanghai | 合肥南站/ Heifeinan RS |
