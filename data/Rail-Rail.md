@@ -165,7 +165,7 @@
 |  | 南宁/ Nanning | 🏗五象/ Wuxiang | 南宁局/ CR Nanning | 🏗五象火车站/ WUXIANG RS |
 |  | 常州/ Changzhou | 常州/ Changzhou/ CZH | 上海局/ CR Shanghai | 常州火车站/ Changzhou RS |
 |  | 常州/ Changzhou | 常州北/ Changzhoubei/ ESH | 上海局/ CR Shanghai | 常州北站/ Changzhou North RS |
-|  | 滁州/ Chuzhou | 滁州/ Chuzhou/ CXH | 上海局/ CR Shanghai | 滁洲站/ CHUZHOU RAILWAY STATION |
+|  | 滁州/ Chuzhou | 滁州/ Chuzhou/ CXH | 上海局/ CR Shanghai | 🏗滁洲站/ CHUZHOU RAILWAY STATION |
 |  | 杭州/ Hangzhou | 杭州/ Hangzhou/ HZH | 上海局/ CR Shanghai | 城站/ Chengzhan |
 |  | 杭州/ Hangzhou | 杭州东/ Hangzhoudong/ HGH | 上海局/ CR Shanghai | 火车东站/ East RS |
 |  | 杭州/ Hangzhou | *杭州南/ Hangzhounan/ XHH* | 上海局/ CR Shanghai | 🏗火车南站/ South RS |
