@@ -32,7 +32,7 @@
 
 - 最早的首班车（发出时间）：4:40（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，8号线，回龙观东大街）；4:47（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，10号线，车道沟）
 - 最晚的末班车（到达倒数第二站的时间）：1:26（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，1号线，周五及周六常态化加开，古城）
-- 最晚的日常末班车（到达倒数第二站的时间）：0:28（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nj.gif" width="20" hegiht="20"/>南京，1号线，红山动物园）；0:24（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，10号线，长春桥）
+- 最晚的日常末班车（到达倒数第二站的时间）：0:38（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，6号线小交路，常营）；0:28（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nj.gif" width="20" hegiht="20"/>南京，1号线，红山动物园）
 
 ## 最·数字
 - 最长的线路：上海地铁11号线（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，82.4km）
