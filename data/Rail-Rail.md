@@ -61,7 +61,7 @@
 |  | 成都/ Chengdu | 🏗天府/ Tianfu | 成都局/ CR Chengdu | 🏗天府新站/ Tianfu RS |
 |  | 重庆/ Chongqing | 复盛/ Fusheng/ FAW | 成都局/ CR Chengdu | 🏗复盛/ Fusheng |
 |  | 重庆/ Chongqing | 沙坪坝/ Shapingba/ CYW | 成都局/ CR Chengdu | 沙坪坝/ Shapingba |
-|  | 重庆/ Chongqing | 重庆/ Chongqing/ CQW | 成都局/ CR Chengdu | 两路口/ Lianglukou |
+| 🥾~600m | 重庆/ Chongqing | 重庆/ Chongqing/ CQW | 成都局/ CR Chengdu | 两路口/ Lianglukou |
 |  | 重庆/ Chongqing | 重庆北/ Chongqingbei/ CUW | 成都局/ CR Chengdu | 重庆北站北广场/ Chongqing North Station North Square |
 |  | 重庆/ Chongqing | 重庆北/ Chongqingbei/ CUW | 成都局/ CR Chengdu | 重庆北站南广场/ South Square of Chongqingbei Railway Station→Chongqing North Station South Square |
 |  | 重庆/ Chongqing | 重庆西/ Chongqingxi/ CXW | 成都局/ CR Chengdu | 🏗重庆西站/ Chongqingxi RS |
