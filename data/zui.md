@@ -14,9 +14,9 @@
 - 最长的全地下线路：广州地铁3号线（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州，64.4km）
 - 最长的全地上线路：武汉地铁1号线（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wh.gif" width="20" hegiht="20"/>武汉，38.5km）
 - 最长的站间距：大兴机场-大兴新城（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，大兴机场线，25.5km）
-- 最长的地铁线站间距：2号航站楼-三元桥<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，首都机场线，20.7km）
+- 最长的地铁线站间距：2号航站楼-三元桥（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，首都机场线，20.7km）
 - 最长的非专线站间距：明觉-团结圩（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nj.gif" width="20" hegiht="20"/>南京，S9线，16.9km）
-- 最长的非快线站间距：北苑-望京西<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，13号线，6.7km）
+- 最长的非快线站间距：北苑-望京西（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，13号线，6.7km）
 - 最短的站间距：南礼士路-复兴门（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，1号线，424m）
 
 ### 建筑
