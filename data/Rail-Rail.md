@@ -59,20 +59,29 @@
 |  | 成都/ Chengdu | 犀浦/ Xipu/ XIW | 成都局/ CR Chengdu | 犀浦/ Xipu |
 |  | 成都/ Chengdu | 新津/ Xinjin/ IRW | 成都局/ CR Chengdu | 新津站/ Xinjin Station |
 |  | 成都/ Chengdu | 🏗天府/ Tianfu | 成都局/ CR Chengdu | 🏗天府新站/ Tianfu RS |
+|  | 重庆/ Chongqing | 复盛/ Fusheng/ FAW | 成都局/ CR Chengdu | 🏗复盛/ Fusheng |
+|  | 重庆/ Chongqing | 沙坪坝/ Shapingba/ CYW | 成都局/ CR Chengdu | 沙坪坝/ Shapingba |
+|  | 重庆/ Chongqing | 重庆/ Chongqing/ CQW | 成都局/ CR Chengdu | 两路口/ Lianglukou |
+|  | 重庆/ Chongqing | 重庆北/ Chongqingbei/ CUW | 成都局/ CR Chengdu | 重庆北站北广场/ Chongqing North Station North Square |
+|  | 重庆/ Chongqing | 重庆北/ Chongqingbei/ CUW | 成都局/ CR Chengdu | 重庆北站南广场/ South Square of Chongqingbei Railway Station→Chongqing North Station South Square |
+|  | 重庆/ Chongqing | 重庆西/ Chongqingxi/ CXW | 成都局/ CR Chengdu | 🏗重庆西站/ Chongqingxi RS |
+|  | 重庆/ Chongqing | 🏗江北机场/ Jiangbei Airport | 成都局/ CR Chengdu | 江北机场T2航站楼/ Terminal 2 of Jiangbei Airport |
+|  | 重庆/ Chongqing | 🏗江北机场/ Jiangbei Airport | 成都局/ CR Chengdu | 江北机场T3航站楼/ Terminal 3 of Jiangbei Airport |
+|  | 重庆/ Chongqing | 🏗江津北/ Jiangjinbei | 成都局/ CR Chengdu | 🏗江津高铁/ Jiangjin Station |
 |  | 贵阳/ Guiyang | 贵安/ Guian/ GAE | 成都局/ CR Chengdu | 🏗贵安站/ Guian RS |
 |  | 贵阳/ Guiyang | 贵阳/ Guiyang/ GIW | 成都局/ CR Chengdu | 贵阳火车站/ Guiyang RS |
 |  | 贵阳/ Guiyang | 贵阳北/ Guiyangbei/ KQW | 成都局/ CR Chengdu | 贵阳北站/ Guiyangbei RS |
 |  | 贵阳/ Guiyang | 贵阳东/ Guiyangdong/ KEW | 成都局/ CR Chengdu | 🏗贵阳东站/ Guiyangdong RS |
 |  | 贵阳/ Guiyang | 龙洞堡/ Longdongbao/ FVW | 成都局/ CR Chengdu | 🏗机场/ Airport |
-|  | 重庆/ Chongqing | 复盛/ Fusheng/ FAW | 成都局/ CR Chengdu | 🏗复盛/ Fusheng |
-|  | 重庆/ Chongqing | 沙坪坝/ Shapingba/ CYW | 成都局/ CR Chengdu | 沙坪坝/ Shapingba |
-|  | 重庆/ Chongqing | 重庆/ Chongqing/ CQW | 成都局/ CR Chengdu | 🏗两路口/ Lianglukou |
-|  | 重庆/ Chongqing | 重庆北/ Chongqingbei/ CUW | 成都局/ CR Chengdu | 重庆北站北广场/ Chongqing North Station North Square |
-|  | 重庆/ Chongqing | 重庆北/ Chongqingbei/ CUW | 成都局/ CR Chengdu | 重庆北站南广场/ Chongqing North Station South Square |
-|  | 重庆/ Chongqing | 重庆西/ Chongqingxi/ CXW | 成都局/ CR Chengdu | 🏗重庆西站/ Chongqingxi RS |
-|  | 重庆/ Chongqing | 🏗江北机场/ Jiangbei Airport | 成都局/ CR Chengdu | 江北机场T2航站楼/ Terminal 2 of Jiangbei Airport |
-|  | 重庆/ Chongqing | 🏗江北机场/ Jiangbei Airport | 成都局/ CR Chengdu | 江北机场T3航站楼/ Terminal 3 of Jiangbei Airport |
-|  | 重庆/ Chongqing | 🏗江津北/ Jiangjinbei | 成都局/ CR Chengdu | 🏗江津高铁/ Jiangjin Station |
+|  | 长沙/ Changsha | 观沙岭/ Guanshaling/ FKQ | 广州局/ CR Guangzhou | 观沙岭/ Guanshaling |
+|  | 长沙/ Changsha | 开福寺/ Kaifusi/ FLQ | 广州局/ CR Guangzhou | 开福寺/ Kaifu Temple |
+|  | 长沙/ Changsha | 树木岭/ Shumuling/ FMQ | 广州局/ CR Guangzhou | 树木岭/ Shumuling |
+|  | 长沙/ Changsha | 先锋/ Xianfeng/ NQQ | 广州局/ CR Guangzhou | 中信广场/ Zhongxin Square |
+|  | 长沙/ Changsha | 长沙/ Changsha/ CSQ | 广州局/ CR Guangzhou | 长沙火车站/ RS |
+|  | 长沙/ Changsha | 长沙/ Changsha/ CSQ | 广州局/ CR Guangzhou | 锦泰广场/ Jintai Square |
+|  | 长沙/ Changsha | 长沙南/ Changshanan/ CWQ | 广州局/ CR Guangzhou | 长沙火车南站/ South RS |
+|  | 长沙/ Changsha | 长沙南/ Changshanan/ CWQ | 广州局/ CR Guangzhou | 磁浮高铁/ Changshanan Maglev |
+|  | 长沙/ Changsha | 长沙西/ Changshaxi/ RXQ | 广州局/ CR Guangzhou | 🏗长沙火车西站/ West RS |
 |  | 东莞/ Dongguan | 常平/ Changping/ DAQ | 广州局/ CR Guangzhou | 🏗常平站/ Changping RS |
 |  | 东莞/ Dongguan | 大朗镇/ Dalangzhen/ KOQ | 广州局/ CR Guangzhou | 🏗大朗/ Dalang |
 |  | 东莞/ Dongguan | 东莞/ Dongguan/ RTQ | 广州局/ CR Guangzhou | 东莞火车站/ Dongguan RS |
@@ -120,15 +129,6 @@
 |  | 深圳/ Shenzhen | 深圳坪山/ Shenzhenpingshan/ IFQ | 广州局/ CR Guangzhou | 🏗坪山/ Pingshan |
 |  | 深圳/ Shenzhen | *西丽/ Xili/ ELQ* | 广州局/ CR Guangzhou | 🏗西丽火车站/ Xili RS |
 |  | 湘潭/ Xiangtan | 湘潭北/ Xiangtanbei/ EDQ | 广州局/ CR Guangzhou | 🏗湘潭火车北站/ Xiangtan North RS |
-|  | 长沙/ Changsha | 观沙岭/ Guanshaling/ FKQ | 广州局/ CR Guangzhou | 观沙岭/ Guanshaling |
-|  | 长沙/ Changsha | 开福寺/ Kaifusi/ FLQ | 广州局/ CR Guangzhou | 开福寺/ Kaifu Temple |
-|  | 长沙/ Changsha | 树木岭/ Shumuling/ FMQ | 广州局/ CR Guangzhou | 树木岭/ Shumuling |
-|  | 长沙/ Changsha | 先锋/ Xianfeng/ NQQ | 广州局/ CR Guangzhou | 中信广场/ Zhongxin Square |
-|  | 长沙/ Changsha | 长沙/ Changsha/ CSQ | 广州局/ CR Guangzhou | 长沙火车站/ RS |
-|  | 长沙/ Changsha | 长沙/ Changsha/ CSQ | 广州局/ CR Guangzhou | 锦泰广场/ Jintai Square |
-|  | 长沙/ Changsha | 长沙南/ Changshanan/ CWQ | 广州局/ CR Guangzhou | 长沙火车南站/ South RS |
-|  | 长沙/ Changsha | 长沙南/ Changshanan/ CWQ | 广州局/ CR Guangzhou | 磁浮高铁/ Changshanan Maglev |
-|  | 长沙/ Changsha | 长沙西/ Changshaxi/ RXQ | 广州局/ CR Guangzhou | 🏗长沙火车西站/ West RS |
 |  | 哈尔滨/ Harbin | 哈尔滨/ Haerbin/ HBB | 哈尔滨局/ CR Harbin | 🏗哈尔滨站/ Haerbinzhan |
 |  | 哈尔滨/ Harbin | 哈尔滨北/ Haerbinbei/ HTB | 哈尔滨局/ CR Harbin | 🏗哈北站/ Habeizhan |
 |  | 哈尔滨/ Harbin | 哈尔滨东/ Haerbindong/ VBB | 哈尔滨局/ CR Harbin | 哈尔滨东站/ Harbin East RS |
@@ -205,7 +205,7 @@
 |  | 绍兴/ Shaoxing | 绍兴北/ Shaoxingbei/ SLH | 上海局/ CR Shanghai | 🏗绍兴北站/ Shaoxing North RS |
 |  | 苏州/ Suzhou | 花桥/ Huaqiao/ VQH | 上海局/ CR Shanghai | 🏗城铁花桥站/ Huaqiao RS |
 |  | 苏州/ Suzhou | 苏州/ Suzhou/ SZH | 上海局/ CR Shanghai | 苏州火车站/ Suzhou RS |
-|  | 苏州/ Suzhou | 苏州北/ Suzhoubei/ OHH | 上海局/ CR Shanghai | 高铁苏州北站/ Suzhoubei RS |
+|  | 苏州/ Suzhou | 苏州北/ Suzhoubei/ OHH | 上海局/ CR Shanghai | 高铁苏州北站/ Suzhou North RS→Suzhoubei RS |
 |  | 苏州/ Suzhou | 苏州新区/ Suzhouxinqu/ ITH | 上海局/ CR Shanghai | 苏州新区火车站/ Suzhou Xinqu RS |
 |  | 苏州/ Suzhou | 苏州园区/ Suzhouyuanqu/ KAH | 上海局/ CR Shanghai | 苏州园区火车站/ Suzhou Yuanqu RS |
 |  | 苏州/ Suzhou | 阳澄湖/ Yangchenghu/ AIH | 上海局/ CR Shanghai | 🏗城铁阳澄湖站/ Yangchenghu RS |
