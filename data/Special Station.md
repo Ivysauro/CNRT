@@ -427,16 +427,22 @@
 
 - 双D港（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/dl.gif" width="20" hegiht="20"/>大连，3号线）
 
+#### 对英文名相同车站的处理
+
+- 管庄/ GUANZHUANG→Guaan Zhuang、关庄/ GUANZHUANG（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，八通线、15号线）
+- 浦电路/ Pudian Road、浦电路/ Pudian Road（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，4号线、6号线）
+- 萧岗/ Xiao-gang、晓港/ Xiaogang（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州，2号线、8号线）
+
 #### 对“ü”的处理
 
 使用“v”代替“ü”是中文拼音输入法的处理，用作书写是错误的；有条件的地方请使用“Ü/ü”，无条件的地方请使用“YU/yu”代替
 
-- 旅顺/L**u**shun（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/dl.gif" width="20" hegiht="20"/>大连，12号线）
-- 旅顺新港/L**u**shun New Port（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/dl.gif" width="20" hegiht="20"/>大连，12号线）
-- 绿博园/L**ü**BOYUAN（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nj.gif" width="20" hegiht="20"/>南京，10号线）
-- 绿汀路/L**v**ting Road（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hz.gif" width="20" hegiht="20"/>杭州，5/16号线）
-- 绿城广场/L**U**CHENGGUANGCHANG（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/zz.gif" width="20" hegiht="20"/>郑州，1号线）
-- 吕厝/L**ü**cuo（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xm.gif" width="20" hegiht="20"/>厦门，1号线）
+- 旅顺/ L**u**shun（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/dl.gif" width="20" hegiht="20"/>大连，12号线）
+- 旅顺新港/ L**u**shun New Port（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/dl.gif" width="20" hegiht="20"/>大连，12号线）
+- 绿博园/ L**ü**BOYUAN（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nj.gif" width="20" hegiht="20"/>南京，10号线）
+- 绿汀路/ L**v**ting Road（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hz.gif" width="20" hegiht="20"/>杭州，5/16号线）
+- 绿城广场/ L**U**CHENGGUANGCHANG（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/zz.gif" width="20" hegiht="20"/>郑州，1号线）
+- 吕厝/ L**ü**cuo（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xm.gif" width="20" hegiht="20"/>厦门，1号线）
 
 ### 更名（车站）
 
