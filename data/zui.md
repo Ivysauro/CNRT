@@ -40,7 +40,9 @@
 - 最深的站：红土地（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cq.gif" width="20" hegiht="20"/>重庆，10号线，94.467m）
 
 ## 最·文字
-- 最长中文站名（多站名不计）：上海儿童医学中心（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，8字）、国际生态会议中心（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gy.gif" width="20" hegiht="20"/>贵阳，8字）
+- 最长中文站名：兰州城市学院（省科技馆）（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/lz.gif" width="20" hegiht="20"/>兰州，10字）
+- 最长中文站名（多站名不计）：江北机场T2航站楼、江北机场T3航站楼（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cq.gif" width="20" hegiht="20"/>重庆，9字）
+- 最长中文站名（多站名、字母数字不计）：上海儿童医学中心（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，8字）、国际生态会议中心（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gy.gif" width="20" hegiht="20"/>贵阳，8字）
 
 ## 最·运营
 - 数字编号最大的运营线路：广州地铁21号线（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州，21）
