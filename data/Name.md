@@ -150,12 +150,12 @@
 | :- | :- | :- | :- | :- | :- |
 | 辽北 | 洮 | 河流? | Liaobei |
 | 合江 | 合 | 缩略 | Hejiang |
-| 安东 | 安 | 缩略 | Andong |
+| 安东 | 安 | 缩略 | Andong | Antung | 邮政式拼音 |
 | 嫩江 | 嫩 | 缩略 | Nenjiang |
 | 松江 | 松 | 缩略 | Songjiang |
 | 绥宁 | - | |
 | 辽南 | - | |
-| 兴安 | 兴 | 缩略 | Xing'an |
+| 兴安 | 兴 | 缩略 | Xing'an | Hingan | 邮政式拼音 |
 | 牡丹江 | - | |
 | 辽东 | 安? | | Liaodong |
 | 辽西 | ? | | Liaoxi |
@@ -163,7 +163,7 @@
 | 察哈尔 | 察 | 缩略 | Chaha'er |
 | 热河 | 热 | 缩略 | Rehe | Jehol | 邮政式拼音 |
 | 平原 | ? | | Pingyuan |
-| 西康 | 康 | 缩略 | Xikang |
+| 西康 | 康 | 缩略 | Xikang | Sikang | 邮政式拼音 |
 
 ## 参考资料/ References
 - <https://www.zhihu.com/question/26552511/answer/153189952>
