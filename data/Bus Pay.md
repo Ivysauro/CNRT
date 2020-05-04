@@ -91,7 +91,7 @@
 | 临汾/ Linfen | 临汾交通一卡通 | ✅ | ✅ | ✅ | ✅ | | ✅ | 临汾公交e出行、美团、和包支付 |
 | 吕梁/ Lüliang | 吕梁交通一卡通 | ✅ | | ✅ | | | | |
 | **内蒙古/ Nei Mongol** | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
-| 呼和浩特/ Hohhot | 青城市民卡 | ✅ | ✅ | 🕓 | ✅ | | ✅ | 青城通 |
+| 呼和浩特/ Hohhot | 青城市民卡 | ✅ | ✅ | ✅ | ✅ | | ✅ | 青城通 |
 | 包头/ Baotou | 鹿城通 | ✅ | ✅ | ✅ | ✅ | ✅ | | |
 | 乌海/ Wuhai | 乌海交通一卡通 | ✅ | ✅ | ✅ | | | ✅ | |
 | 赤峰/ Chifeng | 赤峰公交卡 | | ✅ | ✅ | | | ✅ | 美团 |
@@ -192,7 +192,7 @@
 | 厦门/ Xiamen | 厦门e通卡 | ✅ | ✅ | ✅ | ✅ | ✅ | | 厦门市民卡 |
 | 莆田/ Putian | 福路通·莆田市城市一卡通 | ✅ | ⭕ | ✅ | ✅ | | ✅ | 惠民宝 |
 | 三明/ Sanming | 福路通 明通卡 | ✅ | ✅ | ✅ | ✅ | | ✅ | |
-| 泉州/ Quanzhou | 泉州交通卡 | ✅ | ✅ | ✅ | ✅ | ✅ | | 泉城通、翼支付 |
+| 泉州/ Quanzhou | 泉州交通卡 | ✅ | ✅ | ✅ | ✅ | ✅ | | 泉城通、CU卡 |
 | 漳州/ Zhangzhou | 福路通·九龙卡 | ✅ | ✅ | ✅ | | | ✅ | 漳州达达通、福路通·福建出行助手 |
 | 南平/ Nanping | 福路通·武夷通 | ✅ | ✅ | ✅ | | | ✅ | |
 | 龙岩/ Longyan | 福路通·龙行卡 | ✅ | ✅ | ✅ | ⭕ | | ✅ | e龙岩 |
@@ -219,10 +219,10 @@
 | 潍坊/ Weifang | 潍坊通 | ✅ | | ✅ | ✅ | | | 潍坊通 |
 | 济宁/ Jining | 济宁交通一卡通 | ✅ | ✅ | ✅ | ✅ | | ✅ | |
 | 泰安/ Tai'an | 泰安公交卡 | ⭕ | ✅ | ✅ | ✅ | | ✅ | 小码联城 |
-| 威海/ Weihai | 威海市民卡 | ✅ | | ✅ | | | 🕓 | |
+| 威海/ Weihai | 威海市民卡 | ✅ | | ✅ | ⭕️ | | 🕓 | |
 | 日照/ Rizhao | 日照通 | ⭕ | | ✅ | | | | 新出行 |
 | 临沂/ Linyi | 临沂交通一卡通 | ✅ | ✅ | ✅ | ✅ | | ✅ | 美团 |
-| 德州/ Dezhou | 德州交通一卡通 | ✅ | ✅ | | ✅ | | ✅ | |
+| 德州/ Dezhou | 德州交通一卡通 | ✅ | ✅ | ✅ | ✅ | | ✅ | |
 | 聊城/ Liaocheng | 聊城交通一卡通 | ✅ | | ✅ | ✅ | | | |
 | 滨州/ Binzhou | 滨州交通一卡通 | ✅ | ✅ | ✅ | ✅ | | ✅ | 美团 |
 | 菏泽/ Heze | 菏泽交通一卡通 | ✅ | ✅ | ✅ | ✅ | | ✅ | |
