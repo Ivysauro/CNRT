@@ -408,10 +408,10 @@
 | 固原/ Guyuan | 六盘通 | ✅ | ✅ | | | | ✅ | |
 | 中卫/ Zhongwei | 中卫公交卡 | | | | ✅ | | | |
 | **新疆/ Xinjiang** | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
-| 乌鲁木齐/ Urumchi | 红山通 | ✅ | ✅ | ✅ | ✅ | | | 红山通 |
+| 乌鲁木齐/ Ürümqi | 红山通 | ✅ | ✅ | ✅ | ✅ | | | 红山通 |
 | 克拉玛依/ Karamay | 克拉玛依公交卡 | | ⭕ | ⭕[^kr] | ⭕[^kr] | | ⭕[^kr] | |
-| 吐鲁番/ Turfan | 吐鲁番公交卡 | | ✅ | | | | | |
-| 哈密/ Hami | 哈密交通一卡通 | ✅ | ✅ | | | | ✅ | |
+| 吐鲁番/ Turpan | 吐鲁番公交卡 | | ✅ | | | | | |
+| 哈密/ Kumul | 哈密交通一卡通 | ✅ | ✅ | | | | ✅ | |
 
 #### 一些重要的县级行政单位/ Some Important County-level Cities
 
@@ -465,7 +465,7 @@
 | 昌吉州-昌吉市/ Changji City, Xinjiang | | ✅ | | | | ✅ | |
 | 巴音郭勒州-库尔勒市/ Korla, Xinjiang | | ✅ | | | | ✅ | |
 | 克孜勒苏州-阿图什市/ Artux, Xinjiang | | | | | | | |
-| 伊犁州-伊宁市/ Yining, Xinjiang | ✅ | ✅ | | | | ✅ | |
+| 伊犁州-伊宁市/ Gulja, Xinjiang | ✅ | ✅ | | | | ✅ | |
 | 塔城地区-塔城市/ Tacheng City, Xinjiang | | ✅ | | | | ✅ | |
 | 阿勒泰地区-阿勒泰市/ Altay City, Xinjiang | | ✅ | | | | ✅ | |
 | 石河子市/ Shihezi, Xinjiang | ✅ | | | ✅ | | | |
