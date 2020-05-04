@@ -48,7 +48,7 @@
 ## 城市/ Cities
 
 | 中文名/ Chinese Name | 简称/ Short Name | 简称来源/ Origin of Short Name | 拼音/ Pinyin Name | 常见拉丁名/ General Latin Name | 拉丁名来源/ Origin of Latin Name | 备注/ Notes |
-| :- | :-: | :- | :- | :- | :- | :- | :- |
+| :- | :-: | :- | :- | :- | :- | :- |
 | 北京 | 京 | 缩略 | **Beijing** | Peking | 邮政式拼音 | 北平，Peiping |
 | 天津 | 津 | 缩略 | **Tianjin** | Tientsin | 邮政式拼音 |
 | 石家庄 | 石 | 缩略 | **Shijiazhuang** | |
