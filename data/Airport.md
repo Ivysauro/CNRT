@@ -4,6 +4,7 @@
 
 | 中文名/ Chinese Name | 英文名/ English Name | IATA | ICAO |
 | :- | :- | :- | :- |
+| 北京 | Beijing | BJS, BeiJing Shi | - |
 | 北京首都 | Beijing Capital | PEK, PEKing | ZBAA |
 | 上海浦东 | Shanghai Pudong | PVG, PU(V)donG | ZSPD, PuDong |
 | 重庆江北 | Chongqing Jiangbei | CKG, ChungKinG | ZUCK, ChungKing |
@@ -51,7 +52,7 @@
 | 青岛流亭 | Qingdao Liuting | TAO, TsingtAO | ZSQD, QingDao |
 | 烟台蓬莱 | Yantai Penglai | YNT, YaNTai | ZSYT, YanTai |
 | 长春龙嘉 | Changchun Longjia | CGQ, ChanGchun+Q | ZYCC, ChangChun |
-| 大连周水子 | Dalian Zhoushuizi | DLC, DaLian Chowshuitze | ZYTL, TaLien |
+| 大连周水子 | Dalian Zhoushuizi | DLC, DaLian Chowshuitze/ DaLian City | ZYTL, TaLien |
 | 哈尔滨太平 | Harbin Taiping | HRB, HaRBin | ZYHB, HarBin |
 | 苏南硕放 | Sunan Shuofang | WUX, WUXi | ZSWX, WuXi |
 | 贵阳龙洞堡 | Guiyang Longdongbao | KWE, KWEiyang | ZUGY, GuiYang |
@@ -59,7 +60,7 @@
 | 银川河东 | Yinchuan Hedong | INC, yINChuan | ZLIC, yInChuan |
 | 西宁曹家堡 | Xining Caojiapu | XNN, XiNing+N | ZLXN, XiNing |
 | 徐州观音 | Xuzhou Guanyin | XUZ, XUZhou | ZSXZ, XuZhou |
-| 鄂尔多斯伊金霍洛 | Ordos Ejin Horo | DSN, orDoS ejiN horo/ DongSheng | ZBDS, orDoS/ DongSheng |
+| 鄂尔多斯伊金霍洛 | Ordos Ejin Horo | DSN, orDoS ejiN horo/ DongSheNg | ZBDS, orDoS/ DongSheng |
 | 澳门（氹仔） | Macao | MFM | VMMC, MaCao |
 | 高雄（小港） | Kaohsiung | KHH, KaoHsiung+H | RCKH, KaoHsiung |
 | 扬州泰州 | Yangzhou Taizhou | YTY, Yangzhou Taizhou+Y | ZSYA, YAngzhou |
@@ -185,7 +186,7 @@
 | 十堰武当山 | Shiyan Wudangshan | WDS, WuDangShan | ZHSY, ShiYan |
 | 怀化芷江 | Huaihua Zhijiang | HJJ, zHiJiang+J | ZGCJ |
 | 达州河市 | Dazhou Heshi | DAX, DAXian | ZUDX, DaXian |
-| 朝阳 | Chaoyang             | CHG, CHaoyanG | ZYCY, ChaoYang |
+| 朝阳 | Chaoyang | CHG, CHaoyanG | ZYCY, ChaoYang |
 | 临沧博尚 | Lincang | LNJ, LiNcang+J | ZPLC, LinCang |
 | 沧源佤山 | Cangyuan Washan | CWJ, Cangyuan Washan+J | ZPCW, Cangyuan Washan |
 | 腾冲驼峰 | Tengchong Tuofeng | TCZ, TengChong+Z | ZUTC, TengChong |
@@ -204,6 +205,7 @@
 | 齐齐哈尔三家子机场 | Qiqihar Sanjiazi | NDG | ZYQQ, QiQihar |
 | 乌海 | Wuhai | WUA, WUhAi | ZBUH, wUHai |
 | 阿勒泰 | Altay | AAT, A+AlTay | ZWAT, AlTay |
+| 台州路桥 | Taizhou Luqiao | HYN, HuangYaN | ZSLQ, LuQiao |
 
 ## 3C
 
