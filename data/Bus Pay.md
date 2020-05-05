@@ -367,8 +367,8 @@
 | 拉萨/ Lhasa | 西藏一卡通 | ✅ | ✅ | | | ✅ | ✅ | |
 | 日喀则/ Xigazê | 日喀则公交卡 | | | | | | | |
 | 昌都/ Qamdo | | | | | | | | |
-| 林芝/ Linzhi | | | | | | | | |
-| 山南/ Shannan | | | | | | | | |
+| 林芝/ Nyingchi | | | | | | | | |
+| 山南/ Lhoka | | | | | | | | |
 | 那曲/ Nagqu | | | | | | | | |
 
 #### 西北地区/ Northwestern China
@@ -436,7 +436,7 @@
 | 万宁市/ Wanning, Hainan | | ✅ | ✅ | ✅ | | | |
 | 东方市/ Dongfang, Hainan | | ✅ | ✅ | | | ✅ | |
 | 阿坝州-马尔康市/ Barkam, Sichuan | ✅ | | | ⭕ | | | |
-| 甘孜州-康定市/ Kangding, Sichuan | ✅ | ✅ | | | | ✅ | |
+| 甘孜州-康定市/ Tardo, Sichuan | ✅ | ✅ | | | | ✅ | |
 | 凉山州-西昌市/ Xichang, Sichuan | ✅ | ✅ | ✅ | ✅ | | ✅ | 月城公交、和包支付、翼支付 |
 | 黔东南州-凯里市/ Kaili, Guizhou | ✅ | ✅ | | ✅ | | ✅ | 美团 |
 | 黔南州-都匀市/ Duyun, Guizhou | ✅ | ✅ | ✅ | | | ✅ | 贵州通、美团 |
@@ -451,13 +451,13 @@
 | 迪庆州-香格里拉市/ Shangri-la, Yunnan | ✅ | ✅ | | | | ✅ | |
 | 阿里地区-噶尔县/ Gar, Xizang | | | | | | | | |
 | 临夏州-临夏市/ Linxia City, Gansu | | ✅ | | ✅ | | | |
-| 甘南州-合作市/ Hezuo, Gansu | | ✅ | | | | |
+| 甘南州-合作市/ Zö, Gansu | | ✅ | | | | |
 | 海南州-共和县/ Gonghe, Qinghai | | ✅ | | | | | |
 | 海北州-海晏县/ Haiyan, Qinghai | | | | | | | |
-| 海西州-德令哈市/ Delhi, Qinghai | ✅ | ✅ | ⭕[^dlh] | ⭕[^dlh] | ✅ | | |
+| 海西州-德令哈市/ Delhi Hot, Qinghai | ✅ | ✅ | ⭕[^dlh] | ⭕[^dlh] | ✅ | | |
 | 黄南州-同仁县/ Tongren, Qinghai | | ✅ | | | ✅ | | |
-| 果洛州-玛沁县/ Maqin, Qinghai | | | | | | | |
-| 玉树州-玉树市/ Yushu City, Qinghai | ✅ | ✅ | | | | ✅ | |
+| 果洛州-玛沁县/ Maqên, Qinghai | | | | | | | |
+| 玉树州-玉树市/ Yüshu City, Qinghai | ✅ | ✅ | | | | ✅ | |
 | 阿克苏地区-阿克苏市/ Aksu City, Xinjiang | | ✅ | ⭕[^aks] | ⭕[^aks] | | ✅ | |
 | 喀什地区-喀什市/ Qeshqer Shehiri City, Xinjiang | | ✅ | ⭕[^qs] | ⭕[^qs] | | ✅ | |
 | 和田地区-和田市/ Hotan City, Xinjiang | | | | | | | |
