@@ -102,21 +102,6 @@
 |  | 广州/ Guangzhou | 庆盛/ Qingsheng/ QSQ | 广州局/ CR Guangzhou | 庆盛/ Qingsheng |
 |  | 广州/ Guangzhou | 顺德学院/ Shunde College/ OJQ | 广州局/ CR Guangzhou | 🏗顺德学院/ Shunde College RS |
 |  | 广州/ Guangzhou | 新塘南/ Xintangnan/ NUQ | 广州局/ CR Guangzhou | 新塘/ Xintang |
-|  | 广州/ Guangzhou | 🏗白云机场T/ Baiyun Airport T1 | 广州局/ CR Guangzhou | 机场南/ Airport South |
-|  | 广州/ Guangzhou | 🏗白云机场T2/ Baiyun Airport T2 | 广州局/ CR Guangzhou | 机场北/ Airport North |
-|  | 广州/ Guangzhou | 🏗常溪/ Changxi | 广州局/ CR Guangzhou | 🏗常溪/ Changxi |
-|  | 广州/ Guangzhou | 🏗大石/ Dashi | 广州局/ CR Guangzhou | 大石/ Dashi |
-|  | 广州/ Guangzhou | 🏗大学城东/ Daxuechengdong | 广州局/ CR Guangzhou | 🏗深井/ Shenjing |
-|  | 广州/ Guangzhou | 🏗番禺大道/ Puyudadao | 广州局/ CR Guangzhou | 南村万博/ Nancun Wanbo |
-|  | 广州/ Guangzhou | 🏗官桥/ Guanqiao | 广州局/ CR Guangzhou | 🏗官桥/ Guanqiao |
-|  | 广州/ Guangzhou | 🏗江高/ Jianggao | 广州局/ CR Guangzhou | 🏗江高/ Jianggao |
-|  | 广州/ Guangzhou | 🏗金融城/ Jinrongcheng | 广州局/ CR Guangzhou | 科韵路/ Keyun Lu |
-|  | 广州/ Guangzhou | 🏗马头庄/ Matouzhuang | 广州局/ CR Guangzhou | 新南/ Xinnan |
-|  | 广州/ Guangzhou | 🏗石牌/ Shipai | 广州局/ CR Guangzhou | 华景路/ Huajing Lu |
-|  | 广州/ Guangzhou | 🏗天河东/ Tianhedong/ JSQ | 广州局/ CR Guangzhou | 黄村/ Huangcun |
-|  | 广州/ Guangzhou | 🏗长隆/ Changlong | 广州局/ CR Guangzhou | 汉溪长隆/ Hanxi Changlong |
-|  | 广州/ Guangzhou | 🏗镇龙/ Zhenlong | 广州局/ CR Guangzhou | 镇龙/ Zhenlong |
-|  | 广州/ Guangzhou | 🏗竹料/ Zhuliao | 广州局/ CR Guangzhou | 竹料/ Zhuliao |
 |  | 深圳/ Shenzhen | 福海西/ Fuhaixi/ FHA | 广州局/ CR Guangzhou | 🏗和平/ Heping |
 |  | 深圳/ Shenzhen | 福田/ Futian/ NZQ | 广州局/ CR Guangzhou | 福田/ Futian |
 |  | 深圳/ Shenzhen | 平湖/ Pinghu/ PHQ | 广州局/ CR Guangzhou | 🏗平湖/ Pinghu |
