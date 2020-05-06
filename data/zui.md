@@ -38,6 +38,7 @@
 - 最长的线路：上海地铁11号线（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，82.4km）
 - 最高的设计时速：北京地铁大兴机场线（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，160km/h）
 - 最深的站：红土地（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cq.gif" width="20" hegiht="20"/>重庆，10号线，94.467m）
+- 最深的隧道：广州东站-燕塘隧道（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州，3号线，-113米）
 
 ## 最·文字
 - 最长中文站名：兰州城市学院（省科技馆）（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/lz.gif" width="20" hegiht="20"/>兰州，10字）
@@ -48,3 +49,4 @@
 - 数字编号最大的运营线路：广州地铁21号线（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州，21）
 - 最多换乘线路的站（严格意义）：世纪大道（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，4线8向，2/4/6/9）、车公庙（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sz.gif" width="20" hegiht="20"/>深圳，4线8向，1/7/9/11）
 - 最多换乘次数的线（不考虑共线）：长沙地铁2号线/4号线（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cs.gif" width="20" hegiht="20"/>长沙，4次，溁湾镇、沙湾公园、长沙火车南站、光达）
+- 最多快车服务的区间：新和-嘉禾望岗（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州，每日56对，2018.12-2019.12）
