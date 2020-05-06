@@ -1,6 +1,6 @@
 # 铁路局（中文）/ FRA (In Chinese)
 
-## 主表/ Content
+## 铁路运营单位
 
 名称中**加粗**的字为简称
 
@@ -28,6 +28,10 @@
 | 广东城际 | 珠三角城际 | 羊角 | 官方昵称 | 即广州地铁 |
 | 港铁 | 香港 | | | Mass Transit Railway, MTR |
 | 台铁 | 台湾 | | | Taiwan Rails Administration, TRA |
+
+## 城市轨道交通运营单位
+
+暂请参见<http://www.ditiezu.com/thread-673149-1-1.html>
 
 ## 参考资料/ References
 - <https://www.zhihu.com/question/56779515>
