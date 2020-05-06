@@ -26,8 +26,8 @@
 | 青藏铁路公司 | 青藏 | 高原局 | 主要管辖青藏高原地区 |
 | |
 | 广东城际 | 珠三角城际 | 羊角 | 官方昵称 | 即广州地铁 |
-| 港铁 | 香港 | | | Mass Transit Railway, MTR |
-| 台铁 | 台湾 | | | Taiwan Rails Administration, TRA |
+| 香**港铁**路 | 香港 | 红龟 | logo | Mass Transit Railway, MTR |
+| **台**湾**铁**路管理局 | 台湾 | | | Taiwan Rails Administration, TRA |
 
 ## 城市轨道交通运营单位
 
