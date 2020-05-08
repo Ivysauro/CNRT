@@ -429,9 +429,11 @@
 
 #### 对英文名相同车站的处理
 
-- 管庄/ GUANZHUANG→Guaan Zhuang、关庄/ GUANZHUANG（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，八通线、15号线）
+- 管庄/ GUANZHUANG→Guaan Zhuang[^gz]、关庄/ GUANZHUANG（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，八通线、15号线）
 - 浦电路/ Pudian Road、浦电路/ Pudian Road（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，4号线、6号线）
 - 萧岗/ Xiao-gang、晓港/ Xiaogang（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州，2号线、8号线）
+
+[^gz]: “Guaan”是错误的转写方法，依据国语罗马字的转写规则，“Guǎn”的正确转写应为“Goan”。
 
 #### 对“ü”的处理
 
