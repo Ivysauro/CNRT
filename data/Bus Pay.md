@@ -196,7 +196,7 @@
 | 漳州/ Zhangzhou | 福路通·九龙卡 | ✅ | ✅ | ✅ | | | ✅ | 漳州达达通、福路通·福建出行助手 |
 | 南平/ Nanping | 福路通·武夷通 | ✅ | ✅ | ✅ | | | ✅ | |
 | 龙岩/ Longyan | 福路通·龙行卡 | ✅ | ✅ | ✅ | ⭕ | | ✅ | e龙岩 |
-| 宁德/ Ningde | 福路通·福宁卡 | ✅ | ⭕ | ✅ | ✅ | | ✅ | |
+| 宁德/ Ningde | 福路通·福宁卡 | ✅ | ✅ | ✅ | ✅ | | ✅ | 翼支付 |
 | **江西/ Jiangxi** | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
 | 南昌/ Nanchang | 洪城一卡通 | ✅ | ✅ | ✅ | ✅ | | | 鹭鹭行 |
 | 景德镇/ Jingdezhen | 瓷都公交卡 | ✅ | ✅ | | | | ✅ | |
@@ -240,7 +240,7 @@
 | :- | :- | :-: | :-: | :-: | :-: | :-: | :-: | :- |
 | 郑州/ Zhengzhou | 绿城通、轩辕通 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | |
 | 开封/ Kaifeng | 轩辕通 | ✅ | | ✅ | | | | 汴梁通 |
-| 洛阳/ Luoyang | 轩辕通 | ✅ | ✅ | ✅ | | ✅ | ✅ |
+| 洛阳/ Luoyang | 轩辕通 | ✅ | ✅ | ✅ | 🕓 | ✅ | ✅ |
 | 平顶山/ Pingdingshan | 神州通、轩辕通 | ✅ | ✅ | ✅ | ✅ | | ✅ | 鹰城一卡通 |
 | 安阳/ Anyang | 轩辕通 | ✅ | ✅ | ✅ | | ✅ | ✅ | 安阳行 |
 | 鹤壁/ Hebi | 轩辕通 | ✅ | ✅ | ✅ | | | ✅ | 鹤壁行 |
@@ -260,7 +260,7 @@
 | 黄石/ Huangshi | 黄石交通一卡通 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | |
 | 十堰/ Shiyan | 车城通 | ✅ | ✅ | ✅ | ✅ | ✅ | | |
 | 宜昌/ Yichang | 宜昌交通一卡通 | ✅ | ✅ | ✅ | | ✅ | | 宜知行 |
-| 襄阳/ Xiangyang | 襄阳交通一卡通 | ✅ | ✅ | ✅ | ✅ | | ✅ | 襄阳出行 |
+| 襄阳/ Xiangyang | 襄阳交通一卡通 | ✅ | ✅ | ✅ | ✅ | | ✅ | 襄阳出行、翼支付 |
 | 鄂州/ Ezhou | 鄂州交通一卡通 | ✅ | ✅ | ✅ | | ✅ | ✅ | 美团 |
 | 荆门/ Jingmen | 荆门交通一卡通 | ✅ | ✅ | ✅ | ✅ | | ✅ | |
 | 孝感/ Xiaogan | 天仙卡 | ✅ | ✅ | ✅ | ✅ | ✅ | | 孝感智慧公交、美团 |
@@ -338,7 +338,7 @@
 | 广元/ Guangyuan | 广元交通一卡通 | ✅ | ✅ | ✅ | | ✅ | ✅ | 美团 |
 | 遂宁/ Suining | 遂州通 | ✅ | | | | | | 遂州通、美团 |
 | 内江/ Neijiang | 甜城一卡通 | ✅ | ✅ | ✅ | ✅ | ✅ | | |
-| 乐山/ Leshan | 乐山交通一卡通 | ✅ | ✅ | | | ✅ | ✅ | 嘉州通 |
+| 乐山/ Leshan | 乐山交通一卡通 | ✅ | ✅ | ✅ | | ✅ | ✅ | 嘉州通 |
 | 南充/ Nanchong | 南充交通一卡通 | ✅ | ✅ | ✅ | | ✅ | | |
 | 眉山/ Meishan | 眉山交通一卡通 | ✅ | | ✅ | ✅ | ✅ | | |
 | 宜宾/ Yibin | 宜宾交通一卡通 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | |
