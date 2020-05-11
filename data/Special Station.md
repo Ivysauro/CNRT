@@ -444,6 +444,7 @@
 - 绿博园/ L**ü**BOYUAN（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nj.gif" width="20" hegiht="20"/>南京，10号线）
 - 绿汀路/ L**v**ting Road（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hz.gif" width="20" hegiht="20"/>杭州，5/16号线）
 - 绿城广场/ L**U**CHENGGUANGCHANG（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/zz.gif" width="20" hegiht="20"/>郑州，1号线）
+- 绿茵路/ L**u**yin Road（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nc.gif" width="20" hegiht="20"/>南昌，1号线）
 - 吕厝/ L**ü**cuo（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xm.gif" width="20" hegiht="20"/>厦门，1号线）
 
 ### 更名（车站）
