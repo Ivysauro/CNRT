@@ -366,10 +366,10 @@
 | **西藏/ Xizang** | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
 | 拉萨/ Lhasa | 西藏一卡通 | ✅ | ✅ | | | ✅ | ✅ | |
 | 日喀则/ Xigazê | 日喀则公交卡 | | | | | | | |
-| 昌都/ Qamdo | | | | | | | | |
+| 昌都/ Qamdo | 昌都公交卡 | | ❓ | | | | | |
 | 林芝/ Nyingchi | | | | | | | | |
 | 山南/ Lhoka | | | | | | | | |
-| 那曲/ Nagqu | | | | | | | | |
+| 那曲/ Nagqu | | | ❓ | | | | | |
 
 #### 西北地区/ Northwestern China
 
