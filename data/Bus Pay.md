@@ -22,13 +22,12 @@
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay NFC.png" width="40" hegiht="40" alt="Unionpay Quickpass"/> | [银联闪付](https://zh.wikipedia.org/wiki/%E9%97%AA%E4%BB%98#%E4%BA%91%E9%97%AA%E4%BB%98) | [Unionpay Quickpass](https://en.wikipedia.org/wiki/UnionPay#QuickPass) |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | 支付宝乘车码 | Alipay Transit QR Code |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | 微信乘车码 | WeChat Pay Transit QR Code |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | 银联乘车码 | Unionpay Transit QR Code |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | 云闪付乘车码 | Unionpay Transit QR Code |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay QR.png" width="40" hegiht="40" alt="Unionpay QR Code"/> | 银联付款码 | Unionpay Payment QR Code |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> | 其他应用乘车码 | Transit QR Code of Additional Apps |
 
 *[银联闪付]: 指银联云闪付（联机闪付），不包括电子现金（脱机闪付）
 *[银联付款码]: 指符合银联标准的付款码，可在中国银联指定的应用内使用（如云闪付、各银行客户端、京东、美团等） 
-*[银联乘车码]: 指符合银联标准的乘车码，可在有合作的应用内使用（如云闪付、车来了等）
 
 | 图标/ Icon | 中文/ Chinese | 英文/ English |
 | :-: | :- | :- |
