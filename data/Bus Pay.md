@@ -23,57 +23,7 @@
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | 支付宝乘车码 | Alipay Transit QR Code |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | 微信乘车码 | WeChat Pay Transit QR Code |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | 银联乘车码 | Unionpay Transit QR Code |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay QR.png" width="40" hegiht="40" alt="Unionpay QR Code"/> | 银联付款码 | Unionpay QR Code |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> | 其他应用乘车码 | Transit QR Code of Additional Apps |
-
-| 图标/ Icon | 中文/ Chinese | 英文/ English |
-| :-: | :- | :- |
-| ✅ | 完全支持 | Full Support |
-| ⭕ | 部分支持或有条件的支持 | Partly Support or Conditional Support |
-| 🕓 | 即将上线或仅零星支持 | Coming Soon or Seldom Support |
-| ❌ | 已下线 | Closed |
-
-## 拼音相同的地级市/ Cities of Same Pinyin Name
-
-| 省份/ Province | 城市中文名/ Chinese Name | 城市拼音/ Pinyin Name | [国语罗马字](https://zh.wikipedia.org/zh-hans/%E5%9C%8B%E8%AA%9E%E7%BE%85%E9%A6%AC%E5%AD%97)/ [Gwoyeu Romatzyh](https://simple.wikipedia.org/wiki/Gwoyeu_Romatzyh) | 本文处理方式/ Disposal Method of THIS TABLE | 
-| :- | :- | :- | :- | :- |
-| 福建/ Fujian | 福州 | Fuzhou/ Fúzhōu  | Fwuzhou/ Fwujou | Fuzhou |
-| 江西/ Jiangxi | 抚州 | Fuzhou/ Fǔzhōu | Fuuzhou/ Fuujou | Fuzhou, Jiangxi |
-| 安徽/ Anhui | 宿州 | Suzhou/ Sùzhōu | Suhzhou/ Suhjou | Suzhou, Anhui |
-| 江苏/ Jiangsu | 苏州 | Suzhou/ Sūzhōu | Suzhou/ Sujou | Suzhou |
-| 江苏/ Jiangsu | 泰州 | Taizhou/ Tàizhōu | Tayzhou/ Tayjou | Taizhou, Jiangsu |
-| 浙江/ Zhejiang | 台州 | Taizhou/ Tāizhōu | Taizhou/ Taijou | Taizhou, Zhejiang |
-| 黑龙江/ Heilongjiang | 伊春 | Yichun/ Yīchūn | Yichun/ Yichuen | Yichun, Heilongjiang |
-| 江西/ Jiangxi | 宜春 | Yichun/ Yíchūn | Yyichun/ Yyichuen | Yichun, Jiangxi |
-| 广西/ Guangxi | 玉林 | Yulin/ Yùlín | Yiuhlin/ Yiuhlyn | Yulin, Guangxi |
-| 陕西/ Shaanxi | 榆林 | Yulin/ Yúlín | Yyulin/ Yyulyn | Yulin, Shaanxi |
-
-## 购票/ Tickets# 地面公交支付方式/ Payment Methods for Bus
-
-轨道交通支付方式点[这里](https://ivysauro.github.io/CNRT/data/Pay)跳转/ For Rail Transit, go to [HERE](https://ivysauro.github.io/CNRT/data/Pay)
-
-## 说明/ NOTICE
-
-❗ 由于信息来源复杂，可能存在很多错漏，乘车前请备好零钱/ There may be many mistakes, please PREPARE CASH in case🤔
-
-仅统计全国地级以上城市/ Only counts Prefecture-level Cities and above
-
-排序方式为省份区划代码/ Rank by Province Code
-
-包括由公交集团运营的有轨电车/ Including Tram Line Operated by Bus Groups
-
-对于卡名称不明的卡片，交通联合卡命名为“xx交通一卡通”，非交通联合卡命名为“xx公交卡”
-
-## 图例/ Legend
-
-| 标识/ Logo | 中文/ Chinese | 英文/ English |
-| :-: | :- | :- |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | 交通联合 | T-Union |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay NFC.png" width="40" hegiht="40" alt="Unionpay Quickpass"/> | 银联闪付 | Unionpay Quickpass |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | 支付宝乘车码 | Alipay Transit QR Code |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | 微信乘车码 | WeChat Pay Transit QR Code |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | 银联乘车码 | Unionpay Transit QR Code |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay QR.png" width="40" hegiht="40" alt="Unionpay QR Code"/> | 银联付款码 | Unionpay QR Code |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay QR.png" width="40" hegiht="40" alt="Unionpay QR Code"/> | 银联付款码 | Unionpay Payment QR Code |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> | 其他应用乘车码 | Transit QR Code of Additional Apps |
 
 | 图标/ Icon | 中文/ Chinese | 英文/ English |
