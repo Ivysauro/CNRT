@@ -195,7 +195,7 @@
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay"/> | 微信支付 | WeChat Pay |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay"/> | 银联 | Unionpay |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | 交通联合 | T-Union |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/NFC.png" width="25" hegiht="25" alt="NFC Local Card"/> | 本地虚拟交通卡 | Vital NFC Local Card |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/NFC.png" width="25" hegiht="25" alt="NFC Local Card"/> | 本地虚拟交通卡 | Virtual NFC Local Card |
 
 | 图标/ Icon | 中文/ Chinese | 英文/ English | 计分/ Mark |
 | :-: | :- | :- | :-: |
