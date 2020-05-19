@@ -19,13 +19,13 @@
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay NFC.png" width="40" hegiht="40" alt="Unionpay Quickpass"/> | [银联闪付](https://zh.wikipedia.org/wiki/%E9%97%AA%E4%BB%98#%E4%BA%91%E9%97%AA%E4%BB%98) | [Unionpay Quickpass](https://en.wikipedia.org/wiki/UnionPay#QuickPass) |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | [支付宝乘车码](https://zh.wikipedia.org/wiki/%E9%A8%B0%E8%A8%8A%E4%B9%98%E8%BB%8A%E7%A2%BC#%E7%9B%B8%E9%97%9C%E7%94%A2%E5%93%81) | Alipay Transit QR Code |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | [微信乘车码](https://zh.wikipedia.org/wiki/%E9%A8%B0%E8%A8%8A%E4%B9%98%E8%BB%8A%E7%A2%BC) | WeChat Pay Transit QR Code |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | [银联乘车码](https://zh.wikipedia.org/wiki/%E9%A8%B0%E8%A8%8A%E4%B9%98%E8%BB%8A%E7%A2%BC#%E7%9B%B8%E9%97%9C%E7%94%A2%E5%93%81) | Unionpay Transit QR Code |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | [云闪付乘车码](https://zh.wikipedia.org/wiki/%E9%A8%B0%E8%A8%8A%E4%B9%98%E8%BB%8A%E7%A2%BC#%E7%9B%B8%E9%97%9C%E7%94%A2%E5%93%81) | Unionpay Transit QR Code |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Official Apps"/> | 官方应用乘车码 | Transit QR Code of Official Apps |
 
 | 图标/ Icon | 中文/ Chinese | 英文/ English |
 | :-: | :- | :- |
 | ✅ | 完全支持 | Full Support |
-| ⭕ | 有条件的支持（参见`备注`） | Conditional Support（See `Notes`） |
+| ⭕ | 有条件的支持 | Conditional Support |
 | 🕓 | 即将上线 | Coming Soon |
 | 💥 | 新变动 | New Update |
 
