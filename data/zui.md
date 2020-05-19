@@ -44,31 +44,8 @@
 - 最长中文站名：兰州城市学院（省科技馆）（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/lz.gif" width="20" hegiht="20"/>兰州，10字）
 - 最长中文站名（多站名不计）：江北机场T2航站楼、江北机场T3航站楼（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cq.gif" width="20" hegiht="20"/>重庆，9字）
 - 最长中文站名（多站名、字母数字不计）：上海儿童医学中心（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，8字）、国际生态会议中心（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gy.gif" width="20" hegiht="20"/>贵阳，8字）
-
-## 最·运营
-- 数字编号最大的运营线路：广州地铁21号线（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州，21）
-- 最多换乘线路的站（严格意义）：世纪大道（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，4线8向，2/4/6/9）、车公庙（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sz.gif" width="20" hegiht="20"/>深圳，4线8向，1/7/9/11）
-- 最多换乘次数的线（不考虑共线）：长沙地铁2号线/4号线（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cs.gif" width="20" hegiht="20"/>长沙，4次，溁湾镇、沙湾公园、长沙火车南站、光达）
-- 最多快车服务的区间：新和-嘉禾望岗（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州，每日56对，2018.12-2019.12）
-
-
-- 最早的跨市线路：广州地铁广佛线/佛山地铁1号线（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/><img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/fs.gif" width="20" hegiht="20"/>广州&佛山，2010年）
-- 最早的跨省线路：上海地铁11号线（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，2013年）
-
-- 最早的首班车（发出时间）：4:40（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，8号线，回龙观东大街）；4:47（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，10号线，车道沟）
-- 最晚的末班车（到达倒数第二站的时间）：1:26（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，1号线，周五及周六常态化加开，古城）
-- 最晚的日常末班车（到达倒数第二站的时间）：0:38（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，6号线小交路，常营）；0:28（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nj.gif" width="20" hegiht="20"/>南京，1号线，红山动物园）
-
-## 最·数字
-- 最长的线路：上海地铁11号线（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，82.4km）
-- 最高的设计时速：北京地铁大兴机场线（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，160km/h）
-- 最深的站：红土地（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cq.gif" width="20" hegiht="20"/>重庆，10号线，94.467m）
-- 最深的隧道：广州东站-燕塘隧道（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州，3号线，-113米）
-
-## 最·文字
-- 最长中文站名：兰州城市学院（省科技馆）（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/lz.gif" width="20" hegiht="20"/>兰州，10字）
-- 最长中文站名（多站名不计）：江北机场T2航站楼、江北机场T3航站楼（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cq.gif" width="20" hegiht="20"/>重庆，9字）
-- 最长中文站名（多站名、字母数字不计）：上海儿童医学中心（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，8字）、国际生态会议中心（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gy.gif" width="20" hegiht="20"/>贵阳，8字）
+- 最长英文站名：NANJING MEDICAL UNIVERSITY/ JIANGSU INSTITUTE OF ECONOMIC & TRADE TECHNOLOGY（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nj.gif" width="20" hegiht="20"/>南京，76字符）
+- 最长英文站名（多站名不计）：Chengdu University of TCM & Sichuan Provincial People's Hospital（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cd.gif" width="20" hegiht="20"/>成都，64字符）
 
 ## 最·运营
 - 数字编号最大的运营线路：广州地铁21号线（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州，21）
