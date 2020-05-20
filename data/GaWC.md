@@ -1,6 +1,6 @@
 # GaWC 世界城市名册/ GaWC World Cities
 
-[2018](#GaWC-2018) | [2016](#GaWC-2016) |
+[2018](#GaWC-2018) | [2016](#GaWC-2016)
 
 ## 图例/ Legend
 
