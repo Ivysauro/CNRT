@@ -1,6 +1,6 @@
 # GaWC 世界城市名册/ GaWC World Cities
 
-<https://www.lboro.ac.uk/gawc/world2018t.html>
+## 图例/ Legend
 
 | 标记/ Mark | 含义 | Meaning |
 | :-: | :- | :- |
@@ -9,8 +9,12 @@
 | 🔄 | 排名不变 | Ranking unchanged |
 | 🔽 | 排名下降 | Ranking down |
 
-| WR | NR | Level | City | 城市 | 所属国家 | 标记/ Marks |
-| -- | -- | ----- | ---- | --- | -------- | ------- |
+## GaWC 2018
+
+<https://www.lboro.ac.uk/gawc/world2018t.html>
+
+| WR | NR | Level | City | 城市 | 所属国家 |  |
+| -- | -- | ----- | ---- | --- | -------- | - |
 | 1 | 1 | Alpha ++ | London | 伦敦 | 英国 | 🏛️ |
 | 2 | 1 | Alpha ++ | New York | 纽约 | 美国 |
 | 3 | 1 | Alpha + | Hong Kong | 香港 | 中国 |
