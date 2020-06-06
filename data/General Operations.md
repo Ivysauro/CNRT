@@ -11,7 +11,7 @@
  - [服务/ Service](#服务-Service)
    - [App](#App)
      - [功能/ General Functions](#功能-General-Functions)
-     - [城轨二维码互联互通/ City Rail QR Code Union](#城轨二维码互联互通-City-Rail-QR-Code-Union)
+     - [二维码互联互通/ QR Code in ONE App](#二维码互联互通-QR-Code-in-ONE-App)
    - [P+R](#P+R)
    - [车厢温度/ Temperature](#车厢温度-Temperature)
 - [设计/ Design](#设计-Design)
@@ -206,10 +206,11 @@
 | 徐州/ Xuzhou | 徐州地铁 | 地铁 | ✅ | ✅ | ✅ | 支付宝、微信、银联、苏宁 |
 | 呼和浩特/ Hohhot | 青城地铁 | 地铁 | | | ✅ |
 
-#### 城轨二维码互联互通/ City Rail QR Code Union
+### 二维码互联互通/ QR Code in ONE App
 
 在同一应用内聚合多个乘车码，且需开通并绑定当地支持的支付方式/ Just gather one more Transit QR Codes in one App, amd need apply first and bind a supported payment method
 
+#### 城轨二维码互联互通/ City Rail QR Code Union
 - 上海（Metro大都会）：杭州、宁波、温州、合肥、南京、苏州、无锡、南昌、青岛、徐州、兰州、厦门（BRT）
 - 杭州（杭州地铁）：上海、宁波、温州、合肥、南京、徐州
 - 合肥（合肥轨道）：上海、杭州、宁波、温州、南京
@@ -224,6 +225,11 @@
 - 青岛（青岛地铁）：上海
 - 兰州（兰州轨道）：上海、杭州、宁波、徐州
 - 计划中：昆明
+
+#### 华北地铁互联互通/ Northern China QR Code Union
+
+- 北京（亿通行）：呼和浩特
+- 呼和浩特（青城地铁）：北京
 
 ### P+R
 
