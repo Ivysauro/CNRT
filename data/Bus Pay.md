@@ -604,7 +604,7 @@
 
 | **辽宁/ Liaoning** | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
 | :- | :- | :-: | :-: | :-: | :-: | :-: | :-: | :- |
-| 沈阳/ Shenyang | 盛京通 | ✅ | ✅ | ✅ | ✅ | | ✅ | 盛京通 |
+| 沈阳/ Shenyang | 盛京通 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 盛京通 |
 | 大连/ Dalian | 大连明珠卡 | ✅ | | ✅ | | | | 亿通行(大连) |
 | 鞍山/ Anshan | 鞍山交运通 | ✅ | ✅ | ✅ | 🕓 | ✅ | | |
 | 抚顺/ Fushun | 抚顺城市通 | ✅ | ✅ | | ✅ | | ✅ | |
