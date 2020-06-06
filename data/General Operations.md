@@ -210,7 +210,8 @@
 
 在同一应用内聚合多个乘车码，且需开通并绑定当地支持的支付方式/ Just gather one more Transit QR Codes in one App, amd need apply first and bind a supported payment method
 
-#### 城轨二维码互联互通/ City Rail QR Code Union
+#### 城轨二维码互联互通体系（海派）/ City Rail QR Code Union
+
 - 上海（Metro大都会）：杭州、宁波、温州、合肥、南京、苏州、无锡、南昌、青岛、徐州、兰州、厦门（BRT）
 - 杭州（杭州地铁）：上海、宁波、温州、合肥、南京、徐州
 - 合肥（合肥轨道）：上海、杭州、宁波、温州、南京
@@ -226,7 +227,7 @@
 - 兰州（兰州轨道）：上海、杭州、宁波、徐州
 - 计划中：昆明
 
-#### 华北地铁互联互通/ Northern China QR Code Union
+#### 华北地铁二维码互联互通（京派）/ Northern China Rail QR Code Union
 
 - 北京（亿通行）：呼和浩特
 - 呼和浩特（青城地铁）：北京
