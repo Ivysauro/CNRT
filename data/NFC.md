@@ -50,28 +50,28 @@
 | 江苏交通一卡通·常州（龙城通） | ✅ | ✅ | | | | | ✅ | ✅ ||
 | 江苏交通一卡通·盐城（黄海通） | ✅ | ✅ | | | | | ✅ | ✅ ||
 | 江苏交通一卡通·南通（通城通） | ✅ | ✅ | ✅ | | | | | ✅ ||
-| 江苏交通一卡通·泰州 | | ✅💥 | | | | | | ✅ |
+| 江苏交通一卡通·泰州 | | ✅ | | | | | | ✅ |
 | 江苏交通一卡通·徐州（淮海通） | ✅ | ✅ | | | | | ✅ | ✅ ||
 | 江苏交通一卡通·淮安（江淮通） | | ✅ | | | | | | ✅ ||
 | 江苏交通一卡通·连云港 | ✅ | ✅ | | | | | ✅ | ✅ ||
 | 江苏交通一卡通·宿迁 | | ✅ | | | | | | ✅ ||
-| 宁波·甬城通# | | 🕓 | | | | | | ||
 | 绍兴一卡通# | | | | | | | ✅ | ✅ ||
 | 台州公共交通卡# | ✅ | | | | | ✅ | ✅ | ✅ ||
 | 合肥通 | 🕓 | | | | | | | ✅ ||
-| 厦门e通卡 | ✅ | | | | | | | ✅ | ✅ |
-| 赣州通 | | | | | | | | ✅💥 | ✅ | 
+| 厦门e通卡 | ✅ | 🕓 | | | | | | ✅ | ✅ |
+| 赣州通 | | | | | | | | ✅ | ✅ | 
 | 青岛·琴岛通# | ✅ | ✅ | ✅ | | | ✅ | ✅ | ✅ ||
-| 潍坊通# | | 🕓 ||||| ✅ |||
+| 烟台市民卡 | | 🕓 |
+| 潍坊通# | | ✅💥 ||||| ✅ |||
 | 河南·轩辕通 | | ✅ ||||||||
 | 十堰·车城通# | | | | | | | ✅ | ✅ ||
 | 长沙·潇湘卡 | ✅ | ✅ | | | | | ✅ | ✅ ||
-| 广东·岭南通 | ✅ | ✅ | | ✅💥 | ✅ | ✅ | ✅ | ✅ ||
+| 广东·岭南通 | ✅ | ✅ | | ✅ | ✅ | ✅ | ✅ | ✅ ||
 | 深圳通 | 🕓 | ✅ | | ✅ | | 🕓 | ✅ | ✅ ||
 | 珠海通# | | | | | ✅ | | ✅ | ✅ |
 | 广西交通一卡通（桂民卡） | ✅ | ✅ | | | ✅ | ✅ | ✅ | ✅ ||
 | 海南一卡通（海岛通） | ✅ | ✅ | | | | ✅ | ✅ | ✅ ||
-| 贵州通 | | ✅💥 ||||| ✅ |||
+| 贵州通 | | ✅ ||||| ✅ |||
 | 西藏一卡通 | | | | | | | | ✅ ||
 | 西安·长安通 | ✅ | | ✅ | | | ✅ | ✅ | ✅ | ✅ |
 | 榆林·驼城通 | | ✅ | | | | | | ✅ ||
@@ -87,8 +87,8 @@
 | 上海公共交通卡# | ✅ | ✅ | ✅ | ✅ | | ✅ | ✅ | ✅ ||
 | 苏州市民卡	| ❌ | ❌ ||||||||
 | 太仓市民卡# | | | | | | | ✅[^tco] |
-| 杭州通#	| ❌ | 🕓 ||||||||
-| 宁波·甬城通# | 🕓 | | | | | | ✅ | 🕓 ||
+| 杭州通#	| ❌ | ✅💥 ||||||||
+| 宁波·甬城通# | 🕓 | 🕓 | | | | | ✅ | 🕓 ||
 | 金华市民卡·八婺通# | | ✅ ||||| ✅ |||
 | 合肥通	| ✅ | ✅ | ✅ | | ✅ | ✅ | ✅ | ✅ ||
 | 厦门e通卡	| ✅ | ✅ | ✅ | | | ✅ | ✅ | ✅ ||
@@ -102,7 +102,7 @@
 | 成都·天府通	| 🕓 | 🕓[^cd] | | | | | 🕓[^cd] |||
 | 西安·长安通#	| ✅ | ✅ | | | ✅ | | | ✅ ||
 | 乌鲁木齐·红山通# | | | | | | | | | ✅ |
-| 香港·八达通 | | | ✅ | ✅💥 ||||||
+| 香港·八达通 | | | ✅ | ✅ ||||||
 | 台北·悠游卡 | | | ✅[^yy] |
 | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/OnePlus.png" width="25" hegiht="25" alt="OnePlus"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/>  | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/vivo.png" width="40" hegiht="40" alt="vivo"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Mini Program.png" width="25" hegiht="25" alt="WeChat Transit Card"/> |
 
