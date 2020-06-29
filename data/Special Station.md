@@ -178,11 +178,12 @@
 - 机场（T5）（机场城际，2019.9-）
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hz.gif" width="20" hegiht="20"/>杭州
-- 下宁桥（2号线，2017.7-）
-- 老余杭、宝善桥、火车南站（5号线，2020.4-）
+- 老余杭、宝善桥（5号线，2020.4-）
 - ~~火车东站~~（1号线，2012.11-2013.6）
 - ~~新塘~~（4号线，2015.2-2015.6）
 - ~~联庄~~（4号线，2018.1-2018.6）
+- ~~下宁桥~~（2号线，2017.7-2020.6）
+- ~~火车南站~~（5号线，2020.4-2020.6）
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hrb.gif" width="20" hegiht="20"/>哈尔滨
 - ~~博物馆~~（1号线，2013.9-2014.9）
