@@ -8,12 +8,14 @@
 | - | - | - | - | - |
 |  | 北京/ Beijing | 北京/ Beijing/ BJP | 北京局/ CR Beijing | 北京站/ Beijing RS |
 |  | 北京/ Beijing | 北京北/ Beijingbei/ VAP | 北京局/ CR Beijing | 西直门/ XIZHIMEN |
+|  | 北京/ Beijing | *北京朝阳（星火）/ Beijingchaoyang (Xihuo)/ XUP* | 北京局/ CR Beijing | 🏗星火站/ Xinghuo RS |
 | 👟~1.2km | 北京/ Beijing | 北京大兴/ Beijingdaxing/ IPP | 北京局/ CR Beijing | 黄村火车站/ HUANGCUN RS |
 |  | 北京/ Beijing | 北京东/ Beijingdong/ BOP | 北京局/ CR Beijing | 🏗北京东站/ Beijing East RS |
 |  | 北京/ Beijing | 北京南/ Beijingnan/ VNP | 北京局/ CR Beijing | 北京南站/ Beijing South RS |
 |  | 北京/ Beijing | 北京西/ Beijingxi/ BXP | 北京局/ CR Beijing | 北京西站/ Beijing West RS |
 | 👟~1.3km | 北京/ Beijing | 昌平北/ Changpingbei/ VBP | 北京局/ CR Beijing | 昌平/ CHANGPING |
 |  | 北京/ Beijing | 大兴机场/ Daxing Airport/ IWP | 北京局/ CR Beijing | 大兴机场/ Daxing Airport |
+|  | 北京/ Beijing | *丰台/ Fengtai/ FTP* | 北京局/ CR Beijing | 丰台站/ FENGTAI RS |
 |  | 北京/ Beijing | 黄村/ Huangcun/ HCP | 北京局/ CR Beijing | 黄村火车站/ HUANGCUN RS |
 | 👟~500m | 北京/ Beijing | 黄土店/ Huangtudian/ HKP | 北京局/ CR Beijing | 霍营/ HUOYING |
 |  | 北京/ Beijing | 清河/ Qinghe/ QIP | 北京局/ CR Beijing | 清河/ Qing He |
@@ -29,7 +31,6 @@
 |  | 北京/ Beijing | 🏗北京城市副中心/ Beijingchengshifuzhongxin | 北京局/ CR Beijing | 🏗副中心站/ Fuzhongxin RS |
 |  | 北京/ Beijing | 🏗首都机场/ Capital Airport | 北京局/ CR Beijing | 3号航站楼/ Terminal 3 |
 |  | 北京/ Beijing | 🏗大兴新城/ Daxingxincheng | 北京局/ CR Beijing | 大兴新城/ Daxing Xincheng |
-|  | 北京/ Beijing | 🏗丰台/ Fengtai/ FTP | 北京局/ CR Beijing | 丰台站/ FENGTAI RS |
 |  | 北京/ Beijing | 🏗广阳城/ Guangyangcheng | 北京局/ CR Beijing | 广阳城/ GUANGYANGCHENG |
 |  | 北京/ Beijing | 🏗海子角/ Haizijiao | 北京局/ CR Beijing | 🏗海子角/ Haizi Jiao |
 |  | 北京/ Beijing | 🏗后辛庄/ Houxinzhuang | 北京局/ CR Beijing | 🏗后辛庄/ Houxin Zhuang |
@@ -39,7 +40,6 @@
 |  | 北京/ Beijing | 🏗立水桥/ Lishuiqiao | 北京局/ CR Beijing | 立水桥/ LISHUIQIAO |
 |  | 北京/ Beijing | 🏗南法信/ Nanfaxin | 北京局/ CR Beijing | 南法信/ NANFAXIN |
 |  | 北京/ Beijing | 🏗四惠东/ Sihuidong | 北京局/ CR Beijing | 四惠东/ SIHUI East |
-|  | 北京/ Beijing | 🏗星火/ Xihuo/ XUP | 北京局/ CR Beijing | 🏗星火站/ Xinghuo RS |
 |  | 北京/ Beijing | 🏗亦庄东/ Yizhuangdong | 北京局/ CR Beijing | 🏗亦庄东站/ Yizhuang East RS |
 |  | 廊坊/ Langfang | 燕郊/ Yanjiao/ AJP | 北京局/ CR Beijing | 🏗燕郊/ Yanjiao |
 |  | 石家庄/ Shijiazhuang | 石家庄/ Shijiazhuang/ SJP | 北京局/ CR Beijing | 石家庄站/ SHIJIAZHUANGNAN |
@@ -153,7 +153,7 @@
 |  | 滁州/ Chuzhou | 滁州/ Chuzhou/ CXH | 上海局/ CR Shanghai | 🏗滁洲站/ CHUZHOU RAILWAY STATION |
 |  | 杭州/ Hangzhou | 杭州/ Hangzhou/ HZH | 上海局/ CR Shanghai | 城站/ Chengzhan |
 |  | 杭州/ Hangzhou | 杭州东/ Hangzhoudong/ HGH | 上海局/ CR Shanghai | 火车东站/ East RS |
-|  | 杭州/ Hangzhou | *杭州南/ Hangzhounan/ XHH* | 上海局/ CR Shanghai | 🏗火车南站/ South RS |
+|  | 杭州/ Hangzhou | 杭州南/ Hangzhounan/ XHH | 上海局/ CR Shanghai | 火车南站/ South RS |
 |  | 杭州/ Hangzhou | 余杭/ Yuhang/ EVH | 上海局/ CR Shanghai | 余杭高铁/ Yuhang Hi-RS |
 |  | 杭州/ Hangzhou | 🏗杭州西/ Hangzhouxi | 上海局/ CR Shanghai | 🏗火车西站/ West RS |
 |  | 杭州/ Hangzhou | 🏗萧山机场/ Xiaoshan Airport | 上海局/ CR Shanghai | 🏗萧山机场/ Xiaoshan Airport |
