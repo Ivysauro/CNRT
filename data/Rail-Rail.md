@@ -173,7 +173,7 @@
 |  | 南京/ Nanjing | 🏗紫金山东/ Zijinshandong | 上海局/ CR Shanghai | 金马路/ JINMALU |
 |  | 南通/ Nantong | 南通/ Nantong/ NUH | 上海局/ CR Shanghai | 🏗南通火车站/ Nantong RS |
 |  | 南通/ Nantong | 🏗南通东/ Nantongdong/ NWH | 上海局/ CR Shanghai | 🏗南通东站/ Nantong East RS |
-|  | 南通/ Nantong | 🏗南通西/ Nantongxi | 上海局/ CR Shanghai | 🏗南通西站/ Nantong West RS |
+|  | 南通/ Nantong | 南通西/ Nantongxi/ NXU | 上海局/ CR Shanghai | 🏗南通西站/ Nantong West RS |
 |  | 宁波/ Ningbo | 宁波/ Ningbo/ NGH | 上海局/ CR Shanghai | 宁波火车站/ Ningbo RS |
 |  | 宁波/ Ningbo | 庄桥/ Zhuangqiao/ ZQH | 上海局/ CR Shanghai | 🏗庄桥火车站/ Zhuangqiao RS |
 |  | 上海/ Shanghai | 上海/ Shanghai/ SHH | 上海局/ CR Shanghai | 上海火车站/ Shanghai RS |
