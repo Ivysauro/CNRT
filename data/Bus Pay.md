@@ -272,7 +272,7 @@
 | 咸宁/ Xianning | 咸宁交通一卡通 | ✅ | | ✅ | | | | |
 | 随州/ Suizhou | 随州交通一卡通 | ✅ | | ✅ | | | ✅ | 乐都行、美团 |
 | **湖南/ Hunan** | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay NFC.png" width="40" hegiht="40" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay QR.png" width="40" hegiht="40" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
-| 长沙/ Changsha | 潇湘卡 | ✅ | | ✅ | | | | 湘行一卡通、长沙地铁、和包支付、闪客蜂 |
+| 长沙/ Changsha | 潇湘卡 | ✅ | | ✅ | | ✅ | | 湘行一卡通、长沙地铁、和包支付、闪客蜂 |
 | 株洲/ Zhuzhou | 株洲交通一卡通 | ✅ | ✅ | ✅ | | | ✅ | |
 | 湘潭/ Xiangtan | 湘潭交通一卡通 | ✅ | ✅ | ✅ | | ✅ | ✅ | 湘潭出行 |
 | 衡阳/ Hengyang | 衡阳交通一卡通 | ✅ | ✅ | ✅ | ✅ | ✅ | | |
@@ -302,7 +302,7 @@
 | 河源/ Heyuan | 岭南通 | ✅ | ✅ | ✅ | ✅ | | ✅ | 美团 |
 | 阳江/ Yangjiang | 岭南通、漠江通 | ✅ | ✅ | ✅ | ✅ | | ✅ | |
 | 清远/ Qingyuan | 岭南通、广达通 | ✅ | ✅ | ✅ | ✅ | | ✅ | 美团 |
-| 东莞/ Dongguan | 岭南通、东莞通 | ✅ | ✅ | ✅ | ✅ | | | 东莞通 |
+| 东莞/ Dongguan | 岭南通、东莞通 | ✅ | ✅ | ✅ | ✅ | ✅ | | 东莞通 |
 | 中山/ Zhongshan | 岭南通、中山通 | ✅ | ✅ | ✅ | ✅ | | ✅ | 翼支付 |
 | 潮州/ Chaozhou | 岭南通、韩江通 | ✅ | ✅ | ✅ | | | | |
 | 揭阳/ Jieyang | 岭南通、榕江通 | ✅ | ✅ | ✅ | ✅ | | ✅ | |
@@ -605,7 +605,7 @@
 | **辽宁/ Liaoning** | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
 | :- | :- | :-: | :-: | :-: | :-: | :-: | :-: | :- |
 | 沈阳/ Shenyang | 盛京通 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 盛京通 |
-| 大连/ Dalian | 大连明珠卡 | ✅ | | ✅ | | | | 亿通行(大连) |
+| 大连/ Dalian | 大连明珠卡 | ✅ | | ✅ | | ✅ | | 亿通行(大连) |
 | 鞍山/ Anshan | 鞍山交运通 | ✅ | ✅ | ✅ | 🕓 | ✅ | | |
 | 抚顺/ Fushun | 抚顺城市通 | ✅ | ✅ | | ✅ | | ✅ | |
 | 本溪/ Benxi | 本溪公交卡 | ✅ | | | | | | |
@@ -683,7 +683,7 @@
 | 宿州/ Suzhou, Anhui | 宿州交通一卡通 | ✅ | ✅ | | | | ✅ | |
 | 滁州/ Chuzhou | 滁州交通一卡通 | ✅ | ✅ | ✅ | 🕓 | | ✅ | |
 | 六安/ Lu'an | 六安交通一卡通 | ✅ | ✅ | ✅ | | | ✅ | |
-| 宣城/ Xuancheng | 宣城交通一卡通 | ✅ | 🕓 | ✅ | 🕓 | | | 美团 |
+| 宣城/ Xuancheng | 宣城交通一卡通 | ✅ | 🕓 | ✅ | 🕓 | ✅ | | 美团 |
 | 池州/ Chizhou | 池州交通一卡通 | ✅ | ✅ | | ✅ | | ✅ | |
 | 亳州/ Bozhou | 亳州交通一卡通 | ✅ | ✅ | ✅ | ✅ | | ✅ | 亳州掌上公交 |
 | **福建/ Fujian** | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
@@ -843,7 +843,7 @@
 | 宜宾/ Yibin | 宜宾交通一卡通 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 翼支付 |
 | 广安/ Guang'an | 广安交通一卡通 | ✅ | ✅ | ✅ | | 🕓 | ✅ | 广安公交二维码 |
 | 达州/ Dazhou | 达州通 | ✅ | ✅ | ✅ | | | ✅ | 达州通 |
-| 雅安/ Ya'an | 雅安交通一卡通 | ✅ | ✅ | | | | ✅ | |
+| 雅安/ Ya'an | 雅安交通一卡通 | ✅ | ✅ | | | ✅ | ✅ | |
 | 巴中/ Bazhong | 巴中交通一卡通 | ✅ | ✅ | ✅ | | | ✅ | 美团 |
 | 资阳/ Ziyang | 资阳交通一卡通 | ✅ | | | | | | 天府通 |
 | **贵州/ Guizhou** | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Quickpass.png" width="60" hegiht="60" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
