@@ -82,7 +82,7 @@
 | 廊坊/ Langfang | 河北交通一卡通 | ✅ | ✅ | ✅ | | | ✅ | 廊坊行 |
 | 衡水/ Hengshui | 河北交通一卡通 | ✅ | ✅ | | ✅ | ✅ | ✅ | |
 | **山西/ Shanxi** | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay NFC.png" width="40" hegiht="40" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay QR.png" width="40" hegiht="40" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
-| 太原/ Taiyuan | 太原交通一卡通 | ✅ | ✅ | ✅ | | | ✅ | 太原公交 |
+| 太原/ Taiyuan | 太原交通一卡通 | ✅ | ✅ | ✅ | ✅ | | ✅ | 太原公交 |
 | 大同/ Datong | 大同交通一卡通 | ✅ | | ✅ | | | | |
 | 阳泉/ Yangquan | 阳泉交通一卡通 | ✅ | ✅ | | | | | 阳泉公交在线、美团 |
 | 长治/ Changzhi | 长治交通一卡通 | ✅ | ✅ | ✅ | ✅ | | ✅ | 长治公交通 |
