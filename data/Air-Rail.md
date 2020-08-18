@@ -68,7 +68,7 @@
 | 🚕~8km | 佳木斯东郊/ Jiamusi Dongjiao/ JMU | 东北-沈阳/ ZYJM | 佳木斯/ Jiamusi/ JMB | 哈尔滨局/ CR Harbin-哈佳线 |
 | 🚕~8km | 安庆天柱山/ Anqing Tianzhushan/ AQG | 华东-上海/ ZSAQ | 安庆/ Anqing/ AQH | 上海局/ CR Shanghai-宁安城际线 |
 | 🚕~8km | 潍坊南苑/ Weifang Nanyuan/ WEF | 华东-上海/ ZSWF | 潍坊/ Weifang/ WFK | 济南局/ CR Jinan-胶济客专线 |
-| 🚕~9km | 澳门/ Macao/ MFM | 中南-香港/ VMMC | 横琴/ Hengqin | 广州局/ CR Guangzhou-珠机城际线 |
+| 🚕~9km | 澳门/ Macao/ MFM | 中南-香港/ VMMC | 横琴/ Hengqin/ HQA | 广州局/ CR Guangzhou-珠机城际线 |
 | 🚕~10km | 大连周水子/ Dalian Zhoushuizi/ DLC | 东北-沈阳/ ZYTL | 大连/ Dalian/ DLT | 沈阳局/ CR Shenyang-沈大高速线 |
 | 🚕~10km | 厦门高崎/ Xiamen Gaoqi/ XMN | 华东-上海/ ZSAM | 厦门/ Xiamen/ XMS | 南昌局/ CR Nanchang-杭深线 |
 | 🚕~10km | 赣州黄金/ Ganzhou Huangjin/ KOW | 华东-上海/ ZSGZ | 赣州西/ Ganzhouxi/ GOG | 南昌局/ CR Nanchang-京港高速线 |
