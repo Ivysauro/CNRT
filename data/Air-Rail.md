@@ -59,6 +59,7 @@
 | 🚕~5km | 包头东河/ Baotou Donghe/ BAV | 华北-北京/ ZBOW | 包头东/ Baotoudong/ BDC | 呼和浩特局/ CR Hohhot-京包客专线 |
 | 🚕~5km | 义乌/ Yiwu/ YIW | 华东-上海/ ZSYW | 义乌/ Yiwu/ YWH | 上海局/ CR Shanghai-沪昆高速线 |
 | 🚕~6km | 呼和浩特白塔/ Hohhot Baita/ HET | 华北-北京/ ZBHH | 呼和浩特东/ Huhehaotedong/ NDC | 呼和浩特局/ CR Hohhot-京包客专线、呼鄂线 |
+| 🚕~6km | 赣州黄金/ Ganzhou Huangjin/ KOW | 华东-上海/ ZSGZ | 赣州西/ Ganzhouxi/ GOG | 南昌局/ CR Nanchang-京港高速线 |
 | 🚕~6km | 台北松山/ Taipei Songshan/ TSA | 华东-台北/ RCSS | 台北/ Taipei/ TPE  | 台铁/ TRA-台湾纵贯线、台湾高速线 |
 | 🚕~6km | 信阳明港/ Xinyang Minggang/ XAI | 中南-武汉/ ZHXY | 明港东/ Minggangdong/ MDN | 武汉局/ CR Wuhan-京广高速线 |
 | 🚕~6km | 西宁曹家堡/ Xining Caojiapu/ XNN | 西北-兰州/ ZLXN | 海东西/ Haidongxi/ HDO | 青藏公司/ CR Qingzang-兰新客专线 |
@@ -71,7 +72,6 @@
 | 🚕~9km | 澳门/ Macao/ MFM | 中南-香港/ VMMC | 横琴/ Hengqin/ HQA | 广州局/ CR Guangzhou-珠机城际线 |
 | 🚕~10km | 大连周水子/ Dalian Zhoushuizi/ DLC | 东北-沈阳/ ZYTL | 大连/ Dalian/ DLT | 沈阳局/ CR Shenyang-沈大高速线 |
 | 🚕~10km | 厦门高崎/ Xiamen Gaoqi/ XMN | 华东-上海/ ZSAM | 厦门/ Xiamen/ XMS | 南昌局/ CR Nanchang-杭深线 |
-| 🚕~10km | 赣州黄金/ Ganzhou Huangjin/ KOW | 华东-上海/ ZSGZ | 赣州西/ Ganzhouxi/ GOG | 南昌局/ CR Nanchang-京港高速线 |
 | 🚕~10km | 百色巴马/ Baise Bama/ AEB | 中南-广州/ ZGBS | 田阳/ Tianyang/ TRZ | 南宁局/ CR Nanning-南昆客专线 |
 | 🚕~10km | 怀化芷江/ Huaihua Zhijiang/ HJJ | 中南-广州/ ZGCJ | 芷江/ Zhijiang/ ZPQ | 广州局/ CR Guangzhou-沪昆高速线 |
 
