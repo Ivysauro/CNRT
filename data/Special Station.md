@@ -2,6 +2,7 @@
 
 ## 目录
 - [功能](#功能)
+  - [新增](#新增)
   - [关闭](#关闭)
     - [废弃](#废弃)
     - [迁址](#迁址)
@@ -26,6 +27,11 @@
 - [参考资料](#参考资料)
 
 ## 功能
+
+### 新增
+
+- 清河（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，13号线，2019.12）
+- 陈翔公路（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，11号线，2020.8）
 
 ### 关闭
 
@@ -164,6 +170,7 @@
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sz.gif" width="20" hegiht="20"/>深圳
 - 福邻（7号线，2016.10-）
+- 岗厦北（10号线，2020.8-）
 - ~~皇岗~~（4号线，2004.12-2007.6）
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nj.gif" width="20" hegiht="20"/>南京
