@@ -32,7 +32,7 @@
 | 卡名称/ Card Name | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/OnePlus.png" width="25" hegiht="25" alt="OnePlus"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/>  | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/vivo.png" width="40" hegiht="40" alt="vivo"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Mini Program.png" width="25" hegiht="25" alt="WeChat Transit Card"/> |
 | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 京津冀互联互通卡 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ ||
-| 天津城市卡# | ✅ | ✅ | | ✅💥 | | | ✅ | ✅ ||
+| 天津城市卡# | ✅ | ✅ | | ✅ | | | ✅ | ✅ ||
 | 河北交通一卡通	| | ✅ | ✅ | | | | ✅ | ✅ | ✅ |
 | 石家庄一卡通 | ✅ | ✅ | | | ✅ | ✅ | ✅ | ✅ ||
 | 邯郸市民卡（邯郸通）# | | ✅ ||||||||
@@ -65,7 +65,7 @@
 | 潍坊通# | | ✅ ||||| ✅ |||
 | 河南·轩辕通 | | ✅ ||||||||
 | 十堰·车城通# | | | | | | | ✅ | ✅ ||
-| 长沙·潇湘卡 | ✅ | ✅ | | | ✅💥 | | ✅ | ✅ ||
+| 长沙·潇湘卡 | ✅ | ✅ | | ✅💥 | ✅ | | ✅ | ✅ ||
 | 广东·岭南通 | ✅ | ✅ | | ✅ | ✅ | ✅ | ✅ | ✅ ||
 | 深圳通 | ✅ | ✅ | | ✅ | ✅ | 🕓 | ✅ | ✅ ||
 | 珠海通# | | | | | ✅ | | ✅ | ✅ |
@@ -99,7 +99,7 @@
 | 广州·羊城通	| | ✅ | | | | | | ||
 | 深圳通	| ✅ | ✅ | ✅ | | ✅ | ✅ | ✅ | |||
 | 重庆·宜居畅通卡	| ✅ | ✅ | | | ✅ | ✅ | ✅ | ✅ ||
-| 成都·天府通	| ✅💥 | ✅ | | | | | 🕓[^cd] |||
+| 成都·天府通	| ✅ | ✅ | | | | | 🕓[^cd] |||
 | 西安·长安通#	| ✅ | ✅ | | | ✅ | | | ✅ ||
 | 乌鲁木齐·红山通# | | | | | | | | | ✅ |
 | 香港·八达通 | | | ✅ | ✅ ||||||
