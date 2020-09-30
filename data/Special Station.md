@@ -228,7 +228,7 @@
 - 裴家营（3号线，2019.12-）
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/lz.gif" width="20" hegiht="20"/>兰州
-- 省政府（1号线，2019.6-）
+- ~~省政府~~（1号线，2019.6-2020.9）
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/mo.gif" width="20" hegiht="20"/>澳门
 - 莲花圆形地（氹仔线，2019.12-）
