@@ -120,7 +120,7 @@
 |  | 哈尔滨/ Harbin | 哈尔滨西/ Haerbinxi/ VAB | 哈尔滨局/ CR Harbin | 哈尔滨西站/ Harbinxizhan |
 |  | 哈尔滨/ Harbin | 🏗哈尔滨南/ Haerbinan | 哈尔滨局/ CR Harbin | 哈尔滨南站/ Harbin South RS |
 |  | 台中/ Taichung | 大庆/ Daqing/ DZX | 哈尔滨局/ CR Harbin | 🏗大庆/ Daqing |
-|  | 呼和浩特/ Hohhot | 呼和浩特/ Huhehaote/ HHC | 呼和浩特局/ CR Hohhot | 🏗呼和浩特站/ Hohhot RS |
+|  | 呼和浩特/ Hohhot | 呼和浩特/ Huhehaote/ HHC | 呼和浩特局/ CR Hohhot | 呼和浩特站/ Hohhot RS |
 |  | 呼和浩特/ Hohhot | 呼和浩特东/ Huhehaotedong/ NDC | 呼和浩特局/ CR Hohhot | 呼和浩特东站/ Hohhot East RS |
 |  | 济南/ Jinan | 济南东/ Jinandong/ MDK | 济南局/ CR Jinan | 济南东站/ JINANDONG RAILWAY STATION |
 |  | 济南/ Jinan | 济南西/ Jinanxi/ JGK | 济南局/ CR Jinan | 济南西站/ JINAN WEST RAILWAY STATION |
