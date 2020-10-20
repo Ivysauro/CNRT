@@ -61,7 +61,7 @@
 | 天津/ Tianjin | 天津城市卡 | ✅ | ✅ | ✅ | ✅ | ✅ | | |
 | 上海/ Shanghai | 上海公共交通卡 | ✅ | | ✅ | ✅ | ✅ | | 上海一卡通 |
 | 重庆/ Chongqing | 宜居畅通卡、重庆交运通 | 🕓[^cq] | ✅ | ✅ | ✅ | ✅ | | 重庆市民通 |
-| 香港/ Hong Kong | 八达通 | | | ⭕[^hk] | | | | |
+| 香港/ Hong Kong | 八达通 | | | ⭕[^hk] | | ⭕️ | | |
 | 澳门/ Macao | 澳门通 | | ⭕[^mo] | | | | | 澳门通、上海公共交通卡[^mo2] |
 
 ### 省和自治区管辖城市/ Cities in Province or Autonomous Region
