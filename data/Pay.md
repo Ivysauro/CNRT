@@ -52,7 +52,7 @@
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/suz.gif" width="20" hegiht="20"/>苏州/ Suzhou | ✅ | | | | | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/km.gif" width="20" hegiht="20"/>昆明/ Kunming | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hz.gif" width="20" hegiht="20"/>杭州/ Hangzhou | ✅ | ✅ | ✅ | | ✅ | ✅ | |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hrb.gif" width="20" hegiht="20"/>哈尔滨/ Harbin | ⭕[^hrb1] | ⭕[^hrb2] | ✅ | ✅ | ✅ | ✅ | |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hrb.gif" width="20" hegiht="20"/>哈尔滨/ Harbin | ✅[^hrb1] | ⭕[^hrb2] | ✅ | ✅ | ✅ | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/zz.gif" width="20" hegiht="20"/>郑州/ Zhengzhou | ✅ | | ✅ | ✅ | ✅ | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cs.gif" width="20" hegiht="20"/>长沙/ Changsha[^ccs] | ✅ | | | | | ✅ | 和包支付、闪客蜂 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nb.gif" width="20" hegiht="20"/>宁波/ Ningbo | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | |
@@ -87,7 +87,7 @@
 
 [^gz]: 广州：银联闪付仅支持[信用卡](http://cs.gzmtr.com/ckfw/pwzy/201811/t20181106_60161.htm)和招行借记卡（APM无此限制）/ Only [credit card](http://cs.gzmtr.com/ckfw/pwzy/201811/t20181106_60161.htm) and CMB debit card accepted in Quickpass (APM accept all cards)
 
-[^hrb1]: 哈尔滨：交通联合采用[专版黑名单](https://www.zhihu.com/question/312911617)/ [Special Blacklist](https://www.zhihu.com/question/312911617) in T-Union
+[^hrb1]: 哈尔滨：发卡地区为北京的交通联合卡时不时进入黑名单/ Sometimes Beijing T-Union Transit Card may in Black List
 
 [^hrb2]: 哈尔滨：银联闪付仅支持工行、交行、广发、浦发、邮储借记卡信用卡和招商银行借记卡/ Only CMB debit card and ICBC, COM, CGB, SPDB, CPG debit or credit cards accepted in Qucikpass
 
