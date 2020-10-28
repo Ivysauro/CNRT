@@ -198,9 +198,9 @@
 |  | 温州/ Wenzhou | 温州南/ Wenzhounan/ VRH | 上海局/ CR Shanghai | 动车南/ South RS |
 |  | 无锡/ Wuxi | 无锡/ Wuxi/ WXH | 上海局/ CR Shanghai | 无锡火车站/ Wuxi RS |
 |  | 无锡/ Wuxi | 无锡东/ Wuxidong/ WGH | 上海局/ CR Shanghai | 无锡东站/ Wuxidong RS |
-|  | 无锡/ Wuxi | 无锡新区/ Wuxixinqu/ IFH | 上海局/ CR Shanghai | 🏗无锡新区/ Chengji Xinqu |
+|  | 无锡/ Wuxi | 无锡新区/ Wuxixinqu/ IFH | 上海局/ CR Shanghai | 无锡新区/ Wuxi New District Station |
 |  | 芜湖/ Wuhu | 芜湖/ Wuhu/ WHH | 上海局/ CR Shanghai | 🏗芜湖火车站/ Wuhu RS |
-|  | 芜湖/ Wuhu | 弋江/ Yijiang/ RVH | 上海局/ CR Shanghai | 🏗弋江站/ Yijiang RS |
+|  | 芜湖/ Wuhu | 芜湖南/ Wuhunan/ RVH | 上海局/ CR Shanghai | 🏗弋江站/ Yijiang RS |
 |  | 徐州/ Xuzhou | 徐州/ Xuzhou/ XCH | 上海局/ CR Shanghai | 徐州火车站/ Xuzhou RS |
 |  | 徐州/ Xuzhou | 徐州东/ Xuzhoudong/ UUH | 上海局/ CR Shanghai | 徐州东站/ Xuzhoudong RS |
 |  | 扬州/ Yangzhou | 扬州/ Yangzhou/ YLH | 上海局/ CR Shanghai | 🏗扬州站/ YANGZHOU RAILWAY STATION |
