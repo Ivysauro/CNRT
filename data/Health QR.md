@@ -18,16 +18,16 @@
 | 河北/ Hebei | 河北健康码 | 🔵 | 🟢 | | |
 | 山西/ Shanxi | 山西健康码 | 🔵 | | 🔴 | |
 | 内蒙古/ Nei Mongol | 内蒙古健康码 | | 🟢 | | 蒙速办 |
-| 辽宁/ Liaoning | 
-| 吉林/ Jilin | 
-| 黑龙江/ Heilongjiang | 
-| 上海/ Shanghai | 
-| 江苏/ Jiangsu | 
-| 浙江/ Zhejiang | 
-| 安徽/ Anhui | 
-| 福建/ Fujian | 
-| 江西/ Jiangxi | 
-| 山东/ Shandong | 
+| 辽宁/ Liaoning | 辽事通健康通行码 | | | 🔴 | 辽事通 |
+| 吉林/ Jilin | 吉祥码 | | 🟢 | | |
+| 黑龙江/ Heilongjiang | 龙江健康码 | | 🟢 | | |
+| 上海/ Shanghai | 随申码 | 🔵 | 🟢 | 🔴 | |
+| 江苏/ Jiangsu | 苏康码 | 🔵 | | 🔴 | 江苏政务服务 |
+| 浙江/ Zhejiang | 浙江健康码 | 🔵 | | 🔴 | 浙里办 |
+| 安徽/ Anhui | 安康码 | 🔵 | | ➖[^ah] | 皖事通 |
+| 福建/ Fujian | 八闽健康码 | | | | 闵政通 |
+| 江西/ Jiangxi | 赣通码 | 🔵 | | 🔴 | |
+| 山东/ Shandong | 山东省健康通行码 | 🔵 | 🟢 | 🔴 | 爱山东 |
 | 河南/ Henan | 
 | 湖北/ Hubei | 
 | 湖南/ Hunan | 
@@ -47,3 +47,5 @@
 | 香港/ Hong Kong | 
 | 澳门/ Macao | 
 | 台湾/ Taiwan | 
+
+[^ah]: 云闪付不支持申领“安康码”，仅支持展示
