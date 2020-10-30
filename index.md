@@ -2,6 +2,8 @@
 
 ## 目录/ Content 📖
 
+- [各省电子健康证明申领支持情况/ Support Circumenstance for Applying Digital Health Certificate of Provincial Administrative Regions](https://ivysauro.github.io/CNRT/data/Health%20QR)
+
 ### 乘客向/ For Passengers 👨‍🚀👩‍🚀
 - [轨道交通支付方式/ Payment Methods for Rail Transit](https://ivysauro.github.io/CNRT/data/Pay)
 - [地面公交支付方式/ Payment Methods for Bus](https://ivysauro.github.io/CNRT/data/Bus%20Pay)
