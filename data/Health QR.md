@@ -2,6 +2,8 @@
 
 排序方式为[省份区划代码](https://www.zhihu.com/question/47054184/answer/364140115) / Rank by [Province Code](https://www.zhihu.com/question/47054184/answer/364140115)
 
+港澳台数据暂缺/ No data of Hong Kong, Macao and Taiwan so far 
+
 ## 图例/ Lengend
 
 | 图标/ Icon | 中文/ Chinese | 英文/ English |
@@ -29,23 +31,22 @@
 | 江西/ Jiangxi | 赣通码 | 🔵 | | 🔴 | |
 | 山东/ Shandong | 山东省健康通行码 | 🔵 | 🟢 | 🔴 | 爱山东 |
 | 河南/ Henan | 河南健康码 | 🔵 | 🟢 | | |
-| 湖北/ Hubei | 湖北健康码 | 🔵 | 🟢 | | 鄂汇办 |
+| 湖北/ Hubei | 湖北健康码 | 🔵 | 🟢 | 🔴 | 鄂汇办 |
 | 湖南/ Hunan | 湖南健康码 | 🔵 | 🟢 | 🔴 | |
 | 广东/ Guangdong | 粤康码 | | 🟢 | 🔴 | |
 | 广西/ Guangxi | 广西健康码 | 🔵 | 🟢 | 🔴 | 爱广西、广西云、壮观、八桂彩云、桂建通 |
 | 海南/ Hainan | 海南健康码 | 🔵 | 🟢 | 🔴 | 海南政务服务 |
-| 重庆/ Chongqing | 
-| 四川/ Sichuan | 
-| 贵州/ Guizhou | 
-| 云南/ Yunnan | 
-| 西藏/ Xizang | 
-| 陕西/ Shaanxi | 
-| 甘肃/ Gansu | 
-| 青海/ Qinghai | 
-| 宁夏/ Ningxia | 
-| 新疆/ Xinjiang | 
-| 香港/ Hong Kong | 
-| 澳门/ Macao | 
-| 台湾/ Taiwan | 
+| 重庆/ Chongqing | 渝康码 | | 🟢 | 🔴| 重庆12320健康云 |
+| 四川/ Sichuan | 四川健康码 | 🔵 | 🟢 | | |
+| 贵州/ Guizhou | 贵州健康码 | | 🟢 | 🔴 | |
+| 云南/ Yunnan | 云南健康码 | 🔵 | | 🔴 | 一部手机办事通、一部手机游云南 |
+| 西藏/ Xizang | 西藏健康码 | | 🟢 | ➖[^xz] | |
+| 陕西/ Shaanxi | 陕西健康码 | | 🟢 | ➖[^sx] | **网页**、健康陕西公众服务 |
+| 甘肃/ Gansu | 甘肃健康出行码 | | 🟢 | 🔴 | 健康甘肃 |
+| 青海/ Qinghai | 青海信用健康码 | | 🟢 | 🔴 | |
+| 宁夏/ Ningxia | 宁修健康码 | | | | 我的宁夏 |
+| 新疆/ Xinjiang | 新疆健康通行码 | | | | 新疆政务服务 |
 
 [^ah]: 云闪付不支持申领“安康码”，仅支持展示
+[^xz]: 云闪付仅支持“拉萨健康登记”
+[^sx]: 云闪付仅支持“西安一码通”
