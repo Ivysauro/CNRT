@@ -6,18 +6,18 @@
 
 | 图标/ Icon | 中文/ Chinese | 英文/ English |
 | :-: | :- | :- |
-| ✅ | 支持 | Full Support |
-| ⭕ | 有条件的支持（参加备注） | Conditional Support (See Notes) |
+| ⚪ | 支持 | Full Support |
+| ➖ | 有条件的支持（参加备注） | Conditional Support (See Notes) |
 
 ## 主表/ Main Content
 
 | 省级行政区/ Provincial Administrative Region | 健康证明名称/ Name of Health Certificate | 支付宝/ Alipay | 微信/ WeChat | 云闪付/ Unionpay App | 其他/ Additional Apps |
 | :- | :- | :-: | :-: | :-: | :- |
-| 北京/ Beijing | 
-| 天津/ Tianjin | 
-| 河北/ Hebei | 
-| 山西/ Shanxi | 
-| 内蒙古/ Nei Mongol | 
+| 北京/ Beijing | 北京健康码 | 🔵 | 🟢 | | |
+| 天津/ Tianjin | 天津健康码 | 🔵 | 🟢 | | 津心办 |
+| 河北/ Hebei | 河北健康码 | 🔵 | 🟢 | | |
+| 山西/ Shanxi | 山西健康码 | 🔵 | | 🔴 | |
+| 内蒙古/ Nei Mongol | 内蒙古健康码 | | 🟢 | | 蒙速办 |
 | 辽宁/ Liaoning | 
 | 吉林/ Jilin | 
 | 黑龙江/ Heilongjiang | 
