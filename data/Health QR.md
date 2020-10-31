@@ -6,6 +6,12 @@
 
 ## 图例/ Lengend
 
+| 标识/ Logo | 中文/ Chinese | 英文/ English |
+| :-: | :- | :- |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay"/> | 支付宝 | Alipay |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat.png" width="25" hegiht="25" alt="WeChat"/> | 微信 | WeChat |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay App"/> | 云闪付 | Unionpay App |
+
 | 图标/ Icon | 中文/ Chinese | 英文/ English |
 | :-: | :- | :- |
 | ⚪ | 支持 | Full Support |
@@ -13,7 +19,7 @@
 
 ## 主表/ Main Content
 
-| 省级行政区/ Provincial Administrative Region | 健康证明名称/ Name of Health Certificate | 支付宝/ Alipay | 微信/ WeChat | 云闪付/ Unionpay App | 其他/ Additional Apps |
+| 省级行政区/ Provincial Administrative Region | 健康证明名称/ Name of Health Certificate | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat.png" width="25" hegiht="25" alt="WeChat"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay App"/> | 其他/ Additional Apps |
 | :- | :- | :-: | :-: | :-: | :- |
 | 北京/ Beijing | 北京健康码 | 🔵 | 🟢 | | |
 | 天津/ Tianjin | 天津健康码 | 🔵 | 🟢 | | 津心办 |
@@ -47,6 +53,6 @@
 | 宁夏/ Ningxia | 宁夏健康码 | | | | 我的宁夏 |
 | 新疆/ Xinjiang | 新疆健康通行码 | | | | 新疆政务服务 |
 
-[^ah]: 云闪付不支持申领“安康码”，仅支持展示
-[^xz]: 云闪付仅支持“拉萨健康登记”
-[^sx]: 云闪付仅支持“西安一码通”
+[^ah]: 安徽/ Anhui：云闪付不支持申领“安康码”，仅支持展示/ Unionpay app DONOT support applying *Anhui Health QR*, only support showing after applying in other apps
+[^xz]: 西藏/ Xizang：云闪付仅支持“拉萨健康登记”/ Unionpay app only support *Lhasa Health QR*
+[^sx]: 陕西/ Shaanxi：云闪付仅支持“西安一码通”/ Unionpay app only support *Xi'an Health QR*
