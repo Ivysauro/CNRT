@@ -27,7 +27,7 @@
 | |
 | 广东城际 | 珠三角城际 | 羊角 | 官方昵称 | 即广州地铁 |
 | 香**港铁**路 | 香港 | 红龟 | logo | Mass Transit Railway, MTR |
-| **台**湾**铁**路管理局 | 台湾 | | | Taiwan Rails Administration, TRA |
+| **台**湾**铁**路管理局 | 台湾 | 便当局 | 列车上售卖的便当种类丰富且美味 | Taiwan Rails Administration, TRA |
 
 ## 城市轨道交通运营单位
 
