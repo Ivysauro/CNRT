@@ -134,16 +134,16 @@
 | **黑龙江/ Heilongjiang** | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay NFC.png" width="40" hegiht="40" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay QR.png" width="40" hegiht="40" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
 | 哈尔滨/ Harbin | 哈尔滨城市通 | ✅ | ✅ | ✅ | ✅ | ✅ | | 哈尔滨城市通 |
 | 齐齐哈尔/ Qiqihar | 齐齐哈尔交通一卡通 | ✅ | | | | | | |
-| 鸡西/ Jixi | 鸡西公交卡 | | | ✅ | ✅ | | ✅ | 美团 |
-| 鹤岗/ Hegang | 鹤岗公交卡 | | | ✅ | ✅ | | | |
-| 双鸭山/ Shuangyashan | 双鸭山公交卡 | | ⭕ | ✅ | ✅ | | ⭕ | |
-| 大庆/ Daqing | 大庆交通一卡通 | | ✅ | | | | ✅ | |
+| 鸡西/ Jixi | 鸡西公交卡 | ✅ | | ✅ | ✅ | | ✅ | 美团 |
+| 鹤岗/ Hegang | 鹤岗公交卡 | ✅ | | ✅ | ✅ | | | |
+| 双鸭山/ Shuangyashan | 双鸭山公交卡 | ✅ | ⭕ | ✅ | ✅ | | ⭕ | |
+| 大庆/ Daqing | 大庆交通一卡通 | ✅ | ✅ | | | | ✅ | |
 | 伊春/ Yichun, Heilongjiang | 伊春交通一卡通 | ✅ | | ✅ | ✅ | | | |
-| 佳木斯/ Kiamusze | 佳木斯公交卡/九龙公交卡 | | | ✅ | ✅ | | | 佳木斯城市通、美团 |
+| 佳木斯/ Kiamusze | 佳木斯公交卡/九龙公交卡 | ✅ | | ✅ | ✅ | | | 佳木斯城市通、美团 |
 | 七台河/ Qitaihe | 七台河交通一卡通 | ✅ | | ✅ | ✅ | | ✅ | 美团 |
 | 牡丹江/ Mudanjiang | 牡丹江交通一卡通 | ✅ | ✅ | | | | ✅ | |
-| 黑河/ Heihe | 黑河公交卡 | | ✅ | ⭕[^hh] | ⭕[^hh] | | ✅ | |
-| 绥化/ Suihua | 绥化公交卡 | ⭕ | | ✅ | | | ✅ | |
+| 黑河/ Heihe | 黑河公交卡 | ✅ | ✅ | ⭕[^hh] | ⭕[^hh] | | ✅ | |
+| 绥化/ Suihua | 绥化公交卡 |  ✅ | | ✅ | | | ✅ | |
 
 #### 华东地区/ Eastern China
 
