@@ -11,7 +11,7 @@
 | 广州白云 | Guangzhou Baiyun | CAN, CANton | ZGGG |
 | 昆明长水 | Kunming Changshui | KMG, KunMinG | ZPPP |
 | 郑州新郑 | Zhengzhou Xinzheng | CGO, ChenGchOw | ZHCC, ChengChow |
-| 成都双流 | Chengdu Shangliu | CTU, ChengTU | ZUUU |
+| 成都双流 | Chengdu Shuangliu | CTU, ChengTU | ZUUU |
 | 武汉天河 | Wuhan Tianhe | WUH, WUHan | ZHHH |
 | 天津滨海 | Tianjin Binhai | TSN, TientSiN | ZBTJ, TianJin |
 | 杭州萧山 | Hangzhou Xiaoshan | HGH, HanGzHou | ZSHC, HangChow |
@@ -117,7 +117,7 @@
 | 金门（尚义） | Kinmen | KNH, KinmeN+H | RCBS |
 | 张家口宁远 | Zhangjiakou Ningyuan | ZQZ | ZBZJ, ZhangJiakou |
 | 敦煌 | Dunhuang | DNH, DuNHuang | ZLDH, DunHuang |
-| 呼伦贝尔东山 | Hulunbuir Dongshan | HLD, HuLubuir Dongshan | ZBLA, haiLAr |
+| 呼伦贝尔东山 | Hulunbuir Dongshan | HLD, HuLunbuir Dongshan | ZBLA, haiLAr |
 
 ## 4C
 
@@ -231,6 +231,10 @@
 | 昆明巫家坝 | Kunming Wujiaba | KMG, KunMinG | ZPPP |
 | 西安西关 | Xi'an Xiguan | SIA, SiAn | ZLSN, SiaN |
 | 香港启德 | Hong Kong Kai Tak | HKG, Hong KonG | VHHH; VHHX |
+
+## 更名记录/ Rename Record
+
+*即将到来/ Coming soon*
 
 ## 参考资料/ References
 - <https://zhuanlan.zhihu.com/p/113395047>
