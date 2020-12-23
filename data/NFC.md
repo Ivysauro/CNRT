@@ -42,16 +42,16 @@
 | 吉林通	| ✅ | ✅ | ✅ | | | ✅ | ✅ | ✅ ||
 | 哈尔滨城市通#	| ✅ | ✅ | ✅ | | | ✅ | ✅ | ✅ ||
 | 上海公共交通卡# | 🕓 | ✅ |||| ✅ ||||
-| 江苏交通一卡通·南京（金陵通） | ✅ | ✅ | | ✅💥 | | | ✅ | ✅ ||
+| 江苏交通一卡通·南京（金陵通） | ✅ | ✅ | | ✅ | | | ✅ | ✅ ||
 | 江苏交通一卡通·镇江 | ✅ | ✅ | | | | | | ✅ ||
 | 江苏交通一卡通·扬州 | ✅ | ✅ | | | | | | ✅ ||
 | 江苏交通一卡通·苏州 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ ||
 | 江苏交通一卡通·无锡# | ✅ | ✅ | | | ✅ | | ✅ | ✅ ||
-| 江苏交通一卡通·常州（龙城通） | ✅ | ✅ | ✅ | ✅💥 | | | ✅ | ✅ ||
+| 江苏交通一卡通·常州（龙城通） | ✅ | ✅ | ✅ | ✅ | | | ✅ | ✅ ||
 | 江苏交通一卡通·盐城（黄海通） | ✅ | ✅ | | | | | ✅ | ✅ ||
 | 江苏交通一卡通·南通（通城通） | ✅ | ✅ | ✅ | | | | | ✅ ||
 | 江苏交通一卡通·泰州 | ✅ | ✅ | | | | | | ✅ |
-| 江苏交通一卡通·徐州（淮海通） | ✅ | ✅ | | 🕓 | | | ✅ | ✅ ||
+| 江苏交通一卡通·徐州（淮海通） | ✅ | ✅ | | ✅💥 | | | ✅ | ✅ ||
 | 江苏交通一卡通·淮安（江淮通） | ✅ | ✅ | | | | | | ✅ ||
 | 江苏交通一卡通·连云港 | ✅ | ✅ | | | | | ✅ | ✅ ||
 | 江苏交通一卡通·宿迁 | ✅ | ✅ | | | | | | ✅ ||
@@ -117,7 +117,7 @@
 | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/OnePlus.png" width="25" hegiht="25" alt="OnePlus"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/>  | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/vivo.png" width="40" hegiht="40" alt="vivo"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Mini Program.png" width="25" hegiht="25" alt="WeChat Transit Card"/> |
 
 [^nc]: 南昌：需要通过洪城一卡通app开通
-[^yy]: 台北：可开通普通卡之外的如学生卡、1280定期票等特殊卡种
+[^yy]: 台北：可能需要台湾地区的三星账号，可开通普通卡之外的如学生卡、1280定期票等特殊卡种
 [^tco]: 太仓：OPPO上线的“澳门回归纪念卡”实为CU标准的太仓市民卡
 [^hk2]: 香港：开卡时需要将手机地区设置为香港
 [^hk]: 香港：需要香港地区的三星/华为账号
