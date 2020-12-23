@@ -535,6 +535,7 @@
 
 #### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wh.gif" width="20" hegiht="20"/>武汉
 - 江汉路→循礼门（1号线，2010.6）
+- 光谷火车站→武汉东站（2号线/11号线，2020.12）
 
 #### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cq.gif" width="20" hegiht="20"/>重庆
 - 重庆北站→重庆北站南广场（3号线，2016.3）
