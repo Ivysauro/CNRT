@@ -236,14 +236,14 @@
 |  | 太原/ Taiyuan | 太原南/ Taiyuannan/ TNV | 太原局/ CR Taiyuan | 🏗太原南站/ Taiyuan South RS |
 |  | 乌鲁木齐/ Urumqi | 乌鲁木齐/ Wulumuqi/ WAR | 乌鲁木齐局/ CR Urumqi | 🏗乌鲁木齐站/ Urumqi RS |
 |  | 乌鲁木齐/ Urumqi | 乌鲁木齐南/ Wulumuqinan/ WMR | 乌鲁木齐局/ CR Urumqi | 火车南站/ South RS |
-|  | 鄂州/ Ezhou | 葛店南/ Gediannan/ GNN | 武汉局/ CR Wuhan | 🏗葛店南站/ Gedian South RS |
+|  | 鄂州/ Ezhou | 葛店南/ Gediannan/ GNN | 武汉局/ CR Wuhan | 🏗葛店南站/ Gediannan RS |
 |  | 武汉/ Wuhan | 汉口/ Hankou/ HKN | 武汉局/ CR Wuhan | 汉口火车站/ Hankou RS |
 |  | 武汉/ Wuhan | *汉阳/ Hanyang/ HYN* | 武汉局/ CR Wuhan | 汉阳火车站/ Hanyang RS |
 |  | 武汉/ Wuhan | 天河机场/ Tianhe Airport/ TJN | 武汉局/ CR Wuhan | 天河机场/ Tianhe International Airport |
 |  | 武汉/ Wuhan | 武昌/ Wuchang/ WCN | 武汉局/ CR Wuhan | 武昌火车站/ Wuchang RS |
 |  | 武汉/ Wuhan | 武汉/ Wuhan/ WHN | 武汉局/ CR Wuhan | 武汉火车站/ Wuhan RS |
 |  | 武汉/ Wuhan | 左岭/ Zuoling/ ZSN | 武汉局/ CR Wuhan | 未来三路/ Weilai 3rd Road |
-|  | 武汉/ Wuhan | 🏗光谷/ Guanggu/ LFN? | 武汉局/ CR Wuhan | 光谷火车站/ Optics Valley RS |
+|  | 武汉/ Wuhan | 🏗武汉东/ Wuhandong | 武汉局/ CR Wuhan | 武汉东站/ Wuhandong RS |
 |  | 武汉/ Wuhan | 🏗汉阳/ Hanyang | 武汉局/ CR Wuhan | 🏗新汉阳火车站/ New Hanyang RS |
 |  | 西安/ Xi'an | 阿房宫/ Epanggong/ EGY | 西安局/ CR Xi'an | 🏗阿房宫火车站/ EPANGGONGHUOCHEZHAN |
 |  | 西安/ Xi'an | 西安/ Xian/ XAY | 西安局/ CR Xi'an | 🏗火车站/ Foshan RS |
