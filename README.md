@@ -17,6 +17,6 @@
 
 This is data base about some non-tech information of China Rail Transit
 
-发现错误或有建议请直接提 `issue`😀~
+发现错误或有建议可提 `Issue` 或者直接 `Pull request`😀~
 
-If you have any questions, just open an `issue`😉~
+If you have any questions, just open an `Issue` or directly `Pull request`😉~
