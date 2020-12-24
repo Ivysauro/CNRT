@@ -126,11 +126,11 @@
 |  | 济南/ Jinan | 济南西/ Jinanxi/ JGK | 济南局/ CR Jinan | 济南西站/ JINAN WEST RAILWAY STATION |
 |  | 济南/ Jinan | *历城/ Licheng/ LEK* | 济南局/ CR Jinan | 🏗烈士陵园/ LISHILINGYUAN |
 |  | 青岛/ Qingdao | 董家口/ Dongjiakou/ DTK | 济南局/ CR Jinan | 董家口火车站/ Dongjiakou RS |
-|  | 青岛/ Qingdao | 胶州北/ Jiaozhoubei/ JZK | 济南局/ CR Jinan | 🏗胶州北站/ Jiaozhou North RS |
+|  | 青岛/ Qingdao | 胶州北/ Jiaozhoubei/ JZK | 济南局/ CR Jinan | 胶州北站/ Jiaozhou North RS |
 |  | 青岛/ Qingdao | 青岛/ Qingdao/ QDK | 济南局/ CR Jinan | 青岛站/ Qingdao RS |
 |  | 青岛/ Qingdao | 青岛北/ Qingdaobei/ QHK | 济南局/ CR Jinan | 青岛北站/ Qingdao North RS |
 |  | 青岛/ Qingdao | 青岛西/ Qingdaoxi/ QUK | 济南局/ CR Jinan | 🏗青岛西站/ Qingdao West RS |
-|  | 青岛/ Qingdao | 🏗红岛/ Hongdao | 济南局/ CR Jinan | 🏗红岛火车站/ Hongdao RS |
+|  | 青岛/ Qingdao | 🏗红岛/ Hongdao | 济南局/ CR Jinan | 红岛火车站/ Hongdao RS |
 |  | 青岛/ Qingdao | 🏗青岛机场/ Qingdao Airport | 济南局/ CR Jinan | 🏗胶东机场/ Jiaodong Airport |
 |  | 昆明/ Kunming | 昆明/ Kunming/ KMM | 昆明局/ CR Kunming | 昆明火车站/ KUNMING RS |
 |  | 昆明/ Kunming | *昆明北/ Kunmingbei/ KBM* | 昆明局/ CR Kunming | 🏗火车北站/ North RS |
