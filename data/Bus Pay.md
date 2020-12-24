@@ -156,7 +156,7 @@
 | 苏州/ Suzhou | 江苏交通一卡通·苏州 | ✅ | | ✅ | ✅ | ✅ | | 苏州市民卡 |
 | 南通/ Nantong | 江苏交通一卡通·南通（通城通） | ✅ | ✅ | ✅ | | | ✅ | 畅行南通、上海公共交通卡 |
 | 连云港/ Lianyungang | 江苏交通一卡通·连云港 | ✅ | ✅ | ✅ | | | ✅ | 智慧港城 |
-| 淮安/ Huai'an | 江苏交通一卡通·淮安（江淮通） | ✅ | ✅ | ⭕[^ha] | | | ✅ | 城客e家、嘟客、上海公共交通卡 |
+| 淮安/ Huai'an | 江苏交通一卡通·淮安（江淮通） | ✅ | ✅ | ✅ | | ✅ | ✅ | 城客e家、嘟客、上海公共交通卡 |
 | 盐城/ Yancheng | 江苏交通一卡通·盐城（黄海通） | ✅ | | ✅ | | | ✅ | |
 | 扬州/ Yangzhou | 江苏交通一卡通·扬州 | ✅ | ✅ | ✅ | | | | 我的扬州 |
 | 镇江/ Zhenjiang | 江苏交通一卡通·镇江 | ✅ | ✅ | ✅ | | | ✅ | 畅行镇江 |
@@ -171,7 +171,7 @@
 | 绍兴/ Shaoxing | 绍兴一卡通 | ✅ | ✅ | ✅ | | | ✅ | 上海公共交通卡 |
 | 金华/ Jinhua | 金华公交卡·八婺通 | ✅ | ✅ | ✅ | | | | 金华行、上海公共交通卡 |
 | 衢州/ Quzhou | 衢州交通一卡通 | ✅ | ✅ | ✅ | | | ✅ | 衢州行 |
-| 舟山/ Zhoushan | 舟山城市一卡通 | 🕓 | ✅ | ✅ | ⭕[^zs] | | ✅ | 上海公共交通卡 |
+| 舟山/ Zhoushan | 舟山城市一卡通 | 🕓 | ✅ | ✅ | ⭕[^zs] | | ✅ | 舟山公交、上海公共交通卡 |
 | 台州/ Taizhou, Zhejiang | 台州公共交通卡 | ✅ | ✅ | ✅ | | ✅ | | 台州出行、上海公共交通卡 |
 | 丽水/ Lishui | 丽水公交卡 | ✅ | ✅ | ✅ | ⭕[^ls] | | ⭕[^ls2] | |
 | **安徽/ Anhui** | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay NFC.png" width="40" hegiht="40" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay QR.png" width="40" hegiht="40" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
@@ -490,8 +490,7 @@
 [^uq]: 乌兰察布：仅支持微信付款码
 [^cy]: 朝阳：仅支持微信付款码
 [^hh]: 黑河：仅支持支付宝和微信的付款码
-[^ha]: 淮安：仅支持支付宝付款码
-[^zs]: 舟山：需要关注“舟山市民卡”微信公众号，注册个人“市民码”账号后充值
+[^zs]: 舟山：仅部分线路支持微信乘车码
 [^ls]: 丽水：仅支持微信付款码
 [^ls2]: 丽水：仅支持浙江农信丰收互联App生成的银联付款码
 [^zh]: 珠海：理论上支持所有住建部城市一卡通标准的公交卡，但上海公共交通卡等部分卡片实测不支持（http://w.zhbus.org/index.php?title=全国城市一卡通）
@@ -1030,17 +1029,4 @@
 - 河南济源市，部分公交
 - 湖南常宁市，部分公交
 - 四川筠连县，部分公交
-- 陕西西安市高陵区，部分公交
-- ~~福建石狮市，部分公交~~
-
-## 充值/ Charging
-
-*待完善*
-
-## 参考资料/ References
-- 交通联合：<https://zh.wikipedia.org/zh-hans/全国交通一卡通互联互通>; <http://w.zhbus.org/index.php?title=全国交通一卡通>
-- 银联：<http://www.mpaypass.com.cn/news/201907/24112333.html>
-- 支付宝：<https://render.alipay.com/p/f/fd-jpwnyevx/index.html>
-- 翼支付：<http://gd.zhidao.189.cn/ckb/knowledge_detail/sz/20181116/702381>
-
----
+- 陕西西
