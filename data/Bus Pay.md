@@ -60,7 +60,7 @@
 | 北京/ Beijing | 北京市政交通一卡通 | ⭕[^bj] | ✅ | ✅ | ⭕[^bj2] | 🕓 | | 北京公交、北京一卡通、亿通行 |
 | 天津/ Tianjin | 天津城市卡 | ✅ | ✅ | ✅ | ✅ | ✅ | | |
 | 上海/ Shanghai | 上海公共交通卡 | ✅ | | ✅ | ✅ | ✅ | | 上海一卡通 |
-| 重庆（主城区）/ Chongqing Urban Area | 宜居畅通卡、重庆交运通 | ⭕️[^cq] | ✅ | ✅ | ✅ | ✅ | | 重庆市民通 |
+| 重庆（主城区）/ Chongqing Urban Area | 宜居畅通卡、重庆交运通 | ✅[^cq] | ✅ | ✅ | ✅ | ✅ | | 重庆市民通 |
 | 香港/ Hong Kong | 八达通 | | | ⭕[^hk] | | ⭕️ | | |
 | 澳门/ Macao | 澳门通 | | ⭕[^mo] | | | | | 澳门通、上海公共交通卡[^mo2] |
 
@@ -171,7 +171,7 @@
 | 绍兴/ Shaoxing | 绍兴一卡通 | ✅ | ✅ | ✅ | | | ✅ | 上海公共交通卡 |
 | 金华/ Jinhua | 金华公交卡·八婺通 | ✅ | ✅ | ✅ | | | | 金华行、上海公共交通卡 |
 | 衢州/ Quzhou | 衢州交通一卡通 | ✅ | ✅ | ✅ | | | ✅ | 衢州行 |
-| 舟山/ Zhoushan | 舟山城市一卡通 | | ✅ | ✅ | ⭕[^zs] | | ✅ | 上海公共交通卡 |
+| 舟山/ Zhoushan | 舟山城市一卡通 | 🕓 | ✅ | ✅ | ⭕[^zs] | | ✅ | 上海公共交通卡 |
 | 台州/ Taizhou, Zhejiang | 台州公共交通卡 | ✅ | ✅ | ✅ | | ✅ | | 台州出行、上海公共交通卡 |
 | 丽水/ Lishui | 丽水公交卡 | ✅ | ✅ | ✅ | ⭕[^ls] | | ⭕[^ls2] | |
 | **安徽/ Anhui** | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay NFC.png" width="40" hegiht="40" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay QR.png" width="40" hegiht="40" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
@@ -287,27 +287,27 @@
 | 怀化/ Huaihua | 怀化交通一卡通 | ✅ | | ✅ | | | | |
 | 娄底/ Loudi | 娄底交通一卡通 | ✅ | ✅ | | ✅ | ✅ | ✅ | |
 | **广东/ Guangdong** | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay NFC.png" width="40" hegiht="40" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay QR.png" width="40" hegiht="40" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
-| 广州/ Guangzhou | 羊城通、岭南通 | ✅ | | ✅ | ✅ | ✅ | | 羊城通、岭南通、翼支付 |
-| 韶关/ Shaoguan | 岭南通、韶州通 | ✅ | ✅ | ✅ | ✅ | | ✅ | 韶州通、美团 |
-| 深圳/ Shenzhen | 岭南通、深圳通 | ✅ | ✅ | ✅ | ✅ | | | 深圳通 |
-| 珠海/ Zhuhai | 岭南通、珠海通 | ✅ | ✅ | ✅ | ✅ | | | 珠海TONG、翼支付、美团、CU卡[^zh] |
-| 汕头/ Shantou | 岭南通 | ✅ | ✅ | | ✅ | ✅ | ✅ | |
-| 佛山/ Foshan | 岭南通、广佛通 | ✅ | ✅ | ✅ | ✅ | | | 佛山城市通 |
-| 江门/ Jiangmen | 岭南通、五邑通 | ✅ | ✅ | ✅ | ✅ | | ✅ | |
-| 湛江/ Zhanjiang | 岭南通 | ✅ | ✅ | ✅ | | | ✅ | 翼支付、美团 |
-| 茂名/ Maoming | 岭南通 | ✅ | ✅ | ✅ | ✅ | | ✅ | 美团 |
-| 肇庆/ Zhaoqing | 岭南通 | ✅ | ✅ | ✅ | ✅ | | ✅ | |
-| 惠州/ Huizhou | 岭南通 | ✅ | ✅ | | ✅ | | ✅ | |
-| 梅州/ Meizhou | 岭南通、嘉应通 | ✅ | ✅ | | ✅ | | ✅ | |
-| 汕尾/ Shanwei | 岭南通、红海通 | ✅ | ✅ | | ✅ | | ✅ | |
-| 河源/ Heyuan | 岭南通 | ✅ | ✅ | ✅ | ✅ | | ✅ | 美团 |
-| 阳江/ Yangjiang | 岭南通、漠江通 | ✅ | ✅ | ✅ | ✅ | | ✅ | |
-| 清远/ Qingyuan | 岭南通、广达通 | ✅ | ✅ | ✅ | ✅ | | ✅ | 美团 |
-| 东莞/ Dongguan | 岭南通、东莞通 | ✅ | ✅ | ✅ | ✅ | ✅ | | 东莞通 |
-| 中山/ Zhongshan | 岭南通、中山通 | ✅ | ✅ | ✅ | ✅ | | ✅ | 翼支付 |
-| 潮州/ Chaozhou | 岭南通、韩江通 | ✅ | ✅ | ✅ | | | | |
-| 揭阳/ Jieyang | 岭南通、榕江通 | ✅ | ✅ | ✅ | ✅ | | ✅ | |
-| 云浮/ Yunfu | 岭南通、岭云通 | ✅ | ✅ | ✅ | ✅ | | ✅ | 岭南通 |
+| 广州/ Guangzhou | 岭南通·羊城通 | ✅ | | ✅ | ✅ | ✅ | | 羊城通、岭南通、翼支付 |
+| 韶关/ Shaoguan | 岭南通·韶州通 | ✅ | ✅ | ✅ | ✅ | | ✅ | 韶州通、美团 |
+| 深圳/ Shenzhen | 岭南通·深圳通 | ✅ | ✅ | ✅ | ✅ | | | 深圳通 |
+| 珠海/ Zhuhai | 岭南通·珠海通 | ✅ | ✅ | ✅ | ✅ | | | 珠海TONG、翼支付、美团、CU卡[^zh] |
+| 汕头/ Shantou | 岭南通·汕头 | ✅ | ✅ | | ✅ | ✅ | ✅ | |
+| 佛山/ Foshan | 岭南通·广佛通 | ✅ | ✅ | ✅ | ✅ | | | 佛山城市通 |
+| 江门/ Jiangmen | 岭南通·五邑通 | ✅ | ✅ | ✅ | ✅ | | ✅ | |
+| 湛江/ Zhanjiang | 岭南通·湛江通 | ✅ | ✅ | ✅ | | | ✅ | 翼支付、美团 |
+| 茂名/ Maoming | 岭南通·茂城通 | ✅ | ✅ | ✅ | ✅ | | ✅ | 美团 |
+| 肇庆/ Zhaoqing | 岭南通·肇庆通 | ✅ | ✅ | ✅ | ✅ | | ✅ | |
+| 惠州/ Huizhou | 岭南通·惠州通 | ✅ | ✅ | | ✅ | | ✅ | |
+| 梅州/ Meizhou | 岭南通·嘉应通 | ✅ | ✅ | | ✅ | | ✅ | |
+| 汕尾/ Shanwei | 岭南通·红海通 | ✅ | ✅ | | ✅ | | ✅ | |
+| 河源/ Heyuan | 岭南通·河源粤支付 | ✅ | ✅ | ✅ | ✅ | | ✅ | 美团 |
+| 阳江/ Yangjiang | 岭南通·漠江通 | ✅ | ✅ | ✅ | ✅ | | ✅ | |
+| 清远/ Qingyuan | 岭南通·广达通 | ✅ | ✅ | ✅ | ✅ | | ✅ | 美团 |
+| 东莞/ Dongguan | 岭南通·东莞通 | ✅ | ✅ | ✅ | ✅ | ✅ | | 东莞通 |
+| 中山/ Zhongshan | 岭南通·中山通 | ✅ | ✅ | ✅ | ✅ | | ✅ | 翼支付 |
+| 潮州/ Chaozhou | 岭南通·韩江通 | ✅ | ✅ | ✅ | | | | |
+| 揭阳/ Jieyang | 岭南通·榕江通 | ✅ | ✅ | ✅ | ✅ | | ✅ | |
+| 云浮/ Yunfu | 岭南通·岭云通 | ✅ | ✅ | ✅ | ✅ | | ✅ | 岭南通 |
 | **广西/ Guangxi** | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay NFC.png" width="40" hegiht="40" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay QR.png" width="40" hegiht="40" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
 | 南宁/ Nanning | 广西交通一卡通（桂民卡）、邕桂通 | ✅ | | ⭕ | ✅ | ✅ | | 出行南宁、爱南宁 |
 | 柳州/ Liuzhou | 广西交通一卡通（桂民卡） | ✅ | ⭕[^lz] | ⭕ | ✅ | ✅ | | 道行龙城 |
@@ -500,7 +500,7 @@
 [^gz]: 赣州：市区公交不支持微信乘车码
 [^lz]: 柳州：市区公交不支持银联云闪付
 [^yl]: 玉林：仅支持微信付款码
-[^cq]: 重庆：仅主城区常规公交支持交通联合
+[^cq]: 重庆：主城区仅常规公交支持交通联合
 [^yx]: 玉溪：仅部分线路支持微信付款码
 [^wn]: 渭南：需要关注“渭南通”微信公众号，注册个人账号后充值
 [^jyg]: 嘉峪关：仅支持支付宝和微信的付款码
