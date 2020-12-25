@@ -119,7 +119,6 @@
 |  | 哈尔滨/ Harbin | 哈尔滨东/ Haerbindong/ VBB | 哈尔滨局/ CR Harbin | 哈尔滨东站/ Harbin East RS |
 |  | 哈尔滨/ Harbin | 哈尔滨西/ Haerbinxi/ VAB | 哈尔滨局/ CR Harbin | 哈尔滨西站/ Harbinxizhan |
 |  | 哈尔滨/ Harbin | 🏗哈尔滨南/ Haerbinan | 哈尔滨局/ CR Harbin | 哈尔滨南站/ Harbin South RS |
-|  | 台中/ Taichung | 大庆/ Daqing/ DZX | 哈尔滨局/ CR Harbin | 🏗大庆/ Daqing |
 |  | 呼和浩特/ Hohhot | 呼和浩特/ Huhehaote/ HHC | 呼和浩特局/ CR Hohhot | 呼和浩特站/ Hohhot RS |
 |  | 呼和浩特/ Hohhot | 呼和浩特东/ Huhehaotedong/ NDC | 呼和浩特局/ CR Hohhot | 呼和浩特东站/ Hohhot East RS |
 |  | 济南/ Jinan | 济南东/ Jinandong/ MDK | 济南局/ CR Jinan | 济南东站/ JINANDONG RAILWAY STATION |
@@ -228,6 +227,7 @@
 |  | 台北/ Taipei | 桃园/ Taoyuan | 台铁/ TRA | 高铁桃园站/ HSR Taoyuan Station |
 |  | 台北/ Taipei | 万华/ Wanhua | 台铁/ TRA | 龙山寺/ Longshan Temple |
 |  | 台北/ Taipei | 中坜/ Zhongli | 台铁/ TRA | 🏗中坜车站/ Zhongli RS |
+|  | 台中/ Taichung | 大庆/ Daqing | 台铁/ TRA | 🏗大庆/ Daqing |
 |  | 台中/ Taichung | 松竹/ Songzhu | 台铁/ TRA | 🏗松竹/ Songzhu |
 |  | 台中/ Taichung | 乌日/ Wuri | 台铁/ TRA | 🏗乌日/ Wuri |
 |  | 台中/ Taichung | 新乌日/ Xinwuri | 台铁/ TRA | 🏗新乌日/ Xinwuri |
