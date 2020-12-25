@@ -99,16 +99,16 @@
 | | 高雄/ Kaohsiung/ KHH | 华东-台北/ RCKH | 高雄国际机场/ Kaohsiung International Airport | 红线 |
 | | 沈阳桃仙/ Shenyang Taoxian/ SHE | 东北-沈阳/ ZYTX | 🏗航站楼/ HANGZHANLOU、🏗桃仙机场/ TAOXIANJICHANG | |
 | | 成都双流/ Chengdu Shuangliu/ CTU | 西南-昆明/ ZUUU | 双流机场1航站楼/ Terminal 1 of Shuangliu International Airport、双流机场2航站楼/ Terminal 2 of Shuangliu International Airport | 10号线 |
-| | 🏗成都天府/ Chengdu Tianfu/ TFU | 西南-昆明/ ZU?? | 🏗天府机场1号2号航站楼/ Terminal 1 & 2 of Tianfu International Airport、🏗天府机场3号4号航站楼/ Terminal 3 & 4 of Tianfu International Airport | |
-| | 西安咸阳/ Xi'an Xianyang/ XIY | 西北-兰州/ ZLXY | *机场/ Airport*、机场西/ Airport West | 机场城际线 |
+| | 🏗成都天府/ Chengdu Tianfu/ TFU | 西南-昆明/ ZU?? | 🏗天府机场1号2号航站楼/ Terminal 1 & 2 of Tianfu International Airport、🏗天府机场3号4号航站楼/ Terminal 3 & 4 of Tianfu International Airport | 18号线 |
+| | 西安咸阳/ Xi'an Xianyang/ XIY | 西北-兰州/ ZLXY | *机场/ Airport*、机场西/ Airport West | 14号线 |
 | | 昆明长水/ Kunming Changshui/ KMG | 西南-昆明/ ZPPP | 机场前/ Airport Front、机场中心/ KUNMING Airport | 6号线 |
 | | 杭州萧山/ Hangzhou Xiaoshan/ HGH | 华东-上海/ ZSHC | 🏗萧山国际机场/ Xiaoshan International Airport | |
 | | 郑州新郑/ Zhengzhou Xinzheng/ CGO | 中南-武汉/ ZHCC | 新郑机场/ XINZHENG INTERNATIONAL AIRPORT | 城郊线 |
 | | 长沙黄花/ Changsha Huanghua/ CSX | 中南-广州/ ZGHA | 磁浮机场/ Airport Maglev、🏗黄花机场西/ West Huanghua Airport | 磁浮快线 |
 | | 宁波栎社/ Ningbo Lishe/ NGB | 华东-上海/ ZSNB | 栎社国际机场/ Lishe International Airport | 2号线 |
-| | 苏南硕放/ Sunan Shuofang/ WUX | 华东-上海/ ZSWX | 硕放机场/ Sunan Shuofang International Airport | |
-| | 青岛流亭/ Qingdao Liuting/ TAO | 华东-上海/ ZSQD | 🏗流亭机场/ Liuting Airport | |
-| | *青岛胶东/Qingdao Jiaodong/ TAO* | 华东-上海/ ZSQD | 🏗胶东机场/ Jiaodong Airport | |
+| | 苏南硕放/ Sunan Shuofang/ WUX | 华东-上海/ ZSWX | 硕放机场/ Sunan Shuofang International Airport | 3号线 |
+| | 青岛流亭/ Qingdao Liuting/ TAO | 华东-上海/ ZSQD | 流亭/ Liuting | 1号线 |
+| | *青岛胶东/Qingdao Jiaodong/ TAO* | 华东-上海/ ZSQD | 🏗胶东机场/ Jiaodong Airport | 8号线 |
 | | 福州长乐/ Fuzhou Changle / FOC | 华东-上海/ ZSFZ | 🏗长乐机场/ Fuzhou Changle International Airport | |
 | | 贵阳龙洞堡/ Guiyang Longdongbao/ KWE | 西南-昆明/ ZUGY | 🏗机场/ Airport | |
 | 👟2.2km | 厦门高崎/ Xiamen Gaoqi/ XMN | 华东-上海/ ZSAM | 高崎/ Gaoqi | 1号线 |
