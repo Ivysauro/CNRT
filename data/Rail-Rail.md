@@ -174,7 +174,7 @@
 |  | 南通/ Nantong | 🏗南通东/ Nantongdong/ NWH | 上海局/ CR Shanghai | 🏗南通东站/ Nantong East RS |
 |  | 南通/ Nantong | 南通西/ Nantongxi/ NXU | 上海局/ CR Shanghai | 🏗南通西站/ Nantong West RS |
 |  | 宁波/ Ningbo | 宁波/ Ningbo/ NGH | 上海局/ CR Shanghai | 宁波火车站/ Ningbo RS |
-|  | 宁波/ Ningbo | 庄桥/ Zhuangqiao/ ZQH | 上海局/ CR Shanghai | 🏗庄桥火车站/ Zhuangqiao RS |
+|  | 宁波/ Ningbo | 庄桥/ Zhuangqiao/ ZQH | 上海局/ CR Shanghai | 庄桥火车站/ Zhuangqiao RS |
 |  | 上海/ Shanghai | 上海/ Shanghai/ SHH | 上海局/ CR Shanghai | 上海火车站/ Shanghai RS |
 |  | 上海/ Shanghai | 上海虹桥/ Shanghaihongqiao/ AOH | 上海局/ CR Shanghai | 虹桥火车站/ Hongqiao RS |
 |  | 上海/ Shanghai | 上海南/ Shanghainan/ SNH | 上海局/ CR Shanghai | 上海南站/ Shanghai South RS |
