@@ -132,9 +132,9 @@
 - ~~华南北~~（1号线，2015.10-2017.6）
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wh.gif" width="20" hegiht="20"/>武汉&鄂州
-- 葛店南站（11号线，2018.10-）
 - ~~太平洋~~（1号线，2004.7-2006.4）
 - ~~竹叶海~~（1号线，2010.7-2014.9）
+- ~~葛店南站~~（11号线，2018.10-2021.1）
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cq.gif" width="20" hegiht="20"/>重庆
 - 天星桥、仁济、上浩（环线，2018.12-）
