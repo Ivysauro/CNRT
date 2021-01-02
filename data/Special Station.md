@@ -137,9 +137,9 @@
 - ~~竹叶海~~（1号线，2010.7-2014.9）
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cq.gif" width="20" hegiht="20"/>重庆
-- 朝天门（1号线，2011.7-）
 - 天星桥、仁济、上浩（环线，2018.12-）
 - 港城（4号线，2018.12-）
+- ~~朝天门~~（1号线，2011.7-2021.1）
 - ~~小什字~~（1号线，2011.7-9）
 - ~~高庙村~~（1号线，2011.7-10）
 - ~~马家岩~~（1号线，2011.7-2013.9）
@@ -390,6 +390,7 @@
 - 体育西路（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州，3号线）
 - 华新（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sz.gif" width="20" hegiht="20"/>深圳，3号线，小交路）
 - 福田口岸（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sz.gif" width="20" hegiht="20"/>深圳，4号线）
+- 二七广场（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/zz.gif" width="20" hegiht="20"/>郑州，3号线，下行）
 - 合肥火车站（（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hf.gif" width="20" hegiht="20"/>合肥，1号线）
 
 ##### 不可穿行
