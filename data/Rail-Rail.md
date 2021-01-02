@@ -8,7 +8,7 @@
 | - | - | - | - | - |
 |  | 北京/ Beijing | 北京/ Beijing/ BJP | 北京局/ CR Beijing | 北京站/ Beijing RS |
 |  | 北京/ Beijing | 北京北/ Beijingbei/ VAP | 北京局/ CR Beijing | 西直门/ XIZHIMEN |
-|  | 北京/ Beijing | *北京朝阳（星火）/ Beijingchaoyang (Xihuo)/ XUP* | 北京局/ CR Beijing | 🏗星火站/ Xinghuo RS |
+|  | 北京/ Beijing | *北京朝阳/ Beijingchaoyang/ XUP* | 北京局/ CR Beijing | 🏗朝阳站/ Chaoyang RS |
 | 👟~1.2km | 北京/ Beijing | 北京大兴/ Beijingdaxing/ IPP | 北京局/ CR Beijing | 黄村火车站/ HUANGCUN RS |
 |  | 北京/ Beijing | 北京东/ Beijingdong/ BOP | 北京局/ CR Beijing | 🏗北京东站/ Beijing East RS |
 |  | 北京/ Beijing | 北京南/ Beijingnan/ VNP | 北京局/ CR Beijing | 北京南站/ Beijing South RS |
@@ -18,7 +18,7 @@
 |  | 北京/ Beijing | *丰台/ Fengtai/ FTP* | 北京局/ CR Beijing | 丰台站/ FENGTAI RS |
 |  | 北京/ Beijing | 黄村/ Huangcun/ HCP | 北京局/ CR Beijing | 黄村火车站/ HUANGCUN RS |
 | 👟~500m | 北京/ Beijing | 黄土店/ Huangtudian/ HKP | 北京局/ CR Beijing | 霍营/ HUOYING |
-|  | 北京/ Beijing | 清河/ Qinghe/ QIP | 北京局/ CR Beijing | 清河/ Qing He |
+|  | 北京/ Beijing | 清河/ Qinghe/ QIP | 北京局/ CR Beijing | 清河站/ Qinghe RS |
 | 👟 | 北京/ Beijing | *沙河/ Shahe/ SHP* | 北京局/ CR Beijing | 🏗巩华城西/ Gonghuacheng Xi(W) |
 | 👟~800m | 北京/ Beijing | 顺义/ Shunyi/ SOP | 北京局/ CR Beijing | 石门/ SHIMEN |
 | 👟~1.4km | 北京/ Beijing | 通州/ Tongzhouxi/ TOP | 北京局/ CR Beijing | 九棵树/ JIUKESHU |
@@ -236,7 +236,7 @@
 |  | 太原/ Taiyuan | 太原南/ Taiyuannan/ TNV | 太原局/ CR Taiyuan | 🏗太原南站/ Taiyuan South RS |
 |  | 乌鲁木齐/ Urumqi | 乌鲁木齐/ Wulumuqi/ WAR | 乌鲁木齐局/ CR Urumqi | 🏗乌鲁木齐站/ Urumqi RS |
 |  | 乌鲁木齐/ Urumqi | 乌鲁木齐南/ Wulumuqinan/ WMR | 乌鲁木齐局/ CR Urumqi | 火车南站/ South RS |
-|  | 鄂州/ Ezhou | 葛店南/ Gediannan/ GNN | 武汉局/ CR Wuhan | 🏗葛店南站/ Gediannan RS |
+|  | 鄂州/ Ezhou | 葛店南/ Gediannan/ GNN | 武汉局/ CR Wuhan | 葛店南站/ Gediannan RS |
 |  | 武汉/ Wuhan | 汉口/ Hankou/ HKN | 武汉局/ CR Wuhan | 汉口火车站/ Hankou RS |
 |  | 武汉/ Wuhan | *汉阳/ Hanyang/ HYN* | 武汉局/ CR Wuhan | 汉阳火车站/ Hanyang RS |
 |  | 武汉/ Wuhan | 天河机场/ Tianhe Airport/ TJN | 武汉局/ CR Wuhan | 天河机场/ Tianhe International Airport |
@@ -249,9 +249,9 @@
 |  | 西安/ Xi'an | 西安/ Xian/ XAY | 西安局/ CR Xi'an | 🏗火车站/ Foshan RS |
 |  | 西安/ Xi'an | 西安北/ Xianbei/ EAY | 西安局/ CR Xi'an | 北客站/ BEIKEZHAN |
 |  | 西安/ Xi'an | 西安北/ Xianbei/ EAY | 西安局/ CR Xi'an | 北客站（北广场）/ BEIKEZHAN (BEIGUANGCHANG) |
-|  | 西安/ Xi'an | 🏗西安东/ Xi'Andong/ XDY | 西安局/ CR Xi'an | 🏗东客站/ DONGKEZHAN |
+|  | 西安/ Xi'an | 🏗西安东/ Xi'Andong/ XDY | 西安局/ CR Xi'an | 🏗西安东站/ XI'ANDONGZHAN |
 |  | 西安/ Xi'an | 🏗西安南/ Xiannan/ CAY | 西安局/ CR Xi'an | 🏗南客站/ NANKEZHAN |
-|  | 西安/ Xi'an | 🏗咸阳机场/ Xianyang Airport | 西安局/ CR Xi'an | 🏗机场/ Airport |
+|  | 咸阳/ Xianyang | 🏗咸阳机场/ Xianyang Airport | 西安局/ CR Xi'an | 🏗机场/ Airport |
 |  | 咸阳/ Xianyang | 咸阳秦都/ Xianyangqindu/ XOY | 西安局/ CR Xi'an | 🏗咸阳秦都站/ XIANYANGQINDUZHAN |
 |  | 香港/ Hong Kong | 香港红磡/ Hong Kong Hung Hom/ JQO | 港铁/ MTR | 红磡/ Hung Hom |
 |  | 香港/ Hong Kong | 香港西九龙/ Hkwestkowloon/ XJA | 港铁/ MTR | 九龙/ Kowloon |
@@ -291,7 +291,7 @@
 - 其他：温州南（动车南）苏州北（高铁苏州北站）
 
 ### 其他站
-- 完全同名站：清河 犀浦 福田 开福寺 观沙岭 树木岭 沙坪坝 大兴机场[^1] 天河机场[^1] 新郑机场[^1]
+- 完全同名站：犀浦 福田 开福寺 观沙岭 树木岭 沙坪坝 大兴机场[^1] 天河机场[^1] 新郑机场[^1]
 - xx站：丰台（丰台站） 松江南（松江南站） 等
 - xx火车站：黄村（黄村火车站） 董家口（董家口火车站） 等
 - 其他：余杭（余杭高铁）
