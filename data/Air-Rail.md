@@ -102,7 +102,7 @@
 | | 🏗成都天府/ Chengdu Tianfu/ TFU | 西南-昆明/ ZU?? | 🏗天府机场1号2号航站楼/ Terminal 1 & 2 of Tianfu International Airport、🏗天府机场3号4号航站楼/ Terminal 3 & 4 of Tianfu International Airport | 18号线 |
 | | 西安咸阳/ Xi'an Xianyang/ XIY | 西北-兰州/ ZLXY | *机场/ Airport*、机场西/ Airport West | 14号线 |
 | | 昆明长水/ Kunming Changshui/ KMG | 西南-昆明/ ZPPP | 机场前/ Airport Front、机场中心/ KUNMING Airport | 6号线 |
-| | 杭州萧山/ Hangzhou Xiaoshan/ HGH | 华东-上海/ ZSHC | 🏗萧山国际机场/ Xiaoshan International Airport | |
+| | 杭州萧山/ Hangzhou Xiaoshan/ HGH | 华东-上海/ ZSHC | 萧山国际机场/ Xiaoshan International Airport | 1号线、7号线 |
 | | 郑州新郑/ Zhengzhou Xinzheng/ CGO | 中南-武汉/ ZHCC | 新郑机场/ XINZHENG INTERNATIONAL AIRPORT | 城郊线 |
 | | 长沙黄花/ Changsha Huanghua/ CSX | 中南-广州/ ZGHA | 磁浮机场/ Airport Maglev、🏗黄花机场西/ West Huanghua Airport | 磁浮快线 |
 | | 宁波栎社/ Ningbo Lishe/ NGB | 华东-上海/ ZSNB | 栎社国际机场/ Lishe International Airport | 2号线 |
