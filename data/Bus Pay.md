@@ -390,10 +390,10 @@
 | 丽江/ Lijiang | 丽江公交卡 | ✅ | | | ✅ | | ✅ | |
 | 普洱/ Pu'er | 普洱公交卡 | ✅ | | | | | | |
 | 临沧/ Lincang | 临沧公交卡 | ✅ | | | | | ✅ | |
-| 楚雄州-楚雄市/ Chuxiong City, Yunnan | | ✅ | ✅ | ✅ | ⭕[^cx] | | ✅ | |
-| 红河州-蒙自市/ Mengzi, Yunnan | | ✅ | ✅ | | | | ✅ | |
-| 文山州-文山市/ Wenshan City, Yunnan | | ✅ | ✅ | | | | ✅ | |
-| 西双版纳州-景洪市/ Jinghong, Yunnan | | ✅ | ⭕ | | | | | |
+| 楚雄州-楚雄市/ Chuxiong City, Chuxiong | | ✅ | ✅ | ✅ | ⭕[^cx] | | ✅ | |
+| 红河州-蒙自市/ Mengzi, Honghe | | ✅ | ✅ | | | | ✅ | |
+| 文山州-文山市/ Wenshan City, Wenshan | | ✅ | ✅ | | | | ✅ | |
+| 西双版纳州-景洪市/ Jinghong, Xishuangbanna | | ✅ | ⭕ | | | | | |
 | 大理州-大理市/ Dali City, Dali | | ✅ | | | ✅ | | | |
 | 德宏州-芒市/ Mang, Dehong | | ✅ | ✅ | | | | ✅ | |
 | 怒江州-泸水市/ Lushui, Nujiang | | ✅ | ✅ | | | | ✅ | |
