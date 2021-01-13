@@ -15,7 +15,7 @@
 | 图标/ Icon | 中文/ Chinese | 英文/ English |
 | :-: | :- | :- |
 | ⚪ | 支持 | Full Support |
-| ➖ | 有条件的支持（参加备注） | Conditional Support (See Notes) |
+| ➖ | 有条件的支持（参见备注） | Conditional Support (See Notes) |
 
 ## 主表/ Main Content
 
