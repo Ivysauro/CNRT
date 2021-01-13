@@ -317,7 +317,7 @@
 | 揭阳/ Jieyang | 岭南通·榕江通 | ✅ | ✅ | ✅ | ✅ | | ✅ | |
 | 云浮/ Yunfu | 岭南通·岭云通 | ✅ | ✅ | ✅ | ✅ | | ✅ | 岭南通 |
 | **广西/ Guangxi** | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay NFC.png" width="40" hegiht="40" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay QR.png" width="40" hegiht="40" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
-| 南宁/ Nanning | 广西交通一卡通（桂民卡）、邕桂通 | ✅ | | ⭕ | ✅ | ✅ | | 出行南宁、爱南宁 |
+| 南宁/ Nanning | 广西交通一卡通（桂民卡）、邕桂通 | ✅ | | ✅ | ✅ | ✅ | | 出行南宁、爱南宁 |
 | 柳州/ Liuzhou | 广西交通一卡通（桂民卡） | ✅ | ⭕[^lz] | ⭕ | ✅ | ✅ | | 道行龙城 |
 | 桂林/ Guilin | 广西交通一卡通（桂民卡） | ✅ | ✅ | | | ✅ | ✅ | 桂林出行网 |
 | 梧州/ Wuzhou | 广西交通一卡通（桂民卡） | ✅ | ✅ | ⭕ | ✅ | ✅ | ✅ | |
