@@ -295,12 +295,12 @@
 | 娄底/ Loudi | 娄底交通一卡通 | ✅ | ✅ | | ✅ | ✅ | ✅ | |
 | 湘西州-吉首市/ Jishou, Xiangxi | | ✅ | ✅ | | | | ✅ | |
 | **广东/ Guangdong** | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay NFC.png" width="40" hegiht="40" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay QR.png" width="40" hegiht="40" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
-| 广州/ Guangzhou | 岭南通·羊城通 | ✅ | | ✅ | ✅ | ✅ | | 羊城通、岭南通、翼支付 |
+| 广州/ Guangzhou | 岭南通·羊城通、番禺民生卡[^can-py] | ✅ | ⭕[^can] | ✅ | ✅ | ✅ | | 羊城通、岭南通、美团、翼支付、Alipay HK |
 | 韶关/ Shaoguan | 岭南通·韶州通 | ✅ | ✅ | ✅ | ✅ | | ✅ | 韶州通、美团 |
 | 深圳/ Shenzhen | 岭南通·深圳通 | ✅ | ✅ | ✅ | ✅ | | | 深圳通 |
 | 珠海/ Zhuhai | 岭南通·珠海通 | ✅ | ✅ | ✅ | ✅ | | | 珠海TONG、翼支付、美团、CU卡[^zh] |
 | 汕头/ Shantou | 岭南通·汕头 | ✅ | ✅ | | ✅ | ✅ | ✅ | |
-| 佛山/ Foshan | 岭南通·广佛通 | ✅ | ✅ | ✅ | ✅ | | | 佛山城市通 |
+| 佛山/ Foshan | 岭南通·广佛通 | ✅ | ✅ | ✅ | ✅ | | | 佛山城市通、Alipay HK |
 | 江门/ Jiangmen | 岭南通·五邑通 | ✅ | ✅ | ✅ | ✅ | | ✅ | |
 | 湛江/ Zhanjiang | 岭南通·湛江通 | ✅ | ✅ | ✅ | | | ✅ | 翼支付、美团 |
 | 茂名/ Maoming | 岭南通·茂城通 | ✅ | ✅ | ✅ | ✅ | | ✅ | 美团 |
@@ -312,7 +312,7 @@
 | 阳江/ Yangjiang | 岭南通·漠江通 | ✅ | ✅ | ✅ | ✅ | | ✅ | |
 | 清远/ Qingyuan | 岭南通·广达通 | ✅ | ✅ | ✅ | ✅ | | ✅ | 美团 |
 | 东莞/ Dongguan | 岭南通·东莞通 | ✅ | ✅ | ✅ | ✅ | ✅ | | 东莞通 |
-| 中山/ Zhongshan | 岭南通·中山通 | ✅ | ✅ | ✅ | ✅ | | ✅ | 翼支付 |
+| 中山/ Zhongshan | 岭南通·中山通 | ✅ | ✅ | ✅ | ✅ | | ✅ | 翼支付、Alipay HK |
 | 潮州/ Chaozhou | 岭南通·韩江通 | ✅ | ✅ | ✅ | | | | |
 | 揭阳/ Jieyang | 岭南通·榕江通 | ✅ | ✅ | ✅ | ✅ | | ✅ | |
 | 云浮/ Yunfu | 岭南通·岭云通 | ✅ | ✅ | ✅ | ✅ | | ✅ | 岭南通 |
@@ -501,6 +501,8 @@
 [^ln]: 陇南：仅支持支付宝和微信的付款码
 [^wz]: 吴忠：仅支持支付宝和微信的付款码
 [^kr]: 克拉玛依：仅部分线路支持支付宝、微信和银联的付款码
+[^can]: 广州：仅支持银联手机闪付或银联IC信用卡闪付
+[^can-py]: 广州番禺：仅支持番禺区属路线（番字头）
 [^hk]: 香港：仅支持AlipayHk（即支付宝香港版）
 [^mo]: 澳门：仅支持电子现金（即内地已经逐渐淘汰的银联脱机闪付），为发卡行当日汇率
 [^mo2]: 澳门：理论上支持所有住建部城市一卡通标准的公交卡，推荐上海公共交通卡（紫卡），经多人测试可用，为卡机设定的固定汇率
