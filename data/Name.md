@@ -103,10 +103,10 @@
 | 湘潭 | 潭 | 缩略 | **Xiangtan** | Siangtan | 邮政式拼音 |
 | 常德 | 常 | 缩略 | **Changde** | Changteh | 邮政式拼音 |
 | 永州 | 永 | 缩略 | **Yongzhou** | Yungchow | 邮政式拼音 |
-| 广州 | 穗/*广* | 传说，“五仙骑羊赠稻穗” | **Guangzhou** | Canton/Kwuangchow | 邮政式拼音(“广东”) |
+| 广州 | 穗/*广* | 传说，“五仙骑羊赠稻穗” | **Guangzhou** | Canton/Kwangchow | 邮政式拼音(“广东”) |
 | 佛山 | 禅/佛 | 寓意/缩略 | **Foshan** | | |
 | 深圳 | 鹏/深 | 寓意/缩略 | **Shenzhen** | Shumchun | 邮政式拼音 |
-| 汕头 | 汕/鮀 | 缩略/古称，鮀浦三都府 | **Shantou** | Swatou | 邮政式拼音(闽语) |
+| 汕头 | 汕/鮀 | 缩略/古称，鮀浦三都府 | **Shantou** | Swatow | 邮政式拼音(闽语) |
 | 汕尾 | | | **Shanwei** | Swabue | | 邮政式拼音(闽语) |
 | 东莞 | 莞 | 缩略 | **Dongguan** | |
 | 南宁 | 邕/*南* | 河流，邕江 | **Nanning** | |
