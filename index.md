@@ -6,16 +6,16 @@
 
 ### 乘客向/ For Passengers 👨‍🚀👩‍🚀
 - [轨道交通支付方式/ Payment Methods for Rail Transit](https://ivysauro.github.io/CNRT/data/Pay)
-- [地面公交支付方式/ Payment Methods for Bus](https://ivysauro.github.io/CNRT/data/Bus%20Pay)
+- [地面公交支付方式/ Payment Methods for Bus](https://ivysauro.github.io/CNRT/data/BusPay)
 - [NFC 交通卡/ NFC Transit Card](https://ivysauro.github.io/CNRT/data/NFC)
-- [运营方式/ General Operations](https://ivysauro.github.io/CNRT/data/General%20Operations)
-- [安检互认/ Security Check Recognition](https://ivysauro.github.io/CNRT/data/Security%20Check)
+- [运营方式/ General Operations](https://ivysauro.github.io/CNRT/data/OpCo)
+- [安检互认/ Security Check Recognition](https://ivysauro.github.io/CNRT/data/SecuCk)
 
 ### 车迷向/ For Fans 🕵️‍♂️🕵️‍♀️
 - [空铁联运/ Air-Rail](https://ivysauro.github.io/CNRT/data/Air-Rail)
 - [双铁联运/ Rail-Rail](https://ivysauro.github.io/CNRT/data/Rail-Rail)
-- [特殊运营方式（中文）/ Special Operations (In Chinese)](https://ivysauro.github.io/CNRT/data/Special%20Operations)
-- [特殊站（中文）/ Special Station (In Chinese)](https://ivysauro.github.io/CNRT/data/Special%20Station)
+- [特殊运营方式（中文）/ Special Operations (In Chinese)](https://ivysauro.github.io/CNRT/data/SpOp)
+- [特殊站（中文）/ Special Station (In Chinese)](https://ivysauro.github.io/CNRT/data/SpSta)
 - [同名站/ Namesake Stations](https://ivysauro.github.io/CNRT/data/Namesake)
 - [之最（中文）/ No.1 (In Chinese)](https://ivysauro.github.io/CNRT/data/zui)
 
