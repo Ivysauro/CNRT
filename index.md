@@ -2,13 +2,13 @@
 
 ## 目录/ Content 📖
 
-- [各省电子健康证明申领支持情况/ Support Circumenstance for Applying Digital Health Certificate of Provincial Administrative Regions](https://ivysauro.github.io/CNRT/data/Health%20QR)
+- [各省电子健康证明申领支持情况/ Support Circumenstance for Applying Digital Health Certificate of Provincial Administrative Regions](https://ivysauro.github.io/CNRT/data/HealthQR)
 
 ### 乘客向/ For Passengers 👨‍🚀👩‍🚀
 - [轨道交通支付方式/ Payment Methods for Rail Transit](https://ivysauro.github.io/CNRT/data/Pay)
 - [地面公交支付方式/ Payment Methods for Bus](https://ivysauro.github.io/CNRT/data/BusPay)
 - [NFC 交通卡/ NFC Transit Card](https://ivysauro.github.io/CNRT/data/NFC)
-- [运营方式/ General Operations](https://ivysauro.github.io/CNRT/data/OpCo)
+- [运营方式/ General Operations](https://ivysauro.github.io/CNRT/data/GeOp)
 - [安检互认/ Security Check Recognition](https://ivysauro.github.io/CNRT/data/SecuCk)
 
 ### 车迷向/ For Fans 🕵️‍♂️🕵️‍♀️
