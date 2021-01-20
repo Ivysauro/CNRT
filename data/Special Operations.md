@@ -2,9 +2,9 @@
 
 ## 目录
 
-| [环行](#环行) | [越行](#越行) | [编组](#编组) | [跨城](#跨城) | [跨线](#跨线) | [贯通](#贯通) | [拆分](#拆分) |
+| [环行](#环行) | [越行](#越行) | [编组](#编组) | [跨城](#跨城) | [跨线](#跨线) | [贯通](#贯通) | [拆分](#拆分) | [支线](#支线) |
 |-----|-----|-----|-----|-----|-----|-----|
-| **[支线](#支线)** | **[分段](#分段)** | **[脱网](#脱网)** | **[停运](#停运)** | **[座席](#座席)** | **[广播](#广播)** | **[参考](#参考资料)** |
+| **双线(#双线)** | **[分段](#分段)** | **[脱网](#脱网)** | **[停运](#停运)** | **[座席](#座席)** | **[广播](#广播)** | **[参考](#参考资料)** |
 
 ## 环行
 
@@ -15,8 +15,8 @@
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海地铁4号线（2005.12-2007.12，共线环线）
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cd.gif" width="20" hegiht="20"/>成都地铁7号线（2017.12，独立环线）
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/zz.gif" width="20" hegiht="20"/>郑州地铁5号线（2019.5，独立环线）
+- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cq.gif" width="20" hegiht="20"/>重庆地铁环线（2018.12-2021.1，独立环线）
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tp.gif" width="20" hegiht="20"/>***台北捷运环状线***(2020.1-，未闭环）
-- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cq.gif" width="20" hegiht="20"/>***重庆地铁环线***（2018.12-，未闭环）
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/kh.gif" width="20" hegiht="20"/>***高雄捷运环状轻轨（绿线）***（2015.10-，未闭环）
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hrb.gif" width="20" hegiht="20"/>***哈尔滨地铁3号线***（2017.1-，未闭环）
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>***北京地铁副中心2号线***
@@ -167,6 +167,8 @@
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cd.gif" width="20" hegiht="20"/>成都地铁1号线
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/km.gif" width="20" hegiht="20"/>昆明地铁1号线
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hz.gif" width="20" hegiht="20"/>杭州地铁1号线
+- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hz.gif" width="20" hegiht="20"/>杭州地铁1号线
+- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hz.gif" width="20" hegiht="20"/>杭州地铁6号线
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>~~广州地铁14号线~~
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>***北京地铁17号线***
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>***北京地铁22号线***
@@ -185,6 +187,14 @@
 
 ### 其他支线
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>***北京地铁副中心2号线***
+
+## 双线
+
+快慢线并行
+
+- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cd.gif" width="20" hegiht="20"/>成都地铁1号线&18号线
+- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>*北京地铁1号线&18号线*
+- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>~~北京地铁19号线&大兴机场线~~（原规划）
 
 ## 分段
 
