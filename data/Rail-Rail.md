@@ -64,7 +64,7 @@
 | 🥾~600m | 重庆/ Chongqing | 重庆/ Chongqing/ CQW | 成都局/ CR Chengdu | 两路口/ Lianglukou |
 |  | 重庆/ Chongqing | 重庆北/ Chongqingbei/ CUW | 成都局/ CR Chengdu | 重庆北站北广场/ Chongqing North Station North Square |
 |  | 重庆/ Chongqing | 重庆北/ Chongqingbei/ CUW | 成都局/ CR Chengdu | 重庆北站南广场/ South Square of Chongqingbei Railway Station→Chongqing North Station South Square |
-|  | 重庆/ Chongqing | 重庆西/ Chongqingxi/ CXW | 成都局/ CR Chengdu | 🏗重庆西站/ Chongqingxi RS |
+|  | 重庆/ Chongqing | 重庆西/ Chongqingxi/ CXW | 成都局/ CR Chengdu | 重庆西站/ Chongqing West Station |
 |  | 重庆/ Chongqing | 🏗江北机场/ Jiangbei Airport | 成都局/ CR Chengdu | 江北机场T2航站楼/ Terminal 2 of Jiangbei Airport |
 |  | 重庆/ Chongqing | 🏗江北机场/ Jiangbei Airport | 成都局/ CR Chengdu | 江北机场T3航站楼/ Terminal 3 of Jiangbei Airport |
 |  | 重庆/ Chongqing | 🏗江津北/ Jiangjinbei | 成都局/ CR Chengdu | 🏗江津高铁/ Jiangjin Station |
