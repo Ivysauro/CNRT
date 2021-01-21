@@ -24,6 +24,7 @@
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | 微信乘车码 | WeChat Pay Transit QR Code |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | 云闪付乘车码 | Unionpay Transit QR Code |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay QR.png" width="40" hegiht="40" alt="Unionpay QR Code"/> | 银联付款码 | Unionpay Payment QR Code |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/contactless_long.gif" width="40" hegiht="40" alt="Global Cards"/> | 国际卡 | Global Cards |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Bus.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> | 其他应用乘车码 | Transit QR Code of Additional Apps |
 
 *[银联闪付]: 指银联云闪付（联机闪付），不包括电子现金（脱机闪付）
