@@ -99,7 +99,7 @@
 | | 高雄/ Kaohsiung/ KHH | 华东-台北/ RCKH | 高雄国际机场/ Kaohsiung International Airport | 红线 |
 | | 沈阳桃仙/ Shenyang Taoxian/ SHE | 东北-沈阳/ ZYTX | 🏗航站楼/ HANGZHANLOU、🏗桃仙机场/ TAOXIANJICHANG | |
 | | 成都双流/ Chengdu Shuangliu/ CTU | 西南-昆明/ ZUUU | 双流机场1航站楼/ Terminal 1 of Shuangliu International Airport、双流机场2航站楼/ Terminal 2 of Shuangliu International Airport | 10号线 |
-| | 🏗成都天府/ Chengdu Tianfu/ TFU | 西南-昆明/ ZU?? | 🏗天府机场1号2号航站楼/ Terminal 1 & 2 of Tianfu International Airport、🏗天府机场3号4号航站楼/ Terminal 3 & 4 of Tianfu International Airport | 18号线 |
+| | 🏗成都天府/ Chengdu Tianfu/ TFU | 西南-昆明/ ZUTF| 🏗天府机场1号2号航站楼/ Terminal 1 & 2 of Tianfu International Airport、🏗天府机场3号4号航站楼/ Terminal 3 & 4 of Tianfu International Airport | 18号线 |
 | | 西安咸阳/ Xi'an Xianyang/ XIY | 西北-兰州/ ZLXY | *机场/ Airport*、机场西/ Airport West | 14号线 |
 | | 昆明长水/ Kunming Changshui/ KMG | 西南-昆明/ ZPPP | 机场前/ Airport Front、机场中心/ KUNMING Airport | 6号线 |
 | | 杭州萧山/ Hangzhou Xiaoshan/ HGH | 华东-上海/ ZSHC | 萧山国际机场/ Xiaoshan International Airport | 1号线、7号线 |
