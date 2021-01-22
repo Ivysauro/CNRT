@@ -24,9 +24,14 @@
 | ❌ | 已下线 | Closed |
 | 💥 | 新变动 | New Update |
 
-大部分加入住建部[全国城市一卡通互联互通项目](http://www.icfw.com.cn/city_card.php)（即City Union，简称CU）的城市目前仅加载该标准或已加入交通部[全国交通一卡通互联互通项目](https://www.cttic.cn/info/2349)（即China T-Union，简称TU），很多已不通过该标准与其他城市结算或互通，故将单标CU卡列入市民卡、CU&TU双标卡列入交通联合卡，仅在加载该标准的卡名称后标注“#”。
+| 图标/ Icon | 中文/ Chinese | 英文/ English |
+| :-: | :- | :- |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="35" hegiht="35"> | 交通联合卡（即加入交通运输部[全国交通一卡通互联互通项目](https://www.cttic.cn/info/2349)） | China T-Union, TU |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/City Union.png" width="30" hegiht="30"> | 城市一卡通卡（即加入住房与城乡建设部[全国城市一卡通互联互通项目](http://www.icfw.com.cn/city_card.php)) | City Union, CU |
 
-## 嵌入式安全元件（eSE）技术驱动的NFC交通卡/ Transit Cards powered by Embedded Secure Element (eSE)
+大部分加入CU的城市目前仅加载该标准或已加入TU，很多已不通过该标准与其他城市结算或互通。
+
+## 嵌入式安全元件（eSE）技术驱动的交通卡/ Transit Cards powered by Embedded Secure Element (eSE)
 
 ### 交通运输部·交通联合卡/ T-Union Cards <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="35" hegiht="35">
 
