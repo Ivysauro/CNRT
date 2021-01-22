@@ -129,7 +129,7 @@
 | 卡名称/ Card Name | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Nubia.png" width="40" hegiht="40" alt="nubia"/>努比亚/ nubia | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Smartisan.png" width="20" hegiht="20" alt="Smartisan"/>锤子/ Smartisan | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Lenovo.png" width="40" hegiht="40" alt="Lenovo"/>联想/ Lenovo | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Gionee.png" width="20" hegiht="20" alt="Gionee"/>金立/ Gionee |  <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Lakala.png" width="20" hegiht="20" alt="Lakala"/>拉卡拉/ Lakala |
 | :- | :-: | :-: | :-: | :-: | :-: |
 | 北京市政交通一卡通 | ❌ | ❌ | ❌ | | ✅ |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20">京津冀互联互通卡 | | | ❌ | | |
+| 京津冀互联互通卡<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | | | ❌ | | |
 | 上海都市旅游卡 | | | | | ✅ |
 | 广东·岭南通 | | ❌ | | ❌ | ✅ |
 | 深圳通 | ❌ | ❌ | | ❌ | ✅ |
@@ -138,10 +138,10 @@
 
 | 卡名称/ Card Name | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Mini Program.png" width="25" hegiht="25" alt="WeChat Mini Program"/>[腾讯乘车卡](https://zh.wikipedia.org/wiki/%E9%A8%B0%E8%A8%8A%E4%B9%98%E8%BB%8A%E7%A2%BC#%E7%9B%B8%E9%97%9C%E7%94%A2%E5%93%81) |
 | :- | :-: |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20">河北交通一卡通 | ✅ |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20">厦门e通卡 | ✅ |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20">赣州通 | ✅ |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20">西安·长安通 | ✅ |
+| 河北交通一卡通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ |
+| 厦门e通卡<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ |
+| 赣州通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ |
+| 西安·长安通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ |
 | 乌鲁木齐·红山通 | ✅ |
 
 ## NFC-SIM技术驱动的交通卡/ Transit Cards powered by NFC-SIM 
