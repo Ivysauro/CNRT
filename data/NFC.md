@@ -37,88 +37,88 @@
 
 | 卡名称/ Card Name | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/OnePlus.png" width="25" hegiht="25" alt="OnePlus"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/>  | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/vivo.png" width="40" hegiht="40" alt="vivo"/> |
 | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 京津冀互联互通卡 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ ||
-| 天津城市卡# | ✅ | ✅ | | ✅ | | | ✅ | ✅ ||
-| 河北交通一卡通	| | ✅ | ✅ | | | | ✅ | ✅ ||
-| 石家庄一卡通（燕赵通） | ✅ | ✅ | | ✅ | ✅ | ✅ | ✅ | ✅ ||
-| 邯郸市民卡（邯郸通）# | | ✅ ||||||||
-| 沈阳·盛京通 | ✅ | ✅ | ✅ | | | | ✅ | ✅ ||
-| 包头·鹿城通 | | ✅ | | | | | | ✅ ||
-| 大连明珠卡# | ✅ | ✅ | ✅ | | | ✅ | ✅ | ✅ ||
-| 吉林通	| ✅ | ✅ | ✅ | | | ✅ | ✅ | ✅ ||
-| 哈尔滨城市通#	| ✅ | ✅ | ✅ | | | ✅ | ✅ | ✅ ||
-| 上海公共交通卡# | 🕓 | ✅ |||| ✅ ||||
-| 江苏交通一卡通·南京（金陵通） | ✅ | ✅ | | ✅ | | | ✅ | ✅ ||
-| 江苏交通一卡通·镇江 | ✅ | ✅ | | | | | | ✅ ||
-| 江苏交通一卡通·扬州 | ✅ | ✅ | | | | | | ✅ ||
-| 江苏交通一卡通·苏州 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ ||
-| 江苏交通一卡通·无锡# | ✅ | ✅ | | | ✅ | | ✅ | ✅ ||
-| 江苏交通一卡通·常州（龙城通） | ✅ | ✅ | ✅ | ✅ | | | ✅ | ✅ ||
-| 江苏交通一卡通·盐城（黄海通） | ✅ | ✅ | | | | | ✅ | ✅ ||
-| 江苏交通一卡通·南通（通城通） | ✅ | ✅ | ✅ | | | | | ✅ ||
-| 江苏交通一卡通·泰州 | ✅ | ✅ | | | | | | ✅ |
-| 江苏交通一卡通·徐州（淮海通） | ✅ | ✅ | | ✅💥 | | | ✅ | ✅ ||
-| 江苏交通一卡通·淮安（江淮通） | ✅ | ✅ | | | | | | ✅ ||
-| 江苏交通一卡通·连云港 | ✅ | ✅ | | | | | ✅ | ✅ ||
-| 江苏交通一卡通·宿迁 | ✅ | ✅ | | | | | | ✅ ||
-| 绍兴一卡通# | ✅ | | | | | | ✅ | ✅ ||
-| 台州公共交通卡# | ✅ | | ✅ | | | ✅ | ✅ | ✅ ||
-| 合肥通 | ✅ | ✅ | | | | | | ✅ ||
-| 厦门e通卡 | ✅ | ✅ | | ✅ | | | | ✅ ||
-| 莆田城市一卡通 | | 🕓 |
-| 南平·武夷通 | | 🕓 |
-| 漳州·九龙卡 | | 🕓 |
-| 赣州通 | ✅ | ✅ | | | | | | ✅ || 
-| 青岛·琴岛通# | ✅ | ✅ | ✅ | | | ✅ | ✅ | ✅ ||
-| 烟台市民卡 | | ✅ |
-| 潍坊通# | | ✅ ||||| ✅ |||
-| 河南·轩辕通（绿城通交通联合版） | ✅ | ✅ | | 🕓 ||||||
-| 十堰·车城通# | | | | | | | ✅ | ✅ ||
-| 长沙·潇湘卡 | ✅ | ✅ | ✅💥 | ✅ | ✅ | | ✅ | ✅ ||
-| 广东·岭南通 | ✅ | ✅ | | ✅ | ✅ | ✅ | ✅ | ✅ ||
-| 广州·羊城通	| ✅ | ✅ | | | | | | ||
-| 深圳通 | ✅ | ✅ | | ✅ | ✅ | 🕓 | ✅ | ✅ ||
-| 珠海通# | | | | | ✅ | | ✅ | ✅ |
-| 云浮·岭云通 | ✅ | 🕓 |
-| 韶关·韶州通 | | 🕓 |
-| 揭阳·榕江通 | | 🕓 |
-| 潮州通 | | ✅💥 |
-| 河源粤支付 | | ✅💥 |
-| 茂名·茂城通 | | ✅💥 |
-| 广西交通一卡通（桂民卡） | ✅ | ✅ | | | ✅ | ✅ | ✅ | ✅ ||
-| 海南一卡通（海岛通） | ✅ | ✅ | | | | ✅ | ✅ | ✅ ||
-| 贵州通 | | ✅ ||||| ✅ |||
-| 西藏一卡通 | | | | | | | | ✅ ||
-| 西安·长安通 | ✅ | | ✅ | ✅ | | ✅ | ✅ | ✅ ||
-| 榆林·驼城通 | | ✅ | | | | | | ✅ | |
-| 丝路任我行·兰州公交一卡通 | | ✅ | | | | | ✅ | ✅ ||
-| 西宁·夏都通 | | ✅ |||||| 🕓 ||
-| 乌鲁木齐·红山通# | | 🕓 ||||||||
-| | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/OnePlus.png" width="25" hegiht="25" alt="OnePlus"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/>  | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/vivo.png" width="40" hegiht="40" alt="vivo"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Mini Program.png" width="25" hegiht="25" alt="WeChat Transit Card"/> |
+| 京津冀互联互通卡<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ ||
+| 天津城市卡<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | | ✅ | | | ✅ | ✅ ||
+| 河北交通一卡通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20">	| | ✅ | ✅ | | | | ✅ | ✅ ||
+| 石家庄一卡通（燕赵通）<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | | ✅ | ✅ | ✅ | ✅ | ✅ ||
+| 邯郸市民卡（邯郸通）<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | | ✅ ||||||||
+| 沈阳·盛京通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | ✅ | | | | ✅ | ✅ ||
+| 包头·鹿城通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | | ✅ | | | | | | ✅ ||
+| 大连明珠卡<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | ✅ | | | ✅ | ✅ | ✅ ||
+| 吉林通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20">	| ✅ | ✅ | ✅ | | | ✅ | ✅ | ✅ ||
+| 哈尔滨城市通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20">	| ✅ | ✅ | ✅ | | | ✅ | ✅ | ✅ ||
+| 上海公共交通卡<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"><img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/City Union.png" width="20" hegiht="20"> | 🕓 | ✅ |||| ✅ ||||
+| 江苏交通一卡通·南京（金陵通）<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | | ✅ | | | ✅ | ✅ ||
+| 江苏交通一卡通·镇江<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | | | | | | ✅ ||
+| 江苏交通一卡通·扬州<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | | | | | | ✅ ||
+| 江苏交通一卡通·苏州<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ ||
+| 江苏交通一卡通·无锡<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | | | ✅ | | ✅ | ✅ ||
+| 江苏交通一卡通·常州（龙城通）<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | ✅ | ✅ | | | ✅ | ✅ ||
+| 江苏交通一卡通·盐城（黄海通）<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | | | | | ✅ | ✅ ||
+| 江苏交通一卡通·南通（通城通）<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | ✅ | | | | | ✅ ||
+| 江苏交通一卡通·泰州<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | | | | | | ✅ |
+| 江苏交通一卡通·徐州（淮海通）<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | | ✅💥 | | | ✅ | ✅ ||
+| 江苏交通一卡通·淮安（江淮通）<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | | | | | | ✅ ||
+| 江苏交通一卡通·连云港<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | | | | | ✅ | ✅ ||
+| 江苏交通一卡通·宿迁<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | | | | | | ✅ ||
+| 绍兴一卡通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | | | | | | ✅ | ✅ ||
+| 台州公共交通卡<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"><img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/City Union.png" width="20" hegiht="20"> | ✅ | | ✅ | | | ✅ | ✅ | ✅ ||
+| 合肥通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | | | | | | ✅ ||
+| 厦门e通卡<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | | ✅ | | | | ✅ ||
+| 莆田城市一卡通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | | 🕓 |
+| 南平·武夷通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | | 🕓 |
+| 漳州·九龙卡<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | | 🕓 |
+| 赣州通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | | | | | | ✅ || 
+| 青岛·琴岛通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | ✅ | | | ✅ | ✅ | ✅ ||
+| 烟台市民卡<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | | ✅ |
+| 潍坊通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | | ✅ ||||| ✅ |||
+| 郑州·绿城通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"><img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/City Union.png" width="20" hegiht="20"> | ✅ | ✅ | | 🕓 ||||||
+| 十堰·车城通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | | | | | | | ✅ | ✅ ||
+| 长沙·潇湘卡<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | ✅💥 | ✅ | ✅ | | ✅ | ✅ ||
+| 广东·岭南通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | | ✅ | ✅ | ✅ | ✅ | ✅ ||
+| 广州·羊城通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20">	| ✅ | ✅ | | | | | | ||
+| 深圳通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | | ✅ | ✅ | 🕓 | ✅ | ✅ ||
+| 珠海通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"><img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/City Union.png" width="20" hegiht="20"> | | | | | ✅ | | ✅ | ✅ |
+| 云浮·岭云通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | 🕓 |
+| 韶关·韶州通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | | 🕓 |
+| 揭阳·榕江通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | | 🕓 |
+| 潮州通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | | ✅💥 |
+| 河源粤支付<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | | ✅💥 |
+| 茂名·茂城通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | | ✅💥 |
+| 广西交通一卡通（桂民卡）<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | | | ✅ | ✅ | ✅ | ✅ ||
+| 海南一卡通（海岛通）<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | | | | ✅ | ✅ | ✅ ||
+| 贵州通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | | ✅ ||||| ✅ |||
+| 西藏一卡通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | | | | | | | | ✅ ||
+| 西安·长安通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | | ✅ | ✅ | | ✅ | ✅ | ✅ ||
+| 榆林·驼城通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | | ✅ | | | | | | ✅ | |
+| 兰州公交一卡通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | | ✅ | | | | | ✅ | ✅ ||
+| 西宁·夏都通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | | ✅ |||||| 🕓 ||
+| 乌鲁木齐·红山通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | | 🕓 ||||||||
+| | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/OnePlus.png" width="25" hegiht="25" alt="OnePlus"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/>  | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/vivo.png" width="40" hegiht="40" alt="vivo"/> |
 
 ### 住房与城乡建设部·城市一卡通卡及各地市民卡/ City Union Cards & Citizen Cards <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/City Union.png" width="30" hegiht="30"><img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Citizen Card.png" width="30" hegiht="30"> 
 
 | 卡名称/ Card Name | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/OnePlus.png" width="25" hegiht="25" alt="OnePlus"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/>  | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/vivo.png" width="40" hegiht="40" alt="vivo"/> |
 | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 北京市政交通一卡通 | ❌ | ❌ | ❌ | ❌ | | | | | |
-| 上海公共交通卡# | ✅ | ✅ | ✅ | ✅ | | ✅ | ✅ | ✅ ||
+| 上海公共交通卡<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/City Union.png" width="20" hegiht="20"> | ✅ | ✅ | ✅ | ✅ | | ✅ | ✅ | ✅ ||
 | 苏州市民卡	| ❌ | ❌ ||||||||
-| 太仓市民卡# | | | | | | | ✅[^tco] |
-| 杭州通#	| ❌ | ✅ ||||||||
-| 宁波·甬城通# | ✅ | ✅ | | | | | ✅ | ✅ ||
-| 金华市民卡·八婺通# | | ✅ ||||| ✅ |||
+| 太仓市民卡<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/City Union.png" width="20" hegiht="20"> | | | | | | | ✅[^tco] |
+| 杭州通	| ❌ | ✅ ||||||||
+| 宁波·甬城通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/City Union.png" width="20" hegiht="20"> | ✅ | ✅ | | | | | ✅ | ✅ ||
+| 金华市民卡·八婺通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/City Union.png" width="20" hegiht="20"> | | ✅ ||||| ✅ |||
 | 合肥通	| ✅ | ✅ | ✅ | | ✅ | ✅ | ✅ | ✅ ||
 | 福路通·榕城通 | | 🕓 |
 | 厦门e通卡	| ✅ | ✅ | ✅ | | | ✅ | ✅ | ✅ ||
-| 南昌·洪城通# | | ✅ | | | | | ✅ | 🕓 ||
-| 郑州·绿城通# | ✅ | | ✅ | | ✅ | ✅ | ✅ | ✅ ||
+| 南昌·洪城通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/City Union.png" width="20" hegiht="20"> | | ✅ | | | | | ✅ | 🕓 ||
+| 郑州·绿城通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/City Union.png" width="20" hegiht="20"> | ✅ | | ✅ | | ✅ | ✅ | ✅ | ✅ ||
 | 武汉通	| ✅ | ✅ | ✅ | | ✅ | ✅ | ✅ | ✅ ||
 | 广东·岭南通	| ✅ | ✅ | ✅ | | | | | ||
 | 深圳通	| ❌ | ❌ | ❌ | | ❌ | ❌ | ❌ | |||
 | 重庆·宜居畅通卡	| ✅ | ✅ | | | ✅ | ✅ | ✅ | ✅ ||
 | 成都·天府通	| ✅ | ✅ | | | | | ✅ |||
-| 西安·长安通#	| ✅ | ✅ | | | ✅ | | | ✅ ||
-| 乌鲁木齐·红山通# | | | | | | | | ||
+| 西安·长安通	| ✅ | ✅ | | | ✅ | | | ✅ ||
+| 乌鲁木齐·红山通 | | | | | | | | ||
 | 香港·八达通 | | ✅💥[^hk] | ✅[^hk] | ✅[^hk2] ||||||
 | 台北·悠游卡 | | | ✅[^yy] |
 | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/OnePlus.png" width="25" hegiht="25" alt="OnePlus"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/>  | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/vivo.png" width="40" hegiht="40" alt="vivo"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Mini Program.png" width="25" hegiht="25" alt="WeChat Transit Card"/> |
@@ -140,6 +140,8 @@
 | 深圳通 | ❌ | ❌ | | ❌ | ✅ |
 
 ## 基于主机的卡模拟（HCE）技术驱动的交通卡/ Transit Cards powered by Host-based Card Emulation (HCE)
+
+❗部分地区可能无法收单HCE交通卡，给出的理由为违反交通联合卡发行规定/ HCE Transit Cards may cannot be used in some cities, the reason given is a violation of TU card issuance regulations
 
 | 卡名称/ Card Name | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Mini Program.png" width="25" hegiht="25" alt="WeChat Mini Program"/>[腾讯乘车卡](https://zh.wikipedia.org/wiki/%E9%A8%B0%E8%A8%8A%E4%B9%98%E8%BB%8A%E7%A2%BC#%E7%9B%B8%E9%97%9C%E7%94%A2%E5%93%81) |
 | :- | :-: |
