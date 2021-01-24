@@ -17,7 +17,7 @@
 
 <https://www.lboro.ac.uk/gawc/world2020t.html>
 
-| WR | NR | Level | City | 城市 | 所属国家 | 标记 | Change |
+| WR | NR | Level | City | 城市 | 所属国家 | | Change |
 |---|---|---|---|---|---|---|---|
 | 1 | 1 | Alpha \+\+ | London | 伦敦 | 英国 | 🏛️🔄 | 0 |
 | 2 | 1 | Alpha \+\+ | New York | 纽约 | 美国 | 🔄 | 0 |
