@@ -8,7 +8,7 @@
 | - | - | - | - | - |
 |  | 北京/ Beijing | 北京/ Beijing/ BJP | 北京局/ CR Beijing | 北京站/ Beijing RS |
 |  | 北京/ Beijing | 北京北/ Beijingbei/ VAP | 北京局/ CR Beijing | 西直门/ XIZHIMEN |
-|  | 北京/ Beijing | *北京朝阳/ Beijingchaoyang/ XUP* | 北京局/ CR Beijing | 🏗朝阳站/ Chaoyang RS |
+|  | 北京/ Beijing | 北京朝阳/ Beijingchaoyang/ IFP | 北京局/ CR Beijing | 🏗朝阳站/ Chaoyang RS |
 | 👟~1.2km | 北京/ Beijing | 北京大兴/ Beijingdaxing/ IPP | 北京局/ CR Beijing | 黄村火车站/ HUANGCUN RS |
 |  | 北京/ Beijing | 北京东/ Beijingdong/ BOP | 北京局/ CR Beijing | 🏗北京东站/ Beijing East RS |
 |  | 北京/ Beijing | 北京南/ Beijingnan/ VNP | 北京局/ CR Beijing | 北京南站/ Beijing South RS |
