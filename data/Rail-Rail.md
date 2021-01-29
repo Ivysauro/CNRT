@@ -97,6 +97,7 @@
 |  | 佛山/ Foshan | 🏗张槎/ Zhangcuo | 广州局/ CR Guangzhou | 🏗张槎/ Zhangcha |
 |  | 广州/ Guangzhou | 广州/ Guangzhou/ GZQ | 广州局/ CR Guangzhou | 广州火车站/ Guangzhou RS |
 |  | 广州/ Guangzhou | 广州北/ Guangzhoubei/ GBQ | 广州局/ CR Guangzhou | 广州北站/ Guangzhou North RS |
+|  | 广州/ Guangzhou | 花都/ Huadu/ HAA | 广东城际/ Guangdong Intercity | 广州北站/ Guangzhou North RS |
 |  | 广州/ Guangzhou | 广州东/ Guangzhoudong/ GGQ | 广州局/ CR Guangzhou | 广州东站/ Guangzhou East RS |
 |  | 广州/ Guangzhou | 广州南/ Guangzhounan/ IZQ | 广州局/ CR Guangzhou | 广州南站/ Guangzhou South RS |
 |  | 广州/ Guangzhou | 庆盛/ Qingsheng/ QSQ | 广州局/ CR Guangzhou | 庆盛/ Qingsheng |
