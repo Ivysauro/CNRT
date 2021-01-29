@@ -23,6 +23,7 @@
 | 🚌~10km | 台北桃园/ Taipei Taoyuan/ TPE | 华东-台北/ RCTP | 桃园/ Taoyuan/ TAY | 台铁/ TRA-台湾高速线 |
 | | 武汉天河/ Wuhan Tianhe/ WUH | 中南-武汉/ ZHHH | 天河机场/ Tianhe Airport/ TJN | 武汉局/ CR Wuhan-武孝城际线 |
 | | 郑州新郑/ Zhengzhou Xinzheng/ CGO | 中南-武汉/ ZHCC | 新郑机场/ Xinzheng Airport/ EZF | 郑州局/ CR Zhengzhou-郑机城际线 |
+| | 广州白云/ Guangzhou Baiyun/ CAN | 中南-广州/ ZGGG | 白云机场北/ Baiyun Airport North/ BBA | 广东城际/ Guangdong Intercity-广州东环城际线 | 
 | | 深圳宝安/ Shenzhen Bao'an/ SZX | 中南-广州/ ZGSZ | 深圳机场/ Shenzhen Airport/ SCA | 广州局/ CR Guangzhou-穗深城际线 |
 | | 揭阳潮汕/ Jieyang Chaoshan/ SWA | 中南-广州/ ZGOW | 揭阳机场/ Jieyang-Jichang/ JUA | 广州局/ CR Guangzhou-梅汕线 |
 | | 三亚凤凰/ Sanya Phoenix/ SYX | 中南-三亚/ ZJSY | 凤凰机场/ Fenghuang-Jichang/ FJQ | 广州局/ CR Guangzhou-海南环岛线 |
