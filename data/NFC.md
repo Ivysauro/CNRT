@@ -49,7 +49,7 @@
 | 吉林通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20">	| ✅ | ✅ | ✅ | | | ✅ | ✅ | ✅ ||
 | 哈尔滨城市通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20">	| ✅ | ✅ | ✅ | | | ✅ | ✅ | ✅ ||
 | 上海公共交通卡<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/City Union.png" width="20" hegiht="20"> | ✅ | ✅ | ✅ | ✅ | | ✅ | ✅ | ✅ ||
-| 上海公共交通卡<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"><img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/City Union.png" width="20" hegiht="20"> | 🕓 | ✅ |||| ✅ ||||
+| 上海公共交通卡<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"><img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/City Union.png" width="20" hegiht="20"> | ✅💥 | ✅ |||| ✅ ||||
 | 江苏交通一卡通·南京（金陵通）<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | | ✅ | | | ✅ | ✅ ||
 | 江苏交通一卡通·无锡<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | | 🕓 | ✅ | | ✅ | ✅ ||
 | 江苏交通一卡通·徐州（淮海通）<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | | ✅💥 | | | ✅ | ✅ ||
