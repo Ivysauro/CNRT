@@ -283,7 +283,7 @@
 | 省直管-天门市/ Tianmen | | ✅ | | | ⭕[^tm] | | | |
 | 省直管-神农架林区/ Shennongjia | | ✅ |
 | **湖南/ Hunan** | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay NFC.png" width="40" hegiht="40" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay QR.png" width="40" hegiht="40" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Bus.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
-| 长沙/ Changsha | 潇湘卡 | ✅ | ✅ | ✅ | | ✅ | | 湘行一卡通、长沙地铁、和包支付、闪客蜂 |
+| 长沙/ Changsha | 潇湘卡 | ✅ | ✅ | ✅ | | ✅ | | 湘行一卡通、长沙地铁、我的长沙、和包支付 |
 | 株洲/ Zhuzhou | 株洲交通一卡通 | ✅ | ✅ | ✅ | | | ✅ | |
 | 湘潭/ Xiangtan | 湘潭交通一卡通 | ✅ | ✅ | ✅ | | ✅ | ✅ | 湘潭出行 |
 | 衡阳/ Hengyang | 衡阳交通一卡通 | ✅ | ✅ | ✅ | ✅ | ✅ | | |
