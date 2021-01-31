@@ -226,7 +226,7 @@
 | 上海龙华 | Shanghai Longhua | N/A | ZSSL, Longhua |
 | 郑州东郊 | Zhengzhou Dongjiao | CGO, ChenGchOw | ZHCC, ChengChow |
 | 武汉王家墩 | Wuhan Wangjiadun | WJD, WangJiaDun | ZHWT |
-| 长沙大托铺 | Changsha Datuopu | CSX, ChangSha+X | ZGHA, HuanghuA |
+| 长沙大托铺 | Changsha Datuopu | CSX, ChangSha+X | ZGCS, ChangSha |
 | 广州白云（旧） | Guangzhou Baiyun(Old) | CAN, CANton | ZGGG |
 | 昆明巫家坝 | Kunming Wujiaba | KMG, KunMinG | ZPPP |
 | 西安西关 | Xi'an Xiguan | SIA, SiAn | ZLSN, SiaN |
