@@ -206,6 +206,7 @@
 | 乌海 | Wuhai | WUA, WUhAi | ZBUH, wUHai |
 | 阿勒泰 | Altay | AAT, A+AlTay | ZWAT, AlTay |
 | 台州路桥 | Taizhou Luqiao | HYN, HuangYaN | ZSLQ, LuQiao |
+| 梧州西江 | Wuzhou Xijiang | WUZ, WUZhou | ZGWZ, WuZhou |
 
 ## 3C
 
