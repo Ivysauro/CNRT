@@ -11,7 +11,7 @@
 ### 长度
 - 最长的线路：上海地铁11号线（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，82.8km）
 - 最长的环线：北京地铁10号线（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，57.1km）
-- 最长的全地下线路：广州地铁3号线（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州，64.4km）
+- 最长的全地下线路：成都地铁6号线（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cd.gif" width="20" hegiht="20"/>成都，68.76km）
 - 最长的全地上线路：武汉地铁1号线（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wh.gif" width="20" hegiht="20"/>武汉，38.5km）
 - 最长的站间距：大兴机场-大兴新城（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，大兴机场线，25.5km）
 - 最长的地铁线站间距：2号航站楼-三元桥（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，首都机场线，20.7km）
