@@ -347,7 +347,7 @@
 
 | | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay NFC.png" width="40" hegiht="40" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay QR.png" width="40" hegiht="40" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/contactless.gif" width="40" hegiht="40" alt="Global Cards"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Bus.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
 | :- | :- | :-: | :-: | :-: | :-: | :-: | :-: | :- | :- |
-| **香港/ Hong Kong** | 八达通 | | ⭕[^hk1] | ⭕[^hk] | | ⭕️[^hk1] | | | Alipay HK[^hk] |
+| **香港/ Hong Kong** | 八达通 | | ⭕[^hk1] | ⭕[^hk] | | ⭕️[^hk1] | | ⭕️[^hk2] | Alipay HK[^hk] |
 | **澳门/ Macao** | 澳门通 | | ⭕[^mo] | | | | | | 澳门通、上海公共交通卡[^mo2] |
 
 ### 西南地区/ Southwestern China
@@ -510,8 +510,9 @@
 [^kr]: 克拉玛依：仅部分线路支持支付宝、微信和银联的付款码
 [^can]: 广州：仅支持银联手机闪付或银联IC信用卡闪付
 [^can-py]: 广州番禺：仅支持番禺区属路线（番字头）
-[^hk]: 香港：仅龙运巴士、新巴城巴指定路线及部分小巴路线支持
-[^hk1]: 香港：仅龙运巴士及指定新巴城巴路线支持，不支持IC借记卡的非电子现金交易及绑定借记卡的手机闪付
+[^hk]: 香港：仅龙运巴士所有路线、九巴指定路线、新巴城巴指定路线及部分小巴路线支持
+[^hk1]: 香港：仅龙运巴士所有路线、九巴指定路线及新巴城巴指定路线支持，不支持IC借记卡的非电子现金交易及绑定借记卡的手机闪付
+[^hk2]: 香港：支持感应式Visa、Mastercard
 [^mo]: 澳门：仅支持电子现金（即内地已经逐渐淘汰的银联脱机闪付），为发卡行当日汇率
 [^mo2]: 澳门：理论上支持所有住建部城市一卡通标准的公交卡，推荐上海公共交通卡（紫卡），经多人测试可用，为卡机设定的固定汇率
 
