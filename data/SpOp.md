@@ -42,6 +42,7 @@
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京地铁6号线（2020.3）
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cq.gif" width="20" hegiht="20"/>重庆地铁10号线（2020.9）
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>~~广州地铁14号线~~（主支线贯通车，2018.12-2019.12）
+- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nj.gif" width="20" hegiht="20"/>***南京地铁S6线***
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wx.gif" width="20" hegiht="20"/>***无锡地铁S1线***
 
 ### 无越行线
