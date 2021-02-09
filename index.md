@@ -45,6 +45,7 @@
 - [白菜酱谈交联](http://supershinetalkabouttu.mysxl.cn/)
 
 ---
-发现错误或有建议请直接至 [Github 项目主页](https://github.com/Ivysauro/CNRT)提 `issue`😀~
 
-If you have any questions, just open an `issue` in [Github Repo Site](https://github.com/Ivysauro/CNRT)😉~
+互动请直接至 [Github 项目主页](https://github.com/Ivysauro/CNRT)，开issue提PR甚至评论区灌水😀~
+
+Welcome to [Github Repo Site](https://github.com/Ivysauro/CNRT) for issue, pull request and even chatting😉~
