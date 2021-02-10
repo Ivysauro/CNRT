@@ -1,10 +1,12 @@
 # 同名站/ Namesake Stations
 
-按开通时间排序/ Rank by Station Open Time
-
 有轨电车站不计入/ Tram stations are not counted
 
 ## 中文同名站/ Namesake in Chinese
+
+按开通时间排序/ Rank by Station Open Time
+
+数据更新于2021-02-10/ This data is updated on 2021-02-10
 
 | 站名/ Station Name | 始于/ Since | 归属/ Affiliated City |
 | :-: | :-: | :- |
@@ -168,7 +170,9 @@
 
 不区分大小写/ Case insensitive
 
-北京地铁按“2018年后开通的车站使用新规”处理/ Only Stations opened after 2018 of Beijing Subway applied to the new translation method
+2018年后开通的北京地铁车站按新规处理/ Only Stations opened after 2018 of Beijing Subway applied to the new translation method
+
+数据更新于2020-06-30/ This data is updated on 2020-06-30
 
 | 站名/ Station Name | 归属/ Affiliated City | 对应中文/ Chinese Station Name |
 | :----------------- | :------------------- | :----------------------------- |
@@ -286,7 +290,5 @@
 - <https://tieba.baidu.com/p/5232014601>
 - <http://www.ditiezu.com/thread-346819-1-1.html>
 - <https://mp.weixin.qq.com/s/84RrM1Ogyr_Bg6y-itYC0Q>
-
-数据更新于2020-06-30/ This data is updated on 2020-06-30
 
 ---
