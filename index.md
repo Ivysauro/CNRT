@@ -13,7 +13,7 @@
 
 ### 车迷向/ For Fans 🕵️‍♂️🕵️‍♀️
 - [空铁联运/ Air-Rail](https://ivysauro.github.io/CNRT/data/Air-Rail)
-- [双铁联运/ Rail-Rail](https://ivysauro.github.io/CNRT/data/Rail-Rail)
+- [铁铁联运/ Rail-Rail](https://ivysauro.github.io/CNRT/data/Rail-Rail)
 - [特殊运营方式（中文）/ Special Operations (In Chinese)](https://ivysauro.github.io/CNRT/data/SpOp)
 - [特殊站（中文）/ Special Station (In Chinese)](https://ivysauro.github.io/CNRT/data/SpSta)
 - [同名站/ Namesake Stations](https://ivysauro.github.io/CNRT/data/Namesake)
