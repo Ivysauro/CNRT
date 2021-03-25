@@ -21,7 +21,7 @@
 
 | 省级行政区/ Provincial Administrative Region | 健康证明名称/ Name of Health Certificate | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat.png" width="25" hegiht="25" alt="WeChat"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay App"/> | 其他/ Additional Apps |
 | :- | :- | :-: | :-: | :-: | :- |
-| 北京/ Beijing | 北京健康码 | 🔵 | 🟢 | | |
+| 北京/ Beijing | 北京健康码 | 🔵 | 🟢 | | 北京通、百度 |
 | 天津/ Tianjin | 天津健康码 | 🔵 | 🟢 | | 津心办 |
 | 河北/ Hebei | 河北健康码 | 🔵 | 🟢 | | |
 | 山西/ Shanxi | 山西健康码 | 🔵 | | 🔴 | |
