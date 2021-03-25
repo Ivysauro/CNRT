@@ -105,12 +105,12 @@
 |  | 广州/ Guangzhou | 新塘南/ Xintangnan/ NUQ | 广州局/ CR Guangzhou | 新塘/ Xintang |
 |  | 深圳/ Shenzhen | 福海西/ Fuhaixi/ FHA | 广州局/ CR Guangzhou | 🏗和平/ Heping |
 |  | 深圳/ Shenzhen | 福田/ Futian/ NZQ | 广州局/ CR Guangzhou | 福田/ Futian |
-|  | 深圳/ Shenzhen | 平湖/ Pinghu/ PHQ | 广州局/ CR Guangzhou | 🏗平湖/ Pinghu |
+|  | 深圳/ Shenzhen | 平湖/ Pinghu/ PHQ | 广州局/ CR Guangzhou | 平湖/ Pinghu |
 |  | 深圳/ Shenzhen | 沙井西/ Shajingxi/ SJA | 广州局/ CR Guangzhou | 🏗海上田园/ Shanghai Tianyuan |
 |  | 深圳/ Shenzhen | 深圳/ Shenzhen/ SZQ | 广州局/ CR Guangzhou | 🏗罗湖/ Luohu |
 |  | 深圳/ Shenzhen | 深圳北/ Shenzhenbei/ IOQ | 广州局/ CR Guangzhou | 深圳北站/ Shenzhen North Station |
 |  | 深圳/ Shenzhen | 深圳东/ Shenzhendong/ BJQ | 广州局/ CR Guangzhou | 布吉/ Buji |
-|  | 深圳/ Shenzhen | 深圳机场/ Shenzhen Airport/ SCA | 广州局/ CR Guangzhou | 🏗机场/ Airport |
+|  | 深圳/ Shenzhen | 深圳机场/ Shenzhen Airport/ SCA | 广州局/ CR Guangzhou | 机场/ Airport |
 |  | 深圳/ Shenzhen | 深圳机场北/ Shenzhen Airport North/ SBA | 广州局/ CR Guangzhou | 机场北/ Airport North |
 |  | 深圳/ Shenzhen | 深圳坪山/ Shenzhenpingshan/ IFQ | 广州局/ CR Guangzhou | 🏗坪山/ Pingshan |
 |  | 深圳/ Shenzhen | *西丽/ Xili/ ELQ* | 广州局/ CR Guangzhou | 🏗西丽火车站/ Xili RS |
@@ -156,7 +156,7 @@
 |  | 杭州/ Hangzhou | 杭州南/ Hangzhounan/ XHH | 上海局/ CR Shanghai | 火车南站/ South RS |
 |  | 杭州/ Hangzhou | 余杭/ Yuhang/ EVH | 上海局/ CR Shanghai | 余杭高铁/ Yuhang Hi-RS |
 |  | 杭州/ Hangzhou | 🏗杭州西/ Hangzhouxi | 上海局/ CR Shanghai | 🏗火车西站/ West RS |
-|  | 杭州/ Hangzhou | 🏗萧山机场/ Xiaoshan Airport | 上海局/ CR Shanghai | 🏗萧山机场/ Xiaoshan Airport |
+|  | 杭州/ Hangzhou | 🏗萧山机场/ Xiaoshan Airport | 上海局/ CR Shanghai | 萧山国际机场/ Xiaoshan International Airport |
 |  | 合肥/ Hefei | 合肥/ Hefei/ HFH | 上海局/ CR Shanghai | 合肥火车站/ Hefei RS |
 |  | 合肥/ Hefei | 合肥南/ Hefeinan/ ENH | 上海局/ CR Shanghai | 合肥南站/ Heifeinan RS |
 |  | 合肥/ Hefei | 合肥南/ Hefeinan/ ENH | 上海局/ CR Shanghai | 南站南广场/ HEFEI South Railway South Square |
@@ -252,6 +252,7 @@
 |  | 西安/ Xi'an | 西安北/ Xianbei/ EAY | 西安局/ CR Xi'an | 北客站（北广场）/ BEIKEZHAN (BEIGUANGCHANG) |
 |  | 西安/ Xi'an | 🏗西安东/ Xi'Andong/ XDY | 西安局/ CR Xi'an | 🏗西安东站/ XI'ANDONGZHAN |
 |  | 西安/ Xi'an | 🏗西安南/ Xiannan/ CAY | 西安局/ CR Xi'an | 🏗南客站/ NANKEZHAN |
+|  | 咸阳/ Xianyang | 🏗咸阳机场/ Xianyang Airport | 西安局/ CR Xi'an | 机场西/ Airport West |
 |  | 咸阳/ Xianyang | 🏗咸阳机场/ Xianyang Airport | 西安局/ CR Xi'an | 🏗机场/ Airport |
 |  | 咸阳/ Xianyang | 咸阳秦都/ Xianyangqindu/ XOY | 西安局/ CR Xi'an | 🏗咸阳秦都站/ XIANYANGQINDUZHAN |
 |  | 香港/ Hong Kong | 香港红磡/ Hong Kong Hung Hom/ JQO | 港铁/ MTR | 红磡/ Hung Hom |
