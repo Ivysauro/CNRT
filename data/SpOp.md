@@ -247,7 +247,7 @@
 - 1号线（2012.11）、2号线（2014.11）互不连通，随4号线开通于2015.2成网
 
 #### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/jn.gif" width="20" hegiht="20"/>济南
-- 1号线（2019.4）、3号线（2019.12）互不连通
+- 1号线（2019.4）、3号线（2019.12）互不连通，随2号线开通于2021.3成网
 
 ## 停运
 
