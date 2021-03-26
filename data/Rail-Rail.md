@@ -124,6 +124,8 @@
 |  | 呼和浩特/ Hohhot | 呼和浩特东/ Huhehaotedong/ NDC | 呼和浩特局/ CR Hohhot | 呼和浩特东站/ Hohhot East RS |
 |  | 济南/ Jinan | 济南东/ Jinandong/ MDK | 济南局/ CR Jinan | 济南东站/ JINANDONG RAILWAY STATION |
 |  | 济南/ Jinan | 济南西/ Jinanxi/ JGK | 济南局/ CR Jinan | 济南西站/ JINAN WEST RAILWAY STATION |
+|  | 济南/ Jinan | 济南/ Jinan/ JNK | 济南局/ CR Jinan | 济南站北/ JINAN RAILWAY STATION BEI |
+|  | 济南/ Jinan | 济南/ Jinan/ JNK | 济南局/ CR Jinan | 🏗济南站/ JINAN RAILWAY STATION |
 |  | 济南/ Jinan | *历城/ Licheng/ LEK* | 济南局/ CR Jinan | 🏗烈士陵园/ LISHILINGYUAN |
 |  | 青岛/ Qingdao | 董家口/ Dongjiakou/ DTK | 济南局/ CR Jinan | 董家口火车站/ Dongjiakou RS |
 |  | 青岛/ Qingdao | 胶州北/ Jiaozhoubei/ JZK | 济南局/ CR Jinan | 胶州北站/ Jiaozhou North RS |
