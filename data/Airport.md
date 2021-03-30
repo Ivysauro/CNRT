@@ -202,7 +202,7 @@
 | 营口兰旗 | Yingkou Lanqi | YKH, YingKou+H | ZYYK, YingKou |
 | 永州零陵 | Yongzhou Lingling | LLF, LingLing+F | ZGLG, LinglinG |
 | 岳阳三荷 | Yueyang Sanhe | YYA, YueYAng | ZGYY, YueYang |
-| 齐齐哈尔三家子机场 | Qiqihar Sanjiazi | NDG | ZYQQ, QiQihar |
+| 齐齐哈尔三家子 | Qiqihar Sanjiazi | NDG | ZYQQ, QiQihar |
 | 乌海 | Wuhai | WUA, WUhAi | ZBUH, wUHai |
 | 阿勒泰 | Altay | AAT, A+AlTay | ZWAT, AlTay |
 | 台州路桥 | Taizhou Luqiao | HYN, HuangYaN | ZSLQ, LuQiao |
