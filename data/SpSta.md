@@ -184,7 +184,7 @@
 - ~~上元门~~（3号线，2015.4-2015.10）
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sy.gif" width="20" hegiht="20"/>沈阳
-- 皇姑屯站（9号线，2019.5-）
+- ~~~皇姑屯站~~~（9号线，2019.5-2021.3）
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cd.gif" width="20" hegiht="20"/>成都
 - 天府新站（18号线，2020.9-）
