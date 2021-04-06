@@ -2,6 +2,7 @@
 
 ## 目录/ Content 📖
 
+- [2021大事记/ 2021 Datebook](https://ivysauro.github.io/CNRT/data/2021)
 - [各省电子健康证明申领支持情况/ Support Circumenstance for Applying Digital Health Certificate of Provincial Administrative Regions](https://ivysauro.github.io/CNRT/data/HealthQR)
 
 ### 乘客向/ For Passengers 👨‍🚀👩‍🚀
