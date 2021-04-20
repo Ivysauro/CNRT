@@ -73,7 +73,7 @@
 | 台州公共交通卡<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"><img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/City Union.png" width="20" hegiht="20"> | ✅ |  |  | ✅ |  | ✅ | ✅ |  |
 | 合肥通 | ✅ | ✅ |  | ✅ | ✅ | ✅ | ✅ |  |
 | 合肥通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ |  |  |  |  | ✅ |  |
-| 福州·榕城通 |  | ✅💥 |  |  |  |  |  |  |
+| 福州·榕城通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/City Union.png" width="20" hegiht="20"> |  | ✅💥 |  |  |  |  |  |  |
 | 厦门e通卡 | ✅ | ✅ |  | ✅ |  | ✅ | ✅ |  |
 | 厦门e通卡<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | ✅ |  |  |  | ✅ |  |
 | 莆田城市一卡通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> |  | ✅ |  |  |  |  |  |  |
