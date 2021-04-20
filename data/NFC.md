@@ -45,7 +45,7 @@
 | 邯郸市民卡（邯郸通）<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> |  | ✅ |  |  |  |  |  |  |
 | 包头·鹿城通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> |  | ✅ |  |  |  |  | ✅ |  |
 | 沈阳·盛京通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ |  | ✅ |  | ✅ | ✅ |  |
-| 大连明珠卡<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ |  | ✅ |  | ✅ | ✅ |  |
+| 大连明珠卡<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | 🕓 | ✅ |  | ✅ | ✅ |  |
 | 吉林通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ |  | ✅ |  | ✅ | ✅ |  |
 | 哈尔滨城市通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ |  | ✅ |  | ✅ | ✅ |  |
 | 上海公共交通卡<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/City Union.png" width="20" hegiht="20"> | ✅ | ✅ | ✅ | ✅ |  | ✅ | ✅ |  |
