@@ -86,7 +86,7 @@
 
 [^bj]: 北京：交通联合采用专版白名单（具体参见“交通联合官方服务号”微信公众号）/ Special whitelist (see detail in WeChat Official Account) in T-Union
 
-[^sh1]: 上海：异地交通联合卡可享受虚拟换乘优惠；磁悬浮暂不支持交通联合/ Non-local T-Union card can enjoy virtual-transfer discount; Maglev doesn't accept T-Union
+[^sh1]: 上海：异地交通联合卡可享受虚拟换乘优惠/ Non-local T-Union card can enjoy virtual-transfer discount
 
 [^sh2]: 上海：仅磁悬浮支持银联信用卡闪付/ Only Shanghai Maglev accept credit card Quickpass
 
@@ -100,11 +100,11 @@
 
 [^lz]: 兰州：银联闪付仅支持信用卡/ Only credit card accepted in Quickpass
 
+[^kh]: 高雄：银联闪付仅支持信用卡/ Only credit card accepted in Quickpass
+
 [^ty]: 桃园：机场捷运支持在线购票后扫码过闸/ Only Taoyuan Airport MRT support after buying ticket online
 
 [^ty2]: 桃园：银联闪付仅支持信用卡/ Only credit card accepted in Quickpass
-
-[^kh]: 高雄：银联闪付仅支持信用卡/ Only credit card accepted in Quickpass
 
 ## 购票/ Tickets
 
