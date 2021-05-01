@@ -45,7 +45,7 @@
 |  | 石家庄/ Shijiazhuang | 石家庄/ Shijiazhuang/ SJP | 北京局/ CR Beijing | 石家庄站/ SHIJIAZHUANGNAN |
 |  | 石家庄/ Shijiazhuang | 石家庄东/ Shijiazhuangdong/ SXP | 北京局/ CR Beijing | 石家庄东站/ SHIJIAZHUANGDONGZHAN |
 |  | 天津/ Tianjin | 滨海/ Binhai/ YKP | 北京局/ CR Beijing | 🏗于家堡/ YUJIAPU |
-|  | 天津/ Tianjin | 滨海西/ Binhaixi/ FHP | 北京局/ CR Beijing | 🏗滨海站/ BINHAIZHAN |
+|  | 天津/ Tianjin | 滨海西/ Binhaixi/ FHP | 北京局/ CR Beijing | 🏗滨海西站/ BINHAIXIZHAN |
 |  | 天津/ Tianjin | 天津/ Tianjin/ TJP | 北京局/ CR Beijing | 天津站/ TIANJINZHAN |
 |  | 天津/ Tianjin | 天津北/ Tianjinbei/ TBP | 北京局/ CR Beijing | 北站/ BEIZHAN |
 |  | 天津/ Tianjin | 天津南/ Tianjinnan/ TIP | 北京局/ CR Beijing | 南站/ NANZHAN |
@@ -72,7 +72,7 @@
 |  | 贵阳/ Guiyang | 贵阳/ Guiyang/ GIW | 成都局/ CR Chengdu | 贵阳火车站/ Guiyang RS |
 |  | 贵阳/ Guiyang | 贵阳北/ Guiyangbei/ KQW | 成都局/ CR Chengdu | 贵阳北站/ Guiyangbei RS |
 |  | 贵阳/ Guiyang | 贵阳东/ Guiyangdong/ KEW | 成都局/ CR Chengdu | 🏗贵阳东站/ Guiyangdong RS |
-|  | 贵阳/ Guiyang | 龙洞堡/ Longdongbao/ FVW | 成都局/ CR Chengdu | 🏗机场/ Airport |
+|  | 贵阳/ Guiyang | 龙洞堡/ Longdongbao/ FVW | 成都局/ CR Chengdu | 龙洞堡机场/ Longdongbao International Airport |
 |  | 长沙/ Changsha | 观沙岭/ Guanshaling/ FKQ | 广州局/ CR Guangzhou | 观沙岭/ Guanshaling |
 |  | 长沙/ Changsha | 开福寺/ Kaifusi/ FLQ | 广州局/ CR Guangzhou | 开福寺/ Kaifu Temple |
 |  | 长沙/ Changsha | 树木岭/ Shumuling/ FMQ | 广州局/ CR Guangzhou | 树木岭/ Shumuling |
