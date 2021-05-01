@@ -575,6 +575,9 @@
 #### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/suz.gif" width="20" hegiht="20"/>苏州
 - 苏州乐园→狮子山（1号线，2019.12）
 
+#### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hz.gif" width="20" hegiht="20"/>杭州
+- 新桥→阳陂湖（6号线，2021.4）
+
 #### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hrb.gif" width="20" hegiht="20"/>哈尔滨
 - 哈尔滨大街→凯盛源广场（3号线，2018.11）
 - 哈东站→哈尔滨东站（1号线，2019.1）
