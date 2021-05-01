@@ -198,12 +198,12 @@
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hz.gif" width="20" hegiht="20"/>杭州
 - 老余杭、宝善桥（5号线，2020.4-）
-- 之浦路（6号线，2020.12-）
 - ~~火车东站~~（1号线，2012.11-2013.6）
 - ~~新塘~~（4号线，2015.2-2015.6）
 - ~~联庄~~（4号线，2018.1-2018.6）
 - ~~下宁桥~~（2号线，2017.7-2020.6）
 - ~~火车南站~~（5号线，2020.4-2020.6）
+- ~~之浦路~~（6号线，2020.12-2021.4）
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hrb.gif" width="20" hegiht="20"/>哈尔滨
 - 城乡路（3号线，2017.1-）
@@ -237,7 +237,8 @@
 - ~~窦官~~（1号线，2017.12-2019.12）
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xm.gif" width="20" hegiht="20"/>厦门
-- 东瑶、鼎美、马峦中心（2号线，2019.12-）
+- 鼎美、马峦中心（2号线，2019.12-）
+- ~~东瑶~~（2号线，2019.12-2021.4）
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wz.gif" width="20" hegiht="20"/>温州
 - 秀屿、温州火车站、文昌路（S1线，2019.1-）
