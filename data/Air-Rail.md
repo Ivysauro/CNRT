@@ -111,7 +111,7 @@
 | | 青岛流亭/ Qingdao Liuting/ TAO | 华东-上海/ ZSQD | 流亭/ Liuting | 1号线 |
 | | *青岛胶东/Qingdao Jiaodong/ TAO* | 华东-上海/ ZSQD | 🏗胶东机场/ Jiaodong Airport | 8号线 |
 | | 福州长乐/ Fuzhou Changle / FOC | 华东-上海/ ZSFZ | 🏗长乐机场/ Fuzhou Changle International Airport | |
-| | 贵阳龙洞堡/ Guiyang Longdongbao/ KWE | 西南-昆明/ ZUGY | 🏗机场/ Airport | |
+| | 贵阳龙洞堡/ Guiyang Longdongbao/ KWE | 西南-昆明/ ZUGY | 龙洞堡机场/ Longdongbao International Airport | 2号线 |
 | 👟2.2km | 厦门高崎/ Xiamen Gaoqi/ XMN | 华东-上海/ ZSAM | 高崎/ Gaoqi | 1号线 |
 | | 🏗厦门翔安/ Xiamen Xiang'an/ XMN | 华东-上海/ ZSAM | 🏗翔安机场/ Xiang'an Airport | |
 | | 乌鲁木齐地窝堡/ Urumqi Diwopu/ URC | 新疆-乌鲁木齐/ ZWWW | 国际机场/ International Airport | 1号线 |
