@@ -236,13 +236,13 @@
 
 #### 华北地铁二维码互联互通体系（京派）/ Northern China Rail QR Code Union
 
-- 北京（亿通行）：天津、上海、呼和浩特
+- 北京（亿通行）：天津、上海、广州、呼和浩特
 - 天津（天津地铁）：北京
 - 呼和浩特（青城地铁）：北京
 
 #### 华南地铁二维码互联互通体系（粤派）/ Southern China Rail QR Code Union
 
-- 广州（广州地铁）：上海、重庆
+- 广州（广州地铁）：北京、上海、重庆
 
 #### 西南地铁二维码互联互通体系（川派）/ West-southern China Rail QR Code Union
 
