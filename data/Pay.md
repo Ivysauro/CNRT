@@ -28,8 +28,8 @@
 
 | 图标/ Icon | 中文/ Chinese | 英文/ English |
 | :-: | :- | :- |
-| ✅ | 完全支持 | Full Support |
-| ⭕ | 有条件的支持 | Conditional Support |
+| ✅ | 完全支持 | Fully Supported |
+| ⭕ | 有条件的支持 | Conditionally Supported |
 | 🕓 | 即将上线 | Coming Soon |
 | 💥 | 新变动 | New Update |
 
@@ -120,10 +120,10 @@
 
 | 图标/ Icon | 中文/ Chinese | 英文/ English |
 | :-: | :- | :- |
-| ✅ | 完全支持 | Full Supprot |
+| ✅ | 完全支持 | Fully Supproted |
 | ⭕ | 仅限部分车站 | Only in some stations |
 
-### 线下购票/ Buying Tickets on machines 
+### 线下购票/ Purchasing Tickets on machines 
 
 包括自助购票和服务中心购票/ Be applicable to buying tickets on TVM and Service Center
 
@@ -194,7 +194,7 @@
 
 ## 开放性评分/ Open Score
 
-本地虚拟交通卡主流7个厂商全支持得满分20分，超过4个（含）厂商支持得10分，有厂商支持得5分/ For Vitual NFC Local Card, only full 7 brand support can score full 20 marks, over 4 brand support can score 10 marks, and less than 4 can score 5 marks.
+赋分可能存在一定主观性/ There may be subjectivity in assigning marks
 
 ### 图例/ Legend
 
@@ -206,59 +206,61 @@
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | 交通联合 | T-Union |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/NFC.png" width="25" hegiht="25" alt="NFC Local Card"/> | 本地虚拟交通卡 | Virtual NFC Local Card |
 
-| 图标/ Icon | 中文/ Chinese | 英文/ English | 计分/ Mark |
-| :-: | :- | :- | :-: |
-| ✅ | 支持 | Support | 20 |
-| ⭕ | 部分支持 | Partly Support | 10 |
-| ❌ | 不支持 | Not Support | 0 |
+| 图标/ Icon | 计分/ Mark | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay"/><img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/NFC.png" width="25" hegiht="25" alt="NFC Local Card"/> |
+| :-: | :-: | :- | :- | :- | :- |
+| ✅ | 20 | 过闸支持/ Support Passing Gate | 支持闪付及乘车码过闸/ Support Passing Gate by QucikPass and QR | 完全支持/ Fully Supported | 支持主流7家厂商/ Support Full 7 Brands |
+| ✅- | 15 | *不适用/ Not Applicable* | 仅支持闪付过闸/ Only Support Passing Gate by QuickPass | *不适用/ Not Applicable* | 变通地支持主流7家厂商/ Support Full 7 Brands Flexibly |
+| ⭕ | 10 | 仅购票支持/ Only Support Buying Ticket | 仅支持乘车码过闸或不完全地支持闪付过闸/ Only Support Passing Gate by QR OR Partly Supported Passing Gate by QuickPass | 部分支持/ Partly Supported | 支持4家厂商及以上/ Support above 4 Brands |
+| ⭕- | 5 | 有条件地支持购票/ Partly Supported Buying Ticket | 仅购票支持/ Only Support Buying Ticket | *不适用/ Not Applicable* | 有厂商支持/ Supported |
+| ❌ | 0 | 不支持或仅支持第三方应用内免密/ Not Supported | 不支持或仅支持第三方应用内免密/ Not Supported | 不支持/ Not Supported | 不支持/ Not Supported |
 
 ### 主表/ Main Content
 
 | 城市/ City | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/NFC.png" width="25" hegiht="25" alt="NFC Local Card"/> | 得分/ Score |
 | --------- | :------------: | :--------------: | :-----------: | :------------: | :-----------: | :--------: |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京/ Beijing | ⭕ | ⭕ | ✅ | ⭕ | ✅ | 70 |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tj.gif" width="20" hegiht="20"/>天津/ Tianjin | ⭕ | ⭕ | ✅ | ✅ | ⭕ | 70 |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海/ Shanghai | ⭕ | ⭕ | ⭕ | ✅ | ⭕ | 60 |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tj.gif" width="20" hegiht="20"/>天津/ Tianjin | ⭕ | ⭕ | ✅- | ✅ | ⭕ | 65 |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海/ Shanghai | ⭕ | ⭕ | ⭕- | ✅ | ⭕ | 55 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州/ Guangzhou | ✅ | ✅ | ⭕ | ✅ | ⭕ | 80 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cc.gif" width="20" hegiht="20"/>长春/ Changchun | ⭕ | ✅ | ✅ | ✅ | ⭕ | 80 |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/dl.gif" width="20" hegiht="20"/>大连/ Dalian | ❌ | ❌ | ✅ | ✅ | ⭕ | 50 |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wh.gif" width="20" hegiht="20"/>武汉/ Wuhan | ⭕ | ⭕ | ⭕ | ❌ | ⭕ | 40 |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cq.gif" width="20" hegiht="20"/>重庆/ Chongqing | ✅ | ✅ | ✅ | ✅ | ⭕ | 90 |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/dl.gif" width="20" hegiht="20"/>大连/ Dalian | ❌ | ❌ | ✅- | ✅ | ⭕ | 45 |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wh.gif" width="20" hegiht="20"/>武汉/ Wuhan | ⭕ | ⭕ | ⭕- | ❌ | ⭕ | 35 |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cq.gif" width="20" hegiht="20"/>重庆/ Chongqing | ✅ | ✅ | ⭕ | ✅ | ⭕ | 80 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sz.gif" width="20" hegiht="20"/>深圳/ Shenzhen | ⭕ | ✅ | ✅ | ✅ | ⭕ | 80 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nj.gif" width="20" hegiht="20"/>南京/ Nanjing | ✅ | ⭕ | ✅ | ✅ | ⭕ | 80 |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sy.gif" width="20" hegiht="20"/>沈阳/ Shenyang | ✅ | ✅ | ✅ | ✅ | ⭕ | 90 |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cd.gif" width="20" hegiht="20"/>成都/ Chengdu | ✅ | ⭕ | ✅ | ✅ | ⭕- | 75 |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xa.gif" width="20" hegiht="20"/>西安/ Xi'an | ✅ | ✅ | ✅ | ✅ | ⭕ | 90 |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sy.gif" width="20" hegiht="20"/>沈阳/ Shenyang | ✅ | ✅ | ⭕ | ✅ | ⭕ | 80 |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cd.gif" width="20" hegiht="20"/>成都/ Chengdu | ✅ | ⭕ | ⭕ | ✅ | ⭕- | 65 |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xa.gif" width="20" hegiht="20"/>西安/ Xi'an | ✅ | ✅ | ⭕ | ✅ | ⭕ | 80 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/suz.gif" width="20" hegiht="20"/>苏州/ Suzhou | ❌ | ❌ | ❌ | ✅ | ✅ | 40 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/km.gif" width="20" hegiht="20"/>昆明/ Kunming | ✅ | ✅ | ✅ | ✅ | ❌ | 80 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hz.gif" width="20" hegiht="20"/>杭州/ Hangzhou | ✅ | ✅ | ✅ | ✅ | ⭕- | 85 |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hrb.gif" width="20" hegiht="20"/>哈尔滨/ Harbin | ✅ | ✅ | ✅ | ✅ | ⭕ | 90 |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/zz.gif" width="20" hegiht="20"/>郑州/ Zhengzhou | ✅ | ✅ | ✅ | ✅ | ⭕ | 90 |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cs.gif" width="20" hegiht="20"/>长沙/ Changsha | ⭕ | ⭕ | ✅ | ✅ | ✅ | 80 |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hrb.gif" width="20" hegiht="20"/>哈尔滨/ Harbin | ✅ | ✅ | ✅- | ✅ | ⭕ | 85 |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/zz.gif" width="20" hegiht="20"/>郑州/ Zhengzhou | ✅ | ✅ | ⭕ | ✅ | ⭕ | 80 |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cs.gif" width="20" hegiht="20"/>长沙/ Changsha | ⭕ | ⭕ | ⭕ | ✅ | ✅ | 70 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nb.gif" width="20" hegiht="20"/>宁波/ Ningbo | ✅ | ✅ | ✅ | ✅ | ⭕ | 90 |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wx.gif" width="20" hegiht="20"/>无锡/ Wuxi | ✅ | ❌ | ✅ | ✅ | ⭕ | 70 |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wx.gif" width="20" hegiht="20"/>无锡/ Wuxi | ✅ | ❌ | ⭕ | ✅ | ⭕ | 60 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/qd.gif" width="20" hegiht="20"/>青岛/ Qingdao | ⭕ | ⭕ | ❌ | ✅ | ⭕ | 50 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nc.gif" width="20" hegiht="20"/>南昌/ Nanchang | ✅ | ⭕ | ✅ | ✅ | ⭕- | 75 |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/fz.gif" width="20" hegiht="20"/>福州/ Fuzhou | ✅ | ⭕ | ✅ | ✅ | ⭕- | 75 |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/dg.gif" width="20" hegiht="20"/>东莞/ Dongguan | ✅ | ⭕ | ✅ | ✅ | ❌ | 70 |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/fz.gif" width="20" hegiht="20"/>福州/ Fuzhou | ✅ | ⭕ | ⭕ | ✅ | ⭕- | 65 |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/dg.gif" width="20" hegiht="20"/>东莞/ Dongguan | ✅ | ⭕ | ⭕ | ✅ | ❌ | 60 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nn.gif" width="20" hegiht="20"/>南宁/ Nanning | ✅ | ⭕ | ⭕ | ✅ | ⭕ | 70 |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hf.gif" width="20" hegiht="20"/>合肥/ Hefei | ⭕ | ⭕ | ✅ | ✅ | ⭕ | 70 |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sjz.gif" width="20" hegiht="20"/>石家庄/ Shijiazhuang | ⭕ | ⭕ | ✅ | ✅ | ✅- | 75 |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hf.gif" width="20" hegiht="20"/>合肥/ Hefei | ⭕ | ⭕ | ✅- | ✅ | ⭕ | 65 |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sjz.gif" width="20" hegiht="20"/>石家庄/ Shijiazhuang | ⭕ | ⭕ | ⭕ | ✅ | ✅- | 65 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gy.gif" width="20" hegiht="20"/>贵阳/ Guiyang | ⭕ | ⭕ | ❌ | ✅ | ⭕- | 45 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xm.gif" width="20" hegiht="20"/>厦门/ Xiamen | ✅ | ⭕ | ✅ | ✅ | ⭕ | 80 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wlmq.gif" width="20" hegiht="20"/>乌鲁木齐/ Urumqi | ⭕ | ⭕ | ❌ | ❌ | ❌ | **20** |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wz.gif" width="20" hegiht="20"/>温州/ Wenzhou | ⭕ | ⭕ | ✅ | ❌ | ❌ | 40 |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/jn.gif" width="20" hegiht="20"/>济南/ Jinan | ⭕ | ⭕ | ✅ | ✅ | ❌ | 60 |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wz.gif" width="20" hegiht="20"/>温州/ Wenzhou | ⭕ | ⭕ | ✅- | ❌ | ❌ | 35 |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/jn.gif" width="20" hegiht="20"/>济南/ Jinan | ⭕ | ⭕ | ✅- | ✅ | ❌ | 55 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/lz.gif" width="20" hegiht="20"/>兰州/ Lanzhou | ✅ | ✅ | ⭕ | ✅ | ⭕- | 75 |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cz.gif" width="20" hegiht="20"/>常州/ Changzhou | ⭕ | ⭕ | ✅ | ✅ | ⭕ | 70 |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cz.gif" width="20" hegiht="20"/>常州/ Changzhou | ⭕ | ⭕ | ✅- | ✅ | ⭕ | 65 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xz.gif" width="20" hegiht="20"/>徐州/ Xuzhou | ❌ | ❌ | ✅ | ✅ | ⭕ | 50 |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hhht.gif" width="20" hegiht="20"/>呼和浩特/ Hohhot | ⭕ | ⭕ | ✅ | ❌ | ❌ | 40 |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tay.gif" width="20" hegiht="20"/>太原/ Taiyuan | ⭕ | ⭕ | ⭕ | ❌ | ❌ | 30 |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hhht.gif" width="20" hegiht="20"/>呼和浩特/ Hohhot | ⭕ | ⭕ | ⭕ | ❌ | ❌ | 30 |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tay.gif" width="20" hegiht="20"/>太原/ Taiyuan | ⭕ | ⭕ | ⭕- | ❌ | ❌ | 25 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/ly.gif" width="20" hegiht="20"/>洛阳/ Luoyang | ⭕ | ❌ | ❌ | ✅ | ❌ | 30 |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hk.gif" width="20" hegiht="20"/>香港/ Hong Kong | ✅ | ⭕ | ⭕ | | ⭕- | - |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hk.gif" width="20" hegiht="20"/>香港/ Hong Kong | ✅ | ⭕ | ⭕- | | ⭕- | - |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/mo.gif" width="20" hegiht="20"/>澳门/ Macao | | | | | | - |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tp.gif" width="20" hegiht="20"/>台北/ Taipei | | | | | ⭕- | - |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/kh.gif" width="20" hegiht="20"/>高雄/ Kaohsiung | | | ✅ | | | - |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/kh.gif" width="20" hegiht="20"/>高雄/ Kaohsiung | | | ⭕ | | | - |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/ty.gif" width="20" hegiht="20"/>桃园/ Taoyuan | | | ⭕ | | ⭕- | - |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tc.gif" width="20" hegiht="20"/>台中/ Taichung | | | | | | - | 
 | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/NFC.png" width="25" hegiht="25" alt="NFC Local Card"/> | |
