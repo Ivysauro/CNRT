@@ -499,6 +499,8 @@
 - 洞庭路→泰达（9号线，2005.4）
 - 西横堤→瑞景新苑（1号线，2018.7）
 - 果酒厂→佳园里（1号线，2018.7）
+- 北洋村→国家会展中心（1号线，2021.5）
+- 国展路→国瑞路（1号线，2021.5）
 
 #### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海
 - 锦江乐园→虹梅路（1号线，1997.7）
