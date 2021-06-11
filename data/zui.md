@@ -52,3 +52,4 @@
 - 最多换乘线路的站（严格意义）：世纪大道（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，4线8向，2/4/6/9）、车公庙（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sz.gif" width="20" hegiht="20"/>深圳，4线8向，1/7/9/11）
 - 最多换乘次数的线（不考虑共线）：长沙地铁2号线/4号线（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cs.gif" width="20" hegiht="20"/>长沙，4次，溁湾镇、沙湾公园、长沙火车南站、光达）
 - 最多快车服务的区间：新和-嘉禾望岗（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州，每日56对，2018.12-2019.12）
+- 连续换乘站点最多的线路：上海地铁12号线（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，连续12站，桂林公园-天潼路）
