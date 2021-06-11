@@ -50,7 +50,7 @@
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sy.gif" width="20" hegiht="20"/>沈阳/ Shenyang | ✅ | | ✅ | ✅ | ✅ | | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cd.gif" width="20" hegiht="20"/>成都/ Chengdu | ✅ | | ✅ | | ✅ | | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xa.gif" width="20" hegiht="20"/>西安/ Xi'an | ✅ | | ✅ | ✅ | ✅ | | ✅ | |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/suz.gif" width="20" hegiht="20"/>苏州/ Suzhou | ✅ | | | | |  |✅ | |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/suz.gif" width="20" hegiht="20"/>苏州/ Suzhou | ✅ | ⭕[^suz] | | | |  |✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/km.gif" width="20" hegiht="20"/>昆明/ Kunming | ✅ | ✅ | ✅ | ✅ | ✅ |  |✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hz.gif" width="20" hegiht="20"/>杭州/ Hangzhou | ✅ | ✅ | ✅ | ✅ | ✅ |  |✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hrb.gif" width="20" hegiht="20"/>哈尔滨/ Harbin | ✅ | ⭕[^hrb] | ✅ | ✅ | ✅ | | ✅ | |
@@ -91,6 +91,8 @@
 [^sh2]: 上海：仅磁悬浮支持银联信用卡闪付/ Only Shanghai Maglev accept credit card Quickpass
 
 [^gz]: 广州：银联闪付仅支持[信用卡](http://cs.gzmtr.com/ckfw/pwzy/201811/t20181106_60161.htm)和招行借记卡（APM无此限制）/ Only [credit card](http://cs.gzmtr.com/ckfw/pwzy/201811/t20181106_60161.htm) and CMB debit card accepted in Quickpass (APM accept all cards)
+
+[^suz]: 苏州：银联闪付仅支持银联卡闪付，暂不支持银联手机闪付/ Only Quickpass on Bank Card accepted, Quickpass on Mobile Phone not supported
 
 [^hrb]: 哈尔滨：银联闪付仅支持工行、交行、广发、浦发、邮储借记卡信用卡和招商银行借记卡/ Only CMB debit card and ICBC, COM, CGB, SPDB, CPG debit or credit cards accepted in Qucikpass
 
@@ -231,7 +233,7 @@
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sy.gif" width="20" hegiht="20"/>沈阳/ Shenyang | ✅ | ✅ | ⭕ | ✅ | ⭕ | 80 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cd.gif" width="20" hegiht="20"/>成都/ Chengdu | ✅ | ⭕ | ⭕ | ✅ | ⭕- | 65 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xa.gif" width="20" hegiht="20"/>西安/ Xi'an | ✅ | ✅ | ⭕ | ✅ | ⭕ | 80 |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/suz.gif" width="20" hegiht="20"/>苏州/ Suzhou | ❌ | ❌ | ❌ | ✅ | ✅ | 40 |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/suz.gif" width="20" hegiht="20"/>苏州/ Suzhou | ❌ | ❌ | ⭕ | ✅ | ✅ | 50 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/km.gif" width="20" hegiht="20"/>昆明/ Kunming | ✅ | ✅ | ✅ | ✅ | ❌ | 80 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hz.gif" width="20" hegiht="20"/>杭州/ Hangzhou | ✅ | ✅ | ✅ | ✅ | ⭕- | 85 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hrb.gif" width="20" hegiht="20"/>哈尔滨/ Harbin | ✅ | ✅ | ✅- | ✅ | ⭕ | 85 |
