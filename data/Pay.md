@@ -1,6 +1,7 @@
 # 轨道交通支付方式/ Payment Methods for Rail Transit
 
-地面公交支付方式点[这里](https://ivysauro.github.io/CNRT/data/Bus%20Pay)跳转/ For Buses, go to [HERE](https://ivysauro.github.io/CNRT/data/Bus%20Pay)
+地面公交支付方式点[这里](https://ivysauro.github.io/CNRT/data/BusPay)跳转/ For Buses, go to [HERE](https://ivysauro.github.io/CNRT/data/BusPay)
+官方应用的具体信息点[这里](https://ivysauro.github.io/CNRT/data/GeOp#App)/ Click [HERE](https://ivysauro.github.io/CNRT/data/GeOp#App) for Detailed Info of Official Apps
 
 ## 目录/ Content
 - [过闸/ Passing Gate](#过闸-passing-gate)
@@ -21,7 +22,7 @@
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | [微信乘车码](https://zh.wikipedia.org/wiki/%E9%A8%B0%E8%A8%8A%E4%B9%98%E8%BB%8A%E7%A2%BC) | WeChat Pay Transit QR Code |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | [云闪付乘车码](https://zh.wikipedia.org/wiki/%E9%A8%B0%E8%A8%8A%E4%B9%98%E8%BB%8A%E7%A2%BC#%E7%9B%B8%E9%97%9C%E7%94%A2%E5%93%81) | Unionpay Transit QR Code |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/contactless_long.gif" width="40" hegiht="40" alt="Global Cards"/> | 国际卡 | Global Cards |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Official Apps"/> | 官方应用乘车码 | Transit QR Code of Official Apps |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Official Apps"/> | 官方应用乘车码 | Transit QR Code on Official Apps |
 
 *[银联闪付]: 指银联云闪付（联机闪付），不包括电子现金（脱机闪付）
 *[银联二维码]: 指符合银联标准的二维码，可在银联指定的应用内使用（如云闪付、各银行客户端、京东、美团等） 
