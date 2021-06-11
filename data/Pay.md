@@ -1,6 +1,7 @@
 # 轨道交通支付方式/ Payment Methods for Rail Transit
 
 地面公交支付方式点[这里](https://ivysauro.github.io/CNRT/data/BusPay)跳转/ For Buses, go to [HERE](https://ivysauro.github.io/CNRT/data/BusPay)
+
 官方应用的具体信息点[这里](https://ivysauro.github.io/CNRT/data/GeOp#App)/ Click [HERE](https://ivysauro.github.io/CNRT/data/GeOp#App) for Detailed Info of Official Apps
 
 ## 目录/ Content
