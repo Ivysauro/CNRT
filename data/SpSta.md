@@ -184,12 +184,13 @@
 - ~~上元门~~（3号线，2015.4-2015.10）
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sy.gif" width="20" hegiht="20"/>沈阳
-- ~~~皇姑屯站~~~（9号线，2019.5-2021.3）
+- ~~皇姑屯站~~（9号线，2019.5-2021.3）
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cd.gif" width="20" hegiht="20"/>成都
+- ~~天府机场1号2号航站楼~~（18号线，2020.12-2021.6）
 - 天府新站（18号线，2020.9-）
 - 青岛路、芦角（6号线，2020.12-）
-- 福田、官堰、天府机场1号2号航站楼、天府机场3号4号航站楼（18号线，2020.12-）
+- 福田、官堰、天府机场3号4号航站楼（18号线，2020.12-）
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xa.gif" width="20" hegiht="20"/>西安
 - 火车站（4号线，2018.12-）
