@@ -21,6 +21,7 @@
 | 南京禄口 | Nanjing Lukou | NKG, NanKinG | ZSNJ, NanJing |
 | 长沙黄花 | Changsha Huanghua | CSX, ChangSha+X; HHA, HuangHuA | ZGHA, HuanghuA |
 | 桂林两江 | Guilin Liangjiang | KWL, KWeiLin | ZGKL, KweiLin |
+| 成都天府 | Chengdu Tianfu | TFU, TianFU | ZUTF, TianFu |
 | 香港（赤鱲角） | Hong Kong | HKG, Hong KonG | VHHH |
 | 台北桃园 | Taipei Taoyuan | TPE, TaiPEi | RCTP, TaiPei |
 
