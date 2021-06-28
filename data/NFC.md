@@ -91,7 +91,8 @@
 | 十堰·车城通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> |  |  |  |  |  | ✅ | ✅ |  |
 | 长沙·潇湘卡<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 🐲 |
 | 广东·岭南通 | ✅ | ✅ |  | ✅ |  |  |  |  |
-| 广东·岭南通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ❌ | ✅ | ✅ |  | ✅ | ✅ | ✅ |  |
+| 广东·岭南通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 🐲 |
+| 广州·羊城通 | | ✅ |
 | 广州·羊城通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ |  | ✅💥 |  | ✅ | ✅ |  |
 | 韶关·韶州通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ |  | ✅💥 |  | ✅ | ✅ |  |
 | 深圳通 | ❌ | ❌ |  | ❌ | ❌ | ❌ |  |  |
