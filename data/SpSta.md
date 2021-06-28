@@ -308,7 +308,6 @@
 - 五四广场（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/qd.gif" width="20" hegiht="20"/>青岛地铁2号线/3号线，同向）
 
 ##### 单向同台换乘
-- 大围（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hk.gif" width="20" hegiht="20"/>港铁东铁线/屯马线一期，下行同向）
 - 南昌（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hk.gif" width="20" hegiht="20"/>港铁西铁线/东涌线，下行反向）
 - 欣澳（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hk.gif" width="20" hegiht="20"/>港铁东涌线/迪士尼线，上行反向）
 - 天津站（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tj.gif" width="20" hegiht="20"/>天津地铁2号线/9号线，上行同向）
@@ -317,6 +316,7 @@
 - 南京南站（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nj.gif" width="20" hegiht="20"/>南京地铁S1号线/S3号线，上/下行反向）
 - 太平园（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cd.gif" width="20" hegiht="20"/>成都地铁3号线/10号线，上行同向）
 - 客运中心（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hz.gif" width="20" hegiht="20"/>杭州地铁1号线主支线，上行同向）
+- ~~大围~~（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hk.gif" width="20" hegiht="20"/>港铁东铁线/屯马线一期，下行同向）
 
 #### 其他便利换乘
 ##### 连续同线换乘
@@ -603,6 +603,8 @@
 
 #### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hk.gif" width="20" hegiht="20"/>香港
 - 马鞍山线→屯马线一期（2020.2）
+- 西铁线→屯马线（2021.6）
+- 屯马线一期→屯马线（2021.6）
 
 #### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海
 - 明珠线→3号线
