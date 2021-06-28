@@ -156,14 +156,14 @@
 |  | 杭州/ Hangzhou | 杭州/ Hangzhou/ HZH | 上海局/ CR Shanghai | 城站/ Chengzhan |
 |  | 杭州/ Hangzhou | 杭州东/ Hangzhoudong/ HGH | 上海局/ CR Shanghai | 火车东站/ East RS |
 |  | 杭州/ Hangzhou | 杭州南/ Hangzhounan/ XHH | 上海局/ CR Shanghai | 火车南站/ South RS |
-|  | 杭州/ Hangzhou | 余杭/ Yuhang/ EVH | 上海局/ CR Shanghai | 余杭高铁/ Yuhang Hi-RS |
+|  | 杭州/ Hangzhou | 余杭/ Yuhang/ EVH | 上海局/ CR Shanghai | 余杭高铁/ Yuhang Hi-RS→余杭高铁站/ Yuhang RS |
 |  | 杭州/ Hangzhou | 🏗杭州西/ Hangzhouxi | 上海局/ CR Shanghai | 🏗火车西站/ West RS |
 |  | 杭州/ Hangzhou | 🏗萧山机场/ Xiaoshan Airport | 上海局/ CR Shanghai | 萧山国际机场/ Xiaoshan International Airport |
 |  | 合肥/ Hefei | 合肥/ Hefei/ HFH | 上海局/ CR Shanghai | 合肥火车站/ Hefei RS |
 |  | 合肥/ Hefei | 合肥南/ Hefeinan/ ENH | 上海局/ CR Shanghai | 合肥南站/ Heifeinan RS |
 |  | 合肥/ Hefei | 合肥南/ Hefeinan/ ENH | 上海局/ CR Shanghai | 南站南广场/ HEFEI South Railway South Square |
 |  | 合肥/ Hefei | 🏗合肥西/ Hefeixi/ HTH | 上海局/ CR Shanghai | 合肥西站/ Hefeixi RS |
-|  | 嘉兴/ Jiaxing | 海宁西/ Hainingxi/ EUH | 上海局/ CR Shanghai | 🏗海宁高铁/ Haining Hi-RS |
+|  | 嘉兴/ Jiaxing | 海宁西/ Hainingxi/ EUH | 上海局/ CR Shanghai | 海宁高铁西站/ Hainingxi RS |
 | 👟~1.6km | 南京/ Nanjing | 江宁/ Nanjing/ JJH | 上海局/ CR Shanghai | 南医大·江苏经贸学院/ NMU/JIETT |
 | 👟~1.0km | 南京/ Nanjing | 六合/ Nanjing/ KLH | 上海局/ CR Shanghai | 方州广场/ FANGZHOUGUANGCHANG |
 |  | 南京/ Nanjing | 南京/ Nanjing/ NJH | 上海局/ CR Shanghai | 南京站/ NANJING RAILWAY STATION |
