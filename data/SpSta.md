@@ -356,9 +356,11 @@
 
 ##### 同名站不换乘
 - 浦电路（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，4号线、6号线）
+- 福田口岸（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sz.gif" width="20" hegiht="20"/>深圳，4号线、10号线）
 - ~~东北师大~~（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cc.gif" width="20" hegiht="20"/>长春，1号线、3号线，3号线已改名“博硕路”）
 
 ##### 换乘站不同名
+- 北客站/北客站（北广场）（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xa.gif" width="20" hegiht="20"/>西安，2号线、4/14号线，将统一命名为“西安北站”）
 - ~~临河街/卫星路~~（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cc.gif" width="20" hegiht="20"/>长春，3号线、4号线，已统一命名为“职业学院”）
 
 #### 闸外换向
