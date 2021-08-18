@@ -25,7 +25,7 @@
 | | 郑州新郑/ Zhengzhou Xinzheng/ CGO | 中南-武汉/ ZHCC | 新郑机场/ Xinzheng Airport/ EZF | 郑州局/ CR Zhengzhou-郑机城际线 |
 | | 广州白云/ Guangzhou Baiyun/ CAN | 中南-广州/ ZGGG | 白云机场北/ Baiyun Airport North/ BBA | 广东城际/ Guangdong Intercity-广州东环城际线 | 
 | | 深圳宝安/ Shenzhen Bao'an/ SZX | 中南-广州/ ZGSZ | 深圳机场/ Shenzhen Airport/ SCA | 广州局/ CR Guangzhou-穗深城际线 |
-| | 揭阳潮汕/ Jieyang Chaoshan/ SWA | 中南-广州/ ZGOW | 揭阳机场/ Jieyang-Jichang/ JUA | 广州局/ CR Guangzhou-梅汕线 |
+| | 揭阳潮汕/ Jieyang Chaoshan/ SWA | 中南-广州/ ZGOW | 揭阳机场/ Jieyangjichang/ JUA | 广州局/ CR Guangzhou-梅汕线 |
 | | 三亚凤凰/ Sanya Phoenix/ SYX | 中南-三亚/ ZJSY | 凤凰机场/ Fenghuang-Jichang/ FJQ | 广州局/ CR Guangzhou-海南环岛线 |
 | | 海口美兰/ Haikou Meilan/ HAK | 中南-三亚/ ZJHK | 美兰/ Meilan/ MHQ | 广州局/ CR Guangzhou-海南环岛线 |
 | 🚌~4km | 琼海博鳌/ Qionghai Bo'ao/ BAR | 中南-三亚/ ZJQH | 博鳌/ Bo'ao/ BWQ | 广州局/ CR Guangzhou-海南环岛线 |
@@ -43,7 +43,7 @@
 | | 天津滨海/ Tianjin Binhai/ TSN | 华北-北京/ ZBTJ | 🏗滨海机场/ Binhai Airport | 北京局/ CR Beijing-🏗京滨城际线 |
 | 🚌~4km | 上海浦东/ Shanghai Pudong/ PVG | 华东-上海/ ZSPD | 🏗上海东/ Shanghaidong | 上海局/ CR-Shanghai-🏗北沿江高速线、🏗沪通线 |
 | | 杭州萧山/ Hangzhou Xiaoshan/ HGH | 华东-上海/ ZSHC | 🏗萧山机场/ Xiaoshan Airport | 上海局/ CR Shanghai-🏗杭绍台高速线 |
-| | 🏗青岛胶东/ Qingdao Jiaodong/ TAO | 华东-上海/ ZSQD | 🏗青岛机场/ Qingdao Airport | 济南局/ CR Jinan-济青高速线、胶济客专线 |
+| | 🏗青岛胶东/ Qingdao Jiaodong/ TAO | 华东-上海/ ZSQD | 青岛机场/ Qingdaojichang | 济南局/ CR Jinan-济青高速线、胶济客专线 |
 | | 烟台蓬莱/ Yantai Penglai/ YNT | 华东-上海/ ZSYT | 🏗蓬莱机场/ Penglai Airport | 济南局/ CR Jinan-🏗环渤海高速线 |
 | | 南昌昌北/ Nanchang Changbei/ KHN | 华东-上海/ ZSCN | 🏗昌北机场/ Changbei Airport | 南昌局/ CR Nanchang-🏗京港高速线 |
 | | 广州白云/ Guangzhou Baiyun/ CAN | 中南-广州/ ZGGG | 🏗白云机场/ Baiyun Airport | 广东城际-🏗珠三角城际广佛环线、穗深线 |
