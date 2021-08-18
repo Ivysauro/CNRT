@@ -179,7 +179,7 @@
 | **安徽/ Anhui** | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay NFC.png" width="40" hegiht="40" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay QR.png" width="40" hegiht="40" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Bus.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
 | 合肥/ Hefei | 合肥通 | ✅ | ✅ | ✅ | ✅ | ✅ | | 合肥通、翼支付 |
 | 芜湖/ Wuhu | 芜湖一卡通 | ✅ | ✅ | ✅ | | ✅ | | |
-| 蚌埠/ Bengbu | 蚌埠交通一卡通 | ✅ | ✅ | ✅ | | ✅ | ✅ | |
+| 蚌埠/ Bengbu | 蚌埠交通一卡通 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | |
 | 淮南/ Huainan | 淮南畅通卡 | ✅ | ✅ | | ✅ | ✅ | | 淮南码上行 |
 | 马鞍山/ Ma'anshan | 马鞍山交通一卡通 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | |
 | 淮北/ Huaibei | 淮北交通一卡通 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | |
