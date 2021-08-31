@@ -20,6 +20,7 @@
 | | 上海虹桥/ Shanghai Hongqiao/ SHA | 华东-上海/ ZSSS | 上海虹桥/ Shanghai-Hongqiao/ AOH | 上海局/ CR Shanghai-京沪高速线、沪昆高速线、沪宁城际线 |
 | | 阜阳西关/ Fuyang Xiguan/ FUG | 华东-上海/ ZSFY | 阜阳西/ Fuyangxi/ FXU | 上海局/ CR Shanghai-京港高速线、郑阜高速线 |
 | 🚌1.5km | 徐州观音/ Xuzhou Guanyin/ XUZ | 华东-上海/ ZSXZ | 观音机场/ Guanyin Airport/ GCU | 上海局/ CR Shanghai-徐盐城际线 |
+| | 青岛胶东/ Qingdao Jiaodong/ TAO | 华东-上海/ ZSQD | 青岛机场/ Qingdaojichang | 济南局/ CR Jinan-济青高速线、胶济客专线 |
 | 🚌~10km | 台北桃园/ Taipei Taoyuan/ TPE | 华东-台北/ RCTP | 桃园/ Taoyuan/ TAY | 台铁/ TRA-台湾高速线 |
 | | 武汉天河/ Wuhan Tianhe/ WUH | 中南-武汉/ ZHHH | 天河机场/ Tianhe Airport/ TJN | 武汉局/ CR Wuhan-武孝城际线 |
 | | 郑州新郑/ Zhengzhou Xinzheng/ CGO | 中南-武汉/ ZHCC | 新郑机场/ Xinzheng Airport/ EZF | 郑州局/ CR Zhengzhou-郑机城际线 |
@@ -34,7 +35,7 @@
 | | 兰州中川/ Lanzhou Zhongchuan/ LHW | 西北-兰州/ ZLLL | 中川机场/ Zhongchuan Airport/ ZJJ | 兰州局/ CR Lanzhou-中川城际线 |
 | 👟2.2km | 敦煌/ Dunhuang/ DNH | 西北-兰州/ ZLDH | 敦煌/ Dunhuang/ DHJ | 兰州局/ CR Lanzhou-柳敦线 |
 | 👟1.6km | 天水麦积山/ Tianshui Maijishan/ THQ | 西北-兰州/ ZLTS | 天水南/ Tianshuinan/ TIJ | 兰州局/ CR Lanzhou-徐兰高速线 |
-| | 银川河东/ Yinchuan Hedong/ INC | 西北-兰州/ ZLIC | 河东机场/ Hedong Airport/ HFJ | 兰州局/ CR Lanzhou-西银客专线 |
+| | 银川河东/ Yinchuan Hedong/ INC | 西北-兰州/ ZLIC | 河东机场/ Hedongjichang/ HFJ | 兰州局/ CR Lanzhou-西银客专线 |
 | 🥾1.2km | 吐鲁番交河/ Turpan Jiaohe/ TLQ | 新疆-乌鲁木齐/ ZWTL | 吐鲁番北/ Tulufanbei/ TAR | 乌鲁木齐局/ CR Urumqi-兰新客专线 |
 
 | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Airport.png" width="15" hegiht="15" alt="Airport"/>机场/ Airport | 空管信息/ ICAO Info | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>火车站/ Railway Station | 铁路信息/ Railway Info |
@@ -43,7 +44,6 @@
 | | 天津滨海/ Tianjin Binhai/ TSN | 华北-北京/ ZBTJ | 🏗滨海机场/ Binhai Airport | 北京局/ CR Beijing-🏗京滨城际线 |
 | 🚌~4km | 上海浦东/ Shanghai Pudong/ PVG | 华东-上海/ ZSPD | 🏗上海东/ Shanghaidong | 上海局/ CR-Shanghai-🏗北沿江高速线、🏗沪通线 |
 | | 杭州萧山/ Hangzhou Xiaoshan/ HGH | 华东-上海/ ZSHC | 🏗萧山机场/ Xiaoshan Airport | 上海局/ CR Shanghai-🏗杭绍台高速线 |
-| | 🏗青岛胶东/ Qingdao Jiaodong/ TAO | 华东-上海/ ZSQD | 青岛机场/ Qingdaojichang | 济南局/ CR Jinan-济青高速线、胶济客专线 |
 | | 烟台蓬莱/ Yantai Penglai/ YNT | 华东-上海/ ZSYT | 🏗蓬莱机场/ Penglai Airport | 济南局/ CR Jinan-🏗环渤海高速线 |
 | | 南昌昌北/ Nanchang Changbei/ KHN | 华东-上海/ ZSCN | 🏗昌北机场/ Changbei Airport | 南昌局/ CR Nanchang-🏗京港高速线 |
 | | 广州白云/ Guangzhou Baiyun/ CAN | 中南-广州/ ZGGG | 🏗白云机场/ Baiyun Airport | 广东城际-🏗珠三角城际广佛环线、穗深线 |
@@ -108,8 +108,7 @@
 | | 长沙黄花/ Changsha Huanghua/ CSX | 中南-广州/ ZGHA | 磁浮机场/ Airport Maglev、🏗黄花机场西/ West Huanghua Airport | 磁浮快线 |
 | | 宁波栎社/ Ningbo Lishe/ NGB | 华东-上海/ ZSNB | 栎社国际机场/ Lishe International Airport | 2号线 |
 | | 苏南硕放/ Sunan Shuofang/ WUX | 华东-上海/ ZSWX | 硕放机场/ Sunan Shuofang International Airport | 3号线 |
-| | 青岛流亭/ Qingdao Liuting/ TAO | 华东-上海/ ZSQD | 流亭/ Liuting | 1号线 |
-| | *青岛胶东/Qingdao Jiaodong/ TAO* | 华东-上海/ ZSQD | 🏗胶东机场/ Jiaodong Airport | 8号线 |
+| | 青岛胶东/Qingdao Jiaodong/ TAO | 华东-上海/ ZSQD | 🏗胶东机场/ Jiaodong Airport | 8号线 |
 | | 福州长乐/ Fuzhou Changle / FOC | 华东-上海/ ZSFZ | 🏗长乐机场/ Fuzhou Changle International Airport | |
 | | 贵阳龙洞堡/ Guiyang Longdongbao/ KWE | 西南-昆明/ ZUGY | 龙洞堡机场/ Longdongbao International Airport | 2号线 |
 | 👟2.2km | 厦门高崎/ Xiamen Gaoqi/ XMN | 华东-上海/ ZSAM | 高崎/ Gaoqi | 1号线 |
