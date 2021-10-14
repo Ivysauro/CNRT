@@ -216,7 +216,7 @@
 | 新余/ Xinyu | 新余交通一卡通 | ✅ | ✅ | ✅ | | | ✅ | 新余公交、美团 |
 | 上饶/ Shangrao | 上饶公交一卡通 | ✅ | ✅ | ✅ | | | ✅ | 饶城通、飞码城联、美团 |
 | **山东/ Shandong** | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay NFC.png" width="40" hegiht="40" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay QR.png" width="40" hegiht="40" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Bus.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
-| 济南/ Jinan | 泉城通 | ✅ | ✅ | ✅ | ✅ | | ✅ | |
+| 济南/ Jinan | 泉城通 | ✅ | ✅ | ✅ | ✅ | | ✅ | 济南地铁 |
 | 青岛/ Qingdao | 琴岛通 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 青岛地铁 |
 | 淄博/ Zibo | 齐达通 | ⭕ | ✅ | ⭕ | ✅ | | ✅ | 畅行淄博 |
 | 枣庄/ Zaozhuang | 枣庄同城卡 | ✅ | ✅ | ⭕ | ✅ | | ✅ | |
