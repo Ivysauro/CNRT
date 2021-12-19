@@ -26,16 +26,16 @@
 | 天津/ Tianjin | 天津健康码 | 🔵 | 🟢 | | 津心办 |
 | 河北/ Hebei | 河北健康码 | 🔵 | 🟢 | | |
 | 山西/ Shanxi | 山西健康码 | 🔵 | | 🔴 | |
-| 内蒙古/ Nei Mongol | 内蒙古健康码 | | 🟢 | | 蒙速办 |
-| 辽宁/ Liaoning | 辽事通健康通行码 | | | 🔴 | 辽事通 |
-| 吉林/ Jilin | 吉祥码 | | 🟢 | | |
+| 内蒙古/ Nei Mongol | 内蒙古健康码 | | 🟢 | 🔴 | 蒙速办、蒙健康 |
+| 辽宁/ Liaoning | 辽事通健康通行码 | | 🟢 | 🔴 | 辽事通 |
+| 吉林/ Jilin | 吉祥码 | 🔵 | 🟢 | | 吉事办 |
 | 黑龙江/ Heilongjiang | 龙江健康码 | | 🟢 | | |
 | 上海/ Shanghai | 随申码 | 🔵 | 🟢 | 🔴 | |
 | 江苏/ Jiangsu | 苏康码 | 🔵 | 🟢 | 🔴 | 江苏政务服务 |
 | 浙江/ Zhejiang | 浙江健康码 | 🔵 | | 🔴 | 浙里办 |
 | 安徽/ Anhui | 安康码 | 🔵 | | ➖[^ah] | 皖事通 |
-| 福建/ Fujian | 八闽健康码 | | | | 闵政通 |
-| 江西/ Jiangxi | 赣通码 | 🔵 | | 🔴 | |
+| 福建/ Fujian | 八闽健康码 | 🔵 | 🟢 | | 闵政通、学习强国 |
+| 江西/ Jiangxi | 赣通码 | 🔵 | 🟢 | 🔴 | |
 | 山东/ Shandong | 山东省健康通行码 | 🔵 | 🟢 | 🔴 | 爱山东 |
 | 河南/ Henan | 河南健康码 | 🔵 | 🟢 | | |
 | 湖北/ Hubei | 湖北健康码 | 🔵 | 🟢 | 🔴 | 鄂汇办 |
@@ -43,17 +43,19 @@
 | 广东/ Guangdong | 粤康码 | | 🟢 | 🔴 | |
 | 广西/ Guangxi | 广西健康码 | 🔵 | 🟢 | 🔴 | 爱广西、广西云、壮观、八桂彩云、桂建通 |
 | 海南/ Hainan | 海南健康码 | 🔵 | 🟢 | 🔴 | 海南政务服务 |
-| 重庆/ Chongqing | 渝康码 | | 🟢 | 🔴| 重庆12320健康云 |
+| 重庆/ Chongqing | 渝康码 | 🔵 | 🟢 | 🔴| 重庆12320健康云 |
 | 四川/ Sichuan | 四川健康码 | 🔵 | 🟢 | | |
 | 贵州/ Guizhou | 贵州健康码 | | 🟢 | 🔴 | |
-| 云南/ Yunnan | 云南健康码 | 🔵 | | 🔴 | 一部手机办事通、一部手机游云南 |
-| 西藏/ Xizang | 西藏健康码 | | 🟢 | ➖[^xz] | |
-| 陕西/ Shaanxi | 陕西健康码 | | 🟢 | ➖[^sx] | **网页**、健康陕西公众服务 |
+| 云南/ Yunnan | 云南健康码 | 🔵 | 🟢 | 🔴 | 一部手机办事通、一部手机游云南 |
+| 西藏/ Xizang | 西藏健康码 | | 🟢 | | |
+| 陕西/ Shaanxi | 陕西健康码 | | 🟢 | ➖[^sx] | [网页](http://jksx.shaanxijiankangyun.com:8080/epidemic/form/index.jspx)、健康陕西公众服务 |
 | 甘肃/ Gansu | 甘肃健康出行码 | | 🟢 | 🔴 | 健康甘肃 |
 | 青海/ Qinghai | 青海信用健康码 | | 🟢 | 🔴 | |
 | 宁夏/ Ningxia | 宁夏健康码 | | | | 我的宁夏 |
 | 新疆/ Xinjiang | 新疆健康通行码 | | | | 新疆政务服务 |
+| 香港/ Hong Kong | 港康码 | | | 🔴 | [网页](https://www.healthcode.gov.hk) |
+| 澳门/ Macao | 澳门健康码 | | | 🔴 | [网页](https://app.ssm.gov.mo/healthPHD)、澳门健康码 |
+| 台湾/ Taiwan | | | | | |
 
 [^ah]: 安徽/ Anhui：云闪付不支持申领“安康码”，仅支持展示/ Unionpay app DONOT support applying *Anhui Health QR*, only support showing after applying in other apps
-[^xz]: 西藏/ Xizang：云闪付仅支持“拉萨健康登记”/ Unionpay app only support *Lhasa Health QR*
 [^sx]: 陕西/ Shaanxi：云闪付仅支持“西安一码通”/ Unionpay app only support *Xi'an Health QR*
