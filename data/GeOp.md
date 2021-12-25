@@ -211,9 +211,9 @@
 | 太原/ Taiyuan | 听景 | 地铁 | | | ✅ | ? | 刷脸过闸 |
 | 洛阳/ Luoyang | 洛易行 | 地铁 | | ✅ | ✅ | ? | 刷脸过闸 |
 
-### 二维码互联互通（城轨易行平台）/ QR Code in ONE App
+### 二维码互联互通/ QR Code in ONE App
 
-在同一应用内聚合多个乘车码，且需开通并绑定当地支持的支付方式/ Just gather one more Transit QR Codes in one App, amd need apply first and bind a supported payment method
+通过接入城轨易行平台，在同一应用内聚合多个城市轨道交通的乘车码，但需逐一开通并绑定当地支持的支付方式/ Gathering several Transit QR Codes in one App, but needs apply first before using and bind a supported payment method in that city
 
 |  | 京 | 津 | 呼 | 沪 | 宁 | 锡 | 徐 | 常 | 苏 | 杭 | 甬 | 温 | 合 | 福 | 昌 | 青 | 郑 | 武 | 广 | 深 | 渝 | 成 | 兰 |  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
