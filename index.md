@@ -12,9 +12,9 @@
 - [安检互认/ Security Check Recognition](https://ivysauro.github.io/CNRT/data/SecuCk)
 
 ### 车迷向/ For Fans 🕵️‍♂️🕵️‍♀️
-- [🏗大事记/ Datebook](https://ivysauro.github.io/CNRT/data/Datebook)
+- [🏗大事记（中文）/ Datebook（In Chinese）](https://ivysauro.github.io/CNRT/data/Datebook)
 - [空铁联运/ Air-Rail](https://ivysauro.github.io/CNRT/data/Air-Rail)
-- [铁铁联运/ Rail-Rail](https://ivysauro.github.io/CNRT/data/Rail-Rail)
+- [国铁-地铁接驳/ Rail-Rail](https://ivysauro.github.io/CNRT/data/Rail-Rail)
 - [特殊运营方式（中文）/ Special Operations (In Chinese)](https://ivysauro.github.io/CNRT/data/SpOp)
 - [特殊站（中文）/ Special Station (In Chinese)](https://ivysauro.github.io/CNRT/data/SpSta)
 - [同名站/ Namesake Stations](https://ivysauro.github.io/CNRT/data/Namesake)
