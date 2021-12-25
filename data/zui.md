@@ -3,10 +3,10 @@
 ## 最·空间
 
 ### 四至
-- 最东边的站：哈尔滨东站（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hrb.gif" width="20" hegiht="20"/>哈尔滨，126°42′E）
+- 最东边的站：气象台（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hrb.gif" width="20" hegiht="20"/>哈尔滨，126°74′E）
 - 最西边的站：国际机场（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wlmq.gif" width="20" hegiht="20"/>乌鲁木齐，87°28′E）
 - 最南边的站：莲花口岸（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/mo.gif" width="20" hegiht="20"/>澳门，22°13′N）
-- 最北边的站：哈尔滨东站（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hrb.gif" width="20" hegiht="20"/>哈尔滨，45°47′N）
+- 最北边的站：江北大学城（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hrb.gif" width="20" hegiht="20"/>哈尔滨，45°87′N）
 
 ### 长度
 - 最长的线路：上海地铁11号线（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，82.8km）
