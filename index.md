@@ -2,10 +2,8 @@
 
 ## 目录/ Content 📖
 
-- [🏗2021大事记/ 2021 Datebook](https://ivysauro.github.io/CNRT/data/2021)
-- [各省电子健康证明申领支持情况/ Support Circumenstance for Applying Digital Health Certificate of Provincial Administrative Regions](https://ivysauro.github.io/CNRT/data/HealthQR)
-
 ### 乘客向/ For Passengers 👨‍🚀👩‍🚀
+- [健康码申领/ Health QR Application](https://ivysauro.github.io/CNRT/data/HealthQR)
 - [轨道交通支付方式/ Payment Methods for Rail Transit](https://ivysauro.github.io/CNRT/data/Pay)
 - [地面公交支付方式/ Payment Methods for Bus](https://ivysauro.github.io/CNRT/data/BusPay)
 - [NFC 交通卡/ NFC Transit Card](https://ivysauro.github.io/CNRT/data/NFC)
@@ -14,6 +12,7 @@
 - [安检互认/ Security Check Recognition](https://ivysauro.github.io/CNRT/data/SecuCk)
 
 ### 车迷向/ For Fans 🕵️‍♂️🕵️‍♀️
+- [🏗大事记/ Datebook](https://ivysauro.github.io/CNRT/data/Datebook)
 - [空铁联运/ Air-Rail](https://ivysauro.github.io/CNRT/data/Air-Rail)
 - [铁铁联运/ Rail-Rail](https://ivysauro.github.io/CNRT/data/Rail-Rail)
 - [特殊运营方式（中文）/ Special Operations (In Chinese)](https://ivysauro.github.io/CNRT/data/SpOp)
