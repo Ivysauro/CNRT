@@ -111,3 +111,9 @@
 ### 长时卡(通勤向)/ Long Timing Card (For Work-Trip)
 
 *待完善/ Coming Soon*
+
+## 参考资料/ References
+
+- <http://money.163.com/photoview/50ST0025/17082.html>
+- <https://zhuanlan.zhihu.com/p/77777893>
+- <https://zhuanlan.zhihu.com/p/83168651>
