@@ -2,14 +2,15 @@
 
 ## 目录/ Content 📖
 
-- [2021大事记/ 2021 Datebook](https://ivysauro.github.io/CNRT/data/2021)
+- [🏗2021大事记/ 2021 Datebook](https://ivysauro.github.io/CNRT/data/2021)
 - [各省电子健康证明申领支持情况/ Support Circumenstance for Applying Digital Health Certificate of Provincial Administrative Regions](https://ivysauro.github.io/CNRT/data/HealthQR)
 
 ### 乘客向/ For Passengers 👨‍🚀👩‍🚀
 - [轨道交通支付方式/ Payment Methods for Rail Transit](https://ivysauro.github.io/CNRT/data/Pay)
 - [地面公交支付方式/ Payment Methods for Bus](https://ivysauro.github.io/CNRT/data/BusPay)
 - [NFC 交通卡/ NFC Transit Card](https://ivysauro.github.io/CNRT/data/NFC)
-- [运营方式/ General Operations](https://ivysauro.github.io/CNRT/data/GeOp)
+- [车票/ Ticket](https://ivysauro.github.io/CNRT/data/Ticket)
+- [服务/ Service](https://ivysauro.github.io/CNRT/data/Service)
 - [安检互认/ Security Check Recognition](https://ivysauro.github.io/CNRT/data/SecuCk)
 
 ### 车迷向/ For Fans 🕵️‍♂️🕵️‍♀️
@@ -18,6 +19,7 @@
 - [特殊运营方式（中文）/ Special Operations (In Chinese)](https://ivysauro.github.io/CNRT/data/SpOp)
 - [特殊站（中文）/ Special Station (In Chinese)](https://ivysauro.github.io/CNRT/data/SpSta)
 - [同名站/ Namesake Stations](https://ivysauro.github.io/CNRT/data/Namesake)
+- [🏗设计/ Design](https://ivysauro.github.io/CNRT/data/Design)
 - [之最（中文）/ No.1 (In Chinese)](https://ivysauro.github.io/CNRT/data/zui)
 
 ### 相关信息/ Related Info 🧷
