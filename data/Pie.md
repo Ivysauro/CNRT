@@ -1,6 +1,6 @@
 # 轨道交通支付方式速览/ Rail Transit Payment Methods Quicklook
 
-[详情/ Detail](https://ivysauro.github.io/CNRT/data/Pie)｜[地面公交/ Buses](https://ivysauro.github.io/CNRT/data/BusPay)｜[官方应用/ Transit Apps](https://ivysauro.github.io/CNRT/data/Service)
+[详情/ Detail](https://ivysauro.github.io/CNRT/data/Pay)｜[地面公交/ Buses](https://ivysauro.github.io/CNRT/data/BusPay)｜[官方应用/ Transit Apps](https://ivysauro.github.io/CNRT/data/Service)
 
 ## 图例/ Legend
 
