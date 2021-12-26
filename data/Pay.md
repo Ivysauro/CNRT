@@ -3,7 +3,7 @@
 [速览/ Quicklook](https://ivysauro.github.io/CNRT/data/Pie)｜[地面公交/ Buses](https://ivysauro.github.io/CNRT/data/BusPay)｜[官方应用/ Transit Apps](https://ivysauro.github.io/CNRT/data/Service)
 
 ## 目录/ Content
-- [过闸/ Passing Gate](#过闸-passing-gate)
+- [过闸/ Passing Gate](#过闸-passing)
 - [购票/ Tickets](#购票-tickets)
 - [开放性评分/ Open Score](#开放性评分-open-score)
 - [感谢/ Thanks](#感谢-thanks)
@@ -38,7 +38,7 @@
 | 🕓 | 即将上线/ Coming Soon |
 | 💥 | 新变动/ New Update |
 
-## 过闸/ Passing Gate
+## 过闸/ Passing
 
 | 城市/ City | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="25" hegiht="25" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay NFC.png" width="35" hegiht="35" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="25" hegiht="25" alt="Alipay"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="20" hegiht="20" alt="WeChat Pay"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="20" hegiht="20" alt="Unionpay App"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/contactless.gif" width="25" hegiht="25" alt="Global Cards"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="20" hegiht="20" alt="Transit Apps"/> | 其他/ Other |
 | --  | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
