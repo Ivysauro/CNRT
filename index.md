@@ -4,7 +4,8 @@
 
 ### 乘客向/ For Passengers 👨‍🚀👩‍🚀
 - [健康码申领/ Health QR Application](https://ivysauro.github.io/CNRT/data/HealthQR)
-- [轨道交通支付方式/ Payment Methods for Rail Transit](https://ivysauro.github.io/CNRT/data/Pay)
+- [轨道交通支付方式速览/ Rail Transit Payment Methods Quicklook](https://ivysauro.github.io/CNRT/data/Pay)
+- [轨道交通支付方式/ Payment Methods for Rail Transit](https://ivysauro.github.io/CNRT/data/Pie)
 - [地面公交支付方式/ Payment Methods for Bus](https://ivysauro.github.io/CNRT/data/BusPay)
 - [NFC 交通卡/ NFC Transit Card](https://ivysauro.github.io/CNRT/data/NFC)
 - [车票/ Ticket](https://ivysauro.github.io/CNRT/data/Ticket)
