@@ -31,7 +31,6 @@
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/BestPay.png" width="20" hegiht="20" alt="BestPay"/> | 翼支付/ BestPay |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Suning Pay.png" width="20" hegiht="20" alt="Suning Pay"/> | 苏宁支付/ Suning Pay |
 
-
 *[银联闪付]: 指银联云闪付（联机闪付），不包括电子现金（脱机闪付）
 *[银联二维码]: 指符合银联标准的二维码，可在银联指定的应用内使用（如云闪付、各银行客户端、京东、美团等） 
 
@@ -46,7 +45,7 @@
 ## 过闸/ Passing Gate
 
 | 城市/ City | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="35" hegiht="35" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay NFC.png" width="35" hegiht="35" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="25" hegiht="25" alt="Alipay"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="20" hegiht="20" alt="WeChat Pay"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="20" hegiht="20" alt="Unionpay App"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/contactless.gif" width="25" hegiht="25" alt="Global Cards"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="20" hegiht="20" alt="Transit Apps"/> | 其他/ Other |
-| --  | :--: | :--:  | :--: | :--: | :--: | :--: | :--: | :--: |
+| --  | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京/ Beijing | ⭕[^bj] | ✅ | ✅ | | ✅ | | ✅ |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tj.gif" width="20" hegiht="20"/>天津/ Tianjin | ✅ | ✅ | | | | | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海/ Shanghai | ✅[^sh1] | ⭕[^sh2] | | | | | ✅ | |
