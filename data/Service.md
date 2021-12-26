@@ -1,17 +1,14 @@
 # 服务/ Service
 
 ## 目录/ Content
-- [应用/ App](#App)
-  - [功能/ General Functions](#功能-General-Functions)
-  - [二维码互联互通/ QR Code in ONE App](#二维码互联互通-QR-Code-in-ONE-App)
+- [应用/ App](#应用-App)
+- [二维码互联互通/ QR Code in ONE App](#二维码互联互通-QR-Code-in-ONE-App)
 - [P+R](#P+R)
 - [车厢温度/ Temperature](#车厢温度-Temperature)
 
 ## 应用/ App
 
 ❗ 由于消息来源复杂且无条件测试，本表有很多错漏，应以实际支持情况为准/ There may be many mistakes😑
-
-### 功能/ General Functions
 
 | 支付方式 | Payment Method |
 | :-: | :-: |
@@ -144,10 +141,7 @@
 
 *待完善/ Coming soon*
 
-
 ## 参考资料/ References
 - <http://www.mpaypass.com.cn/news/201909/03110411.html>
 - <https://www.mpaypass.com.cn/news/202004/14104750.html>
 - <https://www.sohu.com/a/304317635_313745>
-
----
