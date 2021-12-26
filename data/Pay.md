@@ -1,6 +1,6 @@
 # 轨道交通支付方式/ Payment Methods for Rail Transit
 
-[速览/ Quicklook](https://ivysauro.github.io/CNRT/data/Pay)｜[地面公交/ Buses](https://ivysauro.github.io/CNRT/data/BusPay)｜[官方应用/ Transit Apps](https://ivysauro.github.io/CNRT/data/Service)
+[速览/ Quicklook](https://ivysauro.github.io/CNRT/data/Pie)｜[地面公交/ Buses](https://ivysauro.github.io/CNRT/data/BusPay)｜[官方应用/ Transit Apps](https://ivysauro.github.io/CNRT/data/Service)
 
 ## 目录/ Content
 - [过闸/ Passing Gate](#过闸-passing-gate)
