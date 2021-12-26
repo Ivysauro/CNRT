@@ -1,6 +1,6 @@
 # 轨道交通支付方式/ Payment Methods for Rail Transit
 
-乘客友好版轨道交通支付方式点[这里](https://ivysauro.github.io/CNRT/data/Pay)跳转/ For Passenger Friendly Rail Transit, go to [HERE](https://ivysauro.github.io/CNRT/data/Pay)
+轨道交通支付方式速览点[这里](https://ivysauro.github.io/CNRT/data/Pay)跳转/ For Quicklook, go to [HERE](https://ivysauro.github.io/CNRT/data/Pay)
 
 地面公交支付方式点[这里](https://ivysauro.github.io/CNRT/data/BusPay)跳转/ For Buses, go to [HERE](https://ivysauro.github.io/CNRT/data/BusPay)
 
