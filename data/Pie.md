@@ -4,6 +4,12 @@
 
 官方应用的具体信息点[这里](https://ivysauro.github.io/CNRT/data/GeOp#App)/ Click [HERE](https://ivysauro.github.io/CNRT/data/GeOp#App) for Detailed Info of Official Apps
 
+## 目录/ Content
+- [过闸/ Passing Gate](#过闸-passing-gate)
+- [购票/ Tickets](#购票-tickets)
+- [开放性评分/ Open Score](#开放性评分-open-score)
+- [感谢/ Thanks](#感谢-thanks)
+
 ## 图例/ Legend
 
 | 标识/ Logo | 含义/ Meaning |
@@ -17,7 +23,7 @@
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/eCNY.png" width="25" hegiht="25" alt="E-CNY"/> | 数字人民币二维码/ E-CNY QR |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/contactless_long.gif" width="25" hegiht="25" alt="Global Cards"/> | 国际卡/ Global Cards |
 | 💳 | 交通卡/ Transit Card |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="20" hegiht="20" alt="Transit QR Code of Official Apps"/> | 官方应用/ Transit Apps |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="20" hegiht="20" alt="Transit Apps QR"/> | 官方应用乘车码/ Transit Apps QR |
 
 *[银联闪付]: 指银联云闪付（联机闪付），不包括电子现金（脱机闪付）
 *[银联二维码]: 指符合银联标准的二维码，可在银联指定的应用内使用（如云闪付、各银行客户端、京东、美团等） 
@@ -173,6 +179,8 @@
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="35" hegiht="35" alt="T-Union"/> | 交通联合 | T-Union |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/NFC.png" width="25" hegiht="25" alt="NFC Local Card"/> | 本地虚拟交通卡 | Virtual NFC Local Card |
 
+### 计分规则/ Rules
+
 | 图标/ Icon | 计分/ Mark | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="25" hegiht="25" alt="Alipay"/><img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="20" hegiht="20" alt="WeChat Pay"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="35" hegiht="35" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/NFC.png" width="25" hegiht="25" alt="NFC Local Card"/> |
 | :-: | :-: | :- | :- | :- | :- |
 | ✅ | 20 | 过闸支持/ Support Passing Gate | 支持闪付及乘车码过闸/ Support Passing Gate by QucikPass and QR | 完全支持/ Fully Supported | 支持主流7家厂商/ Support Full 7 Brands |
@@ -181,7 +189,7 @@
 | ⭕- | 5 | 有条件地支持购票/ Partly Supported Buying Ticket | 仅购票支持/ Only Support Buying Ticket | *不适用/ Not Applicable* | 有厂商支持/ Supported |
 | ❌ | 0 | 不支持或仅支持第三方应用内免密/ Not Supported | 不支持或仅支持第三方应用内免密/ Not Supported | 不支持/ Not Supported | 不支持/ Not Supported |
 
-### 主表/ Main Content
+### 评分/ Main Content
 
 | 城市/ City | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="25" hegiht="25" alt="Alipay"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="20" hegiht="20" alt="WeChat Pay"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="35" hegiht="35" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/NFC.png" width="25" hegiht="25" alt="NFC Local Card"/> | 得分/ Score |
 | -- | :--: | :--: | :--: | :--: | :--: | :--: |
@@ -236,6 +244,4 @@
 
 ## 感谢/ Thanks
 
-部分内容参考自[地铁族](http://www.ditiezu.com/)用户@[清风雨鸽](http://www.ditiezu.com/space-uid-215526.html)的[帖子](http://www.ditiezu.com/thread-607166-1-1.html)
-
----
+早期内容部分参考自[地铁族](http://www.ditiezu.com/)用户@[清风雨鸽](http://www.ditiezu.com/space-uid-215526.html)的[帖子](http://www.ditiezu.com/thread-607166-1-1.html)
