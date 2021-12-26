@@ -15,25 +15,25 @@
 
 ### 图例/ Legend
 
-| 标识/ Logo | 中文/ Chinese | 英文/ English |
-| :-: | :- | :- |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | [交通联合](https://zh.wikipedia.org/wiki/%E4%BA%A4%E9%80%9A%E8%81%94%E5%90%88) | [T-Union](https://en.wikipedia.org/wiki/China_T-union) |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay NFC.png" width="40" hegiht="40" alt="Unionpay Quickpass"/> | [银联闪付](https://zh.wikipedia.org/wiki/%E9%97%AA%E4%BB%98#%E4%BA%91%E9%97%AA%E4%BB%98) | [Unionpay Quickpass](https://en.wikipedia.org/wiki/UnionPay#QuickPass) |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | [支付宝乘车码](https://zh.wikipedia.org/wiki/%E9%A8%B0%E8%A8%8A%E4%B9%98%E8%BB%8A%E7%A2%BC#%E7%9B%B8%E9%97%9C%E7%94%A2%E5%93%81) | Alipay Transit QR Code |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | [微信乘车码](https://zh.wikipedia.org/wiki/%E9%A8%B0%E8%A8%8A%E4%B9%98%E8%BB%8A%E7%A2%BC) | WeChat Pay Transit QR Code |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | [云闪付乘车码](https://zh.wikipedia.org/wiki/%E9%A8%B0%E8%A8%8A%E4%B9%98%E8%BB%8A%E7%A2%BC#%E7%9B%B8%E9%97%9C%E7%94%A2%E5%93%81) | Unionpay Transit QR Code |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/contactless_long.gif" width="40" hegiht="40" alt="Global Cards"/> | 国际卡 | Global Cards |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="25" hegiht="25" alt="Transit QR Code of Official Apps"/> | 官方应用乘车码 | Transit QR Code on Official Apps |
+| 标识/ Logo | 含义/ Meaning |
+| :-: | :- |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="35" hegiht="35" alt="T-Union"/> | [交通联合](https://zh.wikipedia.org/wiki/%E4%BA%A4%E9%80%9A%E8%81%94%E5%90%88)/ [T-Union](https://en.wikipedia.org/wiki/China_T-union) |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay NFC.png" width="35" hegiht="35" alt="Unionpay Quickpass"/> | [银联闪付](https://zh.wikipedia.org/wiki/%E9%97%AA%E4%BB%98#%E4%BA%91%E9%97%AA%E4%BB%98)/ [Unionpay Quickpass](https://en.wikipedia.org/wiki/UnionPay#QuickPass) |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="25" hegiht="25" alt="Alipay Transit QR"/> | 支付宝乘车码/ Alipay Transit QR |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="20" hegiht="20" alt="WeChat Pay Transit QR"/> | 微信乘车码/ WeChat Pay Transit QR |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="20" hegiht="20" alt="Unionpay Transit QR"/> | 云闪付乘车码/ Unionpay Transit QR |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/contactless_long.gif" width="30" hegiht="30" alt="Global Cards"/> | 国际卡/ Global Cards |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="20" hegiht="20" alt="Transit QR Code of Official Apps"/> | 官方应用乘车码/ Transit Apps QR |
 
 *[银联闪付]: 指银联云闪付（联机闪付），不包括电子现金（脱机闪付）
 *[银联二维码]: 指符合银联标准的二维码，可在银联指定的应用内使用（如云闪付、各银行客户端、京东、美团等） 
 
-| 图标/ Icon | 中文/ Chinese | 英文/ English |
-| :-: | :- | :- |
-| ✅ | 完全支持 | Fully Supported |
-| ⭕ | 有条件的支持 | Conditionally Supported |
-| 🕓 | 即将上线 | Coming Soon |
-| 💥 | 新变动 | New Update |
+| 图标/ Icon | 含义/ Meaning |
+| :-: | :- |
+| ✅ | 完全支持/ Fully Supported |
+| ⭕ | 有限支持/ Limited Supported |
+| 🕓 | 即将上线/ Coming Soon |
+| 💥 | 新变动/ New Update |
 
 ### 主表/ Main Content
 
@@ -125,10 +125,10 @@
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/eCNY.png" width="30" hegiht="30" alt="Unionpay QR Code"/> | 数字人民币二维码 | E-CNY QR Code |
 | 💳 | 交通卡 | Transit Card |
 
-| 图标/ Icon | 中文/ Chinese | 英文/ English |
-| :-: | :- | :- |
-| ✅ | 完全支持 | Fully Supproted |
-| ⭕ | 仅限部分车站 | Only in some stations |
+| 图标/ Icon | 含义/ Meaning |
+| :-: | :- |
+| ✅ | 完全支持/ Fully Supproted |
+| ⭕ | 仅限部分车站/ Only in some stations |
 
 ### 线下购票/ Purchasing Tickets on machines 
 
