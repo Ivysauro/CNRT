@@ -8,7 +8,7 @@
 | 厦门高崎/ Xiamengaoqi/ XBS | 厦门市湖里区 | 鹰厦线 | 1958.8启用，2012.8更为现名 |
 | 合肥北城/ Hefeibeicheng/ COH | 合肥市长丰县 | 合蚌客专线 | 2012.10.16 |
 | 深圳坪山/ Shenzhenpingshan/ IFQ | 深圳市龙岗区 | 杭深线 | 2013.12.28 |
-| 咸阳秦都/ Xianyangqindu/ XOY | 咸阳市秦都区 | 连乌高速线 | 2013.9.23 |
+| 咸阳秦都/ Xianyangqindu/ XOY | 咸阳市秦都区 | 连乌高速线 | 2013.9.23-2021.6.30，现名咸阳西 |
 | 本溪新城/ Benxixincheng/ BVT | 本溪市溪湖区 | 沈丹客专线 | 2015.9.1 |
 | 兰州新区/ Lanzhouxinqu/ LQJ | 兰州市永登县 | 兰中城际线 | 2015.9.30 |
 | 北京大兴/ Beijingdaxing/ IPP | 北京市大兴区 | 京雄城际线 | 2019.9.26 |
