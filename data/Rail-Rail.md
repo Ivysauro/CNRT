@@ -133,7 +133,7 @@
 |  | 青岛/ Qingdao | 青岛北/ Qingdaobei/ QHK | 济南局/ CR Jinan | 青岛北站/ Qingdao North RS |
 |  | 青岛/ Qingdao | 青岛西/ Qingdaoxi/ QUK | 济南局/ CR Jinan | 🏗青岛西站/ Qingdao West RS |
 |  | 青岛/ Qingdao | 🏗红岛/ Hongdao | 济南局/ CR Jinan | 红岛火车站/ Hongdao RS |
-|  | 青岛/ Qingdao | 🏗青岛机场/ Qingdao Airport | 济南局/ CR Jinan | 🏗胶东机场/ Jiaodong Airport |
+|  | 青岛/ Qingdao | 🏗青岛机场/ Qingdao Airport | 济南局/ CR Jinan | 胶东机场/ Jiaodong Airport |
 |  | 昆明/ Kunming | 昆明/ Kunming/ KMM | 昆明局/ CR Kunming | 昆明火车站/ KUNMING RS |
 |  | 昆明/ Kunming | *昆明北/ Kunmingbei/ KBM* | 昆明局/ CR Kunming | 🏗火车北站/ North RS |
 |  | 昆明/ Kunming | 昆明南/ Kunmingnan/ KOM | 昆明局/ CR Kunming | 昆明南火车站/ KUNMING South RS |
@@ -144,7 +144,7 @@
 |  | 南昌/ Nanchang | 南昌/ Nanchang/ NCG | 南昌局/ CR Nanchang | 南昌火车站/ Nanchang RS |
 |  | 南昌/ Nanchang | 南昌西/ Nanchangxi/ NXG | 南昌局/ CR Nanchang | 南昌西站/ Nanchang West RS |
 |  | 南昌/ Nanchang | 南昌西/ Nanchangxi/ NXG | 南昌局/ CR Nanchang | 西站南广场/ South Square of West RS |
-|  | 厦门/ Xiamen | 厦门/ Xiamen/ XMS | 南昌局/ CR Nanchang | 🏗厦门火车站/ Xiamen RS |
+|  | 厦门/ Xiamen | 厦门/ Xiamen/ XMS | 南昌局/ CR Nanchang | 厦门火车站/ Xiamen RS |
 |  | 厦门/ Xiamen | 厦门北/ Xiamenbei/ XKS | 南昌局/ CR Nanchang | 厦门北站/ Xiamen North RS |
 |  | 厦门/ Xiamen | *厦门高崎/ Xiamengaoqi/ XBS* | 南昌局/ CR Nanchang | 高崎/ Gaoqi |
 |  | 南宁/ Nanning | 南宁/ Nanning/ NNZ | 南宁局/ CR Nanning | 火车站/ Nanning RS |
@@ -201,8 +201,8 @@
 |  | 无锡/ Wuxi | 无锡/ Wuxi/ WXH | 上海局/ CR Shanghai | 无锡火车站/ Wuxi RS |
 |  | 无锡/ Wuxi | 无锡东/ Wuxidong/ WGH | 上海局/ CR Shanghai | 无锡东站/ Wuxidong RS |
 |  | 无锡/ Wuxi | 无锡新区/ Wuxixinqu/ IFH | 上海局/ CR Shanghai | 无锡新区/ Wuxi New District Station |
-|  | 芜湖/ Wuhu | 芜湖/ Wuhu/ WHH | 上海局/ CR Shanghai | 🏗芜湖火车站/ Wuhu RS |
-|  | 芜湖/ Wuhu | 芜湖南/ Wuhunan/ RVH | 上海局/ CR Shanghai | 🏗弋江站/ Yijiang RS |
+|  | 芜湖/ Wuhu | 芜湖/ Wuhu/ WHH | 上海局/ CR Shanghai | 芜湖火车站/ Wuhu RS |
+|  | 芜湖/ Wuhu | 芜湖南/ Wuhunan/ RVH | 上海局/ CR Shanghai | 芜湖南站/ Wuhunan RS |
 |  | 徐州/ Xuzhou | 徐州/ Xuzhou/ XCH | 上海局/ CR Shanghai | 徐州火车站/ Xuzhou RS |
 |  | 徐州/ Xuzhou | 徐州东/ Xuzhoudong/ UUH | 上海局/ CR Shanghai | 徐州东站/ Xuzhoudong RS |
 |  | 扬州/ Yangzhou | 扬州/ Yangzhou/ YLH | 上海局/ CR Shanghai | 🏗扬州站/ YANGZHOU RAILWAY STATION |
@@ -256,12 +256,12 @@
 |  | 西安/ Xi'an | 🏗西安南/ Xiannan/ CAY | 西安局/ CR Xi'an | 🏗南客站/ NANKEZHAN |
 |  | 咸阳/ Xianyang | 🏗咸阳机场/ Xianyang Airport | 西安局/ CR Xi'an | 机场西/ Airport West |
 |  | 咸阳/ Xianyang | 🏗咸阳机场/ Xianyang Airport | 西安局/ CR Xi'an | 🏗机场/ Airport |
-|  | 咸阳/ Xianyang | 咸阳秦都/ Xianyangqindu/ XOY | 西安局/ CR Xi'an | 🏗咸阳秦都站/ XIANYANGQINDUZHAN |
+|  | 咸阳/ Xianyang | 咸阳西/ Xianyangxi/ XOY | 西安局/ CR Xi'an | 🏗咸阳西站/ XIANYANGXIZHAN |
 |  | 香港/ Hong Kong | 香港红磡/ Hong Kong Hung Hom/ JQO | 港铁/ MTR | 红磡/ Hung Hom |
 |  | 香港/ Hong Kong | 香港西九龙/ Hkwestkowloon/ XJA | 港铁/ MTR | 九龙/ Kowloon |
 |  | 香港/ Hong Kong | 香港西九龙/ Hong Kong West Kowloon/ XJA | 港铁/ MTR | 柯士甸/ Austin |
-|  | 洛阳/ Luoyang | 洛阳/ Luoyang/ LYF | 郑州局/ CR Zhengzhou | 🏗洛阳火车站/ Luoyang RS |
-|  | 洛阳/ Luoyang | 洛阳龙门/ Luoyanglongmen/ LLF | 郑州局/ CR Zhengzhou | 🏗洛阳龙门站/ Luoyanglongmen RS |
+|  | 洛阳/ Luoyang | 洛阳/ Luoyang/ LYF | 郑州局/ CR Zhengzhou | 洛阳火车站/ Luoyang RS |
+|  | 洛阳/ Luoyang | 洛阳龙门/ Luoyanglongmen/ LLF | 郑州局/ CR Zhengzhou | 龙门高铁站/ Longmen High-Speed RS |
 |  | 许昌/ Xuchang | 许昌东/ Xuchangdong/ XVF | 郑州局/ CR Zhengzhou | 🏗许昌东站/ XUCHANG EAST RAILWAY STATION |
 |  | 郑州/ Zhengzhou | 新郑机场/ Xinzheng Airport/ EZF | 郑州局/ CR Zhengzhou | 新郑机场/ XINZHENG INTERNATIONAL AIRPORT |
 |  | 郑州/ Zhengzhou | 郑州/ Zhengzhou/ ZZF | 郑州局/ CR Zhengzhou | 郑州火车站/ ZHENGZHOU RAILWAY STATION |
