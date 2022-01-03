@@ -21,15 +21,15 @@
 
 | 城市/ City | 计费方式 | 起步价 | 加价 | 票务政策启用时间及链接 | 
 | :- | :- | :- | :- | :- |
-| 北京/ Beijing | 里程 | 3元，6公里（含） | 6公里至12公里（含）4元，12公里至22公里（含）5元，22公里至32公里（含）6元，32公里以上每20公里增加1元，票价不封顶 | [2021年](https://www.bjsubway.com/support/ccgd/) |
+| 北京/ Beijing | 里程 | 3元，6公里（含） | 6-12公里（含）4元，12-22公里（含）5元，22-32公里（含）6元，32公里以上每20公里增加1元，票价不封顶 | [2021年](https://www.bjsubway.com/support/ccgd/) |
 | 天津/ Tianjin | 区间 | 2元，5站4区间（含） | 5站4区间至10站9区间（含10站）3元，10站9区间至16站15区间（含）4元，16站15区间以上5元；9号线（中山门至东海路段）起步2元，递增1元，全程6元 |[2020年9月10日](http://m.tj.bendibao.com/news/93187.shtm)（官网未更新） |
-| 上海/ Shanghai | 里程 | 3元，6公里（含）3元 | 6公里至16公里（含）4元，16公里以上每10公里增加1元 | [2005年](http://service.shmetro.com/wzsywt/1045.htm) |
-| 广州/ Guangzhou | 里程 | 2元，4公里 | 4公里至12公里每4公里增加1元；12公里至24公里每6公里增加1元；24公里以上每8公里增加1元 | [2021年4月25日](https://cs.gzmtr.com/ckfw/pwzy_202001/202011/t20201117_69746.html) | 
+| 上海/ Shanghai | 里程 | 3元，6公里（含）3元 | 6-16公里（含）4元，16公里以上每10公里增加1元 | [2005年](http://service.shmetro.com/wzsywt/1045.htm) |
+| 广州/ Guangzhou | 里程 | 2元，4公里 | 4-12公里每4公里增加1元，12-24公里每6公里增加1元，24公里以上每8公里增加1元 | [2021年4月25日](https://cs.gzmtr.com/ckfw/pwzy_202001/202011/t20201117_69746.html) | 
 | 长春/ Changchun | 里程 | 2元，7公里 | 每增加1元，可继续乘坐6、6、8、8、10公里 | [未知](http://www.ccqg.com/pwxx) |
 | 大连/ Dalian | | |
-| 武汉/ Wuhan | | |
-| 重庆/ Chongqing | | |
-| 深圳/ Shenzhen | | |
+| 武汉/ Wuhan | 里程 | 2元，4公里（含） | 4-12公里（含）每4公里增加1元，12-24公里（含）每6公里增加1元，24-40公里（含）每8公里增加1元，40-50公里（含）每10公里增加1元，50公里以上每20公里增加1元 | [2021年12月17日](https://www.wuhanrt.com/public_forward.aspx??url=public_content_page.aspx?newid=14a520aa-abbd-43e1-8e94-81a67dc61f90&dtag=menu_motion_1) |
+| 重庆/ Chongqing | 里程 | 2元，6公里（含） | 6-11公里（含）3元，11-17公里（含）4元，17-24公里（含）5元，24-32公里（含）6元，32-41公里（含）7元，41-51公里(含)8元，51-63公里（含）9元，63公里以上10元 | [2019年](https://www.cqmetro.cn/yyfw/pwzc/2019/5/13/1166386.shtml) |
+| 深圳/ Shenzhen | 里程 | 2元，4公里 | 4-12公里每4公里增加1元，12-24公里每6公里增加1元，24公里以上每8公里增加1元 | [未知](https://www.szmc.net/shentieyunying/yunyingzixun/piaowuxinxi/piaowuzhishi/) |
 | 南京/ Nanjing | | |
 | 沈阳/ Shenyang | | |
 | 成都/ Chengdu | | |
@@ -147,10 +147,10 @@
 | 广州/ Guangzhou | 4.5h | 出闸站最高票价 |
 | 长春/ Changchun | 3h | 起步价 |
 | 大连/ Dalian | 3h | 出闸站最高票价 |
-| 武汉/ Wuhan | | |
-| 重庆/ Chongqing | | |
-| 深圳/ Shenzhen | | |
-| 南京/ Nanjing | | |
+| 武汉/ Wuhan | 4h | 全网最高票价 |
+| 重庆/ Chongqing | 3h | 全网最高票价 |
+| 深圳/ Shenzhen | 3.5h | 全网最高票价 |
+| 南京/ Nanjing | 5h | 全网最高票价 |
 | 沈阳/ Shenyang | | |
 | 成都/ Chengdu | | |
 | 西安/ Xi'an | | |
@@ -191,7 +191,7 @@
 
 ## 定期票/ Timing Ticket
 
-| 城市/ City | 材质 | 票价 ｜
+| 城市/ City | 材质 | 票价 |
 | :- | :- | :- |
 | 北京/ Beijing | 电子 | 一日票20元、二日票30元、三日票40元、五日票70元、七日票90元 |
 | 天津/ Tianjin | 普通 | 一日票15元、三日票40元 |
