@@ -82,7 +82,7 @@
 ### 厦门/ Xiamen
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>厦门北/ Xiamenbei/ XKS→<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xm.gif" width="20" hegiht="20"/>厦门北站/ Xiamen North Railway Station
 
-## 特定时间/ On Special Days⏳
+## 特定时间/ On Special Days⏲
 
 ### 深圳/ Shenzhen
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>深圳北/ Shenzhenbei/ IOQ→<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sz.gif" width="20" hegiht="20"/>深圳北站/ Shenzhen North Staiton（**仅限法定节假日/ Only on statutory holidays**）
@@ -90,7 +90,7 @@
 ### 南昌/ Nanchang
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>南昌/ Nanchang/ NCG→<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nc.gif" width="20" hegiht="20"/>南昌火车站/ Nanchang Railway Staiton（**仅限春运期间/ Only during the Spring Festival travel rush**）
 
-## 改造中或有计划改造/ In Process OR On Plan🕓
+## 改造中或有计划改造/ In Process OR On Plan⏳
 
 - 北京/ Beijing：<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>北京北/ Beijingbei/ VAP→<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>西直门/ XIZHIMEN
 - 南京/ Nanjing：<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Airport.png" width="20" hegiht="20" alt="Airport"/>南京禄口/ Nanjing Lukou/ NKG→<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nj.gif" width="20" hegiht="20"/>禄口机场/ LUKOU INTERNATIONAL AIRPORT
