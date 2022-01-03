@@ -122,11 +122,11 @@
 ## 购票/ Tickets
 
 | 城市/ City | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="25" hegiht="25" alt="Alipay"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="20" hegiht="20" alt="WeChat Pay"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay QR.png" width="40" hegiht="40" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay NFC.png" width="35" hegiht="35" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/eCNY.png" width="20" hegiht="20" alt="E-CNY"/> | 💳 | 💴🪙 |
-| - | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| - | :-: | :-: | :-: | :-: | :-: | :-: | :- |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京/ Beijing | ✅ | ✅ | ✅ | 🕓 | ✅💥 |  | 🪙1、💴5/10 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tj.gif" width="20" hegiht="20"/>天津/ Tianjin | ✅ | ✅ | ✅ | | | | 🪙1、💴1/10? |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海/ Shanghai | ✅ | ✅ | ✅ | | | | 🪙1、💴5/10/20/50 |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州/ Guangzhou | ✅ | ✅ |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州/ Guangzhou | ✅ | ✅ | | | | | 🪙1、💴5/10 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cc.gif" width="20" hegiht="20"/>长春/ Changchun | ✅ | ✅ | ✅ |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/dl.gif" width="20" hegiht="20"/>大连/ Dalian | | | | | 🕓 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wh.gif" width="20" hegiht="20"/>武汉/ Wuhan | ✅ | ✅ | ✅ |
