@@ -18,6 +18,10 @@
 - 最长的非专线站间距：明觉-团结圩（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nj.gif" width="20" hegiht="20"/>南京，S9线，16.9km）
 - 最长的非快线站间距：北苑-望京西（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，13号线，6.7km）
 - 最短的站间距：南礼士路-复兴门（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，1号线，424m）
+- 最长的乘坐距离（同一线网）：
+- 最大的经度跨度（同一线网）：
+- 最大的维度跨度（同一线网）：
+- 最高的票价（专线除外）：
 
 ### 建筑
 - 出口最多的站：福田（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sz.gif" width="20" hegiht="20"/>深圳，规划36个） 三阳广场（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wx.gif" width="20" hegiht="20"/>无锡，27个）
