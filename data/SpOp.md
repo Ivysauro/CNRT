@@ -222,7 +222,7 @@
 括号内为脱网时间-入网时间
 
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/dl.gif" width="20" hegiht="20"/>大连地铁3号线（2015.10-）
-- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/qd.gif" width="20" hegiht="20"/>青岛地铁13号线（2018.12-）
+- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/dl.gif" width="20" hegiht="20"/>大连地铁13号线（2021.12-）
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>~~北京地铁9号线~~（2011.12-2012.12）
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>~~北京地铁房山线~~（2010.12-2012.12）
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>~~北京地铁S1线~~（2017.12-2018.12）
@@ -232,6 +232,7 @@
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wh.gif" width="20" hegiht="20"/>~~武汉地铁11号线~~（2018.10-2019.2）
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sz.gif" width="20" hegiht="20"/>~~深圳地铁3号线~~（2010.12-2011.6）
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nj.gif" width="20" hegiht="20"/>~~南京地铁S8线~~（2014.8-2015.4）
+- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/qd.gif" width="20" hegiht="20"/>~~青岛地铁13号线~~（2018.12-2021.12）
 
 ### 未成网时互不联通
 #### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京
@@ -243,6 +244,8 @@
 #### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/dl.gif" width="20" hegiht="20"/>大连
 - 3号线（2003.5）、12号线（2014.5）、2号线（2015.5）互不连通
 - 2号线随1号线开通于2015.10成网，3号线、12号线开始脱网
+- 1号线2017.6南延，12号线结束脱网
+- 13号线2021.12开通，与3号线一起脱网
 
 #### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hz.gif" width="20" hegiht="20"/>杭州
 - 1号线（2012.11）、2号线（2014.11）互不连通，随4号线开通于2015.2成网
