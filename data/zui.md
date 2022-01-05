@@ -20,7 +20,7 @@
 - 最短的站间距：南礼士路-复兴门（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，1号线，424m）
 - 最长的乘坐距离（同一线网）：
 - 最大的经度跨度（同一线网）：
-- 最大的维度跨度（同一线网）：
+- 最大的纬度跨度（同一线网）：
 - 最高的票价（专线除外）：
 
 ### 建筑
