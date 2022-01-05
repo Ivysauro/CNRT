@@ -30,7 +30,7 @@
 
 ### 新增
 
-- 清河（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，13号线，2019.12）
+- 清河站（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，13号线，2019.12）
 - 陈翔公路（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，11号线，2020.8）
 
 ### 关闭
@@ -52,6 +52,7 @@
 
 仅统计较长时间的封站
 
+- 苹果园（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，1号线，2020.4因扩建封站改造，预计2022.12恢复服务）
 - 郝家府（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，6号线，2017.10因站外道路扩宽抬高而关闭，2018.11恢复服务）
 - 西站（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tj.gif" width="20" hegiht="20"/>天津，1号线，2009.5配合天津西站综合改造工程而关闭，2011.6恢复服务）
 - 东海路（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tj.gif" width="20" hegiht="20"/>天津，9号线，2015.8因天津滨海新区爆炸事件而关闭拆除，2016.12恢复服务）
@@ -62,15 +63,16 @@
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京
 - 福寿岭（1号线，1973.4-）
-- 二里沟（6号线，2012.12-）
-- 高家园（14号线，2014.12-预计2021.12）
+- 二里沟（6号线，2012.12-预计2022.12）
+- 高家园（14号线，2014.12-）
 - 通运门（6号线，2014.12-）
 - 陶然桥（14号线，2015.12-）
-- 西铁营、菜户营、东管头、景风门（14号线，2015.12-）
+- 景风门（~~14号线，2015.12-2021.12~~；19号线，2021.12-预计2022）
 - 红庙（14号线，2015.12-）
-- 苹果园（6号线，2018.12-预计2021.12）
 - 大红门（8号线，2018.12-）
-- 二里沟、苏州街、玉渊潭东门（16号线，2020.12-）
+- 二里沟、苏州街（16号线，2020.12-）
+- 模式口（11号线，2021.12-）
+- 太平桥、新街口、北太平庄（19号线，2021.12-预计2022）
 - ~~望京东~~（15号线，2010.12-2016.12）
 - ~~亦庄火车站~~（亦庄线，2010.12-2018.12）
 - ~~丰台东大街~~（9号线，2011.12-2012.10）
@@ -85,8 +87,11 @@
 - ~~北运河东~~（6号线，2014.12-2018.12）
 - ~~双井~~（7号线，2014.12-2019.12）
 - ~~平乐园~~（14号线，2015.12-2017.12）
+- ~~西铁营、菜户营、东管头~~（14号线，2015.12-2021.12）
 - ~~农大南路~~（16号线，2016.12-2017.12）
+- ~~苹果园~~（6号线，2018.12-2021.12）
 - ~~环球度假区~~（7号线、八通线，2019.12-2021.8）
+- ~~玉渊潭东门~~（16号线，2020.12-2021.12）
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tj.gif" width="20" hegiht="20"/>天津
 - 北运河（6号线，2016.12-）
@@ -463,7 +468,7 @@
 
 #### 对英文名相同车站的处理
 
-- 管庄/ GUANZHUANG→Guaan Zhuang[^gz]、关庄/ GUANZHUANG（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，八通线、15号线）
+- 管庄/ GUANZHUANG→Guaan Zhuang[^gz]→Guǎnzhuang、关庄/ GUANZHUANG→Guānzhuang（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，八通线、15号线）
 - 浦电路/ Pudian Road、浦电路/ Pudian Road（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，4号线、6号线）
 - 萧岗/ Xiao-gang、晓港/ Xiaogang（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州，2号线、8号线）
 
