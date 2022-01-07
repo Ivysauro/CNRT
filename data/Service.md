@@ -2,7 +2,7 @@
 
 ## 目录/ Content
 - [应用/ App](#应用-App)
-- [二维码互联互通/ QR Code in ONE App](#二维码互联互通-QR-Code-in-ONE-App)
+- [二维码集成/ ONE App Multi QR](#二维码集成-ONE-App-Multi-QR)
 - [P+R](#P+R)
 - [车厢温度/ Temperature](#车厢温度-Temperature)
 
@@ -26,13 +26,8 @@
 | 北京/ Beijing | 亿通行 | 合资 | ✅ | ✅ | ✅ | 支付宝、微信、银联、京东 | 刷脸过闸（仅大兴机场线）、可刷公交 |
 | 北京/ Beijing | 北京公交 | 公交 | | | ✅ | 支付宝、银联、云闪付 | 可刷地铁 |
 | 北京/ Beijing | 北京一卡通 | 通卡 | | | | 支付宝、微信 | 云卡、可刷地铁 |
-| 香港/ Hong Kong | 港铁MTR Mobile | 地铁 | ✅ |
-| 香港/ Hong Kong | 八达通 | 通卡 |
 | 天津/ Tianjin | 天津地铁 | 地铁 |✅ | | ✅ | 支付宝、银联 |
 | 上海/ Shanghai | Metro大都会 | 地铁 | ✅ | | ✅ | 支付宝、微信、银联、云闪付、京东、苏宁 | 同行票 |
-| 台北/ Taipei | 台北捷运Go | 地铁 | ✅ |
-| 桃园/ Taoyuan | i搭桃捷 | 地铁 | ✅ |
-| 桃园/ Taoyuan | 桃捷Tickets | 地铁 | | ✅ | ✅ | 信用卡（详细数据暂缺） |
 | 广州/ Guangzhou | 广州地铁 | 地铁 | ✅ | ✅ | ✅ | 支付宝、微信 | 云卡、刷脸过闸 |
 | 广州/ Guangzhou | 羊城通 | 通卡 | | | ✅ | 微信 | 可刷公交 |
 | 长春/ Changchun | 长春e出行 | 地铁 | ✅ | | ✅ | 银联 |
@@ -82,13 +77,26 @@
 | 兰州/ Lanzhou | 兰州轨道 | 地铁 | ✅ | | ✅ | 银联 |
 | 常州/ Changzhou | 常州地铁Metro | 地铁 | ✅ | | ✅ | 微信、银联 |
 | 徐州/ Xuzhou | 徐州地铁 | 地铁 | ✅ | ✅ | ✅ | 支付宝、微信、银联、苏宁 |
-| 呼和浩特/ Hohhot | 青城地铁 | 地铁 | | | ✅ | ? |
+| 呼和浩特/ Hohhot | 青城地铁 | 地铁 | | | ✅ | ? //|
 | 太原/ Taiyuan | 听景 | 地铁 | | | ✅ | ? | 刷脸过闸 |
 | 洛阳/ Luoyang | 洛易行 | 地铁 | | ✅ | ✅ | ? | 刷脸过闸 |
+| 绍兴/ Shaoxing |
+| 芜湖/ Wuhu |
+| 佛山/ Foshan |
+| 香港/ Hong Kong | 港铁MTR Mobile | 地铁 | ✅ |
+| 香港/ Hong Kong | 八达通 | 通卡 |
+| 香港/ Hong Kong |
+| 澳门/ Macao |
+| 台北/ Taipei | 台北捷运Go | 地铁 | ✅ |
+| 高雄/ Kaohsiung |
+| 桃园/ Taoyuan | i搭桃捷 | 地铁 | ✅ |
+| 桃园/ Taoyuan | 桃捷Tickets | 地铁 | | ✅ | ✅ | Visa、万事达、JCB、银联信用卡 |
+| 台中/ Taichung |
 
-## 二维码互联互通/ QR Code in ONE App
 
-通过接入城轨易行平台，在同一应用内聚合多个城市轨道交通的乘车码，但需逐一开通并绑定当地支持的支付方式/ Gathering several Transit QR Codes in one App, but needs apply first before using and bind a supported payment method in that city
+## 二维码集成/ ONE App Multi QR
+
+通过接入城轨易行平台，在同一应用内集成多个乘车码，但需逐一开通并绑定当地支持的支付方式/ Gathering several Transit QR in ONE App, but needs apply first before using and bind a supported payment method in that city
 
 |  | 京 | 津 | 呼 | 沪 | 宁 | 锡 | 徐 | 常 | 苏 | 杭 | 甬 | 温 | 合 | 福 | 昌 | 青 | 郑 | 武 | 穗 | 深 | 渝 | 蓉 | 兰 |  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
