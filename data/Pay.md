@@ -207,7 +207,7 @@
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海/ Shanghai | ⭕ | ⭕ | ⭕- | ✅ | ⭕ | 55 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州/ Guangzhou | ✅ | ✅ | ⭕ | ✅ | ✅ | **90** |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cc.gif" width="20" hegiht="20"/>长春/ Changchun | ⭕ | ✅ | ✅ | ✅ | ⭕ | 80 |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/dl.gif" width="20" hegiht="20"/>大连/ Dalian | ❌ | ❌ | ✅ | ✅ | ⭕ | 50 |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/dl.gif" width="20" hegiht="20"/>大连/ Dalian | ⭕ | ⭕ | ✅ | ✅ | ⭕ | 70 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wh.gif" width="20" hegiht="20"/>武汉/ Wuhan | ✅ | ✅ | ⭕ | ❌ | ⭕ | 60 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cq.gif" width="20" hegiht="20"/>重庆/ Chongqing | ✅ | ✅ | ⭕ | ✅ | ⭕ | 80 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sz.gif" width="20" hegiht="20"/>深圳/ Shenzhen | ⭕ | ✅ | ✅ | ✅ | ⭕ | 80 |
@@ -234,14 +234,14 @@
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xm.gif" width="20" hegiht="20"/>厦门/ Xiamen | ✅ | ⭕ | ✅ | ✅ | ⭕ | 80 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wlmq.gif" width="20" hegiht="20"/>乌鲁木齐/ Urumqi | ⭕ | ⭕ | ❌ | ✅ | ❌ | 40 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wz.gif" width="20" hegiht="20"/>温州/ Wenzhou | ⭕ | ⭕ | ✅- | ❌ | ❌ | **35** |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/jn.gif" width="20" hegiht="20"/>济南/ Jinan | ⭕ | ⭕ | ✅- | ✅ | ❌ | 55 |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/jn.gif" width="20" hegiht="20"/>济南/ Jinan | ⭕ | ⭕ | ✅- | ✅ | ⭕- | 60 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/lz.gif" width="20" hegiht="20"/>兰州/ Lanzhou | ✅ | ✅ | ⭕ | ✅ | ⭕- | 75 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cz.gif" width="20" hegiht="20"/>常州/ Changzhou | ⭕ | ⭕ | ✅- | ✅ | ⭕ | 65 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xz.gif" width="20" hegiht="20"/>徐州/ Xuzhou | ❌ | ❌ | ✅ | ✅ | ⭕ | 50 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hhht.gif" width="20" hegiht="20"/>呼和浩特/ Hohhot | ⭕ | ⭕ | ✅ | ❌ | ❌ | 40 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tay.gif" width="20" hegiht="20"/>太原/ Taiyuan | ⭕ | ⭕ | ⭕- | ✅ | ❌ | 45 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/ly.gif" width="20" hegiht="20"/>洛阳/ Luoyang | ⭕ | ❌ | ✅ | ✅ | ❌ | 50 |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sx.gif" width="20" hegiht="20"/>绍兴/ Shaoxing | ✅ | ⭕ | ✅ | ✅ | ❌ | 70 |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sx.gif" width="20" hegiht="20"/>绍兴/ Shaoxing | ✅ | ⭕ | ✅ | ✅ | ⭕- | 75 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wuh.gif" width="20" hegiht="20"/>芜湖/ Wuhu | ⭕ | ⭕ | ✅ | ✅ | ❌ | 60 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/fs.gif" width="20" hegiht="20"/>佛山/ Foshan | ✅ | ✅ | ⭕ | ✅ | ✅ | **90** |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hk.gif" width="20" hegiht="20"/>香港/ Hong Kong | ✅ | ⭕ | ⭕- | | ⭕- | - |
