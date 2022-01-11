@@ -1,7 +1,5 @@
 # NFC交通卡/ NFC Transit Card
 
-排序方式为省份区划代码/ Rank by Province Code
-
 已上线仅代表该品牌支持，不代表所有机型均支持/ Not all phones of one brand support NFC Transit Card
 
 ## 图例/ Legend
