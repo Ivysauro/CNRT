@@ -1,7 +1,5 @@
 # NFC交通卡/ NFC Transit Card
 
-已上线仅代表该品牌支持，不代表所有机型均支持/ Not all phones of one brand support NFC Transit Card
-
 ## 图例/ Legend
 
 | 商标/ Logo | 中文/ Chinese | 英文/ English |
@@ -16,13 +14,13 @@
 
 | 图标/ Icon | 中文/ Chinese | 英文/ English |
 | :-: | :- | :- |
-| ✅ | 已上线 | Support |
-| ⏳ | 即将上线 | Coming Soon |
-| ❌ | 已下线 | Closed |
-| ⏳❌ | 上线夭折 | Plan Closed |
+| ✅ | 已上线（仅代表该品牌，不代表旗下所有机型） | Supported (Not all phone models of the brand supported) |
+| ⏳ | 即将上线（消息来源不保证可靠性） | Coming Soon (Maybe incorrect info) |
+| ❌ | 已下线（无法新开通交通卡） | Closed (Cannot add new cards) |
+| ⏳❌ | 上线夭折（因各种原因未能如期上线） | Plan Closed (Due to many reasons) |
 | 💥 | 新变动 | New Update |
-| 🐲🔮 | 集齐七颗龙珠 | Collected all 7 Dragon Balls |
-| 📿 | 集齐六颗龙珠 | Collected 6 Dragon Balls |
+| 🐲🔮 | 集齐七颗龙珠（支持7家主流品牌） | Collected all 7 Dragon Balls (Fully Supported) |
+| 📿 | 集齐六颗龙珠（支持6家主流品牌） | Collected 6 Dragon Balls (Almost Fully Supported) |
 | 🐉💎 | 曾经集齐七颗龙珠 | Have Collected 7 Dragon Balls |
 
 | 图标/ Icon | 中文/ Chinese | 英文/ English |
