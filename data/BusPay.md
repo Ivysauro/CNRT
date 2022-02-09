@@ -117,7 +117,7 @@
 | 阜新/ Fuxin | 阜新交通一卡通 | ✅ | ✅ | ✅ | ✅ | | ✅ | |
 | 辽阳/ Liaoyang | 辽阳交通一卡通 | ✅ | ✅ | ✅ | | | ✅ | 辽阳惠民卡 |
 | 盘锦/ Panjin | 盘锦交通一卡通 | ✅ | ✅ | | ✅ | | ✅ | |
-| 铁岭/ Tieling | 铁岭交通一卡通 | ✅ | | | ✅ | | | 美团 |
+| 铁岭/ Tieling | 铁岭全国交通一卡通 | ✅ | | ✅ | ✅ | | | 铁岭交运如意行 |
 | 朝阳/ Chaoyang | 朝阳交通一卡通 | ✅ | ✅ | | ⭕[^cy] | | ✅ | |
 | 葫芦岛/ Huludao | 葫芦岛都市畅行卡 | ✅ | | ✅ | | | | |
 | **吉林/ Jilin** | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay NFC.png" width="40" hegiht="40" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay QR.png" width="40" hegiht="40" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Bus.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
