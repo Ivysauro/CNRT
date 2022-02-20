@@ -87,7 +87,7 @@
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sx.gif" width="20" hegiht="20"/>3306 绍兴/ Shaoxing | 2021 | ✅ | ✅ | ✅ | | ✅ |  |✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wuh.gif" width="20" hegiht="20"/>3402 芜湖/ Wuhu | 2021 | ✅💥 | ✅ | | | ✅ | |✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/fs.gif" width="20" hegiht="20"/>4406 佛山/ Foshan | 2021 | ✅ | ⭕[^gz] | ✅ | ✅ |  || ✅ | |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hk.gif" width="20" hegiht="20"/>8101 香港/ Hong Kong | 1979 | | ⏳ | ✅ | ⏳ | ⏳ | ⏳ | ✅ | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/AlipayHK.png" width="20" hegiht="20" alt="AlipayHK"/> |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hk.gif" width="20" hegiht="20"/>8101 香港/ Hong Kong | 1979 | | ⏳ | ✅ | ✅💥[^hk] | ✅💥 | ⏳ | ✅ | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/AlipayHK.png" width="20" hegiht="20" alt="AlipayHK"/> |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/mo.gif" width="20" hegiht="20"/>8201 澳门/ Macao | 2019 | | | | | | | | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tp.gif" width="20" hegiht="20"/>8301 台北/ Taipei | 1996 | | ⏳ | | | | | | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/kh.gif" width="20" hegiht="20"/>8306 高雄/ Kaohsiung | 2008 | | ⭕[^kh] | | | ✅ | V/M/J | ✅ | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Line Pay.png" width="20" hegiht="20" alt="Line Pay"/> |
@@ -118,6 +118,8 @@
 [^ty]: 桃园：机场捷运支持在线购票后扫码过闸/ Taoyuan: Only Airport MRT support after buying ticket online
 
 [^ty2]: 桃园：银联闪付仅支持信用卡/ Taoyuan: Only credit card accepted in Quickpass
+
+[^hk]: 香港：微信支付和微信支付（香港）均支持 / Hong Kong: Both WeChat Pay and WeChat Pay HK accepted
 
 [^mo]: 澳门：除交通卡外，其他非现金支付方式仅柜台购票支持/ Macao: Only buying tickets at the counter accepted Non-cash payment methods, but Transit Card can be used on TVM
 
