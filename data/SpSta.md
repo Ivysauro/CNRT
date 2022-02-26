@@ -586,7 +586,7 @@
 - 苏州乐园→狮子山（1号线，2019.12）
 
 #### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hz.gif" width="20" hegiht="20"/>杭州
-- 余杭高铁→余杭高铁站（1号线，?)
+- 余杭高铁→余杭高铁站→临平南高铁站（1号线，?/2022.1)
 - 新桥→阳陂湖（6号线，2021.4）
 
 #### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hrb.gif" width="20" hegiht="20"/>哈尔滨
