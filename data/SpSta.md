@@ -499,7 +499,7 @@
 
 #### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hk.gif" width="20" hegiht="20"/>香港
 - 马料水→大学（东铁线，1966.12）
-- 油麻地→旺角→旺角东（东铁线，1969，2007.12）
+- 油麻地→旺角→旺角东（东铁线，1969/2007.12）
 
 #### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tj.gif" width="20" hegiht="20"/>天津
 - 洋货市场→塘沽（9号线，2005.4）
@@ -510,11 +510,10 @@
 - 国展路→国瑞路（1号线，2021.5）
 
 #### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海
-- 锦江乐园→虹梅路（1号线，1997.7）
+- 锦江乐园→虹梅路→锦江乐园（1号线，1997.7/2001.5）
 - 浦东中央公园→世纪公园（2号线，2000.4）
 - 人民公园→人民广场（2号线，2000.8）
 - 新龙华→上海南站（1号线，2000.12）
-- 虹梅路→锦江乐园（1号线，2001.5）
 - 杨高南路→上海科技馆（2号线，2002.12）
 - 东方路→世纪大道（2号线，2006.7）
 - 石门一路→南京西路（2号线，2006.10）
