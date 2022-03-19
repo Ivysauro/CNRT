@@ -22,6 +22,7 @@
 | 长沙黄花 | Changsha Huanghua | CSX, ChangSha+X; HHA, HuangHuA | ZGHA, HuanghuA |
 | 桂林两江 | Guilin Liangjiang | KWL, KWeiLin | ZGKL, KweiLin |
 | 成都天府 | Chengdu Tianfu | TFU, TianFU | ZUTF, TianFu |
+| 青岛胶东 | Qingdao Jiaodong | TAO, TsingtAO | ZSQD, QingDao |
 | 香港（赤鱲角） | Hong Kong | HKG, Hong KonG | VHHH |
 | 台北桃园 | Taipei Taoyuan | TPE, TaiPEi | RCTP, TaiPei |
 
@@ -50,7 +51,6 @@
 | 吐鲁番交河 | Turpan Jiaohe | TLQ, TuLufan+Q | ZWTL, TuLufan |
 | 兰州中川 | Lanzhou Zhongchuan | LHW, LancHoW | ZLLL |
 | 厦门高崎 | Xiamen Gaoqi | XMN, XiaMeN | ZSAM, AMoy |
-| 青岛流亭 | Qingdao Liuting | TAO, TsingtAO | ZSQD, QingDao |
 | 烟台蓬莱 | Yantai Penglai | YNT, YaNTai | ZSYT, YanTai |
 | 长春龙嘉 | Changchun Longjia | CGQ, ChanGchun+Q | ZYCC, ChangChun |
 | 大连周水子 | Dalian Zhoushuizi | DLC, DaLian Chowshuitze/ DaLian City | ZYTL, TaLien |
@@ -233,6 +233,7 @@
 | 昆明巫家坝 | Kunming Wujiaba | KMG, KunMinG | ZPPP |
 | 西安西关 | Xi'an Xiguan | SIA, SiAn | ZLSN, SiaN |
 | 香港启德 | Hong Kong Kai Tak | HKG, Hong KonG | VHHH; VHHX |
+| 青岛流亭 | Qingdao Liuting | TAO, TsingtAO | ZSQD, QingDao |
 
 ## 更名记录/ Rename Record
 
