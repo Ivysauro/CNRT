@@ -263,27 +263,27 @@
 
 ## Closed
 
-| 中文名/ Chinese Name | 英文名/ English Name | IATA | ICAO | 等级/ Level | 关闭时间/ Time of CLose |
+| 中文名/ Chinese Name | 英文名/ English Name | IATA | ICAO | 等级/ Level | 关闭时间/ Time of Close |
 | :- | :- | :- | :- | :- | :- |
 | 华北 ZB |
-| 北京南苑 | Beijing Nanyuan | NAY, NanYuan | ZBNY, NanYuan | 4C |
+| 北京南苑 | Beijing Nanyuan | NAY, NanYuan | ZBNY, NanYuan | 4C | 2019.10 |
 | 中南 ZG |
-| 广州白云（旧） | Guangzhou Baiyun (Old) | CAN, CANton | ZGGG |
-| 长沙大托铺 | Changsha Datuopu | CSX, ChangSha+X | ZGCS, ChangSha |
+| 广州白云（旧） | Guangzhou Baiyun (Old) | CAN, CANton | ZGGG | N/A | 2004.8 |
+| 长沙大托铺 | Changsha Datuopu | CSX, ChangSha+X | ZGCS, ChangSha | N/A | 1989.8 |
 | 中南 ZH |
-| 郑州东郊 | Zhengzhou Dongjiao | CGO, ChenGchOw | ZHCC, ChengChow |
-| 武汉王家墩 | Wuhan Wangjiadun | WJD, WangJiaDun | ZHWT |
+| 郑州东郊 | Zhengzhou Dongjiao | CGO, ChenGchOw | ZHCC, ChengChow | 4C | 1997.8 |
+| 武汉王家墩 | Wuhan Wangjiadun | WJD, WangJiaDun | ZHWT | N/A | 2007.12 |
 | 华东 ZS |
-| 上海龙华 | Shanghai Longhua | N/A | ZSSL, Longhua |
-| 青岛流亭 | Qingdao Liuting | TAO, TsingtAO | ZSQD, QingDao |
+| 上海龙华 | Shanghai Longhua | N/A | ZSSL, Shanghai Longhua | 2B | 1966.8 |
+| 青岛流亭 | Qingdao Liuting | TAO, TsingtAO | ZSQD, QingDao | 4E | |
 | 西南 ZP |
-| 昆明巫家坝 | Kunming Wujiaba | KMG, KunMinG | ZPPP |
+| 昆明巫家坝 | Kunming Wujiaba | KMG, KunMinG | ZPPP | 4E | 2012.6 |
 | 西北 ZL |
-| 西安西关 | Xi'an Xiguan | SIA, SiAn | ZLSN, SiaN |
+| 西安西关 | Xi'an Xiguan | SIA, SiAn | ZLSN, SiaN | | |
 | 东北 ZY |
-| 沈阳东塔 | Shenyang Dongta | SHE, SHEnyang | ZYYY |
+| 沈阳东塔 | Shenyang Dongta | SHE, SHEnyang | ZYYY | | |
 | VH 香港 |
-| 香港启德 | Hong Kong Kai Tak | HKG, Hong KonG | VHHH; VHHX |
+| 香港启德 | Hong Kong Kai Tak | HKG, Hong KonG | VHHH; VHHX | | |
 
 ## 更名记录/ Rename Record
 
