@@ -4,121 +4,149 @@
 
 | 中文名/ Chinese Name | 英文名/ English Name | IATA | ICAO |
 | :- | :- | :- | :- |
-| 北京 | Beijing | BJS, BeiJing Shi | - |
+| 华北 ZB |
+| 北京 | Beijing | BJS, BeiJing Shi（北京市） | - |
 | 北京首都 | Beijing Capital | PEK, PEKing | ZBAA |
-| 上海浦东 | Shanghai Pudong | PVG, PU(V)donG | ZSPD, PuDong |
-| 重庆江北 | Chongqing Jiangbei | CKG, ChungKinG | ZUCK, ChungKing |
-| 广州白云 | Guangzhou Baiyun | CAN, CANton | ZGGG |
-| 昆明长水 | Kunming Changshui | KMG, KunMinG | ZPPP |
-| 郑州新郑 | Zhengzhou Xinzheng | CGO, ChenGchOw | ZHCC, ChengChow |
-| 成都双流 | Chengdu Shuangliu | CTU, ChengTU | ZUUU |
-| 武汉天河 | Wuhan Tianhe | WUH, WUHan | ZHHH |
-| 天津滨海 | Tianjin Binhai | TSN, TientSiN | ZBTJ, TianJin |
-| 杭州萧山 | Hangzhou Xiaoshan | HGH, HanGzHou | ZSHC, HangChow |
 | 北京大兴 | Beijing Daxing | PKX, PeKing daXing | ZBAD, Daxing |
-| 深圳宝安 | Shenzhen Bao'an | SZX, ShenZhen+X | ZGSZ, ShenZhen |
-| 西安咸阳 | Xi'an Xianyang | XIY, XIanYang | ZLXY, XianYang |
-| 南京禄口 | Nanjing Lukou | NKG, NanKinG | ZSNJ, NanJing |
+| 天津滨海 | Tianjin Binhai | TSN, TientSiN | ZBTJ, TianJin |
+| 中南 ZG |
+| 广州白云 | Guangzhou Baiyun | CAN, CANton | ZGGG |
 | 长沙黄花 | Changsha Huanghua | CSX, ChangSha+X; HHA, HuangHuA | ZGHA, HuanghuA |
 | 桂林两江 | Guilin Liangjiang | KWL, KWeiLin | ZGKL, KweiLin |
-| 成都天府 | Chengdu Tianfu | TFU, TianFU | ZUTF, TianFu |
+| 深圳宝安 | Shenzhen Bao'an | SZX, ShenZhen+X | ZGSZ, ShenZhen |
+| 中南 ZH |
+| 武汉天河 | Wuhan Tianhe | WUH, WUHan | ZHHH |
+| 郑州新郑 | Zhengzhou Xinzheng | CGO, ChenGchOw | ZHCC, ChengChow |
+| 西北 ZL |
+| 西安咸阳 | Xi'an Xianyang | XIY, XIanYang | ZLXY, XianYang |
+| 西南 ZP |
+| 昆明长水 | Kunming Changshui | KMG, KunMinG | ZPPP |
+| 华东 ZS |
+| 杭州萧山 | Hangzhou Xiaoshan | HGH, HanGzHou | ZSHC, HangChow |
+| 南京禄口 | Nanjing Lukou | NKG, NanKinG | ZSNJ, NanJing |
+| 上海浦东 | Shanghai Pudong | PVG, PU(V)donG | ZSPD, PuDong |
 | 青岛胶东 | Qingdao Jiaodong | TAO, TsingtAO | ZSQD, QingDao |
-| 香港（赤鱲角） | Hong Kong | HKG, Hong KonG | VHHH |
+| 西南 ZU |
+| 成都双流 | Chengdu Shuangliu | CTU, ChengTU | ZUUU |
+| 重庆江北 | Chongqing Jiangbei | CKG, ChungKinG | ZUCK, ChungKing |
+| 成都天府 | Chengdu Tianfu | TFU, TianFU | ZUTF, TianFu |
+| 香港 VH |
+| 香港（赤𫚭角） | Hong Kong (Chek Lap Kok) | HKG, Hong KonG | VHHH |
+| 台湾 RC |
 | 台北桃园 | Taipei Taoyuan | TPE, TaiPEi | RCTP, TaiPei |
 
 ## 4E
 
 | 中文名/ Chinese Name | 英文名/ English Name | IATA | ICAO |
 | :- | :- | :- | :- |
-| 上海虹桥 | Shanghai Hongqiao | SHA, SHAnghai | ZSSS |
-| 太原武宿 | Taiyuan Wusu | TYN, TaiYuaN | ZBYN, taiYuaN |
-| 沈阳桃仙 | Shenyang Taoxian | SHE, SHEnyang | ZYTX, TaoXian |
-| 济南遥墙 | Jinan Yaoqiang | TNA, TsiNAn | ZSJN, JiNan |
-| 合肥新桥 | Hefei Xinqiao | HFE, HeFEi | ZSOF, hOFei |
-| 珠海金湾 | Zhuhai Jinwan | ZUH, ZhUHai | ZGSD |
-| 海口美兰 | Haikou Meilan | HAK, HAiKou | ZJHK, HaiKou |
-| 三亚凤凰 | Sanya Phoenix | SYX, SanYa phoeniX | ZJSY, SanYa |
-| 琼海博鳌 | Qionghai Bo'ao | BAR, Bo'Ao+R | ZJQH, QiongHai |
-| 常州奔牛 | Changzhou Benniu | CZX, ChangZhou+X | ZGCG, ChanGzhou |
-| 南宁吴圩 | Nanning Wuxu | NNG, NanNinG | ZGNN, NanNing |
-| 北海福成 | Beihai Fucheng | BHY, BeiHai+Y | ZGBH, BeiHai |
-| 宁波栎社 | Ningbo Lishe | NGB, NinGBo | ZSNB, NingBo |
-| 福州长乐 | Fuzhou Changle | FOC, FOoChow | ZSFZ, Fuzho |
-| 南昌昌北 | Nanchang Changbei | KHN, KiangHi Nanchang/ Kianghi HsiaNgtang | ZSCN, nanChaNg |
+| 华北 ZB |
+| 鄂尔多斯伊金霍洛 | Ordos Ejin Horo | DSN, orDoS ejiN horo/ DongSheNg（东胜） | ZBDS, orDoS/ DongSheng |
 | 呼和浩特白塔 | Hohhot Baita | HET, HuhEhaoTe | ZBHH, HohHot |
+| 石家庄正定 | Shijiazhuang Zhengding | SJW, ShiJiazhuang+W | ZBSJ, ShiJiazhuang |
+| 太原武宿 | Taiyuan Wusu | TYN, TaiYuaN | ZBYN, taiYuaN |
+| 中南 ZG |
+| 北海福成 | Beihai Fucheng | BHY, BeiHai+Y | ZGBH, BeiHai |
+| 南宁吴圩 | Nanning Wuxu | NNG, NanNinG | ZGNN, NanNing |
+| 揭阳潮汕 | Jieyang Chaoshan | SWA, SWAtou | ZGOW, swatOW |
+| 珠海金湾 | Zhuhai Jinwan | ZUH, ZhUHai | ZGSD, Sanzao（三灶）+D |
+| 中南 ZJ |
+| 海口美兰 | Haikou Meilan | HAK, HAiKou | ZJHK, HaiKou |
+| 琼海博鳌 | Qionghai Bo'ao | BAR, Bo'Ao+R | ZJQH, QiongHai |
+| 三亚凤凰 | Sanya Phoenix | SYX, SanYa phoeniX | ZJSY, SanYa |
+| 西北 ZL |
+| 兰州中川 | Lanzhou Zhongchuan | LHW, LancHoW | ZLLL |
+| 银川河东 | Yinchuan Hedong | INC, yINChuan | ZLIC, yInChuan |
+| 西宁曹家堡 | Xining Caojiapu | XNN, XiNing+N | ZLXN, XiNing |
+| 华东 ZS |
+| 上海虹桥 | Shanghai Hongqiao | SHA, SHAnghai | ZSSS |
+| 厦门高崎 | Xiamen Gaoqi | XMN, XiaMeN | ZSAM, AMoy |
+| 常州奔牛 | Changzhou Benniu | CZX, ChangZhou+X | ZSCG, ChanGzhou |
+| 南昌昌北 | Nanchang Changbei | KHN, KiangHi（江西） Nanchang/ Kianghi HsiaNgtang（向塘） | ZSCN, nanChaNg |
+| 福州长乐 | Fuzhou Changle | FOC, FOoChow | ZSFZ, Fuzho |
+| 济南遥墙 | Jinan Yaoqiang | TNA, TsiNAn | ZSJN, JiNan |
+| 宁波栎社 | Ningbo Lishe | NGB, NinGBo | ZSNB, NingBo |
+| 南通兴东 | Nantong Xingdong | NTG, NanTonG | ZSNT, NanTong |
+| 合肥新桥 | Hefei Xinqiao | HFE, HeFEi | ZSOF, hOFei |
+| 苏南硕放 | Sunan Shuofang | WUX, WUXi | ZSWX, WuXi |
+| 温州龙湾 | Wenzhou Longwan | WNZ, WeNZhou | ZSWZ, WenZhou |
+| 徐州观音 | Xuzhou Guanyin | XUZ, XUZhou | ZSXZ, XuZhou |
+| 扬州泰州 | Yangzhou Taizhou | YTY, Yangzhou Taizhou+Y | ZSYA, YAngzhou |
+| 烟台蓬莱 | Yantai Penglai | YNT, YaNTai | ZSYT, YanTai |
+| 西南 ZU |
+| 贵阳龙洞堡 | Guiyang Longdongbao | KWE, KWEiyang | ZUGY, GuiYang |
+| 拉萨贡嘎 | Lhasa Kongga | LXA, Lh(X)Asa | ZULS, LaSa |
+| 新疆 ZW |
 | 乌鲁木齐地窝堡 | Urumchi Diwopu | URC, URumChi | ZWWW |
 | 喀什 | Kashgar | KHG, KasHGar | ZWSH, kaSHgar |
 | 吐鲁番交河 | Turpan Jiaohe | TLQ, TuLufan+Q | ZWTL, TuLufan |
-| 兰州中川 | Lanzhou Zhongchuan | LHW, LancHoW | ZLLL |
-| 厦门高崎 | Xiamen Gaoqi | XMN, XiaMeN | ZSAM, AMoy |
-| 烟台蓬莱 | Yantai Penglai | YNT, YaNTai | ZSYT, YanTai |
+| 东北 ZY |
 | 长春龙嘉 | Changchun Longjia | CGQ, ChanGchun+Q | ZYCC, ChangChun |
-| 大连周水子 | Dalian Zhoushuizi | DLC, DaLian Chowshuitze/ DaLian City | ZYTL, TaLien |
-| 哈尔滨太平 | Harbin Taiping | HRB, HaRBin | ZYHB, HarBin |
-| 苏南硕放 | Sunan Shuofang | WUX, WUXi | ZSWX, WuXi |
-| 贵阳龙洞堡 | Guiyang Longdongbao | KWE, KWEiyang | ZUGY, GuiYang |
-| 石家庄正定 | Shijiazhuang Zhengding | SJW, ShiJiazhuang+W | ZBSJ, ShiJiazhuang |
-| 银川河东 | Yinchuan Hedong | INC, yINChuan | ZLIC, yInChuan |
-| 西宁曹家堡 | Xining Caojiapu | XNN, XiNing+N | ZLXN, XiNing |
-| 徐州观音 | Xuzhou Guanyin | XUZ, XUZhou | ZSXZ, XuZhou |
-| 鄂尔多斯伊金霍洛 | Ordos Ejin Horo | DSN, orDoS ejiN horo/ DongSheNg | ZBDS, orDoS/ DongSheng |
-| 澳门（氹仔） | Macao | MFM | VMMC, MaCao |
-| 高雄（小港） | Kaohsiung | KHH, KaoHsiung+H | RCKH, KaoHsiung |
-| 扬州泰州 | Yangzhou Taizhou | YTY, Yangzhou Taizhou+Y | ZSYA, YAngzhou |
-| 拉萨贡嘎 | Lhasa Kongga | LXA, Lh(X)A | ZULS, LaSa |
-| 南通兴东 | Nantong Xingdong | NTG, NanTonG | ZSNT, NanTong |
-| 揭阳潮汕 | Jieyang Chaoshan | SWA, SWAtou | ZGOW, swatOW |
 | 丹东浪头 | Dandong Langtou | DDG, DanDonG | ZYDD, DanDong |
-| 温州龙湾 | Wenzhou Longwan | WNZ, WeNZhou | ZSWZ, WenZhou |
+| 哈尔滨太平 | Harbin Taiping | HRB, HaRBin | ZYHB, HarBin |
+| 大连周水子 | Dalian Zhoushuizi | DLC, DaLian Chowshuitze/ DaLian City | ZYTL, TaLien |
+| 沈阳桃仙 | Shenyang Taoxian | SHE, SHEnyang | ZYTX, TaoXian |
+| 澳门 VM |
+| 澳门（氹仔） | Macao (Taipa) | MFM | VMMC, MaCao |
+| 台湾 RC |
+| 高雄（小港） | Kaohsiung (Siaogang) | KHH, KaoHsiung+H | RCKH, KaoHsiung |
 
 ## 4D
 
 | 中文名/ Chinese Name | 英文名/ English Name | IATA | ICAO |
 | :- | :- | :- | :- |
-| 克拉玛依 | Karamay | KRY, KaRamaY | ZWKM, KaraMay |
+| 华北 ZB |
 | 秦皇岛北戴河 | Qinhuangdao Beidaihe | BPE, Beidaihe PEitaihe | ZBDH, beiDaiHe |
-| 西昌青山 | XIchang Qingshan | XIC, XIChang | ZUXC, XiChang |
-| 黄山屯溪 | Huangshan Tunxi | TXN, TunXi+N | ZSTX, TunXi |
-| 运城张孝 | Yuncheng Zhangxiao | YCU, YunCheng+U | ZBYC, YunCheng |
-| 铜仁凤凰 | Tongren Fenghuang | TEN, TongrEN | ZUTR, TongRen |
+| 呼伦贝尔东山 | Hulunbuir Dongshan | HLD, HuLunbuir Dongshan | ZBLA, haiLAr |
 | 满洲里西郊 | Manzhouli Xijiao | NZH, maNZHouli | ZBMZ, ManZhouli |
-| 九寨黄龙 | Jiuzhai Huanglong | JZH, JiuZHai | ZUJZ, JiuZhai |
-| 威海（大水泊） | Weihai | WEH, WEiHai | ZSWH, WeiHai |
-| 库尔勒 | Korla | KRL, KoRLa | ZWKL, KorLa |
-| 昌都邦达 | Qamdo Bangda | BPX | ZUBD, BangDa |
-| 阿里昆莎 | Nagri Gunsa | NGQ, NaGri+Q | ZUAL, ALi |
-| 连云港白塔埠 | Lianyungang Baitabu | LYG, LianYunGang | ZSLG, LianyunganG |
-| 柳州白莲 | Liuzhou Bailian | LZH, LiuZHou | ZGZH, liuZHou |
-| 临沂启阳 | Linyi Qiyang | LYI, LinYI | ZSLY, LinYi |
-| 潍坊南苑 | Weifang Nanyuan | WEF, WEiFang | ZSWF, WeiFang |
-| 西双版纳嘎洒 | Xishuangbanna Gasa | JHG, JingHonG | ZPJH, JingHong |
-| 东营胜利 | Dongying Shengli | DOY, DOngYing | ZSDY, DongYing |
 | 包头东河 | Baotou Donghe | BAV, BAotou(v) | ZBOW, paotOW |
-| 泉州晋江 | Quanzhou Jinjiang | JJN, JinJiaNG | ZSQZ, QuanZhou |
-| 绵阳南郊 | Mianyang Nanjiao | MIG, MIanyanG | ZUMY, MianYang |
-| 丽江三义 | Lijiang Sanyi | LJG, LiJianG | ZPLJ, LiJiang |
-| 湛江 | Zhanjiang | ZHA, ZHAnjiang | ZGZJ, ZhanJiang |
-| 宜昌三峡 | Yichang Sanxia | YIH, YIcHang | ZHYC, YiChang |
-| 襄阳刘集 | Xiangyang Liuji | XFN, XiangFaN | ZHXF, XiangFan |
-| 南阳姜营 | Nanyang Jiangying | NNY, NaNYang | ZHNY, NanYang |
-| 洛阳北郊 | Luoyang Beijiao | LYA, LuoYAng | ZHLY, LuoYaNG |
+| 运城张孝 | Yuncheng Zhangxiao | YCU, YunCheng+U | ZBYC, YunCheng |
+| 张家口宁远 | Zhangjiakou Ningyuan | ZQZ | ZBZJ, ZhangJiakou |
+| 中南 ZG |
 | 常德桃花源 | Changde Taohuayuan | CGD, ChanGDe | ZGCD, ChangDe |
-| 张家界荷花 | Zhangjiajie Hehua | DYG, DaYonG | ZGDY, DaYong |
-| 义乌 | Yiwu | YIW, YIWu | ZSYW, YiWu |
-| 兴义万峰林 | Xingyi Wanfenglin | ACX | ZUYI, xingYI |
+| 张家界荷花 | Zhangjiajie Hehua | DYG, DaYonG（大庸） | ZGDY, DaYong |
+| 柳州白莲 | Liuzhou Bailian | LZH, LiuZHou | ZGZH, liuZHou |
+| 湛江 | Zhanjiang | ZHA, ZHAnjiang | ZGZJ, ZhanJiang |
+| 中南 ZH |
+| 洛阳北郊 | Luoyang Beijiao | LYA, LuoYAng | ZHLY, LuoYaNG |
+| 南阳姜营 | Nanyang Jiangying | NNY, NaNYang | ZHNY, NanYang |
+| 襄阳刘集 | Xiangyang Liuji | XFN, XiangFaN（襄樊） | ZHXF, XiangFan |
+| 宜昌三峡 | Yichang Sanxia | YIH, YIcHang | ZHYC, YiChang |
+| 西北 ZL |
+| 敦煌 | Dunhuang | DNH, DuNHuang | ZLDH, DunHuang |
 | 嘉峪关 | Jiayuguan | JGN, JiayuGuaN | ZLJQ |
+| 西南 ZP |
+| 西双版纳嘎洒 | Xishuangbanna Gasa | JHG, JingHonG（景洪） | ZPJH, JingHong |
+| 丽江三义 | Lijiang Sanyi | LJG, LiJianG | ZPLJ, LiJiang |
+| 华东 ZS |
+| 东营胜利 | Dongying Shengli | DOY, DOngYing | ZSDY, DongYing |
+| 赣州黄金 | Ganzhou Huangjin | KOW, KanchOW | ZSGZ, Ganzhou |
+| 连云港白塔埠 | Lianyungang Baitabu | LYG, LianYunGang | ZSLG, LianyunganG |
+| 临沂启阳 | Linyi Qiyang | LYI, LinYI | ZSLY, LinYi |
+| 泉州晋江 | Quanzhou Jinjiang | JJN, JinJiaNG | ZSQZ, QuanZhou |
 | 淮安涟水 | Huai'an Lianshui | HIA, HuaI'An | ZSSH, lianSHui |
-| 赣州黄金 | Guanzhou Huangjin | KOW, KanchOW | ZSGZ, Ganzhou |
+| 黄山屯溪 | Huangshan Tunxi | TXN, TunXi+N | ZSTX, TunXi |
+| 潍坊南苑 | Weifang Nanyuan | WEF, WEiFang | ZSWF, WeiFang |
+| 威海大水泊 | Weihai Dashuibo | WEH, WEiHai | ZSWH, WeiHai |
+| 义乌 | Yiwu | YIW, YIWu | ZSYW, YiWu |
+| 西南 ZU |
+| 阿里昆莎 | Nagri Gunsa | NGQ, NaGri+Q | ZUAL, ALi |
+| 昌都邦达 | Qamdo Bangda | BPX | ZUBD, BangDa |
+| 九寨黄龙 | Jiuzhai Huanglong | JZH, JiuZHai | ZUJZ, JiuZhai |
+| 绵阳南郊 | Mianyang Nanjiao | MIG, MIanyanG | ZUMY, MianYang |
+| 铜仁凤凰 | Tongren Fenghuang | TEN, TongrEN | ZUTR, TongRen |
+| 西昌青山 | XIchang Qingshan | XIC, XIChang | ZUXC, XiChang |
+| 兴义万峰林 | Xingyi Wanfenglin | ACX | ZUYI, xingYI |
+| 新疆 ZW |
+| 库尔勒 | Korla | KRL, KoRLa | ZWKL, KorLa |
+| 克拉玛依 | Karamay | KRY, KaRamaY | ZWKM, KaraMay |
+| 台湾 RC |
+| 金门（尚义） | Kinmen | KNH, KinmeN+H | RCBS |
+| 台东（丰年） | Taitung | TTT, TaiTung+T | RCFN, FengNian |
+| 嘉义（水上） | Chiayi | CYI, ChiaYI | RCKU |
 | 台中清泉岗 | Taichung Ching Chuang Kang | RMQ, from ICAO; TXG, Taichun(X)G; CCK, Ching Chuang Kang | RCMQ, Middle Qingquangon |
 | 台南 | Tainan | TNN, TaiNaN | RCNN, taiNaN |
-| 花莲 | Hualien | HUN, HUalieN | RCYU |
-| 嘉义（水上） | Chiayi | CYI, ChiaYI | RCKU |
-| 台东（丰年） | Taitung | TTT, TaiTung+T | RCFN, FengNian |
 | 澎湖马公 | Penghu Magong | MZG | RCQC |
-| 金门（尚义） | Kinmen | KNH, KinmeN+H | RCBS |
-| 张家口宁远 | Zhangjiakou Ningyuan | ZQZ | ZBZJ, ZhangJiakou |
-| 敦煌 | Dunhuang | DNH, DuNHuang | ZLDH, DunHuang |
-| 呼伦贝尔东山 | Hulunbuir Dongshan | HLD, HuLunbuir Dongshan | ZBLA, haiLAr |
+| 花莲 | Hualien | HUN, HUalieN | RCYU |
 
 ## 4C
 
