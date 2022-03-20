@@ -1,11 +1,13 @@
 # 机场代码溯源/ Airport Code Origin
 
+[点此处了解各城市的英文名/ Click here for Cities' English Name](https://ivysauro.github.io/CNRT/data/Name)
+
 ## 4F
 
 | 中文名/ Chinese Name | 英文名/ English Name | IATA | ICAO |
 | :- | :- | :- | :- |
 | 华北 ZB |
-| 北京 | Beijing | BJS, BeiJing Shi（北京市） | - |
+| 北京（城市�码）北京 | Beijing | BJS, BeiJing Shi（北京市） | - |bz北京北京（城市码）
 | 北京首都 | Beijing Capital | PEK, PEKing | ZBAA |
 | 北京大兴 | Beijing Daxing | PKX, PeKing daXing | ZBAD, Daxing |
 | 天津滨海 | Tianjin Binhai | TSN, TientSiN | ZBTJ, TianJin |
