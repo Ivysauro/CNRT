@@ -133,7 +133,7 @@
 | 舟山普陀山 | Zhoushan Putuoshan | HSN, zHouShaN | ZSZS, ZhouShan |
 | 西南 ZU |
 | 阿里昆莎 | Ngari Gunsa | NGQ, NaGri+Q | ZUAL, ALi |
-| 昌都邦达 | Qamdo Bangda | BPX | ZUBD, BangDa |
+| 昌都邦达 | Qamdo Bangda | BPX, Bangda+P+X | ZUBD, BangDa |
 | 九寨黄龙 | Jiuzhai Huanglong | JZH, JiuZHai | ZUJZ, JiuZhai |
 | 绵阳南郊 | Mianyang Nanjiao | MIG, MIanyanG | ZUMY, MianYang |
 | 铜仁凤凰 | Tongren Fenghuang | TEN, TongrEN | ZUTR, TongRen |
@@ -267,7 +267,7 @@
 | 伊春林都 | Yichun Lindu | LDS, LinDu+S | ZYLD, LinDu |
 | 牡丹江海浪 | Mudanjiang Hailang | MDG, MuDanjianG | ZYMD, MuDan |
 | 漠河古莲 | Mohe Gulian | OHE, mOHE | ZYMH, MoHe |
-| 齐齐哈尔三家子 | Qiqihar Sanjiazi | NDG | ZYQQ, QiQihar |
+| 齐齐哈尔三家子 | Qiqihar Sanjiazi | NDG, NanDayinG（南大营） | ZYQQ, QiQihar |
 | 松原查干湖 | Songyuan Chaganhu | YSQ, from ICAO | ZYSQ, Songyuan+Q |
 | 通化三源浦 | Tonghua Sanyuanpu | TNH, ToNgHua | ZYTN, ToNghua |
 | 五大连池德都 | Wudalianchi Dedu | DTU, DeD(T)U | ZYTU, deD(T)U |
@@ -336,6 +336,7 @@
 ## 参考资料/ References
 - <https://zhuanlan.zhihu.com/p/113395047>
 - <https://www.zhihu.com/question/21469974/answer/22609463>
+- <https://zhuanlan.zhihu.com/p/437052077>
 
 ## 延伸阅读/ More
 - <https://bbs.feeyo.com/thread-5607062-1-1.html>
