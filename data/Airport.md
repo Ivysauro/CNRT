@@ -69,7 +69,7 @@
 | 宁波栎社 | Ningbo Lishe | NGB, NinGBo | ZSNB, NingBo |
 | 南通兴东 | Nantong Xingdong | NTG, NanTonG | ZSNT, NanTong |
 | 合肥新桥 | Hefei Xinqiao | HFE, HeFEi | ZSOF, hOFei |
-| 苏南硕放 | Sunan Shuofang | WUX, WUXi | ZSWX, WuXi |
+| 苏南硕放 | Sunan Shuofang | WUX, WUXi（无锡） | ZSWX, WuXi |
 | 温州龙湾 | Wenzhou Longwan | WNZ, WeNZhou | ZSWZ, WenZhou |
 | 徐州观音 | Xuzhou Guanyin | XUZ, XUZhou | ZSXZ, XuZhou |
 | 扬州泰州 | Yangzhou Taizhou | YTY, Yangzhou Taizhou+Y | ZSYA, YAngzhou |
@@ -130,6 +130,7 @@
 | 潍坊南苑 | Weifang Nanyuan | WEF, WEiFang | ZSWF, WeiFang |
 | 威海大水泊 | Weihai Dashuibo | WEH, WEiHai | ZSWH, WeiHai |
 | 义乌 | Yiwu | YIW, YIWu | ZSYW, YiWu |
+| 舟山普陀山 | Zhoushan Putuoshan | HSN, zHouShaN | ZSZS, ZhouShan |
 | 西南 ZU |
 | 阿里昆莎 | Ngari Gunsa | NGQ, NaGri+Q | ZUAL, ALi |
 | 昌都邦达 | Qamdo Bangda | BPX | ZUBD, BangDa |
@@ -203,13 +204,18 @@
 | 华东 ZS |
 | 安庆天柱山 | Anqing Tianzhushan | AQG, AnQinG | ZSAQ, AnQing |
 | 阜阳西关 | Fuyang Xiguan | FUG, FUyanG | ZSFY, FuYang |
+| 吉安井冈山（三都） | Ji'an Jinggangshan (Sandu) | JGS, JingGangShan | ZSGS, jingGangShan |
+| 菏泽牡丹 | Heze Mudan | HZA, HeZe mudAn | ZSHZ, HeZe |
 | 景德镇罗家 | Jingdezhen Luojia | JDZ, JingDeZhen | ZSJD, JingDezhen |
 | 池州九华山 | Chizhou Jiuhuashan | JUH, JiUHuashan/ JiuhUasHan | ZSJH, JiuHuashan |
 | 九江庐山 | Jiujiang Lushan | JIU, JIUjiang | ZSJJ, JiuJiang |
+| 衢州 | Quzhou | JUZ, Q(J)UZhou（疑为旧音或误读） | ZSJU, JUciew |
 | 龙岩冠豸山 | Luyan Guanzhishan | LCX, LianCheng+X | ZSLD |
 | 台州路桥 | Taizhou Luqiao | HYN, HuangYaN（黄岩） | ZSLQ, LuQiao |
 | 日照山字河 | Rizhao Shanzihe | RIZ, RIZhao | ZSRZ, RiZhao |
+| 三明沙县 | Sanming Shaxian | SQJ, Sanming QiuJiang（虬江） | ZSSM, SanMing |
 | 上饶三清山 | Shangrao Sanqingshan | SQD, SanQingshan+D | ZSSR, ShangRao |
+| 芜湖宣州 | Wuhu Xuanzhou | WHA, WuHu xuAnzhou | ZSWA, Wuhu xuAnzhou |
 | 宜春明月山 | Yichun Mingyueshan | YIC, YIChun | ZSYC, YiChun |
 | 盐城南洋 | Yancheng Nanyang | YNZ, YaNcheng+Z | ZSYN, YaNcheng/ Yancheng Nanyang |
 | 西南 ZU |
