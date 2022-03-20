@@ -7,7 +7,7 @@
 | 中文名/ Chinese Name | 英文名/ English Name | IATA | ICAO |
 | :- | :- | :- | :- |
 | 华北 ZB |
-| 北京（城市�码）北京 | Beijing | BJS, BeiJing Shi（北京市） | - |bz北京北京（城市码）
+| 北京（城市码） | Beijing (City Code) | BJS, BeiJing Shi（北京市） | ZBBB |
 | 北京首都 | Beijing Capital | PEK, PEKing | ZBAA |
 | 北京大兴 | Beijing Daxing | PKX, PeKing daXing | ZBAD, Daxing |
 | 天津滨海 | Tianjin Binhai | TSN, TientSiN | ZBTJ, TianJin |
