@@ -60,7 +60,7 @@
 | 晋城 | 泽 | 古称，泽州 | **Jincheng** | |
 | 呼和浩特 | 呼 | 缩略 | Huhehaote | **Hohhot** | 蒙语 | 归绥，Kweisui |
 | 沈阳 | 沈 | 缩略 | **Shenyang** | Mukden | 邮政式拼音(蒙语/满语，“盛京”) | 奉天，Fengtien |
-| 大连 | 鲲/连/*大* | 寓意/缩略 | **Dalian** | Dairen | 邮政式拼音(日语) |
+| 大连 | 鲲/连/滨/*大* | 寓意/别名/缩略 | **Dalian** | Dairen | 邮政式拼音(日语) |
 | 锦州 | 锦 | 缩略 | **Jinzhou** | Chinchow | 邮政式拼音 |
 | 长春 | 长 | 缩略 | **Changchun** | Hisinking | 邮政式拼音(“新京”) |
 | 吉林 | 吉 | 缩略 | **Jilin** | Kirin/Chilin | 邮政式拼音 |
@@ -68,9 +68,9 @@
 | 齐齐哈尔 | | | Qiqihaer | **Qiqihar** | 达斡尔语 |
 | 上海 | 沪/申 | 古称，沪渎/封地，春申君 | **Shanghai** | | |
 | 南京 | 宁 | 古称，江宁 | **Nanjing** | Nanking | 邮政式拼音 |
-| 苏州 | 苏/吴 | 缩略/古称，吴县 | **Suzhou** | Soochow | 邮政式拼音 |
+| 苏州 | 苏/吴 | 缩略/古称，吴县 | **Suzhou** | Soochow/Soutseu | 邮政式拼音 |
 | 无锡 | 锡 | 缩略 | **Wuxi** | |
-| 徐州 | 徐 | 缩略 | **Xuzhou** | Suchow | 邮政式拼音 |
+| 徐州 | 徐 | 缩略 | **Xuzhou** | Suchow/Hsuchow | 邮政式拼音 |
 | 镇江 | 镇/润 | 缩略/古称，润州 | **Zhenjiang** | | |
 | 扬州 | 扬 | 缩略 | **Yangzhou** | Yangchow | 邮政式拼音 |
 | 盐城 | 盐 | 缩略 | **Yancheng** | |
@@ -88,8 +88,8 @@
 | 厦门 | 厦/鹭 | 缩略/古称，鹭岛 | **Xiamen** | Amoy/Hsiamen | 邮政式拼音(闽语) |
 | 泉州 | 鲤/*泉* | 别称，鲤城 | **Quanzhou** | Chinchew/Chinchu | 邮政式拼音 |
 | 金门 | | | Jinmen | Quemoy/Kinmen | 邮政式拼音/威妥玛拼音 |
-| 南昌 | 洪/昌/*南* | 古称，洪城/缩略 | **Nanchang** | | |
-| 九江 | 浔/*九* | 古称，浔阳 | **Jiujiang** | |
+| 南昌 | 洪/昌/*南* | 古称，洪城/缩略 | **Nanchang** | Nanchang | |
+| 九江 | 浔/*九* | 古称，浔阳 | **Jiujiang** | Kiukiang | 邮政式拼音 |
 | 济南 | 济 | 缩略 | **Jinan** | Tsinan | 邮政式拼音 |
 | 青岛 | 青 | 缩略 | **Qingdao** | Tsingtao | 邮政式拼音 |
 | 烟台 | 烟 | 缩略 | **Yantai** | Yentai/Chefoo | 邮政式拼音(“芝罘”) |
@@ -99,17 +99,19 @@
 | 南阳 | 宛 | 古称，宛城 | **Nanyang** | | |
 | 安阳 | 殷/邺 | 古称，殷墟/邺城 | **Anyang** | | 
 | 武汉 | 汉/*武* | 缩略 | **Wuhan** | | | 汉口，Hankow |
-| 长沙 | 长 | 缩略 | **Changsha** | |
+| 长沙 | 长 | 缩略 | **Changsha** | Chongsha | 邮政式拼音 |
 | 湘潭 | 潭 | 缩略 | **Xiangtan** | Siangtan | 邮政式拼音 |
 | 常德 | 常 | 缩略 | **Changde** | Changteh | 邮政式拼音 |
+| 郴州 | 郴 | 缩略 | **Chenzhou** | Chinchow | 邮政式拼音 |
 | 永州 | 永 | 缩略 | **Yongzhou** | Yungchow | 邮政式拼音 |
 | 广州 | 穗/*广* | 传说，“五仙骑羊赠稻穗” | **Guangzhou** | Canton/Kwangchow | 邮政式拼音(“广东”) |
-| 佛山 | 禅/佛 | 寓意/缩略 | **Foshan** | | |
+| 韶关 | | | **Shaoguan** | Shauchiu/Shiuchow | 邮政式拼音(“韶州”) |
 | 深圳 | 鹏/深 | 寓意/缩略 | **Shenzhen** | Shumchun | 邮政式拼音 |
 | 汕头 | 汕/鮀 | 缩略/古称，鮀浦三都府 | **Shantou** | Swatow | 邮政式拼音(闽语) |
-| 汕尾 | | | **Shanwei** | Swabue | | 邮政式拼音(闽语) |
+| 佛山 | 禅/佛 | 寓意/缩略 | **Foshan** | | |
+| 汕尾 | | | **Shanwei** | Swabue | 邮政式拼音(闽语) |
 | 东莞 | 莞 | 缩略 | **Dongguan** | |
-| 南宁 | 邕/*南* | 河流，邕江 | **Nanning** | |
+| 南宁 | 邕/*南* | 河流，邕江 | **Nanning** | Namning | 邮政式拼音 |
 | 桂林 | 桂 | 缩略 | **Guilin** | Kweilin | 邮政式拼音 |
 | 柳州 | 柳 | 缩略 | **Liuzhou** | Liuchow | 邮政式拼音 |
 | 海口 | | | **Haikou** | Hoihow | 邮政式拼音 |
