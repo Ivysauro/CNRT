@@ -7,17 +7,17 @@
 | 中文名/ Chinese Name | 英文名/ English Name | IATA | ICAO |
 | :- | :- | :- | :- |
 | 华北 ZB |
-| 北京（城市码） | Beijing (City Code) | BJS, BeiJing Shi（北京市） | ZBBB |
+| 北京（城市码） | Beijing (City Code) | BJS, BeiJing Shi（北京市） | ZBBB, B for Beijing |
 | 北京首都 | Beijing Capital | PEK, PEKing | ZBAA |
 | 北京大兴 | Beijing Daxing | PKX, PeKing daXing | ZBAD, Daxing |
 | 天津滨海 | Tianjin Binhai | TSN, TientSiN | ZBTJ, TianJin |
 | 中南 ZG |
-| 广州白云 | Guangzhou Baiyun | CAN, CANton | ZGGG |
+| 广州白云 | Guangzhou Baiyun | CAN, CANton | ZGGG, G for Guangzhou |
 | 长沙黄花 | Changsha Huanghua | CSX, ChangSha+X; HHA, HuangHuA | ZGHA, HuanghuA |
 | 桂林两江 | Guilin Liangjiang | KWL, KWeiLin | ZGKL, KweiLin |
 | 深圳宝安 | Shenzhen Bao'an | SZX, ShenZhen+X | ZGSZ, ShenZhen |
 | 中南 ZH |
-| 武汉天河 | Wuhan Tianhe | WUH, WUHan | ZHHH |
+| 武汉天河 | Wuhan Tianhe | WUH, WUHan | ZHHH, H for wuHan |
 | 郑州新郑 | Zhengzhou Xinzheng | CGO, ChenGchOw | ZHCC, ChengChow |
 | 西北 ZL |
 | 西安咸阳 | Xi'an Xianyang | XIY, XIanYang | ZLXY, XianYang |
@@ -29,11 +29,11 @@
 | 上海浦东 | Shanghai Pudong | PVG, PU(V)donG | ZSPD, PuDong |
 | 青岛胶东 | Qingdao Jiaodong | TAO, TsingtAO | ZSQD, QingDao |
 | 西南 ZU |
-| 成都双流 | Chengdu Shuangliu | CTU, ChengTU | ZUUU |
+| 成都双流 | Chengdu Shuangliu | CTU, ChengTU | ZUUU, U for chengdU |
 | 重庆江北 | Chongqing Jiangbei | CKG, ChungKinG | ZUCK, ChungKing |
 | 成都天府 | Chengdu Tianfu | TFU, TianFU | ZUTF, TianFu |
 | 香港 VH |
-| 香港（赤𫚭角） | Hong Kong (Chek Lap Kok) | HKG, Hong KonG | VHHH |
+| 香港（赤𫚭角） | Hong Kong (Chek Lap Kok) | HKG, Hong KonG | VHHH, H for Hong kong |
 | 台湾 RC |
 | 台北桃园 | Taipei Taoyuan | TPE, TaiPEi | RCTP, TaiPei |
 
@@ -50,18 +50,18 @@
 | 北海福成 | Beihai Fucheng | BHY, BeiHai+Y | ZGBH, BeiHai |
 | 南宁吴圩 | Nanning Wuxu | NNG, NanNinG | ZGNN, NanNing |
 | 揭阳潮汕 | Jieyang Chaoshan | SWA, SWAtou | ZGOW, swatOW |
-| 珠海金湾 | Zhuhai Jinwan | ZUH, ZhUHai | ZGSD, Sanzao（三灶）+D |
+| 珠海金湾 | Zhuhai Jinwan | ZUH, ZhUHai | ZGSD, SanzaoDao（三灶岛） |
 | 湛江吴川 | Zhanjiang Wuchuan | ZHA, ZHAnjiang | ZGZJ, ZhanJiang |
 | 中南 ZJ |
 | 海口美兰 | Haikou Meilan | HAK, HAiKou | ZJHK, HaiKou |
 | 琼海博鳌 | Qionghai Bo'ao | BAR, Bo'Ao+R | ZJQH, QiongHai |
 | 三亚凤凰 | Sanya Phoenix | SYX, SanYa phoeniX | ZJSY, SanYa |
 | 西北 ZL |
-| 兰州中川 | Lanzhou Zhongchuan | LHW, LancHoW | ZLLL |
+| 兰州中川 | Lanzhou Zhongchuan | LHW, LancHoW | ZLLL, L for Lanzhou |
 | 银川河东 | Yinchuan Hedong | INC, yINChuan | ZLIC, yInChuan |
 | 西宁曹家堡 | Xining Caojiapu | XNN, XiNing+N | ZLXN, XiNing |
 | 华东 ZS |
-| 上海虹桥 | Shanghai Hongqiao | SHA, SHAnghai | ZSSS |
+| 上海虹桥 | Shanghai Hongqiao | SHA, SHAnghai | ZSSS, S for Shanghai |
 | 厦门高崎 | Xiamen Gaoqi | XMN, XiaMeN | ZSAM, AMoy |
 | 常州奔牛 | Changzhou Benniu | CZX, ChangZhou+X | ZSCG, ChanGzhou |
 | 南昌昌北 | Nanchang Changbei | KHN, KiangHi（江西） Nanchang/ Kianghi HsiaNgtang（向塘） | ZSCN, nanChaNg |
@@ -79,7 +79,7 @@
 | 贵阳龙洞堡 | Guiyang Longdongbao | KWE, KWEiyang | ZUGY, GuiYang |
 | 拉萨贡嘎 | Lhasa Kongga | LXA, Lh(X)Asa | ZULS, LaSa |
 | 新疆 ZW |
-| 乌鲁木齐地窝堡 | Urumchi Diwopu | URC, URumChi | ZWWW |
+| 乌鲁木齐地窝堡 | Urumchi Diwopu | URC, URumChi | ZWWW, W for Wulumuqi |
 | 喀什 | Kashgar | KHG, KasHGar | ZWSH, kaSHgar |
 | 吐鲁番交河 | Turpan Jiaohe | TLQ, TuLufan+Q | ZWTL, TuLufan |
 | 东北 ZY |
@@ -303,7 +303,7 @@
 | 华北 ZB |
 | 北京南苑 | Beijing Nanyuan | NAY, NanYuan | ZBNY, NanYuan | 4C | 2019.10 |
 | 中南 ZG |
-| 广州白云（旧） | Guangzhou Baiyun (Old) | CAN, CANton | ZGGG | N/A | 2004.8 |
+| 广州白云（旧） | Guangzhou Baiyun (Old) | CAN, CANton | ZGGG, G for Guangzhou | N/A | 2004.8 |
 | 长沙大托铺 | Changsha Datuopu | CSX, ChangSha+X | ZGCS, ChangSha | N/A | 1989.8 |
 | 汕头外砂 | Shantou Waisha | SWA, SWAtow | ZGOW, swatOW | N/A | 2011.11 |
 | 梧州长洲岛 | Wuzhou Changzhoudao | WUZ, WUZhou | ZGWZ, WuZhou | N/A | 2019.1 |
@@ -320,9 +320,9 @@
 | 西北 ZL |
 | 西安西关 | Xi'an Xiguan | SIA, SiAn | ZLSN, SiaN | N/A | 1991 |
 | 东北 ZY |
-| 沈阳东塔 | Shenyang Dongta | SHE, SHEnyang | ZYYY | N/A | 1989.4 |
+| 沈阳东塔 | Shenyang Dongta | SHE, SHEnyang | ZYYY, Y for shenYang | N/A | 1989.4 |
 | VH 香港 |
-| 香港启德 | Hong Kong Kai Tak | HKG, Hong KonG | VHHH; VHHX | N/A | 1998.7 |
+| 香港启德 | Hong Kong Kai Tak | HKG, Hong KonG | VHHH, H for Hong kong; VHHX | N/A | 1998.7 |
 
 ## 更名记录/ Rename Record
 
