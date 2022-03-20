@@ -307,6 +307,7 @@
 | 长沙大托铺 | Changsha Datuopu | CSX, ChangSha+X | ZGCS, ChangSha | N/A | 1989.8 |
 | 汕头外砂 | Shantou Waisha | SWA, SWAtow | ZGOW, swatOW | N/A | 2011.11 |
 | 梧州长洲岛 | Wuzhou Changzhoudao | WUZ, WUZhou | ZGWZ, WuZhou | N/A | 2019.1 |
+| 湛江（坡头/霞山） | Zhanjiang (Potou/ Xiashan) | ZHA, ZHAnjiang | ZGZJ, ZhanJiang | 4C | 2022.3 |
 | 中南 ZH |
 | 郑州东郊 | Zhengzhou Dongjiao | CGO, ChenGchOw | ZHCC, ChengChow | 4C | 1997.8 |
 | 武汉王家墩 | Wuhan Wangjiadun | WJD, WangJiaDun | ZHWT | N/A | 2007.12 |
