@@ -98,7 +98,7 @@
 | :- | :- | :- | :- |
 | 华北 ZB |
 | 秦皇岛北戴河 | Qinhuangdao Beidaihe | BPE, Beidaihe PEitaihe | ZBDH, beiDaiHe |
-| 呼伦贝尔东山 | Hulunbuir Dongshan | HLD, HuLunbuir Dongshan | ZBLA, haiLAr |
+| 呼伦贝尔东山（海拉尔东山） | Hulunbuir Dongshan (Hailar Dongshan) | HLD, HuLunbuir Dongshan | ZBLA, haiLAr（海拉尔） |
 | 满洲里西郊 | Manzhouli Xijiao | NZH, maNZHouli | ZBMZ, ManZhouli |
 | 包头东河 | Baotou Donghe | BAV, BAotou(v) | ZBOW, paotOW |
 | 运城张孝 | Yuncheng Zhangxiao | YCU, YunCheng+U | ZBYC, YunCheng |
@@ -159,9 +159,11 @@
 | 赤峰玉龙 | Chifeng Yulong | CIF, ChIFeng | ZBCF, ChiFeng |
 | 长治王村 | Changzhi Wangcun | CIH, ChangzhI+H | ZBCZ, ChangZhi |
 | 大同云冈 | Datong Yungang | DAT, DATong | ZBDT, DaTong |
+| 二连浩特赛乌素 | Erlianhot Saiwusu | ERL, ERLianhot | ZBER, ERlianhot |
 | 阿尔山伊尔施 | Arxan Yi'ershi | YIE, YI'Ershi | ZBES, yi'ErShi |
 | 邯郸 | Handan | HDG, HanDan+G | ZBHD, Handan |
-| 临汾乔李 | Linfen Qiaoli | LFQ, LinFen Qiaoli | ZBLF, LinFen |
+| 霍林郭勒霍林河 | Huolingol Huolinhe | HUO, HUOlingol | ZBHZ, Huolingol+Z |
+| 临汾尧都 | Linfen Yaodu | LFQ, LinFen Qiaoli | ZBLF, LinFen |
 | 吕梁大武 | Lülang Dawu | LLV, L+L'V'liang | ZBLL, LüLang |
 | 唐山三女河 | Tangshan Sannühe | TVS, Tangshan sann'V'he+S | ZBSN, SanNühe |
 | 通辽 | Tongliao | TGO, TonGliaO | ZBTL, TongLiao |
@@ -169,7 +171,9 @@
 | 乌海 | Wuhai | WUA, WUhAi | ZBUH, wUHai |
 | 乌兰浩特义勒利特 | Ulanhot YiLeLeeTeuk | HLH | ZBUL, ULanhot |
 | 锡林浩特 | Xilinhot | XIL, XILinhot | ZBXH, XilinHot |
+| 忻州五台山 | Xinzhou Wutaishan | WUT, WUTaishan | ZBXZ, XinZhou |
 | 巴彦淖尔天吉泰 | Bayannur Tianjitai | RLK | ZBYZ |
+| 扎兰屯成吉思汗 | Zhalantun Genghis Khan | NZL, Nei mongol ZhaLantun | ZBZL, ZhaLantun |
 | 中南 ZG |
 | 百色巴马 | Baise Bama | AEB, bAisE Bama | ZGBS, BaiSe |
 | 怀化芷江 | Huaihua Zhijiang | HJJ, zHiJiang+J | ZGCJ |
@@ -233,17 +237,24 @@
 | 伊宁 | Yining | YIN, YINing | ZWYN, YiNing |
 | 东北 ZY |
 | 鞍山腾鳌 | Anshan Teng'ao | AOG, teng'AO+G | ZYAS, AnShan |
+| 白城长安 | Baicheng Chang'an | DBC, Dongbei（东北） BaiCheng | ZYBA, BAicheng |
 | 白山长白山 | Baishan Changbaishan | NBS, chaNgBaiShan | ZYBS, BaiShan |
 | 朝阳 | Chaoyang | CHG, CHaoyanG | ZYCY, ChaoYang |
 | 大庆萨尔图 | Daqing Sartu | DQA, DaQing+A | ZYDQ, DaQing |
 | 抚远东极 | Fuyuan Dongji | FYJ, FuYuan dongJi | ZYFY, FuYuan |
 | 黑河瑷珲 | Heihe Aihui | HEK, HeihE+K | ZYHE, HeihE |
-| 加格达奇嘎仙 | Jiagedaqi Gaxian | JGD, JiaGeDaqi | ZYJD, JiageDaqi |
+| 大兴安岭鄂伦春 | Da Hinggan Ling Oroqen | JGD, JiaGeDaqi（加格达奇） | ZYJD, JiageDaqi |
+| 佳木斯东郊 | Jiamusi Dongjiao | JMU, JiaMUsi | ZYJM, JiaMusi |
+| 建三江湿地 | Jiansanjiang Shidi | JSJ, JianSanJiang | ZYJS, JianSanjiang |
+| 鸡西兴凯湖 | Jixi Xingkaihu | JXA, JiXi xingkAihu | ZYJX, JiXi |
 | 锦州锦州湾 | Jinzhou Jinzhouwan | JNZ, JiNZhou | ZYJZ, JinZhou |
 | 伊春林都 | Yichun Lindu | LDS, LinDu+S | ZYLD, LinDu |
+| 牡丹江海浪 | Mudanjiang Hailang | MDG, MuDanjianG | ZYMD, MuDan |
 | 漠河古莲 | Mohe Gulian | OHE, mOHE | ZYMH, MoHe |
 | 齐齐哈尔三家子 | Qiqihar Sanjiazi | NDG | ZYQQ, QiQihar |
 | 松原查干湖 | Songyuan Chaganhu | YSQ, from ICAO | ZYSQ, Songyuan+Q |
+| 通化三源浦 | Tonghua Sanyuanpu | TNH, ToNgHua | ZYTN, ToNghua |
+| 五大连池德都 | Wudalianchi Dedu | DTU, DeD(T)U | ZYTU, deD(T)U |
 | 延吉朝阳川 | Yanji Chaoyangchuan | YNJ, YaNJi | ZYYJ, YanJi |
 | 营口兰旗 | Yingkou Lanqi | YKH, YingKou+H | ZYYK, YingKou |
 | 台湾 RC |
@@ -262,6 +273,12 @@
 | 西北 ZL |
 | 天水麦积山 | Tianshui Maijishan | THQ | ZLTS, TianShui |
 
+## 1B
+
+| 中文名/ Chinese Name | 英文名/ English Name | IATA | ICAO |
+| :- | :- | :- | :- |
+| 东北 ZY |
+| 长海大长山岛 | Changhai Dachangshandao | CNI, ChaNghaI | ZYCH, ChangHai |
 
 ## Closed
 
@@ -272,24 +289,32 @@
 | 中南 ZG |
 | 广州白云（旧） | Guangzhou Baiyun (Old) | CAN, CANton | ZGGG | N/A | 2004.8 |
 | 长沙大托铺 | Changsha Datuopu | CSX, ChangSha+X | ZGCS, ChangSha | N/A | 1989.8 |
+| 汕头外砂 | Shantou Waisha | SWA, SWAtow | ZGOW, swatOW | N/A | 2011.11 |
+| 梧州长洲岛 | Wuzhou Changzhoudao | WUZ, WUZhou | ZGWZ, WuZhou | N/A | 2019.1 |
 | 中南 ZH |
 | 郑州东郊 | Zhengzhou Dongjiao | CGO, ChenGchOw | ZHCC, ChengChow | 4C | 1997.8 |
 | 武汉王家墩 | Wuhan Wangjiadun | WJD, WangJiaDun | ZHWT | N/A | 2007.12 |
 | 华东 ZS |
+| 南京大校场 | Nanjing Dajiaochang | NKG, NanKinG | ZSNJ, NanJing; Z08T | N/A | 2015.7 |
 | 上海龙华 | Shanghai Longhua | N/A | ZSSL, Shanghai Longhua | 2B | 1966.8 |
-| 青岛流亭 | Qingdao Liuting | TAO, TsingtAO | ZSQD, QingDao | 4E | |
+| 青岛流亭 | Qingdao Liuting | TAO, TsingtAO | ZSQD, QingDao | 4E | 2021.8 |
 | 西南 ZP |
 | 昆明巫家坝 | Kunming Wujiaba | KMG, KunMinG | ZPPP | 4E | 2012.6 |
 | 西北 ZL |
-| 西安西关 | Xi'an Xiguan | SIA, SiAn | ZLSN, SiaN | | |
+| 西安西关 | Xi'an Xiguan | SIA, SiAn | ZLSN, SiaN | N/A | 1991 |
 | 东北 ZY |
-| 沈阳东塔 | Shenyang Dongta | SHE, SHEnyang | ZYYY | | |
+| 沈阳东塔 | Shenyang Dongta | SHE, SHEnyang | ZYYY | N/A | 1989.4 |
 | VH 香港 |
-| 香港启德 | Hong Kong Kai Tak | HKG, Hong KonG | VHHH; VHHX | | |
+| 香港启德 | Hong Kong Kai Tak | HKG, Hong KonG | VHHH; VHHX | N/A | 1998.7 |
 
 ## 更名记录/ Rename Record
 
 *即将到来/ Coming soon*
+
+| 原名/ Old Name | 现名/ New Name | 更名时间/ Time of Rename |
+| :- | :- | :- |
+| 临汾乔李/ Linfen Qiaoli | 临汾尧都/ Linfen Yaodu | 2020.5 |
+| 加格达奇嘎仙/ Jiagedaqi Chigasian | 大兴安岭鄂伦春/ Da Hinggan Ling Oroqen | 2021.2 |
 
 ## 参考资料/ References
 - <https://zhuanlan.zhihu.com/p/113395047>
