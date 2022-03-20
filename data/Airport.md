@@ -51,6 +51,7 @@
 | 南宁吴圩 | Nanning Wuxu | NNG, NanNinG | ZGNN, NanNing |
 | 揭阳潮汕 | Jieyang Chaoshan | SWA, SWAtou | ZGOW, swatOW |
 | 珠海金湾 | Zhuhai Jinwan | ZUH, ZhUHai | ZGSD, Sanzao（三灶）+D |
+| 湛江吴川 | Zhanjiang Wuchuan | ZHA, ZHAnjiang | ZGZJ, ZhanJiang |
 | 中南 ZJ |
 | 海口美兰 | Haikou Meilan | HAK, HAiKou | ZJHK, HaiKou |
 | 琼海博鳌 | Qionghai Bo'ao | BAR, Bo'Ao+R | ZJQH, QiongHai |
@@ -107,7 +108,6 @@
 | 常德桃花源 | Changde Taohuayuan | CGD, ChanGDe | ZGCD, ChangDe |
 | 张家界荷花 | Zhangjiajie Hehua | DYG, DaYonG（大庸） | ZGDY, DaYong |
 | 柳州白莲 | Liuzhou Bailian | LZH, LiuZHou | ZGZH, liuZHou |
-| 湛江 | Zhanjiang | ZHA, ZHAnjiang | ZGZJ, ZhanJiang |
 | 中南 ZH |
 | 洛阳北郊 | Luoyang Beijiao | LYA, LuoYAng | ZHLY, LuoYaNG |
 | 南阳姜营 | Nanyang Jiangying | NNY, NaNYang | ZHNY, NanYang |
@@ -177,17 +177,27 @@
 | 扎兰屯成吉思汗 | Zhalantun Genghis Khan | NZL, Nei mongol ZhaLantun | ZBZL, ZhaLantun |
 | 中南 ZG |
 | 百色巴马 | Baise Bama | AEB, bAisE Bama | ZGBS, BaiSe |
-| 怀化芷江 | Huaihua Zhijiang | HJJ, zHiJiang+J | ZGCJ |
+| 怀化芷江 | Huaihua Zhijiang | HJJ, zHiJiang+J | ZGCJ, Z(C)hiJiang（疑为旧音或误读） |
+| 郴州北湖 | Chenzhou Beihu | HCZ, Hunan（湖南） ChenZhou | ZGCZ, ChenZhou |
 | 佛山沙堤 | Foshan Shadi | FUO, F'U'Oshan | ZGFS, FoShan |
+| 河池金城江 | Hechi Jinchengjiang | HCJ, HeChi Jinchengjiang | ZGHC, HeChi |
 | 衡阳南岳 | Hengyang Nanyue | HNY, HeNgYang/ Hengyang NanYue | ZGHY, HengYang |
+| 惠州平潭 | Huizhou Pingtan| HUZ, HUiZhou | ZGHZ, HuiZhou |
 | 永州零陵 | Yongzhou Lingling | LLF, LingLing+F | ZGLG, LinglinG |
 | 梅州梅县 | Meizhou Meixian | MXZ, MeiXian+Z | ZGMX, MeiXian |
+| 韶关丹霞 | Shaoguan Danxia | HSC, H+ShiuChow（韶州） | ZGSG, ShaoGuang |
 | 邵阳武冈 | Shaoyang Wugang | WGN, WuGaNg | ZGSY, ShaoYang |
 | 梧州西江 | Wuzhou Xijiang | WUZ, WUZhou | ZGWZ, WuZhou |
+| 玉林福绵 | Yulin Fumian | YLX, YuLin+X | ZGYL, YuLin |
 | 岳阳三荷 | Yueyang Sanhe | YYA, YueYAng | ZGYY, YueYang |
 | 中南 ZH |
+| 恩施许家坪 | Enshi Xujiaping | ENH, ENshi sHi（恩施市） | ZHES, EnShi |
+| 荆州沙市 | Jingzhou Shashi | SHS, SHaShi | ZHJZ, JingZhou |
+| 神农架红坪 | Shennongjia Hongping | HPG, HongPinG | ZHSN, ShenNongjia |
 | 十堰武当山 | Shiyan Wudangshan | WDS, WuDangShan | ZHSY, ShiYan |
 | 信阳明港 | Xinyang Minggang | XAI, XinyAng mInggang | ZHXY, XinYang |
+| 中南 ZJ |
+| 三沙永兴 | Sansha Yongxing | XYI, Xisha（西沙） YongxIng | ZJYX, YongXing |
 | 西北 ZL |
 | 固原六盘山 | Guyuan Liupanshan | GUY, GUYuan | ZLGY, GuYuan |
 | 汉中城固 | Hanzhong Chenggu | HZG, HanZhonG | ZLHZ, HanZhong |
