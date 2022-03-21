@@ -144,6 +144,7 @@
 | 新疆 ZW |
 | 库尔勒 | Korla | KRL, KoRLa | ZWKL, KorLa |
 | 克拉玛依 | Karamay | KRY, KaRamaY | ZWKM, KaraMay |
+| 和田 | Hotan | HTN, HoTaN | ZWTN, hoTaN |
 | 台湾 RC |
 | 金门（尚义） | Kinmen | KNH, KinmeN+H | RCBS |
 | 台东（丰年） | Taitung | TTT, TaiTung+T | RCFN, FengNian |
@@ -260,7 +261,14 @@
 | 阿克苏温宿 | Aksu Wensu | AKU, AKsU | ZWAK, AKsu |
 | 阿勒泰 | Altay | AAT, A+AlTay | ZWAT, AlTay |
 | 博乐阿拉山口 | Bole Alashankou | BPL, Bo(P)+Le | ZWBL, BoLe |
+| 且末玉都 | Qiemo Yudu | IQM, *QI*eMo | ZWCM, ChiehMo（且末，又拼） |
+| 富蕴可可托海 | Fuyun Koktokay | FYN, FuYuN | ZWFY, FuYun |
+| 哈密伊州 | Hami Yizhou | HMI, HaMI | ZWHM, HaMi |
+| 库车龟兹 | Kuqa Qiuci | KCA, KuChA（库车，又拼） | ZWKC, KuChe |
 | 布尔津喀纳斯 | Burqin Kanas | KJI, Kanasi BuerJIn | ZWKN, KaNas |
+| 若羌楼兰 | Ruoqiang Loulan | RQA, RuoQiAng | ZWRQ, RuoQiang |
+| 莎车叶尔羌 | Shache Yarkand | QSZ, ye'erQiang Shache+Z | ZWSC, ShaChe |
+| 于田万方 | Yutian Wanfang | YTW, YuTian Wanfang | ZWYT, YuTian |
 | 伊宁 | Yining | YIN, YINing | ZWYN, YiNing |
 | 东北 ZY |
 | 鞍山腾鳌 | Anshan Teng'ao | AOG, teng'AO+G | ZYAS, AnShan |
