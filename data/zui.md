@@ -8,6 +8,14 @@
 - 最南边的站：莲花口岸（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/mo.gif" width="20" hegiht="20"/>澳门，22°13′N）
 - 最北边的站：江北大学城（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hrb.gif" width="20" hegiht="20"/>哈尔滨，45°87′N）
 
+### 四至（铁路）
+- 最东边的站：抚远东（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15"/>哈尔滨局，134°30′E）
+  - 最东边的客运站：抚远（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15"/>哈尔滨局，134°23′E）
+- 最西边的站：阿克陶（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15"/>乌鲁木齐局，75°58′E）
+- 最南边的站：三亚（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15"/>广铁集团，18°17′N）
+- 最北边的站：月牙湖（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15"/>哈尔滨局，52°59′23″N）
+  - 最北边的客运站：漠河（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15"/>哈尔滨局，52°59′13″N）
+
 ### 长度
 - 最长的线路：上海地铁11号线（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，82.8km）
 - 最长的环线：北京地铁10号线（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，57.1km）
