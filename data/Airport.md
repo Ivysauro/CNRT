@@ -114,8 +114,10 @@
 | 襄阳刘集 | Xiangyang Liuji | XFN, XiangFaN（襄樊） | ZHXF, XiangFan |
 | 宜昌三峡 | Yichang Sanxia | YIH, YIcHang | ZHYC, YiChang |
 | 西北 ZL |
-| 敦煌 | Dunhuang | DNH, DuNHuang | ZLDH, DunHuang |
-| 嘉峪关 | Jiayuguan | JGN, JiayuGuaN | ZLJQ |
+| 敦煌莫高 | Dunhuang Mogao | DNH, DuNHuang | ZLDH, DunHuang |
+| 格尔木 | Golmud | GOQ, GOlmud Qinghai（青海） | ZLGM, GolMud |
+| 嘉峪关 | Jiayuguan | JGN, JiayuGuaN | ZLJQ, JiuQuan（酒泉） |
+| 榆林榆阳 | Yulin Yuyang | UYN, *YU*liN | ZLYL, YuLin |
 | 西南 ZP |
 | 西双版纳嘎洒 | Xishuangbanna Gasa | JHG, JingHonG（景洪） | ZPJH, JingHong |
 | 丽江三义 | Lijiang Sanyi | LJG, LiJianG | ZPLJ, LiJiang |
@@ -199,12 +201,20 @@
 | 中南 ZJ |
 | 三沙永兴 | Sansha Yongxing | XYI, Xisha（西沙） YongxIng | ZJYX, YongXing |
 | 西北 ZL |
+| 安康富强 | Ankang Fuqiang | AKA, AnKAng | ZLAK, AnKang |
+| 海西德令哈 | Haixi Delingha | HXD, HaiXi Delingha | ZLDL, DeLingha |
+| 果洛玛沁 | Guoluo Maqin | GMQ, Guoluo MaQin | ZLGL, GuoLuo |
 | 固原六盘山 | Guyuan Liupanshan | GUY, GUYuan | ZLGY, GuYuan |
+| 海北祁连 | Haibei Qilian | HBQ, HaiBei Qilian | ZLHB, HaiBei |
+| 海西花土沟 | Haixi Huatugou | HTT, HuaTugou+T | ZLHX, HaiXi |
 | 汉中城固 | Hanzhong Chenggu | HZG, HanZhonG | ZLHZ, HanZhong |
-| 济宁曲阜 | Jining Qufu | JNG, JiNinG | ZLJN, JiNing |
+| 金昌金川 | Jinchang Jinchuan | JIC, JInChang | ZLJC, JinChang |
+| 陇南成县 | Longnan Chengxian | LNL, LongNan+L | ZLLN, LongNan |
 | 庆阳西峰 | Qingyang Xifeng | IQN, I+QiNgyang | ZLQY, QingYang |
 | 甘南夏河 | Gannan Xiahe | GXH, Gannan XiaHe | ZLXH, XiaHe |
 | 延安南泥湾 | Yan'an Nanniwan | ENY, yENan+Y | ZLYA, Yan'An |
+| 玉树巴塘 | Yushu Batang | YUS, YUShu | ZLYS, YuShu |
+| 中卫沙坡头 | Zhongwei Shapotou | ZHY, ZHongwei+Y | ZLZW, ZhongWei |
 | 张掖甘州 | Zhangye Ganzhou | YZY, Y+ZhangYe | ZLZY, ZhangYe |
 | 西南 ZP |
 | 沧源佤山 | Cangyuan Washan | CWJ, Cangyuan Washan+J | ZPCW, Cangyuan Washan |
@@ -219,6 +229,7 @@
 | 景德镇罗家 | Jingdezhen Luojia | JDZ, JingDeZhen | ZSJD, JingDezhen |
 | 池州九华山 | Chizhou Jiuhuashan | JUH, JiUHuashan/ JiuhUasHan | ZSJH, JiuHuashan |
 | 九江庐山 | Jiujiang Lushan | JIU, JIUjiang | ZSJJ, JiuJiang |
+| 济宁曲阜 | Jining Qufu | JNG, JiNinG | ZSJN, JiNing |
 | 衢州 | Quzhou | JUZ, Q(J)UZhou（疑为旧音或误读） | ZSJU, JUciew |
 | 龙岩冠豸山 | Luyan Guanzhishan | LCX, LianCheng+X | ZSLD |
 | 台州路桥 | Taizhou Luqiao | HYN, HuangYaN（黄岩） | ZSLQ, LuQiao |
