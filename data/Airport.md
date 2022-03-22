@@ -264,10 +264,14 @@
 | 且末玉都 | Qiemo Yudu | IQM, *QI*eMo | ZWCM, ChiehMo（且末，又拼） |
 | 富蕴可可托海 | Fuyun Koktokay | FYN, FuYuN | ZWFY, FuYun |
 | 哈密伊州 | Hami Yizhou | HMI, HaMI | ZWHM, HaMi |
+| 石河子花园 | Shihezi Huayuan | SHF, SHihezi+F | ZWHZ, shiHeZi |
 | 库车龟兹 | Kuqa Qiuci | KCA, KuChA（库车，又拼） | ZWKC, KuChe |
 | 布尔津喀纳斯 | Burqin Kanas | KJI, Kanasi BuerJIn | ZWKN, KaNas |
+| 新源那拉提 | Xinyuan Nalati | NLT, NaLaTi | ZWNL, NaLati |
 | 若羌楼兰 | Ruoqiang Loulan | RQA, RuoQiAng | ZWRQ, RuoQiang |
 | 莎车叶尔羌 | Shache Yarkand | QSZ, ye'erQiang Shache+Z | ZWSC, ShaChe |
+| 塔城千泉 | Tacheng Qianquan | TCG, TaChenG | ZWTC, TaCheng |
+| 图木舒克唐王城 | Tumushuke Tangwangcheng | TWC, TangWangCheng | ZWTS, TumShuq（图木舒克，又拼） |
 | 于田万方 | Yutian Wanfang | YTW, YuTian Wanfang | ZWYT, YuTian |
 | 伊宁 | Yining | YIN, YINing | ZWYN, YiNing |
 | 东北 ZY |
