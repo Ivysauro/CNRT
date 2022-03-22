@@ -142,8 +142,8 @@
 | 西昌青山 | XIchang Qingshan | XIC, XIChang | ZUXC, XiChang |
 | 兴义万峰林 | Xingyi Wanfenglin | ACX | ZUYI, xingYI |
 | 新疆 ZW |
-| 库尔勒 | Korla | KRL, KoRLa | ZWKL, KorLa |
-| 克拉玛依 | Karamay | KRY, KaRamaY | ZWKM, KaraMay |
+| 库尔勒梨城 | Korla Licheng | KRL, KoRLa | ZWKL, KorLa |
+| 克拉玛依古海 | Karamay Guhai | KRY, KaRamaY | ZWKM, KaraMay |
 | 和田 | Hotan | HTN, HoTaN | ZWTN, hoTaN |
 | 台湾 RC |
 | 金门（尚义） | Kinmen | KNH, KinmeN+H | RCBS |
@@ -219,7 +219,7 @@
 | 张掖甘州 | Zhangye Ganzhou | YZY, Y+ZhangYe | ZLZY, ZhangYe |
 | 西南 ZP |
 | 沧源佤山 | Cangyuan Washan | CWJ, Cangyuan Washan+J | ZPCW, Cangyuan Washan |
-| 大理 | Dali | DLU, DaLi+U | ZPDL, DaLi |
+| 大理荒草坝 | Dali Huangcaoba | DLU, DaLi hUangcaoba | ZPDL, DaLi |
 | 临沧博尚 | Lincang | LNJ, LiNcang+J | ZPLC, LinCang |
 | 普洱思茅 | Pu'er Simao | SYM, Si(Y)+Mao | ZPSM, SiMao |
 | 华东 ZS |
@@ -246,7 +246,7 @@
 | 达州河市 | Dazhou Heshi | DAX, DAXian（达县） | ZUDX, DaXian |
 | 广元盘龙 | Guangyuan Panlong | GYS, GuangYuan+S | ZUGU, GUangyuan |
 | 凯里黄平 | Kaili Huangping | KJH, Kaili+J+Huangping | ZUKJ |
-| 荔波 | Libo | LLB, L+LiBo | ZULB, LiBo |
+| 黔南荔波 | Qiannan Libo | LLB, L+LiBo | ZULB, LiBo |
 | 泸州蓝田 | Luzhou Lantian | LZO, LuZhOu | ZULZ, LuZhou |
 | 南充高坪 | Nanchong Gaoping | NAO, NAnchOng | ZUNC, NanChong |
 | 林芝米林 | Linzhi Milin | LZY, LinZhi+Y | ZUNZ, liNZhi |
@@ -259,7 +259,7 @@
 | 遵义新舟 | Zunyi Xinzhou | ZYI, ZunYI | ZUZY, ZunYi |
 | 新疆 ZW |
 | 阿克苏温宿 | Aksu Wensu | AKU, AKsU | ZWAK, AKsu |
-| 阿勒泰 | Altay | AAT, A+AlTay | ZWAT, AlTay |
+| 阿勒泰雪都 | Altay Xuedu | AAT, A+AlTay | ZWAT, AlTay |
 | 博乐阿拉山口 | Bole Alashankou | BPL, Bo(P)+Le | ZWBL, BoLe |
 | 且末玉都 | Qiemo Yudu | IQM, *QI*eMo | ZWCM, ChiehMo（且末，又拼） |
 | 富蕴可可托海 | Fuyun Koktokay | FYN, FuYuN | ZWFY, FuYun |
