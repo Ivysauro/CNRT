@@ -2,6 +2,8 @@
 
 [点此处了解各城市的英文名/ Click here for Cities' English Name](https://ivysauro.github.io/CNRT/data/Name)
 
+仅收录运营机场 
+
 ## 4F
 
 | 中文名/ Chinese Name | 英文名/ English Name | IATA | ICAO |
@@ -10,11 +12,8 @@
 | 北京（城市码） | Beijing (City Code) | BJS, BeiJing Shi（北京市） | ZBBB, B for Beijing |
 | 北京首都 | Beijing Capital | PEK, PEKing | ZBAA |
 | 北京大兴 | Beijing Daxing | PKX, PeKing daXing | ZBAD, Daxing |
-| 天津滨海 | Tianjin Binhai | TSN, TientSiN | ZBTJ, TianJin |
 | 中南 ZG |
 | 广州白云 | Guangzhou Baiyun | CAN, CANton | ZGGG, G for Guangzhou |
-| 长沙黄花 | Changsha Huanghua | CSX, ChangSha+X; HHA, HuangHuA | ZGHA, HuanghuA |
-| 桂林两江 | Guilin Liangjiang | KWL, KWeiLin | ZGKL, KweiLin |
 | 深圳宝安 | Shenzhen Bao'an | SZX, ShenZhen+X | ZGSZ, ShenZhen |
 | 中南 ZH |
 | 武汉天河 | Wuhan Tianhe | WUH, WUHan | ZHHH, H for wuHan |
@@ -45,9 +44,12 @@
 | 鄂尔多斯伊金霍洛 | Ordos Ejin Horo | DSN, orDoS ejiN horo/ DongSheNg（东胜） | ZBDS, orDoS/ DongSheng |
 | 呼和浩特白塔 | Hohhot Baita | HET, HuhEhaoTe | ZBHH, HohHot |
 | 石家庄正定 | Shijiazhuang Zhengding | SJW, ShiJiazhuang+W | ZBSJ, ShiJiazhuang |
+| 天津滨海 | Tianjin Binhai | TSN, TientSiN | ZBTJ, TianJin |
 | 太原武宿 | Taiyuan Wusu | TYN, TaiYuaN | ZBYN, taiYuaN |
 | 中南 ZG |
 | 北海福成 | Beihai Fucheng | BHY, BeiHai+Y | ZGBH, BeiHai |
+| 长沙黄花 | Changsha Huanghua | CSX, ChangSha+X; HHA, HuangHuA | ZGHA, HuanghuA |
+| 桂林两江 | Guilin Liangjiang | KWL, KWeiLin | ZGKL, KweiLin |
 | 南宁吴圩 | Nanning Wuxu | NNG, NanNinG | ZGNN, NanNing |
 | 揭阳潮汕 | Jieyang Chaoshan | SWA, SWAtou | ZGOW, swatOW |
 | 珠海金湾 | Zhuhai Jinwan | ZUH, ZhUHai | ZGSD, SanzaoDao（三灶岛） |
