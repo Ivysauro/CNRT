@@ -126,7 +126,7 @@
 | 华东 ZS |
 | 东营胜利 | Dongying Shengli | DOY, DOngYing | ZSDY, DongYing |
 | 赣州黄金 | Ganzhou Huangjin | KOW, KanchOW | ZSGZ, Ganzhou |
-| 连云港白塔埠 | Lianyungang Baitabu | LYG, LianYunGang | ZSLG, LianyunganG |
+| 连云港花果山 | Lianyungang Huaguoshan | LYG, LianYunGang | ZSLG, LianyunganG |
 | 临沂启阳 | Linyi Qiyang | LYI, LinYI | ZSLY, LinYi |
 | 泉州晋江 | Quanzhou Jinjiang | JJN, JinJiaNG | ZSQZ, QuanZhou |
 | 淮安涟水 | Huai'an Lianshui | HIA, HuaI'An | ZSSH, lianSHui |
@@ -337,6 +337,7 @@
 | 郑州东郊 | Zhengzhou Dongjiao | CGO, ChenGchOw | ZHCC, ChengChow | 4C | 1997.8 |
 | 武汉王家墩 | Wuhan Wangjiadun | WJD, WangJiaDun | ZHWT | N/A | 2007.12 |
 | 华东 ZS |
+| 连云港白塔埠 | Lianyungang Baitabu | LYG, LianYunGang | ZSLG, LianyunganG |
 | 南京大校场 | Nanjing Dajiaochang | NKG, NanKinG | ZSNJ, NanJing; Z08T | N/A | 2015.7 |
 | 上海龙华 | Shanghai Longhua | N/A | ZSSL, Shanghai Longhua | 2B | 1966.8 |
 | 青岛流亭 | Qingdao Liuting | TAO, TsingtAO | ZSQD, QingDao | 4E | 2021.8 |
