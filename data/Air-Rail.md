@@ -30,8 +30,9 @@
 | | 三亚凤凰/ Sanya Phoenix/ SYX | 中南-三亚/ ZJSY | 凤凰机场/ Fenghuang-Jichang/ FJQ | 广州局/ CR Guangzhou-海南环岛线 |
 | | 海口美兰/ Haikou Meilan/ HAK | 中南-三亚/ ZJHK | 美兰/ Meilan/ MHQ | 广州局/ CR Guangzhou-海南环岛线 |
 | 🚌~4km | 琼海博鳌/ Qionghai Bo'ao/ BAR | 中南-三亚/ ZJQH | 博鳌/ Bo'ao/ BWQ | 广州局/ CR Guangzhou-海南环岛线 |
-| | 成都双流/ Chengdu Shuangliu/ CTU | 西南-昆明/ ZUUU | 双流机场/ Shuangliu Airport/ IPW | 成都局/ CR Chengdu-成贵客专线 |
-| | 贵阳龙洞堡/ Guiyang Longdongbao/ KWE | 西南-昆明/ ZUGY | 龙洞堡/ Longdongbao / FVW | 成都局/ CR Chengdu-贵广客专线 |
+| | 成都双流/ Chengdu Shuangliu/ CTU | 西南-成都/ ZUUU | 双流机场/ Shuangliu Airport/ IPW | 成都局/ CR Chengdu-成贵客专线 |
+| | 贵阳龙洞堡/ Guiyang Longdongbao/ KWE | 西南-成都/ ZUGY | 龙洞堡/ Longdongbao / FVW | 成都局/ CR Chengdu-贵广客专线 |
+| 👟~2km | 西双版纳嘎洒/ Xishuangbanna Gasa/ JHG | 西南-昆明/ ZPJH | 西双版纳/ Xishuangbanna/ ENM | 昆明局/ CR Kunming- 中老昆万线 |
 | | 兰州中川/ Lanzhou Zhongchuan/ LHW | 西北-兰州/ ZLLL | 中川机场/ Zhongchuan Airport/ ZJJ | 兰州局/ CR Lanzhou-中川城际线 |
 | 👟2.2km | 敦煌/ Dunhuang/ DNH | 西北-兰州/ ZLDH | 敦煌/ Dunhuang/ DHJ | 兰州局/ CR Lanzhou-柳敦线 |
 | 👟1.6km | 天水麦积山/ Tianshui Maijishan/ THQ | 西北-兰州/ ZLTS | 天水南/ Tianshuinan/ TIJ | 兰州局/ CR Lanzhou-徐兰高速线 |
