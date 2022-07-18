@@ -359,8 +359,7 @@
 - 徐家棚（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wh.gif" width="20" hegiht="20"/>武汉，7号线、8号线，2018.10-）
 - 沙坪坝（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cq.gif" width="20" hegiht="20"/>重庆，1号线、环线，2018.12-）
 - 谢家湾（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cq.gif" width="20" hegiht="20"/>重庆，2号线、环线，2019.12-）
-- 𧒽岗（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/fs.gif" width="20" hegiht="20"/>佛山，广佛线、南海有轨1号线，2021.8-）
-- 广州南站（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州，2、7、22号线、佛山2号线，2021.12-）
+- 广州南站（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州，2&7&22号线、佛山2号线，2021.12-）
 
 #### 特殊换乘
 
