@@ -21,8 +21,7 @@
 - 最长的环线：北京地铁10号线（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，57.1km）
 - 最长的全地下线路：成都地铁6号线（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cd.gif" width="20" hegiht="20"/>成都，68.76km）
 - 最长的全地上线路：武汉地铁1号线（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wh.gif" width="20" hegiht="20"/>武汉，38.5km）
-- 最长的站间距：大兴机场-大兴新城（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，大兴机场线，25.5km）
-- 最长的地铁线站间距：2号航站楼-三元桥（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，首都机场线，20.7km）
+- 最长的站间距：番禺广场-横沥（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州，18号线，25.8km）
 - 最长的非专线站间距：明觉-团结圩（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nj.gif" width="20" hegiht="20"/>南京，S9线，16.9km）
 - 最长的非快线站间距：北苑-望京西（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，13号线，6.7km）
 - 最短的站间距：南礼士路-复兴门（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，1号线，424m）
@@ -48,7 +47,7 @@
 
 ## 最·数字
 - 最长的线路：上海地铁11号线（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，82.4km）
-- 最高的设计时速：北京地铁大兴机场线（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，160km/h）
+- 最高的设计时速（160km/h）：北京地铁大兴机场线（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京）、广州地铁18、22号线（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州）
 - 最深的站：红土地（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cq.gif" width="20" hegiht="20"/>重庆，10号线，94.467m）
 - 最深的隧道：广州东站-燕塘隧道（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州，3号线，113m）
 
@@ -60,8 +59,8 @@
 - 最长英文站名（复合站名不计）：The Second Affiliated Hospital of Harbin Medical University（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hrb.gif" width="20" hegiht="20"/>哈尔滨，59字符）
 
 ## 最·运营
-- 数字编号最大的运营线路：广州地铁21号线（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州，21）
-- 最多换乘线路的站：龙阳路（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，5线8向（含磁浮），2/7/16/18/磁浮）、世纪大道（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，4线8向，2/4/6/9）、车公庙（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sz.gif" width="20" hegiht="20"/>深圳，4线8向，1/7/9/11）、南京南站（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nj.gif" width="20" hegiht="20"/>南京，4线6向，1/3/S1/S3）、
+- 数字编号最大的运营线路：广州地铁22号线（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州，22）
+- 最多换乘线路的站：龙阳路（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，5线8向（含磁浮），2/7/16/18/磁浮）、世纪大道（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，4线8向，2/4/6/9）、车公庙（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sz.gif" width="20" hegiht="20"/>深圳，4线8向，1/7/9/11）、南京南站（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nj.gif" width="20" hegiht="20"/>南京，4线6向，1/3/S1/S3）、广州南站（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州，4线6向，2/7/22/佛山2）
 - 最多换乘次数的线（不考虑共线）：长沙地铁2号线/4号线（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cs.gif" width="20" hegiht="20"/>长沙，4次，溁湾镇、沙湾公园、长沙火车南站、光达）
 - 最多快车服务的区间：新和-嘉禾望岗（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州，每日56对，2018.12-2019.12）
 - 连续换乘站点最多的线路：上海地铁12号线（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，连续12站，桂林公园-天潼路）
