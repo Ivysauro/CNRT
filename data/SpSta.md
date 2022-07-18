@@ -119,7 +119,10 @@
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州
 - 官桥（4号线，2007.6-）
 - 沙河（6号线，2013.12-）
+- 彩虹桥（8号线，2021.11-）
+- 西村（8号线，2021.11-）
 - ~~庆盛~~（4号线，2007.6-2017.12）
+- ~~高增~~（3号线，2010.10-2017.12）
 - ~~机场北~~（3号线，2010.10-2018.4）
 - ~~一德路~~（6号线，2013.12-2015.1）
 - ~~植物园、柯木塱~~（6号线，2016.12-2017.6）
@@ -292,8 +295,9 @@
 - 西门（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tp.gif" width="20" hegiht="20"/>台北捷运板南线/松山新店线，同向）
 - 东门（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tp.gif" width="20" hegiht="20"/>台北捷运中和新芦线/淡水信义线，反向）
 - 嘉禾望岗（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州地铁2号线/3号线，同向）
-- 沙园（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州地铁8号线/1广佛线，反向）
+- 沙园（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州地铁8号线/广佛线，反向）
 - 镇龙（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州地铁14号线/21号线，同向）
+- 番禺广场（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州地铁18号线/22号线，~~同向~~反向）
 - 宏图大道（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wh.gif" width="20" hegiht="20"/>武汉地铁2号线/3号线，同向）
 - 香港路（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wh.gif" width="20" hegiht="20"/>武汉地铁3号线/7号线，同向）
 - 钟家村（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wh.gif" width="20" hegiht="20"/>武汉地铁4号线/6号线，反向）
@@ -320,7 +324,7 @@
 - 南京南站（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nj.gif" width="20" hegiht="20"/>南京地铁S1号线/S3号线，上/下行反向）
 - 太平园（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cd.gif" width="20" hegiht="20"/>成都地铁3号线/10号线，上行同向）
 - 客运中心（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hz.gif" width="20" hegiht="20"/>杭州地铁1号线主支线，上行同向）
-- ~~大围~~（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hk.gif" width="20" hegiht="20"/>港铁东铁线/屯马线一期，下行同向）
+- 大围（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hk.gif" width="20" hegiht="20"/>港铁东铁线/屯马线，下行同向）
 
 #### 其他便利换乘
 ##### 连续同线换乘
@@ -355,6 +359,7 @@
 - 徐家棚（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wh.gif" width="20" hegiht="20"/>武汉，7号线、8号线，2018.10-）
 - 沙坪坝（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cq.gif" width="20" hegiht="20"/>重庆，1号线、环线，2018.12-）
 - 谢家湾（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cq.gif" width="20" hegiht="20"/>重庆，2号线、环线，2019.12-）
+- 广州南站（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州，2&7&22号线、佛山2号线，2021.12-）
 
 #### 特殊换乘
 
@@ -382,6 +387,7 @@
 - 石龙路（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，3号线）
 - 三鲁公路、闵瑞路、浦航路、东城一路（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，浦江线）
 - 坑口（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州，1号线）
+- 机场南（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州，3号线）
 - ~~古城~~（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，1号线）
 
 ##### 终点站
@@ -391,6 +397,7 @@
 - 东海路（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tj.gif" width="20" hegiht="20"/>天津，9号线）
 - 嘉定北（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，11号线）
 - 桐岭（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wz.gif" width="20" hegiht="20"/>温州，S1线）
+- 机场北（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州，3号线）
 - ~~苹果园~~（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，1号线）
 - ~~双林~~（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tj.gif" width="20" hegiht="20"/>天津，1号线，2018.12前）
 - ~~天河客运站~~（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州，3号线，2013.12前）
