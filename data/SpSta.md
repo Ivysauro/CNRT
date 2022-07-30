@@ -67,12 +67,10 @@
 - 高家园（14号线，2014.12-）
 - 通运门（6号线，2014.12-）
 - 陶然桥（14号线，2015.12-）
-- 景风门（~~14号线，2015.12-2021.12~~；19号线，2021.12-预计2022）
 - 红庙（14号线，2015.12-）
 - 大红门（8号线，2018.12-）
 - 二里沟、苏州街（16号线，2020.12-）
 - 模式口（11号线，2021.12-）
-- 太平桥、平安里、北太平庄（19号线，2021.12-预计2022）
 - ~~望京东~~（15号线，2010.12-2016.12）
 - ~~亦庄火车站~~（亦庄线，2010.12-2018.12）
 - ~~丰台东大街~~（9号线，2011.12-2012.10）
@@ -91,6 +89,8 @@
 - ~~苹果园~~（6号线，2018.12-2021.12）
 - ~~环球度假区~~（7号线、八通线，2019.12-2021.8）
 - ~~玉渊潭东门~~（16号线，2020.12-2021.12）
+- ~~景风门~~（14号线，2015.12-2021.12；19号线，2021.12-2022.7）
+- ~~太平桥、平安里、北太平庄~~（19号线，2021.12-2022.7）
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tj.gif" width="20" hegiht="20"/>天津
 - 北运河（6号线，2016.12-）
@@ -346,10 +346,12 @@
 - 虹桥2号航站楼（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，2号线、10号线）
 - 南京西路（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，2号线、12号线、13号线）
 - 板桥、新埔/新埔民生（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tp.gif" width="20" hegiht="20"/>台北，环状线、板南线，**单程票有效**）
+- 复兴门/太平桥（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，1&2号线、19号线）
+- 广安门内/牛街（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，7号线、19号线）
 - ~~大葆台/新宫~~（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，房山线、大兴线）
 - ~~长清路~~（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，7号线、13号线）
 - ~~龙华~~（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，11号线、12号线）
-- ~~龙阳路~~（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，2/7号线、16号线）
+- ~~龙阳路~~（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，2&7号线、16号线）
 
 #### 出站换乘
 
