@@ -246,7 +246,8 @@
 | 安顺黄果树 | Anshun Huangguoshu | AVA | ZUAS, AnShun |
 | 巴中恩阳 | Bazhong Enyang | BZX, BaZhong+X | ZUBZ, BaZhong |
 | 达州河市 | Dazhou Heshi | DAX, DAXian（达县） | ZUDX, DaXian |
-| 广元盘龙 | Guangyuan Panlong | GYS, GuangYuan+S | ZUGU, GUangyuan |
+| 广元盘龙 | Guangyuan Panlong | GYS, GuangYuan+S| ZUGU, GUangyuan |
+| 阿坝红原 | Aba Hongyuan | AHJ, Aba Hongyuan+J | ZUHY, HongYuan |
 | 凯里黄平 | Kaili Huangping | KJH, Kaili+J+Huangping | ZUKJ |
 | 黔南荔波 | Qiannan Libo | LLB, L+LiBo | ZULB, LiBo |
 | 泸州蓝田 | Luzhou Lantian | LZO, LuZhOu | ZULZ, LuZhou |
@@ -256,7 +257,9 @@
 | 黔江武陵山 | Qianjiang Wulingshan | JIQ, qianJIang+Q | ZUQJ, QianJiang |
 | 日喀则和平 | Shigatse Peace | RKZ, RiKaZe | ZURK, RiKaze |
 | 腾冲驼峰 | Tengchong Tuofeng | TCZ, TengChong+Z | ZUTC, TengChong |
-| 万州五桥 | Wanzhou Wuqiao | WXN, WanXiaN | ZUWX, WanXian |
+| 重庆仙女山 | Chongqing Xiannyushan | CQW, ChongQing Wulong | ZUWL, WuLong（武隆） |
+| 重庆巫山 | Chongqing Wushan | WSK, WuShan+K | ZUWS, WuShan |
+| 万州五桥 | Wanzhou Wuqiao | WXN, WanXiaN（万县） | ZUWX, WanXian |
 | 宜宾五粮液 | Yibin Wuliangye | YBP, YiBin+P | ZUYB, YiBin |
 | 遵义新舟 | Zunyi Xinzhou | ZYI, ZunYI | ZUZY, ZunYi |
 | 新疆 ZW |
