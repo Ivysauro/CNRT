@@ -131,7 +131,7 @@
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>1101 北京/ Beijing | 🪙1、💴5/10 | ✅💥 | ✅ | ✅ | ✅ | ⏳ |  |  | ✅ |  |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tj.gif" width="20" hegiht="20"/>1201 天津/ Tianjin | 🪙1、💴1/5/10/20 |  | ✅ | ✅ | ✅ |  |  |  |  |  |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>3101 上海/ Shanghai | 🪙1、💴5/10/20/50 |  | ✅ | ✅ | ✅ |  |  |  |  |  |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>4401 广州/ Guangzhou | 🪙1、💴5/10 |  | ✅ | ✅ |  |  |  |  | ✅ |  |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>4401 广州/ Guangzhou | 🪙1、💴5/10 | 🛑💥 | ✅ | ✅ |  |  |  |  | ✅ |  |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cc.gif" width="20" hegiht="20"/>2201 长春/ Changchun | 🪙1、💴1/5/10 |  | ✅ | ✅ | ✅ |  |  |  |  |  |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/dl.gif" width="20" hegiht="20"/>2102 大连/ Dalian | 🪙1、💴5/10/20 | ⏳ | ✅💥 | ✅💥 |  |  |  |  | ✅ |  |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wh.gif" width="20" hegiht="20"/>4201 武汉/ Wuhan | 🪙0.5/1、💴5/10/20 |  | ✅ | ✅ | ✅ |  |  |  | ✅ |  |
