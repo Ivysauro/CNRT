@@ -20,7 +20,7 @@
 | 黑龙江 | 黑 | 缩略/河流，黑龙江 | **Heilongjiang** | HL |
 | 上海 | 沪/申 | 古称，沪渎/封地，春申君 | **Shanghai** | SH |
 | 江苏 | 苏 | 缩略 | **Jiangsu** | JS | Kiangsu | 邮政式拼音 |
-| 浙江 | 浙 | 缩略/河流，浙江(钱塘江) | **Zhejiang** | ZJ |
+| 浙江 | 浙 | 缩略/河流，浙江(钱塘江) | **Zhejiang** | ZJ | Chekiang | 邮政式拼音 |
 | 安徽 | 皖 | 古国，皖国 | **Anhui** | AH | Anhwei | 邮政式拼音 |
 | 福建 | 闽 | 河流，闽江 | **Fujian** | FJ | Fukien/Foukien | 邮政式拼音 |
 | 江西 | 赣 | 河流，赣江 | **Jiangxi** | JX | Kiangsi | 邮政式拼音 |
