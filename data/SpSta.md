@@ -119,14 +119,14 @@
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州
 - 官桥（4号线，2007.6-）
 - 沙河（6号线，2013.12-）
-- 彩虹桥（8号线，2021.11-）
-- 西村（8号线，2021.11-）
 - ~~庆盛~~（4号线，2007.6-2017.12）
 - ~~高增~~（3号线，2010.10-2017.12）
 - ~~机场北~~（3号线，2010.10-2018.4）
 - ~~一德路~~（6号线，2013.12-2015.1）
 - ~~植物园、柯木塱~~（6号线，2016.12-2017.6）
 - ~~清塘~~（9号线，2017.12-2018.6）
+- ~~西村~~（8号线，2021.11-2022.12）
+- ~~彩虹桥~~（8号线，2021.11-2022.9）
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cc.gif" width="20" hegiht="20"/>长春
 - 东新路（4号线，2011.6-）
@@ -200,9 +200,9 @@
 - 福田、官堰、天府机场3号4号航站楼（18号线，2020.12-）
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xa.gif" width="20" hegiht="20"/>西安
-- 火车站（4号线，2018.12-）
 - 机场（T5）（14号线，2019.9-）
 - 月登阁、雁鸣湖、西安东站（5号线，2020.12-）
+- ~~西安站~~（4号线，2018.12-2022.9）
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hz.gif" width="20" hegiht="20"/>杭州
 - 老余杭、宝善桥（5号线，2020.4-）
@@ -296,8 +296,9 @@
 - 东门（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tp.gif" width="20" hegiht="20"/>台北捷运中和新芦线/淡水信义线，反向）
 - 嘉禾望岗（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州地铁2号线/3号线，同向）
 - 沙园（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州地铁8号线/广佛线，反向）
-- 镇龙（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州地铁14号线/21号线，同向）
-- 番禺广场（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州地铁18号线/22号线，~~同向~~反向）
+- 镇龙（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州地铁14号线/21号线，~~同向~~逆向）
+- 番禺广场（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州地铁18号线/22号线，同向）
+- 林岳西（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/fs.gif" width="20" hegiht="20"/>佛山地铁2号线/南海有轨电车1号线，同向）
 - 宏图大道（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wh.gif" width="20" hegiht="20"/>武汉地铁2号线/3号线，同向）
 - 香港路（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wh.gif" width="20" hegiht="20"/>武汉地铁3号线/7号线，同向）
 - 钟家村（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wh.gif" width="20" hegiht="20"/>武汉地铁4号线/6号线，反向）
@@ -326,6 +327,9 @@
 - 客运中心（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hz.gif" width="20" hegiht="20"/>杭州地铁1号线主支线，上行同向）
 - 大围（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hk.gif" width="20" hegiht="20"/>港铁东铁线/屯马线，下行同向）
 
+##### 顺逆向同台换乘
+ - 北滘公园（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州地铁7号线/<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/fs.gif" width="20" hegiht="20"/>佛山地铁3号线）
+
 #### 其他便利换乘
 ##### 连续同线换乘
 
@@ -348,6 +352,9 @@
 - 板桥、新埔/新埔民生（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tp.gif" width="20" hegiht="20"/>台北，环状线、板南线，**单程票有效**）
 - 复兴门/太平桥（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，1&2号线、19号线）
 - 广安门内/牛街（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，7号线、19号线）
+- 木樨地（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，1号线、16号线）
+- 观音桥（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cq.gif" width="20" hegiht="20"/>重庆，3号线、9号线）
+- 谢家湾（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cq.gif" width="20" hegiht="20"/>重庆，2号线、环线）
 - ~~大葆台/新宫~~（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，房山线、大兴线）
 - ~~长清路~~（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，7号线、13号线）
 - ~~龙华~~（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，11号线、12号线）
@@ -357,11 +364,11 @@
 
 不连续计费
 
-- 新荣/新荣客运站（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wh.gif" width="20" hegiht="20"/>武汉，1号线、阳逻线，2017.12-）
-- 徐家棚（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wh.gif" width="20" hegiht="20"/>武汉，7号线、8号线，2018.10-）
-- 沙坪坝（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cq.gif" width="20" hegiht="20"/>重庆，1号线、环线，2018.12-）
-- 谢家湾（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cq.gif" width="20" hegiht="20"/>重庆，2号线、环线，2019.12-）
+- 𧒽岗（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/fs.gif" width="20" hegiht="20"/>佛山，广佛线、南海有轨电车1号线，2021.8-）
 - 广州南站（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州，2&7&22号线、佛山2号线，2021.12-）
+- ~~徐家棚~~（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wh.gif" width="20" hegiht="20"/>武汉，7号线、8号线，2018.10-2021.12）
+- ~~沙坪坝~~（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cq.gif" width="20" hegiht="20"/>重庆，1号线、环线，2018.12-2022.9）
+- ~~新荣/新荣客运站~~（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wh.gif" width="20" hegiht="20"/>武汉，1号线、阳逻线，2017.12-2022.12）
 
 #### 特殊换乘
 
@@ -371,7 +378,7 @@
 - ~~东北师大~~（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cc.gif" width="20" hegiht="20"/>长春，1号线、3号线，3号线已改名“博硕路”）
 
 ##### 换乘站不同名
-- 北客站/北客站（北广场）（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xa.gif" width="20" hegiht="20"/>西安，2号线、4/14号线，将统一命名为“西安北站”）
+- ~~北客站/北客站（北广场）~~（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xa.gif" width="20" hegiht="20"/>西安，2号线、4/14号线，已统一命名为“西安北站”）
 - ~~临河街/卫星路~~（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cc.gif" width="20" hegiht="20"/>长春，3号线、4号线，已统一命名为“职业学院”）
 
 #### 闸外换向
@@ -430,6 +437,7 @@
 - 福田口岸（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sz.gif" width="20" hegiht="20"/>深圳，4号线）
 - 二七广场（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/zz.gif" width="20" hegiht="20"/>郑州，3号线，下行）
 - 合肥火车站（（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hf.gif" width="20" hegiht="20"/>合肥，1号线）
+- 北滘公园（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州7号线、<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/fs.gif" width="20" hegiht="20"/>佛山3号线）
 
 ##### 不可穿行
 
@@ -493,6 +501,7 @@
 - 绿城广场/ L**U**CHENGGUANGCHANG（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/zz.gif" width="20" hegiht="20"/>郑州，1号线）
 - 绿茵路/ L**u**yin Road（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nc.gif" width="20" hegiht="20"/>南昌，1号线）
 - 吕厝/ L**ü**cuo（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xm.gif" width="20" hegiht="20"/>厦门，1号线）
+- 绿岛湖/ L**v**dao Lake（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/fs.gif" width="20" hegiht="20"/>佛山，2号线）
 
 ### 更名（车站）
 
@@ -578,6 +587,7 @@
 #### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wh.gif" width="20" hegiht="20"/>武汉
 - 江汉路→循礼门（1号线，2010.6）
 - 光谷火车站→武汉东站（2号线/11号线，2020.12）
+- 新荣客运站→新荣（阳逻线，2022.12）
 
 #### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cq.gif" width="20" hegiht="20"/>重庆
 - 重庆北站→重庆北站南广场（3号线，2016.3）
@@ -605,6 +615,10 @@
 
 #### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/zz.gif" width="20" hegiht="20"/>郑州
 - 桐柏路→五一公园（1号线，2016.12）
+
+#### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xa.gif" width="20" hegiht="20"/>西安
+- 北客站→西安北站（2号线，2022.9）
+- 北客站（北广场）→西安北站（4号线/14号线，2022.9）
 
 ### 更名（线路）
 
@@ -647,6 +661,9 @@
 - 3号线→龙岗线→3号线（2008.4，2013.10）
 - 4号线→龙华线→4号线（2008.4，2013.10）
 - 5号线→环中线→5号线（2008.4，2013.10）
+
+#### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xa.gif" width="20" hegiht="20"/>西安
+- 机场城际→14号线（2021.6）
 
 ## 参考资料
 - <https://www.zhihu.com/question/279503795>
