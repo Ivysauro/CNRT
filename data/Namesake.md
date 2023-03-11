@@ -6,7 +6,7 @@
 
 按开通时间排序/ Rank by Station Open Time
 
-数据更新于2023-02-28/ This data is updated on 2023-02-28
+以下数据更新于2023-02-28/ The data below is updated on 2023-02-28
 
 | 站名/ Station Name | 始于/ Since | 归属/ Affiliated City |
 | :-: | :-: | :- |
