@@ -61,7 +61,7 @@
 | 320585 太仓市民卡<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/City Union.png" width="20" hegiht="20"> |  |  |  |  |  | ✅[^tco] |  |  |
 | 3206 江苏交通一卡通·南通（通城通）<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ |  | ✅ |  |  | ✅ |  |
 | 3207 江苏交通一卡通·连云港<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ |  | ✅ |  | ✅ | ✅ |  |
-| 3208 江苏交通一卡通·淮安（江淮通）<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ |  | ✅ | ✅💥 | ✅ | ✅ |  |
+| 3208 江苏交通一卡通·淮安（江淮通）<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ |  | ✅ | ✅💥 | ✅ | ✅ | 📿 |
 | 3209 江苏交通一卡通·盐城（黄海通）<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ |  | ✅ |  | ✅ | ✅ |  |
 | 3210 江苏交通一卡通·扬州<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ |  | ✅ |  | ✅ | ✅ |  |
 | 3211 江苏交通一卡通·镇江<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ |  | ✅ |  | ✅ | ✅ |  |
