@@ -70,6 +70,7 @@
 - 大红门（8号线，2018.12-）
 - 苏州街（16号线，2020.12-）
 - 模式口（11号线，2021.12-）
+- 朱房北、蓟门桥（昌平线，2023.2-）
 - ~~望京东~~（15号线，2010.12-2016.12）
 - ~~亦庄火车站~~（亦庄线，2010.12-2018.12）
 - ~~丰台东大街~~（9号线，2011.12-2012.10）
@@ -95,13 +96,14 @@
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tj.gif" width="20" hegiht="20"/>天津
 - 北运河（6号线，2016.12-）
-- 李七庄南（5号线，2018.10-）
 - 梨双路北、洪泥河东、上郭庄、咸水沽北、双桥河（1号线，2019.12-）
 - ~~北辰科技园北~~（5号线，2018.10-2019.1）
+- ~~李七庄南~~（5号线，2018.10-2021.12）
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海
 - 严御路（11号线，2013.8-）
 - 平庄公路（5号线，2018.12-）
+- 龙居路（14号线，2021.12-）
 - ~~东方体育中心~~（6号线，2007.12-2011.4）
 - ~~中华艺术宫~~（8号线，2007.12-2012.9）
 - ~~东方体育中心~~（8号线，2009.7-2011.4）
@@ -131,12 +133,13 @@
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cc.gif" width="20" hegiht="20"/>长春
 - 东新路（4号线，2011.6-）
-- 西湖（2号线，2018.8-）
 - 龙翔（8号线，2018.10-）
 - ~~长春站~~（1号线，2017.6-2019.1）
+- ~~西湖~~（2号线，2018.8-2021.10）
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/dl.gif" width="20" hegiht="20"/>大连
 - 高城山、黄海大道（3号线，2003.5-）
+- 劳动公园（5号线，2023.3-）
 - ~~大连站~~（3号线，2003.5-2004.9）
 - ~~小窑湾~~（3号线，2003.5-2006.12）
 - ~~河口~~（12号线，2013.10-2017.6）
@@ -152,6 +155,8 @@
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cq.gif" width="20" hegiht="20"/>重庆
 - 上浩（环线，2018.12-）
 - 港城（4号线，2018.12-）
+- 新桥、邮轮母港（9号线，2023.1-）
+- 玉河沟（5号线，2023.2-）
 - ~~朝天门~~（1号线，2011.7-2021.1）
 - ~~小什字~~（1号线，2011.7-9）
 - ~~高庙村~~（1号线，2011.7-10）
@@ -184,8 +189,8 @@
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sz.gif" width="20" hegiht="20"/>深圳
 - 文体公园、福邻（7号线，2016.10-）
-- 岗厦北（10号线，2020.8-）
 - ~~皇岗~~（4号线，2004.12-2007.6）
+- ~~岗厦北~~（10号线，2020.8-2022.10）
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nj.gif" width="20" hegiht="20"/>南京
 - ~~南京南站~~（1号线，2010.5-2011.6）
@@ -195,10 +200,10 @@
 - ~~皇姑屯站~~（9号线，2019.5-2021.3）
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cd.gif" width="20" hegiht="20"/>成都
-- ~~天府机场1号2号航站楼~~（18号线，2020.12-2021.6）
-- 天府新站（18号线，2020.9-）
+- 天府站（18号线，2020.9-）
 - 青岛路、芦角（6号线，2020.12-）
 - 福田、官堰、天府机场3号4号航站楼（18号线，2020.12-）
+- ~~天府机场1号2号航站楼~~（18号线，2020.12-2021.6）
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xa.gif" width="20" hegiht="20"/>西安
 - 机场（T5）（14号线，2019.9-）
@@ -206,26 +211,29 @@
 - ~~西安站~~（4号线，2018.12-2022.9）
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hz.gif" width="20" hegiht="20"/>杭州
-- 老余杭、宝善桥（5号线，2020.4-）
+- 南湖东（5号线，2020.4-）
 - ~~火车东站~~（1号线，2012.11-2013.6）
 - ~~新塘~~（4号线，2015.2-2015.6）
 - ~~联庄~~（4号线，2018.1-2018.6）
 - ~~下宁桥~~（2号线，2017.7-2020.6）
 - ~~火车南站~~（5号线，2020.4-2020.6）
 - ~~之浦路~~（6号线，2020.12-2021.4）
+- 宝善桥（5号线，2020.4-2022.4）
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hrb.gif" width="20" hegiht="20"/>哈尔滨
-- 城乡路（3号线，2017.1-）
 - ~~博物馆~~（1号线，2013.9-2014.9）
 - ~~凯盛源广场~~（3号线，2017.1-2017.6）
+- ~~城乡路~~（3号线，2017.1-2021.11）
 - ~~瓦盆窑~~（1号线，2019.4-2019.9）
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/zz.gif" width="20" hegiht="20"/>郑州
-- 小乔、华南城东、港区北（城郊线，2017.1-）
-- 经北二路（5号线，2019.5-）
+- 小乔、华南城东（城郊线，2017.1-）
 - 莲湖、市民大道、须水（14号线，2019.9-）
-- 金融岛北、金融岛南（4号线，2020.12-）
+- 3号航站楼（城郊线，2022.6-）
 - ~~河南大学新区~~（1号线，2017.1-2019.11）
+- ~~港区北~~（城郊线，2017.1-2020.12）
+- ~~经北二路~~（5号线，2019.5-2021.5）
+- ~~金融岛北、金融岛南~~（4号线，2020.12-2022.3）
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cs.gif" width="20" hegiht="20"/>长沙
 - 会展中心、汽车城（磁浮快线，2016.5-）
@@ -237,20 +245,27 @@
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/qd.gif" width="20" hegiht="20"/>青岛
 - 鳌山湾（11号线，2018.4-）
 - 海信桥（2号线，2019.12-）
-- 胶东机场（8号线，2020.12-）
+- 西镇（1号线，2021.12-）
+- 观象山（市立医院）（4号线，2022.12-）
+- ~~胶东机场~~（8号线，2020.12-2021.7）
+
+##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/fz.gif" width="20" hegiht="20"/>福州
+- 前锦、龙江、福州火车南站（5号线，2022.4-）
+- 莲花、壶井（6号线，2022.8-）
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nn.gif" width="20" hegiht="20"/>南宁
-- 东沟岭（3号线，2019.6-）
+- ~~东沟岭~~（3号线，2019.6-2020.9）
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gy.gif" width="20" hegiht="20"/>贵阳
 - ~~窦官~~（1号线，2017.12-2019.12）
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xm.gif" width="20" hegiht="20"/>厦门
 - 鼎美、马峦中心（2号线，2019.12-）
+- 体育会展、东界、洪坑、翔安市民公园（3号线，2021.6-）
 - ~~东瑶~~（2号线，2019.12-2021.4）
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wz.gif" width="20" hegiht="20"/>温州
-- 秀屿、温州火车站、文昌路（S1线，2019.1-）
+- 秀屿、温州火车站、文昌（S1线，2019.1-）
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/jn.gif" width="20" hegiht="20"/>济南
 - 裴家营（3号线，2019.12-）
@@ -263,6 +278,14 @@
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/ty.gif" width="20" hegiht="20"/>太原
 - 化章西街（2号线，2020.12-）
+
+##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sx.gif" width="20" hegiht="20"/>绍兴
+- 张墅（1号线，2022.4-）
+
+##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/jh.gif" width="20" hegiht="20"/>金华
+- 车辆段（金义线，2022.8-）
+- 义乌高铁站、横店高铁站（义东线，2022.12-）
+- ~~明清宫~~（义东线，2022.12-2023.4）
 
 ### 换乘
 #### 同台换乘
