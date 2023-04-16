@@ -149,9 +149,11 @@
 | :- | :-: | :-: | :-: | :-: | :-: | :-: |
 | 11 北京市政交通一卡通 | ❌ | ❌ | ❌ | | ✅ |
 | 11 京津冀互联互通卡<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | | | ❌ | | |
+| 12 天津城市卡<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | | | ✅ |
 | 21 上海都市旅游卡 | | | | | ✅ |
 | 44 广东·岭南通 | | ❌ | | ❌ | ✅ |
 | 4403 深圳通 | ❌ | ❌ | | ❌ | ✅ |
+| 8301 台北·悠游卡 |  |  |  |  |  | ✅[^yy] |
 
 ## 基于主机的卡模拟（HCE）技术驱动的交通卡/ Transit Cards powered by Host-based Card Emulation (HCE)
 
