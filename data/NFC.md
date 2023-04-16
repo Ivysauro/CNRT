@@ -141,11 +141,12 @@
 [^hk]: 香港：需要香港地区的手机钱包账号，钱包内暂不支持银联卡充值
 [^yy]: 台北：可能需要通过下载App开通
 [^yy2]: 台北：可能需要台湾地区的三星账号，可开通普通卡之外的如学生卡、1280定期票等特殊卡种
+[^gpay]: 谷歌支付：不限于手机品牌，理论上支持谷歌服务框架并安装谷歌钱包App均能使用
 
 ### 其他品牌/ Others
 
-| 卡名称/ Card Name | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Nubia.png" width="40" hegiht="40" alt="nubia"/>努比亚/ nubia | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Smartisan.png" width="20" hegiht="20" alt="Smartisan"/>锤子/ Smartisan | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Lenovo.png" width="40" hegiht="40" alt="Lenovo"/>联想/ Lenovo | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Gionee.png" width="20" hegiht="20" alt="Gionee"/>金立/ Gionee |  <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Lakala.png" width="20" hegiht="20" alt="Lakala"/>拉卡拉/ Lakala |
-| :- | :-: | :-: | :-: | :-: | :-: |
+| 卡名称/ Card Name | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/ZTE.png" width="20" hegiht="20" alt="nubia"/>中兴/ ZTE | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Smartisan.png" width="20" hegiht="20" alt="Smartisan"/>锤子/ Smartisan | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Lenovo.png" width="40" hegiht="40" alt="Lenovo"/>联想/ Lenovo | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Gionee.png" width="20" hegiht="20" alt="Gionee"/>金立/ Gionee |  <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Lakala.png" width="20" hegiht="20" alt="Lakala"/>拉卡拉/ Lakala | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/GPay.png" width="30" hegiht="30" alt="Google Pay"/>谷歌支付[^gpay]/ Google Pay |
+| :- | :-: | :-: | :-: | :-: | :-: | :-: |
 | 11 北京市政交通一卡通 | ❌ | ❌ | ❌ | | ✅ |
 | 11 京津冀互联互通卡<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | | | ❌ | | |
 | 21 上海都市旅游卡 | | | | | ✅ |
@@ -161,6 +162,7 @@
 | 13 河北交通一卡通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ |
 | 3502 厦门e通卡<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ |
 | 3607 赣州通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ |
+| 54 西藏一卡通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ |
 | 6101 西安·长安通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ |
 | 6501 乌鲁木齐·红山通 | ✅ |
 
@@ -172,6 +174,7 @@
 - 小米：<http://www.miui.com/thread-17774691-1-1.html>
 - 小米：<https://www.xiaomi.cn/post/18076498>
 - 华为：<https://club.huawei.com/thread-17955876-1-1.html>
+- 华为：<https://consumer.huawei.com/cn/mobileservices/wallet/huawei-pay/transcard/>
 - 三星：<https://www.samsung.com/cn/apps/samsung-pay/type2/>
 - 苹果：<https://www.apple.com/cn/apple-pay/transit/>
 - 魅族：<http://xiaoiwx.meizu.com/robot/imgmsgData/87d512733f4d425db4a13aed3edac704/index_1.html>
