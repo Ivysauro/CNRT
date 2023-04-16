@@ -145,12 +145,14 @@
 
 ### 其他品牌/ Others
 
+中兴相关数据暂缺
+
 | 卡名称/ Card Name | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/ZTE.png" width="20" hegiht="20" alt="nubia"/>中兴/ ZTE | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Smartisan.png" width="20" hegiht="20" alt="Smartisan"/>锤子/ Smartisan | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Lenovo.png" width="40" hegiht="40" alt="Lenovo"/>联想/ Lenovo | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Gionee.png" width="20" hegiht="20" alt="Gionee"/>金立/ Gionee |  <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Lakala.png" width="20" hegiht="20" alt="Lakala"/>拉卡拉/ Lakala | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/GPay.png" width="30" hegiht="30" alt="Google Pay"/>谷歌支付[^gpay]/ Google Pay |
 | :- | :-: | :-: | :-: | :-: | :-: | :-: |
 | 11 北京市政交通一卡通 | ❌ | ❌ | ❌ | | ✅ |
 | 11 京津冀互联互通卡<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | | | ❌ | | |
 | 12 天津城市卡<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | | | ✅ |
-| 21 上海都市旅游卡 | | | | | ✅ |
+| 31 上海都市旅游卡 | | | | | ✅ |
 | 44 广东·岭南通 | | ❌ | | ❌ | ✅ |
 | 4403 深圳通 | ❌ | ❌ | | ❌ | ✅ |
 | 8301 台北·悠游卡 |  |  |  |  |  | ✅[^yy] |
