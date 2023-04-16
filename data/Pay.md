@@ -255,7 +255,7 @@
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/fs.gif" width="20" hegiht="20"/>4406 佛山/ Foshan | ✅ | ✅ | ⭕ | ✅ | ✅- | 85 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/jh.gif" width="20" hegiht="20"/>3307 金华/ Jinhua | ✅ | ❌ | ❌ | ❌ | ⭕- | 25 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nt.gif" width="20" hegiht="20"/>3206 南通/ Nantong | ⭕ | ⭕ | ❌ | ✅ | ⭕ | 50 |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tz.gif" width="20" hegiht="20"/>3310 台州/ Taizhou | ✅ | ⭕ | ✅ | ✅ | ⭕ | 80 |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tz.gif" width="20" hegiht="20"/>3310 台州/ Taizhou | ✅ | ⭕ | ✅ | ✅ | ✅- | 85 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hk.gif" width="20" hegiht="20"/>8101 香港/ Hong Kong | ✅- | ✅- | ✅- | | ⭕- | - |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/mo.gif" width="20" hegiht="20"/>8201 澳门/ Macao | ⭕- | ⭕- | ⭕- | | | - |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tp.gif" width="20" hegiht="20"/>8301 台北/ Taipei | | | | | ⭕- | - |
