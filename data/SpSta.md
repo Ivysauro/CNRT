@@ -636,6 +636,8 @@
 #### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hz.gif" width="20" hegiht="20"/>杭州
 - 余杭高铁→余杭高铁站→临平南高铁站（1号线，?/2022.1)
 - 新桥→阳陂湖（6号线，2021.4）
+- 香积寺路→东新园（5号线，2022.1）
+
 
 #### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hrb.gif" width="20" hegiht="20"/>哈尔滨
 - 哈尔滨大街→凯盛源广场（3号线，2018.11）
