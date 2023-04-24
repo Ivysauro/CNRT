@@ -550,6 +550,7 @@
 - 果酒厂→佳园里（1号线，2018.7）
 - 北洋村→国家会展中心（1号线，2021.5）
 - 国展路→国瑞路（1号线，2021.5）
+- 黑牛城道→医大二院（6号线，2021.12）
 
 #### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海
 - 锦江乐园→虹梅路→锦江乐园（1号线，1997.7/2001.5）
