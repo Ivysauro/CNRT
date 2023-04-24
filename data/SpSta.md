@@ -626,6 +626,10 @@
 #### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sz.gif" width="20" hegiht="20"/>深圳
 - 皇岗→福田口岸（4号线，2008.8）
 
+#### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xa.gif" width="20" hegiht="20"/>西安
+- 北客站→西安北站（2号线，2022.9）
+- 北客站（北广场）→西安北站（4号线/14号线，2022.9）
+
 #### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/suz.gif" width="20" hegiht="20"/>苏州
 - 苏州乐园→狮子山（1号线，2019.12）
 
@@ -641,9 +645,8 @@
 #### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/zz.gif" width="20" hegiht="20"/>郑州
 - 桐柏路→五一公园（1号线，2016.12）
 
-#### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xa.gif" width="20" hegiht="20"/>西安
-- 北客站→西安北站（2号线，2022.9）
-- 北客站（北广场）→西安北站（4号线/14号线，2022.9）
+#### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nc.gif" width="20" hegiht="20"/>南昌
+- 振兴大道→复兴大道东（3号线，2023.3）
 
 ### 更名（线路）
 
