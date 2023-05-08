@@ -537,6 +537,7 @@
 - 八角村→八角游乐园（1号线，1996）
 - 广播学院→传媒大学（八通线，2007.4）
 - 古城路→古城（1号线，2008，结束前期两个站名混用）
+- 清河→清河站（13号线，2020.8）
 - ~~象来街→长椿街~~（2号线，更名为误传，[考证](https://zh.wikipedia.org/zh-hans/%E8%B1%A1%E6%9D%A5%E8%A1%97)）
 
 #### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hk.gif" width="20" hegiht="20"/>香港
@@ -565,7 +566,7 @@
 - 汶水东路→大柏树（3号线，2006.10）
 - 上海站→上海火车站（3号线/4号线，2008.6）
 - 济阳路→东方体育中心（6号线/8号线，2011.5）
-- *周家渡→中华艺术宫*（8号线，2012.9，是否启用有待考证）
+- 周家渡→中华艺术宫（8号线，2012.10，[自2012.9.28开通至2012.10.1期间使用周家渡站名，2012.10.1地铁站随中国馆同步更名](https://news.sina.com.cn/o/2012-09-17/125925190597.shtml)）
 - 船厂路→龙华中路（7号线，2012.12）
 - 航天博物馆→沈杜公路（8号线，2013.8）
 - 卢浦大桥→世博会博物馆（13号线，2014.9）
@@ -639,7 +640,6 @@
 - 新桥→阳陂湖（6号线，2021.4）
 - 香积寺路→东新园（5号线，2022.1）
 
-
 #### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hrb.gif" width="20" hegiht="20"/>哈尔滨
 - 哈尔滨大街→凯盛源广场（3号线，2018.11）
 - 哈东站→哈尔滨东站（1号线，2019.1）
@@ -647,6 +647,9 @@
 
 #### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/zz.gif" width="20" hegiht="20"/>郑州
 - 桐柏路→五一公园（1号线，2016.12）
+
+#### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/qd.gif" width="20" hegiht="20"/>青岛
+- 太平角公园（一疗）→太平角公园（3号线，2019.10，[来源](https://support.domosekai.com/bugs/view.php?id=93)）
 
 #### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nc.gif" width="20" hegiht="20"/>南昌
 - 振兴大道→复兴大道东（3号线，2023.3）
