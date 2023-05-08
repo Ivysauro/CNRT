@@ -529,14 +529,14 @@
 
 ### 更名（车站）
 
-仅统计运营期间更名的情况
+仅统计**运营期间**更名的情况
 
 #### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京
 - 立新→公主坟（1号线，1980以后，[来源](http://epaper.ynet.com/html/2018-12/17/content_313946.htm)）
 - 新华街→和平门（2号线，1987.12，[来源](http://www.booyee.cn/bbs/thread.jsp?threadid=1251112&forumid=0)）
 - 八角村→八角游乐园（1号线，1996）
 - 广播学院→传媒大学（八通线，2007.4）
-- 古城路→古城（1号线，2008）
+- 古城路→古城（1号线，2008，结束前期两个站名混用）
 - ~~象来街→长椿街~~（2号线，更名为误传，[考证](https://zh.wikipedia.org/zh-hans/%E8%B1%A1%E6%9D%A5%E8%A1%97)）
 
 #### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hk.gif" width="20" hegiht="20"/>香港
@@ -557,14 +557,15 @@
 - 浦东中央公园→世纪公园（2号线，2000.4）
 - 人民公园→人民广场（2号线，2000.8）
 - 新龙华→上海南站（1号线，2000.12）
+- 长宁路→中山公园（3号线，2001-2002，[来源](https://bbs.wenxuecity.com/memory/1478782.html)）
 - 杨高南路→上海科技馆（2号线，2002.12）
 - 东方路→世纪大道（2号线，2006.7）
 - 石门一路→南京西路（2号线，2006.10）
 - 河南中路→南京东路（2号线，2006.10）
 - 汶水东路→大柏树（3号线，2006.10）
-- 上海站→上海火车站（1号线，2008.6?）
+- 上海站→上海火车站（3号线/4号线，2008.6）
 - 济阳路→东方体育中心（6号线/8号线，2011.5）
-- *周家渡→中华艺术宫*（8号线，2012.9）
+- *周家渡→中华艺术宫*（8号线，2012.9，是否启用有待考证）
 - 船厂路→龙华中路（7号线，2012.12）
 - 航天博物馆→沈杜公路（8号线，2013.8）
 - 卢浦大桥→世博会博物馆（13号线，2014.9）
@@ -666,7 +667,7 @@
 - 屯马线一期→屯马线（2021.6）
 
 #### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海
-- 明珠线→3号线
+- 明珠线→3号线（2002.8）
 
 #### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tp.gif" width="20" hegiht="20"/>台北
 
