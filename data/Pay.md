@@ -115,7 +115,7 @@
 
 [^suz]: 苏州：原支付宝乘车码已下线，现仅支持支付宝小程序“苏e行”购票后扫码过闸/ Suzhou: Only support buying tickets on Official Alipay Mini-Program before passing gates
 
-[^suz]: 苏州：仅支持微信小程序“苏e行”购票后扫码过闸/ Suzhou: Only support buying tickets on Official WeChat Mini-Program before passing gates
+[^suz2]: 苏州：仅支持微信小程序“苏e行”购票后扫码过闸/ Suzhou: Only support buying tickets on Official WeChat Mini-Program before passing gates
 
 [^hrb]: 哈尔滨：银联闪付仅支持工行、交行、广发、浦发、邮储借记卡及信用卡和招商银行借记卡/ Harbin: Only CMB debit card and debit or credit cards by ICBC, COM, CGB, SPDB, CPG accepted in Quickpass
 
