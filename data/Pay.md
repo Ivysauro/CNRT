@@ -75,7 +75,7 @@
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nn.gif" width="20" hegiht="20"/>4501 南宁/ Nanning | 2016 | ✅ | ⭕[^nn] | ✅💥 | | ✅💥 | | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hf.gif" width="20" hegiht="20"/>3401 合肥/ Hefei | 2016 | ✅ | ✅ | ✅ | ✅💥 | ✅ | | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sjz.gif" width="20" hegiht="20"/>1301 石家庄/ Shijiazhuang | 2017 | ✅ | | | | ✅ | | ✅ | |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gy.gif" width="20" hegiht="20"/>5201 贵阳/ Guiyang | 2017 | ✅ | | | | ✅ | | ✅ | |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gy.gif" width="20" hegiht="20"/>5201 贵阳/ Guiyang | 2017 | ✅ | ⭕[^gy] | | | ✅ | | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xm.gif" width="20" hegiht="20"/>3502 厦门/ Xiamen | 2017 | ✅ | ✅ | ✅ | ✅ | ✅ | | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wlmq.gif" width="20" hegiht="20"/>6501 乌鲁木齐/ Urumqi | 2018 | ✅ | | | | | | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wz.gif" width="20" hegiht="20"/>3303 温州/ Wenzhou | 2019 | | ✅ | ✅💥 | | | | ✅ | |
@@ -122,6 +122,8 @@
 [^dg]: 东莞：银联闪付仅支持东莞通合作银行/ Dongguan: Only banks that cooperates with DongguanTong accepted in Quickpass
 
 [^nn]: 南宁：银联闪付仅支持除浦发、华夏以外的信用卡和交行、招行借记卡/ Nanning: Only credit card(except SPDB, HXB) and COM, CMB debit card accepted in Quickpass
+
+[^gy]: 贵阳：银联闪付仅支持信用卡/ Guiyang: Only credit card accepted in Quickpass
 
 [^lz]: 兰州：银联闪付仅支持信用卡/ Lanzhou: Only credit card accepted in Quickpass
 
