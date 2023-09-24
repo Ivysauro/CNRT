@@ -6,6 +6,8 @@
 - [P+R](#P+R)
 - [车厢温度/ Temperature](#车厢温度-Temperature)
 
+❗ 本版块时效性较差，请以最新信息为准/ There may be many old info🤨
+
 ## 应用/ App
 
 ❗ 由于消息来源复杂且无条件测试，本表有很多错漏，应以实际支持情况为准/ There may be many mistakes😑
@@ -20,9 +22,9 @@
 | 翼支付 | Bestpay |
 | 苏宁(支付) | Suning Pay |
 
-| 城市/ City | 应用名/ App Name | 归属/ Ownership | 信息公告/ Notice | 购票/ Buying Tickets | 扫码过闸/ Passing QR Code | 支付方式/ Payment Method | 其他功能/ Other Functions |
+| 城市/ City | 应用名/ App Name | 归属/ Ownership | 运营信息/ Notice | 购票/ Buying Tickets | 扫码过闸/ Passing QR Code | 支付方式/ Payment Method | 其他功能/ Other Functions |
 | :- | :- | :- | :-: | :-: | :-: | :- | :- | 
-| 北京/ Beijing | 北京地铁 | 地铁 | ✅ |
+| 北京/ Beijing | 北京地铁 | 地铁[^dt] | ✅ |
 | 北京/ Beijing | 亿通行 | 合资 | ✅ | ✅ | ✅ | 支付宝、微信、银联、京东 | 刷脸过闸（仅大兴机场线）、可刷公交 |
 | 北京/ Beijing | 北京公交 | 公交 | | | ✅ | 支付宝、银联、云闪付 | 可刷地铁 |
 | 北京/ Beijing | 北京一卡通 | 通卡 | | | | 支付宝、微信 | 云卡、可刷地铁 |
@@ -39,8 +41,9 @@
 | 重庆/ Chongqing | 重庆轨道交通 | 地铁 | ✅ |
 | 深圳/ Shenzhen | 深圳地铁 | 地铁 | ✅ | | ✅ | 微信 | 刷脸过闸（仅限免费群体） |
 | 南京/ Nanjing | 南京地铁 | 地铁 | ✅ | | ✅ | 支付宝 |
+| 南京/ Nanjing | 与宁通行 | 地铁 |
 | 南京/ Nanning | 智汇市民卡 | 通卡 | | | | 支付宝、微信、银联 | 云卡、可刷公交 |
-| 高雄/ Kaohsiung | 高捷通 | 地铁 | ✅ |
+| 南京/ Nanning | 我的南京 | 政府 |
 | 沈阳/ Shenyang | 盛京通 | 通卡 | | | ✅ | 支付宝、银联 | 可刷公交 |
 | 成都/ Chengdu | 成都地铁 | 地铁 | ✅ | | ✅ | 支付宝、微信 |
 | 成都/ Chengdu | 天府通 | 通卡 | | | ✅ | 支付宝、微信、银联 | 可刷公交 |
@@ -50,14 +53,14 @@
 | 昆明/ Kunming | 智慧通行 | 地铁 | ✅ | | ✅ | 银联 |
 | 杭州/ Hangzhou | 杭州地铁 | 地铁 | ✅ | ✅ | ✅ | 支付宝、银联 |
 | 杭州/ Hangzhou | 杭州市民卡 | 通卡 | | | ✅ | 支付宝 | 可刷公交 |
-| 杭州/ Hangzhou | 杭州办事服务 | 市政府 | | | ✅ | 支付宝 |
+| 杭州/ Hangzhou | 杭州办事服务 | 政府 | | | ✅ | 支付宝 |
 | 哈尔滨/ Harbin | Metro冰城行 | 地铁 | ✅ | | ✅ | ? |
 | 哈尔滨/ Harbin | 哈尔滨城市通 | 通卡 | | | ✅ | 支付宝、银联、翼支付 | 可刷公交 |
 | 哈尔滨/ Harbin | 智惠行 | ? | | | ? | ? | 刷脸过闸 |
 | 郑州/ Zhengzhou | 郑州地铁商易行 | 地铁 | ✅ | | ✅ | 支付宝、微信、云闪付 | 刷脸过闸 |
 | 长沙/ Changsha | 长沙地铁 | 地铁 | ✅ | ✅ | ✅ | 支付宝、微信、银联 | 可刷公交 |
 | 长沙/ Changsha | 湘行一卡通 | 通卡 | | | ✅ | 微信、云闪付 | 可刷公交 |
-| 长沙/ Changsha | 我的长沙 | 市政府 | | | ✅  | ? | 可刷公交 |
+| 长沙/ Changsha | 我的长沙 | 政府 | | | ✅  | ? | 可刷公交 |
 | 宁波/ Ningbo | 宁波地铁 | 地铁 | ✅ | | ✅ | 银联 |
 | 无锡/ Wuxi | 码上行 | 地铁 | ✅ | | ✅ | 支付宝、微信、银联、苏宁 |
 | 青岛/ Qingdao | 青岛地铁 | 地铁 | ✅ |✅ | ✅ | 支付宝、微信、银联、云闪付 | 可刷公交 |
@@ -68,6 +71,7 @@
 | 南宁/ Nanning | 南宁轨道交通 | 地铁 | ✅ | | ✅ | 支付宝、银联 |
 | 合肥/ Hefei | 合肥轨道 | 地铁 | ✅ | ✅ | ✅ | 银联 |
 | 石家庄/ Shijiazhuang | 石家庄轨道交通 | 地铁 | ✅ | ✅ | ✅ | 银联 |
+| 石家庄/ Shijiazhuang | 石慧行 | 地铁、公交 |
 | 贵阳/ Guiyang | 贵阳地铁 | 地铁 | ✅ | | ✅ | 贵阳银行、贵州银行 | 刷脸过闸 |
 | 厦门/ Xiamen | 厦门地铁 | 地铁 | ✅ | ✅ | ✅ | 银联 |
 | 乌鲁木齐/ Urumqi | 乌鲁木齐地铁 | 地铁 | ✅ | ✅ | | 支付宝、银联 | 云卡 |
@@ -81,19 +85,22 @@
 | 太原/ Taiyuan | 听景 | 地铁 | | | ✅ | ? | 刷脸过闸 |
 | 洛阳/ Luoyang | 洛易行 | 地铁 | ✅ | ✅ | ✅ | 支付宝、微信、云闪付、银联 | 刷脸过闸 |
 | 洛阳/ Luoyang | 洛阳行 | 公交 | ✅ | | ✅ | 支付宝、微信 | |
-| 绍兴/ Shaoxing |
-| 芜湖/ Wuhu |
-| 佛山/ Foshan |
+| 绍兴/ Shaoxing | 绍兴地铁 | 地铁 |
+| 芜湖/ Wuhu | 芜湖轨道 | 地铁 |
+| 佛山/ Foshan | 佛山地铁 | 地铁 |
+| 金华/ Jinhua | 金轨智行 | 地铁 |
+| 南通/ Nantong | 南通地铁 | 通卡 |
+| 台州/ Taizhou | 台州轨道 | 地铁 |
 | 香港/ Hong Kong | 港铁MTR Mobile | 地铁 | ✅ |
 | 香港/ Hong Kong | 八达通 | 通卡 |
-| 香港/ Hong Kong |
-| 澳门/ Macao |
+| 澳门/ Macao | 澳门地图通 | 政府 |
 | 台北/ Taipei | 台北捷运Go | 地铁 | ✅ |
-| 高雄/ Kaohsiung |
+| 高雄/ Kaohsiung | 高捷通 | 地铁 | ✅ |
 | 桃园/ Taoyuan | i搭桃捷 | 地铁 | ✅ |
 | 桃园/ Taoyuan | 桃捷Tickets | 地铁 | | ✅ | ✅ | Visa、万事达、JCB、银联信用卡 |
-| 台中/ Taichung |
+| 台中/ Taichung | 台中捷运 | 地铁 |
 
+[^dt]: 地铁：此处“地铁”代指轨道交通运营公司
 
 ## 二维码集成/ ONE App Multi QR
 
