@@ -73,7 +73,7 @@
 | 3302 宁波·甬城通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | | |  | ✅ ||||||
 | 3306 绍兴一卡通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ❌ |  | ✅ |  |  |  | ✅ | ❌ |  |
 | 3307 金华市民卡（八婺通）<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/City Union.png" width="20" hegiht="20"> |  | ✅ |  |  |  |  | ✅ |  |  |
-| 3307 金华市民卡（八婺通）<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"><img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/City Union.png" width="20" hegiht="20"> | ✅💥 |  |  |  |  |  |  |  |  |
+| 3307 金华市民卡（八婺通）<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"><img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/City Union.png" width="20" hegiht="20"> | ✅💥 |  |  | ✅💥 |  |  |  |  |  |
 | 3310 台州公共交通卡<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"><img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/City Union.png" width="20" hegiht="20"> | ✅ | ✅ |  | ✅ | ✅ |  | ✅ | ✅ |  |
 | 3401 合肥通 | ✅ | ✅ |  |  | ✅ | ❌ | ✅ | ❌ |  |
 | 3401 合肥通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | ✅ | ⏳❌ |  | ✅ | ✅ | ✅ |  |
@@ -134,7 +134,7 @@
 | 81 香港·八达通 |  | ✅ |  | ✅[^hk2] | ✅[^hk] |  |  |  |  |
 | 8301 台北·悠游卡 |  |  |  | ✅[^yy] | ✅[^yy2] |  |  |  |  |
 |  | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/ZTE.png" width="30" hegiht="30" alt="ZTE"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/vivo.png" width="40" hegiht="40" alt="vivo"/> |  |
-|  | 59 | 68 | 29 | 32 | 43 | 15 | 61 | 58 |  |
+|  | 59 | 68 | 29 | 33 | 43 | 15 | 61 | 58 |  |
 
 [^tco]: 太仓：OPPO上线的“澳门回归纪念卡”实为CU标准的太仓市民卡
 [^nc]: 南昌：华为及OPPO可能需要通过App开通
