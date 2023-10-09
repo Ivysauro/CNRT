@@ -26,6 +26,7 @@
 | | 武汉天河/ Wuhan Tianhe/ WUH | 中南-武汉/ ZHHH | 天河机场/ Tianhe Airport/ TJN | 武汉局/ CR Wuhan-武孝城际线 |
 | | 广州白云/ Guangzhou Baiyun/ CAN | 中南-广州/ ZGGG | 白云机场北/ Baiyun Airport North/ BBA | 广东城际/ Guangdong Intercity-广州东环城际线 | 
 | | 深圳宝安/ Shenzhen Bao'an/ SZX | 中南-广州/ ZGSZ | 深圳机场/ Shenzhen Airport/ SCA | 广州局/ CR Guangzhou-穗深城际线 |
+| | 南宁吴圩/ Nanning Wuxu/ NNG | 中南-广州/ ZGNN | 吴圩机场/ Wuxu Airport | 南宁局/ CR Nanning-南崇城际线 |
 | | 揭阳潮汕/ Jieyang Chaoshan/ SWA | 中南-广州/ ZGOW | 揭阳机场/ Jieyangjichang/ JUA | 广州局/ CR Guangzhou-梅汕线 |
 | | 海口美兰/ Haikou Meilan/ HAK | 中南-三亚/ ZJHK | 美兰/ Meilan/ MHQ | 广州局/ CR Guangzhou-海南环岛线 |
 | | 三亚凤凰/ Sanya Phoenix/ SYX | 中南-三亚/ ZJSY | 凤凰机场/ Fenghuang-Jichang/ FJQ | 广州局/ CR Guangzhou-海南环岛线 |
@@ -50,9 +51,10 @@
 | | 长沙黄花/ Changsha Huanghua/ CSX | 中南-广州/ ZGHA | 🏗黄花机场/ Huanghua Airport | 广州局/ CR Guangzhou-🏗渝厦高速线 |
 | | 广州白云/ Guangzhou Baiyun/ CAN | 中南-广州/ ZGGG | 🏗白云机场/ Baiyun Airport | 广东城际-🏗珠三角城际广佛环线、穗深线 |
 | | 珠海金湾/ Zhuhai Jinwan/ ZUH | 中南-广州/ ZGSD | 🏗珠海机场/ Zhuhai Airport | 广州局/ CR Nanning-🏗珠机城际线 |
-| | 南宁吴圩/ Nanning Wuxu/ NNG | 中南-广州/ ZGNN | 🏗吴圩机场/ Wuxu Airport | 南宁局/ CR Nanning-🏗南崇城际线 |
 | | 成都天府/ Chengdu Tianfu/ TFU | 西南-成都/ ZUTF | 🏗天府机场/ Tianfu Airport | 成都局/ CR Chengdu-🏗成自泸城际线 |
 | | 昆明长水/ Kunming Changshui/ KMG | 西南-昆明/ ZPPP | 🏗长水机场/ Changshui Airport | 昆明局/ CR Kunming-🏗渝昆高速线 |
+
+下表收录可能不全/ The sheet below maybe incomplete
 
 | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Airport.png" width="15" hegiht="15" alt="Airport"/>机场/ Airport | 空管信息/ ICAO Info | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>火车站/ Railway Station | 铁路信息/ Railway Info |
 | :-: | :- | :- | :- | :- |
@@ -78,6 +80,8 @@
 | 🚕~10km | 怀化芷江/ Huaihua Zhijiang/ HJJ | 中南-广州/ ZGCJ | 芷江/ Zhijiang/ ZPQ | 广州局/ CR Guangzhou-沪昆高速线 |
 
 ## 广义空铁联运/ Broad Sense Air-Rail
+
+本表更新不及时/ This sheet maybe outdated
 
 | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Airport.png" width="15" hegiht="15" alt="Airport"/>机场/ Airport | 空管信息/ ICAO Info | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="15" hegiht="15" alt="China Railway"/>车站/ Rail Station | 已开通线路信息/ Rail Info Now |
 | :-: | :- | :- | :- | :- |
