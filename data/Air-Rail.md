@@ -20,13 +20,13 @@
 | | 上海虹桥/ Shanghai Hongqiao/ SHA | 华东-上海/ ZSSS | 上海虹桥/ Shanghai-Hongqiao/ AOH | 上海局/ CR Shanghai-京沪高速线、沪昆高速线、沪宁城际线 |
 | 🚌1.5km | 徐州观音/ Xuzhou Guanyin/ XUZ | 华东-上海/ ZSXZ | 观音机场/ Guanyin Airport/ GCU | 上海局/ CR Shanghai-徐盐城际线 |
 | | 阜阳西关/ Fuyang Xiguan/ FUG | 华东-上海/ ZSFY | 阜阳西/ Fuyangxi/ FXU | 上海局/ CR Shanghai-京港高速线、郑阜高速线 |
-| | 青岛胶东/ Qingdao Jiaodong/ TAO | 华东-上海/ ZSQD | 青岛机场/ Qingdaojichang | 济南局/ CR Jinan-济青高速线、胶济客专线 |
+| | 青岛胶东/ Qingdao Jiaodong/ TAO | 华东-上海/ ZSQD | 青岛机场/ Qingdao Airport/ QJK | 济南局/ CR Jinan-济青高速线 |
 | 🚌~10km | 台北桃园/ Taipei Taoyuan/ TPE | 华东-台北/ RCTP | 桃园/ Taoyuan/ TAY | 台铁/ TRA-台湾高速线 |
 | | 郑州新郑/ Zhengzhou Xinzheng/ CGO | 中南-武汉/ ZHCC | 新郑机场/ Xinzheng Airport/ EZF | 郑州局/ CR Zhengzhou-郑机城际线 |
 | | 武汉天河/ Wuhan Tianhe/ WUH | 中南-武汉/ ZHHH | 天河机场/ Tianhe Airport/ TJN | 武汉局/ CR Wuhan-武孝城际线 |
 | | 广州白云/ Guangzhou Baiyun/ CAN | 中南-广州/ ZGGG | 白云机场北/ Baiyun Airport North/ BBA | 广东城际/ Guangdong Intercity-广州东环城际线 | 
 | | 深圳宝安/ Shenzhen Bao'an/ SZX | 中南-广州/ ZGSZ | 深圳机场/ Shenzhen Airport/ SCA | 广州局/ CR Guangzhou-穗深城际线 |
-| | 南宁吴圩/ Nanning Wuxu/ NNG | 中南-广州/ ZGNN | 吴圩机场/ Wuxu Airport | 南宁局/ CR Nanning-南崇城际线 |
+| | 南宁吴圩/ Nanning Wuxu/ NNG | 中南-广州/ ZGNN | 吴圩机场/ Wuxu Airport/ WJZ | 南宁局/ CR Nanning-南崇城际线 |
 | | 揭阳潮汕/ Jieyang Chaoshan/ SWA | 中南-广州/ ZGOW | 揭阳机场/ Jieyangjichang/ JUA | 广州局/ CR Guangzhou-梅汕线 |
 | | 海口美兰/ Haikou Meilan/ HAK | 中南-三亚/ ZJHK | 美兰/ Meilan/ MHQ | 广州局/ CR Guangzhou-海南环岛线 |
 | | 三亚凤凰/ Sanya Phoenix/ SYX | 中南-三亚/ ZJSY | 凤凰机场/ Fenghuang-Jichang/ FJQ | 广州局/ CR Guangzhou-海南环岛线 |
