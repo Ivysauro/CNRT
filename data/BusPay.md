@@ -4,7 +4,9 @@
 
 ## 说明/ NOTICE
 
-❗ 由于信息来源复杂，可能存在很多错漏，乘车前请备好零钱/ There may be many mistakes, please PREPARE CASH in case🤔
+❗由于信息来源复杂，可能存在很多错漏，乘车前请备好零钱/ There may be many mistakes, please PREPARE CASH in case🤔
+
+❗此表长期未更新，仅供参考/ This table has not been updated for a looooooong time ,so it is for reference only
 
 仅统计全国地级以上城市/ Only counts Prefecture-level Cities and above
 
@@ -12,7 +14,7 @@
 
 包括由公交集团运营的有轨电车/ Including Tram Line Operated by Bus Groups
 
-对于卡名称不明的卡片，交通联合卡命名为“xx交通一卡通”，非交通联合卡命名为“xx公交卡”
+对于卡名称不明的卡片，交通联合卡暂命名为“xx交通一卡通”，非交通联合卡暂命名为“xx公交卡”
 
 ## 图例/ Legend
 
@@ -39,7 +41,7 @@
 
 ## 拼音相同的地级市/ Cities of Same Pinyin Name
 
-| 省份/ Province | 城市中文名/ Chinese Name | 城市拼音/ Pinyin Name | [国语罗马字](https://zh.wikipedia.org/zh-hans/%E5%9C%8B%E8%AA%9E%E7%BE%85%E9%A6%AC%E5%AD%97)/ [Gwoyeu Romatzyh](https://simple.wikipedia.org/wiki/Gwoyeu_Romatzyh) | 本文处理方式/ Disposal Method of THIS TABLE | 
+| 省份/ Province | 城市中文名/ Chinese Name | 城市拼音/ Pinyin Name | [国语罗马字](https://zh.wikipedia.org/zh-hans/%E5%9C%8B%E8%AA%9E%E7%BE%85%E9%A6%AC%E5%AD%97)/ [Gwoyeu Romatzyh](https://simple.wikipedia.org/wiki/Gwoyeu_Romatzyh) | 本表使用名称/ Name used in THIS TABLE | 
 | :- | :- | :- | :- | :- |
 | 福建/ Fujian | 福州 | Fuzhou/ Fúzhōu  | Fwuzhou/ Fwujou | Fuzhou |
 | 江西/ Jiangxi | 抚州 | Fuzhou/ Fǔzhōu | Fuuzhou/ Fuujou | Fuzhou, Jiangxi |
