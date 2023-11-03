@@ -659,6 +659,16 @@
 #### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nc.gif" width="20" hegiht="20"/>南昌
 - 振兴大道→复兴大道东（3号线，2023.3）
 
+#### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hf.gif" width="20" hegiht="20"/>合肥
+- 安医大四附院→安医附院北区（4号线，2023.8）
+
+#### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hhht.gif" width="20" hegiht="20"/>呼和浩特
+- 白塔西→白塔西（国际航站楼）（1号线，2023.10）
+- 坝堰（机场）→坝堰（机场）（国内航站楼）（1号线，2023.10）
+- 呼钢东路→呼钢南路（1号线，2023.11）
+- 新城图书馆→北山公园（2号线，2023.11）
+- 东二环路→丝绸之路大道（2号线，2023.11）
+
 ### 更名（线路）
 
 仅统计运营期间更名的情况
