@@ -248,7 +248,7 @@
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cs.gif" width="20" hegiht="20"/>4301 长沙/ Changsha | ⭕ | ⭕ | ✅ | ✅ | ✅ | 80 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nb.gif" width="20" hegiht="20"/>3302 宁波/ Ningbo | ✅- | ✅- | ✅ | ✅ | ⭕ | 80 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wx.gif" width="20" hegiht="20"/>3202 无锡/ Wuxi | ✅ | ❌ | ✅ | ✅ | ⭕ | 70 |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/qd.gif" width="20" hegiht="20"/>3702 青岛/ Qingdao | ⭕ | ⭕ | ❌ | ✅ | ⭕ | 50 |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/qd.gif" width="20" hegiht="20"/>3702 青岛/ Qingdao | ⭕ | ⭕ | ❌ | ✅ | ✅- | 55 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nc.gif" width="20" hegiht="20"/>3601 南昌/ Nanchang | ✅- | ✅ | ✅- | ✅ | ⭕- | 75 |
 | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="25" hegiht="25" alt="Alipay"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="20" hegiht="20" alt="WeChat Pay"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="25" hegiht="25" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/NFC.png" width="25" hegiht="25" alt="NFC Local Card"/> | 得分/ Score |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/fz.gif" width="20" hegiht="20"/>3501 福州/ Fuzhou | ✅ | ⭕ | ✅ | ✅ | ⭕- | 75 |
