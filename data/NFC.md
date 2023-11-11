@@ -89,7 +89,7 @@
 | 3601 南昌·洪城通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> |  |  |  | ✅ ||||||
 | 3607 赣州通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ |  |  |  |  | ✅ | ✅ |  |
 | 3701 济南·泉城通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ |  | ✅ | ✅ | | ✅ | ✅ |  |
-| 3702 青岛·琴岛通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | ✅ | ⏳ | ✅ |  | ✅ | ✅ |  |
+| 3702 青岛·琴岛通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | ✅ | ✅💥 | ✅ |  | ✅ | ✅ |  |
 | 3703 淄博·齐达通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | | ✅ ||||||||
 | 3706 烟台市民卡<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> |  | ✅ |  |  |  |  | ✅ |  |  |
 | 3707 潍坊通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> |  | ✅ |  |  |  |  | ✅ |  |  |
