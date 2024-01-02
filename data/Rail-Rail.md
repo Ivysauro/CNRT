@@ -100,6 +100,7 @@
 |  | 广州/ Guangzhou | 花都/ Huadu/ HAA | 广东城际/ Guangdong Intercity | 广州北站/ Guangzhou North RS |
 |  | 广州/ Guangzhou | 广州东/ Guangzhoudong/ GGQ | 广州局/ CR Guangzhou | 广州东站/ Guangzhou East RS |
 |  | 广州/ Guangzhou | 广州南/ Guangzhounan/ IZQ | 广州局/ CR Guangzhou | 广州南站/ Guangzhou South RS |
+|  | 广州/ Guangzhou | 广州白云/ Guangzhoubaiyun/ GBA | 广州局/ CR Guangzhou | 石潭/ Shitan |
 |  | 广州/ Guangzhou | 庆盛/ Qingsheng/ QSQ | 广州局/ CR Guangzhou | 庆盛/ Qingsheng |
 |  | 广州/ Guangzhou | 顺德学院/ Shunde College/ OJQ | 广州局/ CR Guangzhou | 顺德学院/ Shunde College RS |
 |  | 广州/ Guangzhou | 新塘南/ Xintangnan/ NUQ | 广州局/ CR Guangzhou | 新塘/ Xintang |
