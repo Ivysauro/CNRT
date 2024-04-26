@@ -25,6 +25,8 @@
 
 ### 上海/ Shanghai
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>上海/ Shanghai/ SHH→<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海火车站/ Shanghai Railway Station（**仅1号线**，超大客流期间可能会关闭/ **Only to Line 1**, and may be closed during extra busy days）
+- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>上海/ Shanghai/ SHH→<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海火车站/ Shanghai Railway Station（3、4号线/ Line 3&4）
+- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>上海南/ Shanghainan/ SNH→<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海南站/ Shanghai South Railway Station （金山铁路免安检换乘地铁仅限工作日早高峰）
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>上海虹桥/ Shanghai-Hongqiao/ AOH→<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>虹桥火车站/ Hongqiao Railway Station
 
 ### 广州/ Guangzhou
