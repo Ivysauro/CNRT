@@ -382,6 +382,7 @@
 - 板桥、新埔/新埔民生（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tp.gif" width="20" hegiht="20"/>台北，环状线、板南线，**单程票有效**）
 - 观音桥（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cq.gif" width="20" hegiht="20"/>重庆，3号线、9号线）
 - 谢家湾（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cq.gif" width="20" hegiht="20"/>重庆，2号线、环线）
+- 竹山路（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nj.gif" width="20" hegiht="20"/>南京，1号线、5号线）
 - 火车东站/火车东站（东广场）（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hz.gif" width="20" hegiht="20"/>杭州，1/4号线、6/19号线）
 - ~~大葆台/新宫~~（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，房山线、大兴线）
 - ~~长清路~~（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，7号线、13号线）
