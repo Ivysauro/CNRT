@@ -139,7 +139,7 @@
 
 [^mo]: 澳门：除交通卡外，其他非现金支付方式仅柜台购票支持/ Macao: Only buying tickets at the counter accepted Non-cash payment methods, but Transit Card can be used on TVM
 
-## 购票/ Tickets
+## 购票（自动售票机）/ Tickets (TVM, ticket vending machine)
 
 | 城市/ City | 💴🪙 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/eCNY.png" width="20" hegiht="20" alt="E-CNY"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="25" hegiht="25" alt="Alipay"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="20" hegiht="20" alt="WeChat Pay"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay QR.png" width="40" hegiht="40" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay NFC.png" width="35" hegiht="35" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/contactless.gif" width="25" hegiht="25" alt="Global Cards"/> | 💳 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="20" hegiht="20" alt="Transit Apps"/> |
 | - | - | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
