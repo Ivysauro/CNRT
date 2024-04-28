@@ -1,5 +1,7 @@
 # 安检互认/ Security Check Recognition
 
+`换乘地铁免安检`
+
 ## 双向互认/ Mutual Recognition↔️
 
 ### 北京/ Beijing
@@ -25,10 +27,10 @@
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>天津南/ Tianjinnan/ TIP➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tj.gif" width="20" hegiht="20"/>南站/ NANZHAN
 
 ### 上海/ Shanghai
-- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>上海/ Shanghai/ SHH➡️⏱️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海火车站/ Shanghai Railway Station（**1号线**，仅9点至17点开启，超大客流期间可能会关闭/ **Line 1**, opens during 9am to 5pm and may be closed during extra busy days）
-- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>上海/ Shanghai/ SHH➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海火车站/ Shanghai Railway Station（**3、4号线/ Line 3&4**）
-- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>上海南/ Shanghainan/ SNH➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海南站/ Shanghai South Railway Station （⏱️金山铁路免安检换乘地铁仅限工作日早高峰）
-- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>上海虹桥/ Shanghaihongqiao/ AOH➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>虹桥火车站/ Hongqiao Railway Station
+- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>上海/ Shanghai/ SHH➡️⏱️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海火车站（**1号线**）/ Shanghai Railway Station (**Line 1**)（1号线免安检换乘通道仅9点至17点开启，春运和节假日客流高峰期会关闭/ Fast-Transfer tunnel to Line 1 only opens during 9am to 5pm, and closes during travel rush days）
+- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>上海/ Shanghai/ SHH➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海火车站（**3、4号线**）/ Shanghai Railway Station (**Line 3&4**)
+- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>上海南/ Shanghainan/ SNH➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海南站/ Shanghai South Railway Station （⏱️金山铁路免安检换乘地铁仅限工作日早高峰/ Fast-Transfer tunnel from Jinshan Railway to Metro Station only opens during weekday morning peak hours）
+- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>上海虹桥/ Shanghaihongqiao/ AOH➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>虹桥火车站/ Hongqiao Railway Station（⚠️地铁「虹桥2号航站楼」站不能免安检换乘/ "Hongqiao Airport Terminal 2" Metro Station DONOT have Fast-Transfer tunnel）
 
 ### 广州/ Guangzhou
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>广州/ Guangzhou/ GZQ➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州火车站/ Guangzhou Railway Station
@@ -64,7 +66,7 @@
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>苏州/ Suzhou/ SZH➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/suz.gif" width="20" hegiht="20"/>苏州火车站/ Suzhou Railway Station
 
 ### 杭州/ Hangzhou
-- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>杭州东/ Hangzhoudong/ HGH➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hz.gif" width="20" hegiht="20"/>火车东站/ East Railway Station
+- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>杭州东/ Hangzhoudong/ HGH➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hz.gif" width="20" hegiht="20"/>火车东站/ East Railway Station（⚠️地铁「火车东站（东广场）」站不能免安检换乘/ "East Railway Station (East Square)" Metro Station DONOT have Fast-Transfer tunnel）
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>杭州南/ Hangzhounan/ XHH➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hz.gif" width="20" hegiht="20"/>火车南站/ South Railway Station
 
 ### 郑州/ Zhengzhou
@@ -72,7 +74,7 @@
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>郑州东/ Zhengzhoudong/ ZAF➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/zz.gif" width="20" hegiht="20"/>郑州东站/ ZHENGZHOU EAST RAILWAY STATION
 
 ### 长沙/ Changsha
-- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>长沙/ Changsha/ CSQ➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cs.gif" width="20" hegiht="20"/>锦泰广场/ Jintai Square
+- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>长沙/ Changsha/ CSQ➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cs.gif" width="20" hegiht="20"/>锦泰广场/ Jintai Square（⚠️地铁「长沙火车站」站不能免安检换乘/ "Railway Station" Metro Station DONOT have Fast-Transfer tunnel）
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>长沙南/ Changshanan/ CWQ➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cs.gif" width="20" hegiht="20"/>长沙火车南站/ South Railway Station
 
 ### 无锡/ Wuxi
@@ -83,14 +85,14 @@
 
 ### 南昌/ Nanchang
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>南昌/ Nanchang/ NCG➡️📅<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nc.gif" width="20" hegiht="20"/>南昌火车站/ Nanchang Railway Staiton（**仅限春运期间/ Only opens during the Spring Festival travel rush**）
-- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>南昌西/ Nanchangxi/ NXG➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nc.gif" width="20" hegiht="20"/>南昌西站/ Nanchang West Railway Staiton
+- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>南昌西/ Nanchangxi/ NXG➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nc.gif" width="20" hegiht="20"/>南昌西站/ Nanchang West Railway Staiton（⚠️地铁「西站南广场」站不能免安检换乘/ "South Square of West Railway Station" Metro Station DONOT have Fast-Transfer tunnel）
 
 ### 福州/ Fuzhou
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>福州南/ Fuzhounan/ FYS➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/fz.gif" width="20" hegiht="20"/>福州火车南站/ Fuzhou South Railway Station
 
 ### 合肥/ Hefei
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>合肥/ Hefei/ HFH➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hf.gif" width="20" hegiht="20"/>合肥火车站/ Hefei Railway Station
-- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>合肥南/ Hefeinan/ ENH➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hf.gif" width="20" hegiht="20"/>合肥南站/ Hefeinan Railway Station
+- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>合肥南/ Hefeinan/ ENH➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hf.gif" width="20" hegiht="20"/>合肥南站/ Hefeinan Railway Station（⚠️地铁「南站南广场」站不能免安检换乘/ "Nanzhan Nanguangchang" Metro Station DONOT have Fast-Transfer tunnel）
 
 ### 贵阳/ Guiyang
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>贵阳北/ Guiyangbei/ KQW➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gy.gif" width="20" hegiht="20"/>贵阳北站/ Guiyangbei Railway Station
