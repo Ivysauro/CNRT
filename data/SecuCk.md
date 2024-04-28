@@ -57,6 +57,7 @@
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>成都南/ Chengdunan/ CNW➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cd.gif" width="20" hegiht="20"/>火车南站/ South Railway Station
 
 ### 西安/ Xi'an
+- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>西安/ Xi'an/ XAY➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xa.gif" width="20" hegiht="20"/>西安站/ XI'ANZHAN
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>西安北/ Xi'anbei/ EAY➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xa.gif" width="20" hegiht="20"/>西安北站/ XI'ANBEIZHAN
 
 ### 苏州/ Suzhou
@@ -71,10 +72,14 @@
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>郑州东/ Zhengzhoudong/ ZAF➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/zz.gif" width="20" hegiht="20"/>郑州东站/ ZHENGZHOU EAST RAILWAY STATION
 
 ### 长沙/ Changsha
+- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>长沙/ Changsha/ CSQ➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cs.gif" width="20" hegiht="20"/>锦泰广场/ Jintai Square
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>长沙南/ Changshanan/ CWQ➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cs.gif" width="20" hegiht="20"/>长沙火车南站/ South Railway Station
 
 ### 无锡/ Wuxi
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>无锡/ Wuxi/ WXH➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wx.gif" width="20" hegiht="20"/>无锡火车站/ Wuxi Railway Station
+
+### 青岛/ Qingdao
+- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>青岛机场/ Qingdao Airport/ QJK➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/qd.gif" width="20" hegiht="20"/>胶东机场/ Jiaodong International Airport
 
 ### 南昌/ Nanchang
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>南昌/ Nanchang/ NCG➡️📅<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nc.gif" width="20" hegiht="20"/>南昌火车站/ Nanchang Railway Staiton（**仅限春运期间/ Only opens during the Spring Festival travel rush**）
@@ -96,7 +101,10 @@
 
 ## 改造中或有计划改造/ In Process OR On Plan⏳
 
-- 北京/ Beijing：<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>北京北/ Beijingbei/ VAP➡️⏳<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>西直门/ XIZHIMEN
+- 北京/ Beijing：<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>北京/ Beijing/ BJP➡️⏳<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京站/ Beijing Railway Station
+- 北京/ Beijing：<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>北京北/ Beijingbei/ VAP➡️⏳<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>西直门/ Xizhimen
 - 北京/ Beijing：<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>北京南/ Beijingnan/ VNP↔️⏳<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京南站/ Beijing South Railway Station
 - 北京/ Beijing：<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>北京丰台/ Beijingfengtai/ FTP↔️⏳<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>丰台站/ Fengtai Railway Station
 - 南京/ Nanjing：<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Airport.png" width="20" hegiht="20" alt="Airport"/>南京禄口/ Nanjing Lukou/ NKG➡️⏳<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nj.gif" width="20" hegiht="20"/>禄口机场/ LUKOU INTERNATIONAL AIRPORT
+- 南宁/ Nanning：<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>南宁东/ Nanningdong/ NFZ➡️⏳<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nn.gif" width="20" hegiht="20"/>火车东站/ Nanning East Railway Station
+- 洛阳/ Luoyang：<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>洛阳/ Luoyang/ LYF➡️⏳<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/ly.gif" width="20" hegiht="20"/>洛阳火车站/ Luoyang Railway Station
