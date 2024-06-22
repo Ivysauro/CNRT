@@ -63,7 +63,7 @@
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sy.gif" width="20" hegiht="20"/>2101 沈阳/ Shenyang | 2010 | ✅ | ✅ | ✅ | ✅ | ✅ | | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cd.gif" width="20" hegiht="20"/>5101 成都/ Chengdu | 2010 | ✅ | | ✅ | ✅ | ✅ | | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xa.gif" width="20" hegiht="20"/>6101 西安/ Xi'an | 2011 | ✅ | | ✅ | ✅ | ✅ | | ✅ | |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/suz.gif" width="20" hegiht="20"/>3205 苏州/ Suzhou | 2012 | ✅ | ✅ | ⭕[^suz] | ⭕[^suz2] | |  |✅ | |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/suz.gif" width="20" hegiht="20"/>3205 苏州/ Suzhou | 2012 | ✅ | ✅ | ⭕[^suz] | ✅ | |  | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/km.gif" width="20" hegiht="20"/>5301 昆明/ Kunming | 2012 | ✅ | ✅ | ✅ | ✅ | ✅ |  |✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hz.gif" width="20" hegiht="20"/>3301 杭州/ Hangzhou | 2012 | ✅ | ✅ | ✅ | ✅ | ✅ |  |✅ | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/eCNY.png" width="20" hegiht="20" alt="E-CNY"/> |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hrb.gif" width="20" hegiht="20"/>2301 哈尔滨/ Harbin | 2013 | ✅ | ⭕[^hrb] | ✅ | ✅ | ✅ | | ✅ | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/DiDi.png" width="20" hegiht="20" alt="DiDi"/> |
@@ -85,7 +85,7 @@
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wz.gif" width="20" hegiht="20"/>3303 温州/ Wenzhou | 2019 | ✅💥 | ✅ | ✅ | | ✅💥 | | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/jn.gif" width="20" hegiht="20"/>3701 济南/ Jinan | 2019 | ✅ | ✅ | ✅💥 | ✅💥 | | | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/lz.gif" width="20" hegiht="20"/>6201 兰州/ Lanzhou | 2019 | ✅ | ⭕[^lz] | ✅ | ✅ | | | ✅ | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/BestPay.png" width="20" hegiht="20" alt="BestPay"/> |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cz.gif" width="20" hegiht="20"/>3204 常州/ Changzhou | 2019 | ✅ | ✅ | | | | | ✅ |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cz.gif" width="20" hegiht="20"/>3204 常州/ Changzhou | 2019 | ✅ | ✅ | ✅💥 | ✅💥 | | | ✅ |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xz.gif" width="20" hegiht="20"/>3203 徐州/ Xuzhou | 2019 | ✅ | ✅ | ✅💥 | | ✅ | | ✅ |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hhht.gif" width="20" hegiht="20"/>1501 呼和浩特/ Hohhot | 2019 | ⏳ | ✅ | | | ✅ | | ✅ |
 | | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="25" hegiht="25" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay NFC.png" width="35" hegiht="35" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="25" hegiht="25" alt="Alipay"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="20" hegiht="20" alt="WeChat Pay"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="20" hegiht="20" alt="Unionpay App"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/contactless.gif" width="25" hegiht="25" alt="Global Cards"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="20" hegiht="20" alt="Transit Apps"/> | |
@@ -118,8 +118,6 @@
 [^can]: 广州：云闪付乘车码入口为“佛山地铁乘车码”/ Guangzhou: Use Foshan Metro Transit QR in Unionpay App for Guangzhou Metro
 
 [^suz]: 苏州：原支付宝乘车码已下线，现仅支持支付宝小程序“苏e行”购票后扫码过闸/ Suzhou: Only support buying tickets on Official Alipay Mini-Program before passing gates
-
-[^suz2]: 苏州：支持第三方微信小程序“城市通”扫码过闸，及官方微信小程序“苏e行”购票后扫码过闸/ Suzhou: Support passing gates by Third-Party WeChat Mini-Program, or passing gates after buying tickets on Official WeChat Mini-Program
 
 [^hrb]: 哈尔滨：银联闪付仅支持工行、交行、广发、浦发、邮储借记卡及信用卡和招商银行借记卡/ Harbin: Only CMB debit card and debit or credit cards by ICBC, COM, CGB, SPDB, CPG accepted in Quickpass
 
@@ -268,7 +266,7 @@
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wz.gif" width="20" hegiht="20"/>3303 温州/ Wenzhou | ✅ | ⭕ | ✅ | ✅ | ❌ | 70 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/jn.gif" width="20" hegiht="20"/>3701 济南/ Jinan | ✅ | ✅ | ✅ | ✅ | ⭕- | 85 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/lz.gif" width="20" hegiht="20"/>6201 兰州/ Lanzhou | ✅ | ✅ | ✅- | ✅ | ⭕- | 80 |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cz.gif" width="20" hegiht="20"/>3204 常州/ Changzhou | ⭕ | ⭕ | ✅ | ✅ | ⭕ | 70 |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cz.gif" width="20" hegiht="20"/>3204 常州/ Changzhou | ✅ | ✅ | ✅ | ✅ | ⭕ | 90 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xz.gif" width="20" hegiht="20"/>3203 徐州/ Xuzhou | ✅- | ❌ | ✅- | ✅ | ⭕ | 60 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hhht.gif" width="20" hegiht="20"/>1501 呼和浩特/ Hohhot | ⭕ | ⭕ | ✅- | ❌ | ❌ | 35 |
 | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="25" hegiht="25" alt="Alipay"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="20" hegiht="20" alt="WeChat Pay"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/China Unionpay.png" width="30" hegiht="30" alt="Unionpay"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="25" hegiht="25" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/NFC.png" width="25" hegiht="25" alt="NFC Local Card"/> | 得分/ Score |
