@@ -117,7 +117,7 @@
 
 [^can]: 广州：云闪付乘车码入口为“佛山地铁乘车码”/ Guangzhou: Use Foshan Metro Transit QR in Unionpay App for Guangzhou Metro
 
-[^suz]: 苏州：地铁开通初期的旧版支付宝乘车码已下线，新版于2024年6月重新上线/ Suzhou: New Alipay Transit QR Launched on Jane 2024
+[^suz]: 苏州：地铁开通初期的旧版支付宝乘车码已下线，新版于2024年6月重新上线/ Suzhou: New Alipay Transit QR Launched on June 2024
 
 [^hrb]: 哈尔滨：银联闪付仅支持工行、交行、广发、浦发、邮储借记卡及信用卡和招商银行借记卡/ Harbin: Only CMB debit card and debit or credit cards by ICBC, COM, CGB, SPDB, CPG accepted in Quickpass
 
