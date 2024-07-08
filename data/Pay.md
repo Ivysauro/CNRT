@@ -51,7 +51,7 @@
 | --  | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>1100 北京/ Beijing | 1971 | ⭕[^bj] | ✅ | ✅ | | ✅ | | ✅ | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/12306.png" width="20" hegiht="20" alt="12306 App"/> <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/DiDi.png" width="20" hegiht="20" alt="DiDi"/> |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tj.gif" width="20" hegiht="20"/>1200 天津/ Tianjin | 1976 | ✅ | ✅ | | | | | ✅ | |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>3100 上海/ Shanghai | 1993 | ✅[^sh1] | ⭕[^sh2] | ✅ | ✅ | ✅ | | ✅ | |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>3100 上海/ Shanghai | 1993 | ✅[^sh1] | ⭕[^sh2] | ✅ | ✅ | ✅ | | ✅ | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/eCNY.png" width="20" hegiht="20" alt="E-CNY"/> |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>4401 广州/ Guangzhou | 1997 | ✅ | ⭕[^gz] | ✅ | ✅ | ✅[^can] || ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cc.gif" width="20" hegiht="20"/>2201 长春/ Changchun | 2002 | ✅ | ✅ | ✅ | ✅ | ✅ | | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/dl.gif" width="20" hegiht="20"/>2102 大连/ Dalian | 2003 | ✅ | ✅ | | | ✅ | | ✅ | |
@@ -63,9 +63,9 @@
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sy.gif" width="20" hegiht="20"/>2101 沈阳/ Shenyang | 2010 | ✅ | ✅ | ✅ | ✅ | ✅ | | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cd.gif" width="20" hegiht="20"/>5101 成都/ Chengdu | 2010 | ✅ | | ✅ | ✅ | ✅ | | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xa.gif" width="20" hegiht="20"/>6101 西安/ Xi'an | 2011 | ✅ | | ✅ | ✅ | ✅ | | ✅ | |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/suz.gif" width="20" hegiht="20"/>3205 苏州/ Suzhou | 2012 | ✅ | ✅ | ⭕[^suz] | ✅ | |  | ✅ | |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/km.gif" width="20" hegiht="20"/>5301 昆明/ Kunming | 2012 | ✅ | ✅ | ✅ | ✅ | ✅ |  |✅ | |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hz.gif" width="20" hegiht="20"/>3301 杭州/ Hangzhou | 2012 | ✅ | ✅ | ✅ | ✅ | ✅ |  |✅ | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/eCNY.png" width="20" hegiht="20" alt="E-CNY"/> |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/suz.gif" width="20" hegiht="20"/>3205 苏州/ Suzhou | 2012 | ✅ | ✅ | ✅💥[^suz] | ✅ | |  | ✅ | |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/km.gif" width="20" hegiht="20"/>5301 昆明/ Kunming | 2012 | ✅ | ✅ | ✅ | ✅ | ✅ |  | ✅ | |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hz.gif" width="20" hegiht="20"/>3301 杭州/ Hangzhou | 2012 | ✅ | ✅ | ✅ | ✅ | ✅ |  | ✅ | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/eCNY.png" width="20" hegiht="20" alt="E-CNY"/> |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hrb.gif" width="20" hegiht="20"/>2301 哈尔滨/ Harbin | 2013 | ✅ | ⭕[^hrb] | ✅ | ✅ | ✅ | | ✅ | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/DiDi.png" width="20" hegiht="20" alt="DiDi"/> |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/zz.gif" width="20" hegiht="20"/>4101 郑州/ Zhengzhou | 2013 | ✅ | | ✅ | ✅ | ✅ | | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cs.gif" width="20" hegiht="20"/>4301 长沙/ Changsha | 2014 | ✅ | | ✅💥 | | ✅ | | ✅ | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CMPay.png" width="20" hegiht="20" alt="CMPay"/> |
@@ -117,7 +117,7 @@
 
 [^can]: 广州：云闪付乘车码入口为“佛山地铁乘车码”/ Guangzhou: Use Foshan Metro Transit QR in Unionpay App for Guangzhou Metro
 
-[^suz]: 苏州：原支付宝乘车码已下线，现仅支持支付宝小程序“苏e行”购票后扫码过闸/ Suzhou: Only support buying tickets on Official Alipay Mini-Program before passing gates
+[^suz]: 苏州：地铁开通初期的旧版支付宝乘车码已下线，新版于2024年6月重新上线/ Suzhou: New Alipay Transit QR Launched on Jane 2024
 
 [^hrb]: 哈尔滨：银联闪付仅支持工行、交行、广发、浦发、邮储借记卡及信用卡和招商银行借记卡/ Harbin: Only CMB debit card and debit or credit cards by ICBC, COM, CGB, SPDB, CPG accepted in Quickpass
 
@@ -244,7 +244,7 @@
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sy.gif" width="20" hegiht="20"/>2101 沈阳/ Shenyang | ✅ | ✅ | ✅ | ✅ | ⭕ | 90 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cd.gif" width="20" hegiht="20"/>5101 成都/ Chengdu | ✅ | ✅ | ✅- | ✅ | ⭕ | 85 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xa.gif" width="20" hegiht="20"/>6101 西安/ Xi'an | ✅ | ✅ | ✅- | ✅ | ✅ | 95 |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/suz.gif" width="20" hegiht="20"/>3205 苏州/ Suzhou | ✅- | ✅- | ✅- | ✅ | ✅ | 85 |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/suz.gif" width="20" hegiht="20"/>3205 苏州/ Suzhou | ✅ | ✅ | ✅- | ✅ | ✅ | 95 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/km.gif" width="20" hegiht="20"/>5301 昆明/ Kunming | ✅ | ✅ | ✅ | ✅ | ❌ | 80 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hz.gif" width="20" hegiht="20"/>3301 杭州/ Hangzhou | ✅ | ✅ | ✅ | ✅ | ⭕- | 85 |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hrb.gif" width="20" hegiht="20"/>1301 哈尔滨/ Harbin | ✅ | ✅ | ✅- | ✅ | ⭕ | 85 |
