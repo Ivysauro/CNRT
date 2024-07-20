@@ -420,13 +420,14 @@
 - 华北集团（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tj.gif" width="20" hegiht="20"/>天津，3号线）
 - 西南楼（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tj.gif" width="20" hegiht="20"/>天津，5号线）
 - 水上公园东路（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tj.gif" width="20" hegiht="20"/>天津，6号线）
-- 外环路、莲花路、锦江乐园（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，1号线）
+- 外环路、锦江乐园（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，1号线）
 - 创新中路、华夏东路、川沙、凌空路（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，2号线）
 - 石龙路（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，3号线）
 - 三鲁公路、闵瑞路、浦航路、东城一路（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，浦江线）
 - 坑口（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州，1号线）
 - 机场南（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州，3号线）
 - ~~古城~~（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，1号线）
+- ~~莲花路~~（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海，1号线）
 
 ##### 终点站
 - 草桥（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京，大兴机场线）
