@@ -4,7 +4,7 @@
 
 ## 双向互认/ Mutual Recognition↔️
 
-注：天津站、犀浦站双向互认因疫情期间进行调整，目前仅为单向认可。
+注：犀浦站双向互认因疫情期间进行调整，目前仅为单向认可。
 
 ### 北京/ Beijing
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>北京西/ Beijingxi/ BXP↔️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京西站/ Beijing West Railway Station
@@ -70,6 +70,7 @@
 
 ### 杭州/ Hangzhou
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>杭州东/ Hangzhoudong/ HGH➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hz.gif" width="20" hegiht="20"/>火车东站/ East Railway Station（⚠️地铁「火车东站（东广场）」站不能免安检换乘/ "East Railway Station (East Square)" Metro Station DONOT have Fast-Transfer tunnel）
+- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>杭州西/ Hangzhouxi/ HVU➡️⏳<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hz.gif" width="20" hegiht="20"/>火车西站/ West Railway Station
 
 ### 郑州/ Zhengzhou
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>郑州/ Zhengzhou/ ZZF➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/zz.gif" width="20" hegiht="20"/>郑州火车站/ ZHENGZHOU RAILWAY STATION
@@ -114,6 +115,5 @@
 - 北京/ Beijing：<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>北京丰台/ Beijingfengtai/ FTP↔️⏳<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>丰台站/ Fengtai Railway Station
 - 南京/ Nanjing：<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Airport.png" width="20" hegiht="20" alt="Airport"/>南京禄口/ Nanjing Lukou/ NKG➡️⏳<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nj.gif" width="20" hegiht="20"/>禄口机场/ LUKOU INTERNATIONAL AIRPORT
 - 杭州/ Hangzhou：<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>杭州南/ Hangzhounan/ XHH➡️⏳<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hz.gif" width="20" hegiht="20"/>火车南站/ South Railway Station
-- 杭州/ Hangzhou： <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>杭州西/ Hangzhounan/ HVU➡️⏳<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hz.gif" width="20" hegiht="20"/>火车西站/ West Railway Station
 - 南宁/ Nanning：<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>南宁东/ Nanningdong/ NFZ➡️⏳<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nn.gif" width="20" hegiht="20"/>火车东站/ Nanning East Railway Station
 - 洛阳/ Luoyang：<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>洛阳/ Luoyang/ LYF➡️⏳<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/ly.gif" width="20" hegiht="20"/>洛阳火车站/ Luoyang Railway Station
