@@ -4,6 +4,8 @@
 
 ## 双向互认/ Mutual Recognition↔️
 
+注：天津站、犀浦站双向互认因疫情期间进行调整，目前仅为单向认可。
+
 ### 北京/ Beijing
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>北京西/ Beijingxi/ BXP↔️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>北京西站/ Beijing West Railway Station
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>清河/ Qinghe/ QIP↔️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>清河站/ Qinghe Railway Station
@@ -93,6 +95,9 @@
 ### 合肥/ Hefei
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>合肥/ Hefei/ HFH➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hf.gif" width="20" hegiht="20"/>合肥火车站/ Hefei Railway Station
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>合肥南/ Hefeinan/ ENH➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hf.gif" width="20" hegiht="20"/>合肥南站/ Hefeinan Railway Station（⚠️地铁「南站南广场」站不能免安检换乘/ "Nanzhan Nanguangchang" Metro Station DONOT have Fast-Transfer tunnel）
+
+### 石家庄/ Shijiazhuang
+- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>石家庄/ Shijiazhuang/ SJP➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sjz.gif" width="20" hegiht="20"/>石家庄站/ SHIJIAZHUANGZHAN
 
 ### 贵阳/ Guiyang
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>贵阳北/ Guiyangbei/ KQW➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gy.gif" width="20" hegiht="20"/>贵阳北站/ Guiyangbei Railway Station
