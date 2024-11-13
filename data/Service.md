@@ -139,8 +139,11 @@
 *待完善/ Coming soon*
 
 #### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>上海
-- 5元停车场：富锦路(1)、江杨北路(3)、美兰湖(7)、松江大学城(9)、嘉定西(11)、安亭(11)、漕盈路(17)
+<https://mp.weixin.qq.com/s/PgHTS5xktitFT38bsWlazw>
+- 5元停车场：富锦路(1)、江杨北路(3)、美兰湖(7)、松江大学城(9)、嘉定西(11)、安亭(11)、漕盈路(17)、金山卫(金山铁路)、金山园区(金山铁路)、亭林(金山铁路)
+- 8元停车场：奉贤新城(5)、佘山(9)、陈翔公路(8)
 - 10元停车场：汶水路(1)、外环路(1)、淞虹路(2)、唐镇(2)、大场镇(7)、沈杜公路(8)、芦恒路(8)、南翔(11)、嘉定新城(11)
+- 12元停车场：刘行(7)、联航路(8)、航中路(10)
 
 #### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nj.gif" width="20" hegiht="20"/>南京
 *待完善/ Coming soon*
