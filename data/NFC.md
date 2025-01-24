@@ -110,10 +110,11 @@
 | 4406 佛山·广佛通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | ✅ | ✅ | ✅ |  | ✅ | ✅ | 🔮 |
 | 4407 江门·五邑通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | ✅ | ✅ | ✅ |  | ✅ | ✅ | 🔮 |
 | 4409 茂名·茂城通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | ✅ | ✅ | ✅ |  | ✅ | ✅ | 🔮 |
-| 4412 肇庆通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅💥 ||✅|||||||
+| 4412 肇庆通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅💥 ||✅|✅||||||
+| 4413 惠州通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ |||✅||||||
 | 4415 汕尾·红海通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | ✅ | ✅ | ✅ |  | ✅ | ✅ | 🔮 |
 | 4416 河源粤支付<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | ✅ | ✅ | ✅ |  | ✅ | ✅ | 🔮 |
-| 4417 阳江·漠江通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | ✅ |  | ✅ |  | ✅ | ✅ |  |
+| 4417 阳江·漠江通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | ✅ | ✅ | ✅ |  | ✅ | ✅ |  |
 | 4419 东莞通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | | | | | | | ✅💥 | ⏳ ||
 | 4451 潮州通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | ✅ | ✅ | ✅ |  | ✅ | ✅ | 🔮 |
 | 4452 揭阳·榕江通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> | ✅ | ✅ | ✅ | ✅ | ✅ |  | ✅ | ✅ | 🔮 |
@@ -136,7 +137,7 @@
 | 81 香港·八达通 |  | ✅ |  | ✅[^hk2] | ✅[^hk] |  |  |  |  |
 | 8301 台北·悠游卡 |  |  |  | ✅[^yy] | ✅[^yy2] |  |  |  |  |
 |  | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/ZTE.png" width="30" hegiht="30" alt="ZTE"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/vivo.png" width="40" hegiht="40" alt="vivo"/> |  |
-|  | 59 | 68 | 29 | 33 | 43 | 15 | 61 | 58 |  |
+|  | 60 | 68 | 29 | 36 | 43 | 15 | 61 | 58 |  |
 
 [^tco]: 太仓：OPPO上线的“澳门回归纪念卡”实为CU标准的太仓市民卡
 [^nc]: 南昌：华为及OPPO可能需要通过App开通
