@@ -109,6 +109,9 @@
 ### 厦门/ Xiamen
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>厦门北/ Xiamenbei/ XKS➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xm.gif" width="20" hegiht="20"/>厦门北站/ Xiamen North Railway Station
 
+### 洛阳/ Luoyang
+- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>洛阳/ Luoyang/ LYF➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/ly.gif" width="20" hegiht="20"/>洛阳火车站/ Luoyang Railway Station
+
 
 ## 改造中或有计划改造/ In Process OR On Plan⏳
 
