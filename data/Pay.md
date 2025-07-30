@@ -23,11 +23,7 @@
 | 💴🪙 | 人民币现金（纸币及硬币）/ RMB Cash (Banknote and Coin) |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/eCNY.png" width="20" hegiht="20" alt="E-CNY"/> | 数字人民币二维码/ E-CNY QR |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/contactless_long.gif" width="25" hegiht="25" alt="Global Cards"/> | 国际卡/ Global Cards |
-
-国际卡缩写/Global Cards Abbreviation：V-Visa-维萨；M-Master-万事达；J-JCB-日本信用卡株式会社；AE-American Express-美国运通
-
 | 💳 | 交通卡/ Transit Card |
-| :-: | :- |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="20" hegiht="20" alt="Transit Apps QR"/> | 地铁官方应用乘车码/ Transit Apps QR |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/12306.png" width="20" hegiht="20" alt="12306 App"/> | 铁路12306（App）/ Railway 12306 (App) |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/AlipayHK.png" width="20" hegiht="20" alt="AlipayHK"/> | 支付宝香港/ AlipayHK |
@@ -36,6 +32,9 @@
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Suning Pay.png" width="20" hegiht="20" alt="Suning Pay"/> | 苏宁支付/ Suning Pay |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Line Pay.png" width="20" hegiht="20" alt="Line Pay"/> | 连我支付/ Line Pay |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/DiDi.png" width="20" hegiht="20" alt="DiDi"/> | 滴滴出行/ DiDi Rider |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/TWQR.png" width="20" hegiht="20" alt="TWQR"/> | 台湾二维码/ Taiwan QR Code (TWQR) |
+
+国际卡缩写/Global Cards Abbreviation：V-Visa-维萨；M-Master-万事达；J-JCB-日本信用卡株式会社；AE-American Express-美国运通
 
 *[银联闪付]: 指银联云闪付（联机闪付），不包括电子现金（脱机闪付）
 *[银联二维码]: 指符合银联标准的二维码，可在银联指定的应用内使用（如云闪付、各银行客户端、京东、美团等） 
@@ -43,6 +42,7 @@
 | 图标/ Icon | 含义/ Meaning |
 | :-: | :- |
 | ✅ | 完全支持/ Fully Support |
+| ✅c | 仅支持信用卡/ Credit Card Only |
 | ⭕ | 有限支持/ Limited Support |
 | 🛑 | 部分车站支持/ Only in some stations |
 | ❌ | 已下线或已停止服务/ Service Closed |
@@ -53,7 +53,7 @@
 
 | 城市/ City | 开通/ Since | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="25" hegiht="25" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay NFC.png" width="35" hegiht="35" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="25" hegiht="25" alt="Alipay"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="20" hegiht="20" alt="WeChat Pay"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="20" hegiht="20" alt="Unionpay App"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/contactless.gif" width="25" hegiht="25" alt="Global Cards"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="20" hegiht="20" alt="Transit Apps"/> | ➕ |
 | --  | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>1100 北京/ Beijing | 1971 | ⭕[^bj] | ✅ | ✅ | ✅ | ✅ | V/M/J/AE | ✅ | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/12306.png" width="20" hegiht="20" alt="12306 App"/> <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/DiDi.png" width="20" hegiht="20" alt="DiDi"/> |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>1100 北京/ Beijing | 1971 | ✅[^bj] | ✅ | ✅ | ✅ | ✅ | V/M/J/AE | ✅ | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/12306.png" width="20" hegiht="20" alt="12306 App"/> <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/DiDi.png" width="20" hegiht="20" alt="DiDi"/> |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tj.gif" width="20" hegiht="20"/>1200 天津/ Tianjin | 1976 | ✅ | ✅ | ✅ | ✅ | | | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sjz.gif" width="20" hegiht="20"/>1301 石家庄/ Shijiazhuang | 2017 | ✅ | | ✅ | ✅ | ✅ | | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tay.gif" width="20" hegiht="20"/>1401 太原/ Taiyuan | 2020 | ✅ | | ✅ | ✅ | ✅ | | ✅ |
@@ -89,29 +89,29 @@
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/ly.gif" width="20" hegiht="20"/>4103 洛阳/ Luoyang | 2021 | ✅ | ✅ | ✅ | ✅ | ✅ | | ✅ |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wh.gif" width="20" hegiht="20"/>4201 武汉/ Wuhan | 2004 | ✅ | ✅ | ✅ | ✅ | ✅ | | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cs.gif" width="20" hegiht="20"/>4301 长沙/ Changsha | 2014 | ✅ | | ✅ | ✅ | ✅ | | ✅ | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/12306.png" width="20" hegiht="20" alt="12306 App"/><img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CMPay.png" width="20" hegiht="20" alt="CMPay"/> |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>4401 广州/ Guangzhou | 1997 | ✅ | ⭕[^gz] | ✅ | ✅ | ✅[^can] || ✅ | |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>4401 广州/ Guangzhou | 1997 | ✅ | ✅c[^gz] | ✅ | ✅ | ✅[^can] || ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sz.gif" width="20" hegiht="20"/>4403 深圳/ Shenzhen | 2004 | ✅ | ✅ | ✅ | ✅ | ✅ | | ✅ | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/DiDi.png" width="20" hegiht="20" alt="DiDi"/> |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/fs.gif" width="20" hegiht="20"/>4406 佛山/ Foshan | 2021 | ✅ | ⭕[^gz] | ✅ | ✅ | ✅ | | ✅ | |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/fs.gif" width="20" hegiht="20"/>4406 佛山/ Foshan | 2021 | ✅ | ✅c[^gz] | ✅ | ✅ | ✅ | | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/dg.gif" width="20" hegiht="20"/>4419 东莞/ Dongguan | 2016 | ✅ | ⭕[^dg] | ✅ | ✅ | ✅ | ⏳ | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nn.gif" width="20" hegiht="20"/>4501 南宁/ Nanning | 2016 | ✅ | ⭕[^nn] | ✅ | ✅ | ✅ | | ✅ | |
 | | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="25" hegiht="25" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay NFC.png" width="35" hegiht="35" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="25" hegiht="25" alt="Alipay"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="20" hegiht="20" alt="WeChat Pay"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="20" hegiht="20" alt="Unionpay App"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/contactless.gif" width="25" hegiht="25" alt="Global Cards"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="20" hegiht="20" alt="Transit Apps"/> | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cq.gif" width="20" hegiht="20"/>5000 重庆/ Chongqing | 2004 | ✅ | ✅ | ✅ | ✅ | ✅ | | ✅ |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cd.gif" width="20" hegiht="20"/>5101 成都/ Chengdu | 2010 | ✅ | | ✅ | ✅ | ✅ | | ✅ | |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gy.gif" width="20" hegiht="20"/>5201 贵阳/ Guiyang | 2017 | ✅ | ⭕[^gy] | ✅ | ✅ | ✅ | | ✅ | |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gy.gif" width="20" hegiht="20"/>5201 贵阳/ Guiyang | 2017 | ✅ | ✅c | ✅ | ✅ | ✅ | | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/km.gif" width="20" hegiht="20"/>5301 昆明/ Kunming | 2012 | ✅ | ✅ | ✅ | ✅ | ✅ |  | ✅ | |
 | | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="25" hegiht="25" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay NFC.png" width="35" hegiht="35" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="25" hegiht="25" alt="Alipay"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="20" hegiht="20" alt="WeChat Pay"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="20" hegiht="20" alt="Unionpay App"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/contactless.gif" width="25" hegiht="25" alt="Global Cards"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="20" hegiht="20" alt="Transit Apps"/> | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xa.gif" width="20" hegiht="20"/>6101 西安/ Xi'an | 2011 | ✅ | | ✅ | ✅ | ✅ | | ✅ | |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/lz.gif" width="20" hegiht="20"/>6201 兰州/ Lanzhou | 2019 | ✅ | ⭕[^lz] | ✅ | ✅ | | | ✅ | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/BestPay.png" width="20" hegiht="20" alt="BestPay"/> |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/lz.gif" width="20" hegiht="20"/>6201 兰州/ Lanzhou | 2019 | ✅ | ✅c | ✅ | ✅ | | | ✅ | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/BestPay.png" width="20" hegiht="20" alt="BestPay"/> |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wlmq.gif" width="20" hegiht="20"/>6501 乌鲁木齐/ Urumqi | 2018 | ✅ | | ✅ | ✅ | | | ✅ | |
 | | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="25" hegiht="25" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay NFC.png" width="35" hegiht="35" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="25" hegiht="25" alt="Alipay"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="20" hegiht="20" alt="WeChat Pay"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="20" hegiht="20" alt="Unionpay App"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/contactless.gif" width="25" hegiht="25" alt="Global Cards"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="20" hegiht="20" alt="Transit Apps"/> | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hk.gif" width="20" hegiht="20"/>8100 香港/ Hong Kong | 1979 | ✅ | ✅ | ✅ | ✅[^hk] | ✅ | V/M | ✅ | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/AlipayHK.png" width="20" hegiht="20" alt="AlipayHK"/> |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/mo.gif" width="20" hegiht="20"/>8200 澳门/ Macao | 2019 | | | | | | | | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tp.gif" width="20" hegiht="20"/>8301 台北/ Taipei | 1996 | | ⏳ | | | | | | |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/kh.gif" width="20" hegiht="20"/>8306 高雄/ Kaohsiung | 2008 | | ⭕[^kh] | | | ✅ | V/M/J | ✅ | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Line Pay.png" width="20" hegiht="20" alt="Line Pay"/> |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/ty.gif" width="20" hegiht="20"/>8303 桃园/ Taoyuan | 2017 | | ⭕[^ty2] | ✅ | | | V/M/J | ⭕[^ty] | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Line Pay.png" width="20" hegiht="20" alt="Line Pay"/> |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tc.gif" width="20" hegiht="20"/>8304 台中/ Taichung | 2021 | | | | | | ⏳ | ⏳ | | 
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/kh.gif" width="20" hegiht="20"/>8306 高雄/ Kaohsiung | 2008 | | ✅c | | | ✅ | V/M/J | ✅ | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Line Pay.png" width="20" hegiht="20" alt="Line Pay"/><img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/TWQR.png" width="20" hegiht="20" alt="TWQR"/> |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/ty.gif" width="20" hegiht="20"/>8303 桃园/ Taoyuan | 2017 | | ✅c | ✅ | | | V/M/J | ⭕[^ty] | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Line Pay.png" width="20" hegiht="20" alt="Line Pay"/> |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tc.gif" width="20" hegiht="20"/>8304 台中/ Taichung | 2021 | | ✅c | | | | V/M/J | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/TWQR.png" width="20" hegiht="20" alt="TWQR"/> | 
 | | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="25" hegiht="25" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay NFC.png" width="35" hegiht="35" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="25" hegiht="25" alt="Alipay"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="20" hegiht="20" alt="WeChat Pay"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="20" hegiht="20" alt="Unionpay App"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/contactless.gif" width="25" hegiht="25" alt="Global Cards"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="20" hegiht="20" alt="Transit Apps"/> | |
-| | | 44/51 | 34/51 | 47/51 | 39/51 | 38/51 | 5/51 | 47/51 | |
+| | | 44/51 | 34/51 | 47/51 | 39/51 | 38/51 | 6/51 | 47/51 | |
 
 [^bj]: 北京：交通联合采用专版白名单（具体参见“交通联合官方服务号”微信公众号）/ Beijing: Special whitelist (see detail in WeChat Official Account) in T-Union
 
@@ -129,15 +129,7 @@
 
 [^nn]: 南宁：银联闪付仅支持除浦发、华夏以外的信用卡和交行、招行借记卡/ Nanning: Only credit card(except SPDB, HXB) and COM, CMB debit card accepted in Quickpass
 
-[^gy]: 贵阳：银联闪付仅支持信用卡/ Guiyang: Only credit card accepted in Quickpass
-
-[^lz]: 兰州：银联闪付仅支持信用卡/ Lanzhou: Only credit card accepted in Quickpass
-
-[^kh]: 高雄：银联闪付仅支持信用卡/ Kaohsiung: Only credit card accepted in Quickpass
-
 [^ty]: 桃园：机场捷运支持在线购票后扫码过闸/ Taoyuan: Only Airport MRT support after buying ticket online
-
-[^ty2]: 桃园：银联闪付仅支持信用卡/ Taoyuan: Only credit card accepted in Quickpass
 
 [^hk]: 香港：微信支付和微信支付（香港）均支持 / Hong Kong: Both WeChat Pay and WeChat Pay HK accepted
 
