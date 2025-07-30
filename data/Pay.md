@@ -55,7 +55,7 @@
 | --  | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>1100 北京/ Beijing | 1971 | ⭕[^bj] | ✅ | ✅ | ✅ | ✅ | V/M/J/AE | ✅ | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/12306.png" width="20" hegiht="20" alt="12306 App"/> <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/DiDi.png" width="20" hegiht="20" alt="DiDi"/> |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tj.gif" width="20" hegiht="20"/>1200 天津/ Tianjin | 1976 | ✅ | ✅ | ✅ | ✅ | | | ✅ | |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>3100 上海/ Shanghai | 1993 | ✅[^sh1] | ⭕[^sh2] | ✅ | ✅ | ✅ | V/M/J/AE | ✅ | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/eCNY.png" width="20" hegiht="20" alt="E-CNY"/><img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/12306.png" width="20" hegiht="20" alt="12306 App"/> |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sh.gif" width="20" hegiht="20"/>3100 上海/ Shanghai | 1993 | ✅[^sh1] | ✅ | ✅ | ✅ | ✅ | V/M/J/AE | ✅ | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/eCNY.png" width="20" hegiht="20" alt="E-CNY"/><img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/12306.png" width="20" hegiht="20" alt="12306 App"/> |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>4401 广州/ Guangzhou | 1997 | ✅ | ⭕[^gz] | ✅ | ✅ | ✅[^can] || ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cc.gif" width="20" hegiht="20"/>2201 长春/ Changchun | 2002 | ✅ | ✅ | ✅ | ✅ | ✅ | | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/dl.gif" width="20" hegiht="20"/>2102 大连/ Dalian | 2003 | ✅ | ✅ | ✅ | ✅ | ✅ | | ✅ | |
@@ -114,8 +114,6 @@
 [^bj]: 北京：交通联合采用专版白名单（具体参见“交通联合官方服务号”微信公众号）/ Beijing: Special whitelist (see detail in WeChat Official Account) in T-Union
 
 [^sh1]: 上海：异地交通联合卡可享受虚拟换乘优惠/ Shanghai: Non-local T-Union card can enjoy virtual-transfer discount
-
-[^sh2]: 上海：仅磁悬浮支持银联信用卡闪付/ Shanghai: Only Maglev accept credit card Quickpass
 
 [^gz]: 广州/佛山：银联闪付仅支持[信用卡](http://cs.gzmtr.com/ckfw/pwzy/201811/t20181106_60161.htm)（APM线无此限制）/ Guangzhou & Foshan: Only [credit card](http://cs.gzmtr.com/ckfw/pwzy/201811/t20181106_60161.htm) accepted in Quickpass (APM Line accept all cards)
 
