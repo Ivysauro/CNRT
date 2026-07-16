@@ -111,3 +111,6 @@
 ## 6101-西安/ Xi'an
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>西安/ Xi'an/ XAY➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xa.gif" width="20" hegiht="20"/>西安站/ XI'ANZHAN
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>西安北/ Xi'anbei/ EAY➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xa.gif" width="20" hegiht="20"/>西安北站/ XI'ANBEIZHAN
+
+## 6201-兰州/ Lanzhou
+- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Airport.png" width="20" hegiht="20" alt="Airport"/>兰州中川/ Lanzhou Zhongchuan/ LHW➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/lz.gif" width="20" hegiht="20"/>中川机场东/ Zhongchuan Airport East/ ZRJ（注：仅限无托运行李到达乘客/ Only opens for passengers without checked baggage）
