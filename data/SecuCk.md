@@ -109,6 +109,9 @@
 ## 5201-贵阳/ Guiyang
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>贵阳北/ Guiyangbei/ KQW➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gy.gif" width="20" hegiht="20"/>贵阳北站/ Guiyangbei Railway Station
 
+## 5301-昆明/ Kunming
+- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>昆明南/ Kunmingnan/ KOM➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/km.gif" width="20" hegiht="20"/>昆明南火车站/ Kunming South Railway Station（仅高铁到达换乘地铁1、4号线/ High-speed rail to Metro Lines 1 & 4 only；[来源](https://m.thepaper.cn/baijiahao_32288523)）
+
 ## 6101-西安/ Xi'an
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>西安/ Xi'an/ XAY➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xa.gif" width="20" hegiht="20"/>西安站/ XI'ANZHAN
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CR.png" width="15" hegiht="15" alt="China Railway"/>西安北/ Xi'anbei/ EAY➡️<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xa.gif" width="20" hegiht="20"/>西安北站/ XI'ANBEIZHAN
