@@ -100,7 +100,7 @@
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nj.gif" width="20" hegiht="20"/>***南京地铁S8线***（南京&滁州天长）
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xa.gif" width="20" hegiht="20"/>***西安地铁5号线***（西安&咸阳）
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/xa.gif" width="20" hegiht="20"/>***西安地铁16号线***（西安&咸阳）
-- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/zz.gif" width="20" hegiht="20"/>***郑州地铁17号线***（郑州&许昌）
+- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/zz.gif" width="20" hegiht="20"/>郑州地铁[郑许线](https://www.zzmetro.com/lines/query/station/zid/10945)（郑州&许昌）
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cs.gif" width="20" hegiht="20"/>***长沙地铁3号线***（长沙&湘潭）
 
 ### 跨城连通
