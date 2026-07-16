@@ -135,7 +135,7 @@
 | 6501 乌鲁木齐·红山通<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="20" hegiht="20"> |  | ✅💥 |  | ⏳ |  |  |  |  |  |
 |  | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/ZTE.png" width="30" hegiht="30" alt="ZTE"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/vivo.png" width="40" hegiht="40" alt="vivo"/> |  |
 | 81 香港·八达通 |  | ✅ |  | ✅[^hk2] | ✅[^hk] |  |  |  |  |
-| 8301 台北·悠游卡 |  |  |  | ✅[^yy] | ✅[^yy2] |  |  |  |  |
+| 8301 台北·悠游卡 |  |  |  |  | ✅[^yy2] |  |  |  |  |
 |  | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/ZTE.png" width="30" hegiht="30" alt="ZTE"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/vivo.png" width="40" hegiht="40" alt="vivo"/> |  |
 |  | 60 | 68 | 29 | 36 | 43 | 15 | 61 | 58 |  |
 
@@ -144,9 +144,8 @@
 [^cd]: 成都：vivo可能需要通过下载App开通
 [^hk2]: 香港：钱包app接受以银联卡及香港发行的Visa、Mastercard付款。旅客八达通app接受Apple Pay银联卡、Visa、Mastercard以及绑定中国万事达卡（China Mastercard）付款。其中，旅客八达通app以Apple Pay银联卡并选择人民币付款金额可能略低于钱包app银联卡港币付款转换为人民币入账金额，旅客八达通app的其他付款方式可能包含隐性手续费而金额相对较高。
 [^hk]: 香港：需要香港地区的手机钱包账号，钱包内暂不支持银联卡充值
-[^hk3]: 香港：需要以八达通银包号码申请内测，获得测试资格后可透过八达通app加卡并转移到Google钱包。
-[^yy]: 台北：可能需要通过下载App开通
-[^yy2]: 台北：可能需要台湾地区的三星账号，可开通普通卡之外的如学生卡、1280定期票等特殊卡种
+[^hk3]: 香港：Android八达通已于2025年8月12日正式推出，不再需要申请内测资格；符合条件的Android设备可通过八达通App开卡，并加入Google钱包。来源：八达通《[Press Release 12 August 2025](https://www.octopus.com.hk/en/corporate/media/press-releases/2025/20250812.html)》。
+[^yy2]: 台北：悠游卡公司目前列出的行动悠游卡渠道为Samsung Wallet、小米行动悠游卡和电信悠游卡；其Easy Wallet的NFC「嗶乘车」功能明确仅适用于Android。来源：悠游卡公司《[行动悠游卡](https://www.easycard.com.tw/mobilecards)》及《[悠游付相关问题](https://www.easycard.com.tw/faq?cls=1576547197)》。
 [^gpay]: 谷歌支付：不限于手机品牌，理论上支持谷歌服务框架并安装谷歌钱包App均能使用
 
 ### 其他品牌/ Others
@@ -160,7 +159,7 @@
 | 44 广东·岭南通 | ❌ | | ❌ | ✅ ||
 | 4403 深圳通 | ❌ | | ❌ | ✅ ||
 | 81 香港·八达通 |  |  |  |  | ✅[^hk3] |
-| 8301 台北·悠游卡 |  |  |  |  | ✅[^yy] |
+| 8301 台北·悠游卡 |  |  |  |  |  |
 
 ## 基于主机的卡模拟（HCE）技术驱动的交通卡/ Transit Cards powered by Host-based Card Emulation (HCE)
 
