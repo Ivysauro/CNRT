@@ -93,7 +93,7 @@
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>***北京地铁22号线***（北京&廊坊三河）
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>***北京地铁副中心1号线***（北京&廊坊三河）
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wh.gif" width="20" hegiht="20"/>***武汉地铁11号线***（武汉&鄂州）
-- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nj.gif" width="20" hegiht="20"/>***南京地铁S2线***（南京&马鞍山）
+- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nj.gif" width="20" hegiht="20"/>南京地铁S2线（宁马线，南京&马鞍山，2026.4；[来源](https://www.nanjing.gov.cn/zgnjsjb/jrtt/202604/t20260423_5828426.html)）
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nj.gif" width="20" hegiht="20"/>***南京地铁S3线***（南京&马鞍山和县）
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nj.gif" width="20" hegiht="20"/>***南京地铁S4线***（南京&滁州）
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nj.gif" width="20" hegiht="20"/>***南京地铁S5线***（南京&扬州）
