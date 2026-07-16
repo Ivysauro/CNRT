@@ -350,7 +350,7 @@
 | | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay NFC.png" width="40" hegiht="40" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay QR.png" width="40" hegiht="40" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/contactless.gif" width="40" hegiht="40" alt="Global Cards"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Bus.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
 | :- | :- | :-: | :-: | :-: | :-: | :-: | :-: | :- | :- |
 | **香港/ Hong Kong** | 八达通 | | ⭕[^hk1] | ⭕[^hk] | | ⭕️[^hk1] | | ⭕️[^hk2] | Alipay HK[^hk] |
-| **澳门/ Macao** | 澳门通 | | | | | ⭕[^mo1] | | | 澳门通、城市一卡通[^mo2] |
+| **澳门/ Macao** | 澳门通 | | | | ✅[^mo3] | ⭕[^mo1] | | | 澳门通、城市一卡通[^mo2] |
 
 ### 西南地区/ Southwestern China
 
@@ -517,6 +517,7 @@
 [^hk2]: 香港：九巴、龙运路线支持Visa、Mastercard、JCB、AmEx、Discover/Diners Club。城巴路线支持Visa、Mastercard
 [^mo1]: 澳门：需绑定澳门银行卡的银联澳门乘车码
 [^mo2]: 澳门：理论上支持所有住建部城市一卡通标准的公交卡，推荐上海公共交通卡（Android紫卡/红卡及Apple紫卡），上海、宁波、昆山等多地卡经多人测试可用，为银联当日汇率
+[^mo3]: 澳门：自2024年9月24日起，中国内地及中国香港版本微信可在“搭车码”小程序选择澳门，在公共巴士扫码支付；每程6澳门元，不设车资或转乘优惠。来源：澳门特别行政区交通事务局《[公共巴士9月24日起接受非澳门微信支付车资](https://www.dsat.gov.mo/dsat/news_detail.aspx?a_id=E9D54568CDE34CD62B193FB511C80B3B)》。
 
 [^az]: 阿拉善左旗：巴彦浩特公交仅支持支付宝和微信的付款码
 [^jgdq]: 加格达奇：银联云闪付和银联付款码仅支持建设银行
