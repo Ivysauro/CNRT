@@ -203,7 +203,7 @@
 | 泉州/ Quanzhou | 泉州交通卡 | ✅ | ✅ | ✅ | ✅ | ✅ | | 泉城通、CU卡 |
 | 漳州/ Zhangzhou | 福路通·九龙卡 | ✅ | ✅ | ✅ | | | ✅ | 漳州达达通、福路通·福建出行助手 |
 | 南平/ Nanping | 福路通·武夷通 | ✅ | ✅ | ✅ | | | ✅ | |
-| 龙岩/ Longyan | 福路通·龙行卡 | ✅ | ✅ | ✅ | ⭕ | | ✅ | e龙岩 |
+| 龙岩/ Longyan | 福路通·龙行卡 | ⭕[^ly] | ✅ | ✅ | ⭕ | | ✅ | e龙岩 |
 | 宁德/ Ningde | 福路通·福宁卡 | ✅ | ✅ | ✅ | ✅ | | ✅ | 翼支付 |
 | **江西/ Jiangxi** | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay NFC.png" width="40" hegiht="40" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay QR.png" width="40" hegiht="40" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Bus.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
 | 南昌/ Nanchang | 洪城一卡通 | ✅ | ✅ | ✅ | ✅ | | | 鹭鹭行 |
@@ -495,6 +495,7 @@
 [^zs]: 舟山：仅部分线路支持微信乘车码
 [^ls]: 丽水：仅支持微信付款码
 [^ls2]: 丽水：仅支持浙江农信丰收互联App生成的银联付款码
+[^ly]: 龙岩：龙岩市交通运输局确认“龙行卡”停用通告于2021年3月24日发布，因此不再标记为交通联合完全支持。来源：龙岩市交通运输局《[龙岩12328：一个话筒一根线，解民“急难愁盼”](http://lyjt.longyan.gov.cn/gk/gzdt/202106/t20210609_1794016.htm)》。
 [^zh]: 珠海：理论上支持所有住建部城市一卡通标准的公交卡，但上海公共交通卡等部分卡片实测不支持（http://w.zhbus.org/index.php?title=全国城市一卡通）
 [^hs]: 黄山：自2020年4月1日起，将停止微信小程序二维码扫码乘车功能（http://huangshan.bendibao.com/news/2020214/578.shtm）
 [^px]: 萍乡：需要关注“公交联盟”公众号或小程序，充值后使用
