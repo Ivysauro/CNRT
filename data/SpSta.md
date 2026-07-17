@@ -227,9 +227,11 @@
 - ~~瓦盆窑~~（1号线，2019.4-2019.9）
 
 ##### <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/zz.gif" width="20" hegiht="20"/>郑州
-- 小乔、华南城东（城郊线，2017.1-）
-- 莲湖、市民大道、须水（14号线，2019.9-）
+- 须水（14号线，2019.9-）
 - 3号航站楼（城郊线，2022.6-）
+- ~~莲湖~~（14号线，2019.9-2023.5；[来源](https://www.zhengzhou.gov.cn/news1/7131215.jhtml)）
+- ~~小乔、华南城东~~（城郊线，2017.1-2023.9；[来源](https://www.zzmetro.cn/nav/article-detail/0/16/7766)）
+- ~~市民大道~~（14号线，2019.9-2024.11；[来源](http://m.163.com/dy/article/JHBL8KNV04398SNL.html)）
 - ~~河南大学新区~~（1号线，2017.1-2019.11）
 - ~~港区北~~（城郊线，2017.1-2020.12）
 - ~~经北二路~~（5号线，2019.5-2021.5）
@@ -339,6 +341,8 @@
 - 中医大省医院（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cd.gif" width="20" hegiht="20"/>成都地铁2号线/4号线，同向）
 - 钱江路（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hz.gif" width="20" hegiht="20"/>杭州地铁2号线/4号线，同向）
 - 五四广场（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/qd.gif" width="20" hegiht="20"/>青岛地铁2号线/3号线，同向）
+- 郑州东站（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/zz.gif" width="20" hegiht="20"/>郑州地铁5号线/8号线，同向；[来源](https://public.zhengzhou.gov.cn/D1101X/6692891.jhtml)）
+- 张家村（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/zz.gif" width="20" hegiht="20"/>郑州地铁4号线/7号线，同向；[来源](https://public.zhengzhou.gov.cn/D1101X/6692891.jhtml)）
 
 ##### 单向同台换乘
 - 南昌（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hk.gif" width="20" hegiht="20"/>港铁西铁线/东涌线，下行反向）
@@ -395,6 +399,7 @@
 
 - 𧒽岗（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/fs.gif" width="20" hegiht="20"/>佛山，广佛线、南海有轨电车1号线，2021.8-）
 - 广州南站（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>广州，2&7&22号线、佛山2号线，2021.12-）
+- 新郑机场（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/zz.gif" width="20" hegiht="20"/>郑州，城郊线、郑许线，2023.12-；[来源](https://m.zzhkgq.gov.cn/2026/06-04/3647209.html)）
 - ~~徐家棚~~（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wh.gif" width="20" hegiht="20"/>武汉，7号线、8号线，2018.10-2021.12）
 - ~~沙坪坝~~（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cq.gif" width="20" hegiht="20"/>重庆，1号线、环线，2018.12-2022.9）
 - ~~新荣/新荣客运站~~（<img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wh.gif" width="20" hegiht="20"/>武汉，1号线、阳逻线，2017.12-2022.12）
