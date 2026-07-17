@@ -123,8 +123,8 @@
 | 朝阳/ Chaoyang | 朝阳交通一卡通 | ✅ | ✅ | | ⭕[^cy] | | ✅ | |
 | 葫芦岛/ Huludao | 葫芦岛都市畅行卡 | ✅ | | ✅ | | | | |
 | **吉林/ Jilin** | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="40" hegiht="40" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay NFC.png" width="40" hegiht="40" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="30" hegiht="30" alt="Alipay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="25" hegiht="25" alt="WeChat Pay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="25" hegiht="25" alt="Unionpay Transit QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay QR.png" width="40" hegiht="40" alt="Unionpay QR Code"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Bus.png" width="25" hegiht="25" alt="Transit QR Code of Additional Apps"/> |
-| 长春/ Changchun | 长春城市一卡通、长春轨道交通一卡通、长春城联一卡通 | ✅ | | | | | | 码码通 |
-| 吉林/ Jilin | 吉林通 | ✅ | ✅ | ✅ | | ✅ | ✅ | 码码通 |
+| 长春/ Changchun | 长春城市一卡通、长春轨道交通一卡通、长春城联一卡通 | ✅ | | | ✅[^jl] | | | 码码通、吉事办 |
+| 吉林/ Jilin | 吉林通 | ✅ | ✅ | ✅ | ✅[^jl] | ✅ | ✅ | 码码通、吉事办 |
 | 四平/ Siping | 四平交通一卡通 | ✅ | | | | 🕓 | ✅ | |
 | 辽源/ Liaoyuan | 辽源一卡通 | ✅ | | | | | ✅ | |
 | 通化/ Tonghua | 通化交通一卡通 | ✅ | | | | 🕓 | | 通化公交、美团 |
@@ -522,6 +522,7 @@
 
 [^az]: 阿拉善左旗：巴彦浩特公交仅支持支付宝和微信的付款码
 [^jgdq]: 加格达奇：银联云闪付和银联付款码仅支持建设银行
+[^jl]: 长春、吉林市：“吉事办”微信小程序首批明确支持两市地铁公交，其他“吉事办”移动端公告称可全省通行。来源：吉林省政务服务和数字化建设管理局《[“吉事办”乘车码可以坐地铁公交了](https://zsj.jl.gov.cn/zsdt/dt/202504/t20250430_3452672.html)》。
 [^xt]: 仙桃：微信仅支持武汉乘车码
 [^tm]: 天门：微信仅支持武汉乘车码
 [^xy]: 兴义：仅支持微信付款码

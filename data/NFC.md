@@ -5,7 +5,7 @@
 | 商标/ Logo | 中文/ Chinese | 英文/ English |
 | :-: | :- | :- |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | 小米 | Xiaomi |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | 华为（含荣耀） | Huawei (Honor included) |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | 华为 | Huawei |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/ZTE.png" width="30" hegiht="30" alt="ZTE"/> | 中兴（含努比亚） | ZTE (Nubia included) |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | 苹果 | Apple |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | 三星 | Samsung |
@@ -139,6 +139,81 @@
 |  | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Xiaomi.png" width="25" hegiht="25" alt="Xiaomi"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Huawei.png" width="30" hegiht="30" alt="Huawei"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/ZTE.png" width="30" hegiht="30" alt="ZTE"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Apple.png" width="30" hegiht="30" alt="Apple"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Samsung.png" width="40" hegiht="40" alt="Samsung"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Meizu.png" width="40" hegiht="40" alt="Meizu"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/OPPO.png" width="40" hegiht="40" alt="OPPO"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/vivo.png" width="40" hegiht="40" alt="vivo"/> |  |
 |  | 60 | 68 | 29 | 36 | 43 | 15 | 61 | 58 |  |
 
+### 荣耀钱包/ Honor Wallet
+
+2023年11月23日及以后上市的支持NFC的荣耀手机使用荣耀钱包，不应按上方华为钱包列判断。荣耀官方当前列出的手机端交通卡如下；耀行卡和带交通联合标识的互联互通卡可在全国300余个城市的指定公共交通线路使用，实际范围及优惠以当地运营机构为准。来源：[荣耀钱包交通卡支持列表](https://iknow.service.hihonor.com/weknow/servlet/show/knowContextServlet?knowId=zh-cn15847364&external=Y)。
+
+| 城市/ City | 交通卡/ Transit Card |
+| :- | :- |
+| 全国指定线路/ Designated routes nationwide | 耀行卡 |
+| 北京/ Beijing | 北京互通卡、北京高校电子卡、北京市电子拥军卡 |
+| 上海/ Shanghai | 上海公共交通卡（普通版本，不含校园联名卡） |
+| 深圳/ Shenzhen | 深圳通互联互通卡 |
+| 广州/ Guangzhou | 岭南通·羊城通 |
+| 武汉/ Wuhan | 武汉通 |
+| 西安/ Xi'an | 长安通互联互通卡 |
+| 大连/ Dalian | 大连明珠卡 |
+| 绍兴/ Shaoxing | 绍兴通互联互通卡 |
+| 长沙/ Changsha | 潇湘卡 |
+| 天津/ Tianjin | 天津互联互通城市卡、天津电子敬老卡 |
+| 哈尔滨/ Harbin | 哈尔滨城市通 |
+| 合肥/ Hefei | 合肥通互联互通卡 |
+| 吉林/ Jilin | 吉林通互联互通卡 |
+| 石家庄/ Shijiazhuang | 燕赵通 |
+| 济南/ Jinan | 泉城通 |
+| 厦门/ Xiamen | 厦门e通卡（互联互通） |
+| 郑州/ Zhengzhou | 绿城通（互联互通） |
+| 重庆/ Chongqing | 重庆畅通卡 |
+| 青岛/ Qingdao | 琴岛通 |
+| 南昌/ Nanchang | 洪城一卡通 |
+| 佛山/ Foshan | 岭南通·广佛通 |
+| 韶关/ Shaoguan | 岭南通·韶州通 |
+| 河源/ Heyuan | 岭南通·河源粤支付 |
+| 汕尾/ Shanwei | 岭南通·红海通 |
+| 江门/ Jiangmen | 岭南通·五邑通 |
+| 阳江/ Yangjiang | 岭南通·漠江通 |
+| 茂名/ Maoming | 岭南通·茂城通 |
+| 肇庆/ Zhaoqing | 岭南通·肇庆通 |
+| 潮州/ Chaozhou | 岭南通·潮州通 |
+| 揭阳/ Jieyang | 岭南通·榕江通 |
+| 云浮/ Yunfu | 岭南通·岭云通 |
+| 南京/ Nanjing | 江苏交通一卡通·金陵通 |
+| 盐城/ Yancheng | 江苏交通一卡通·盐城 |
+| 连云港/ Lianyungang | 江苏交通一卡通·连云港 |
+| 扬州/ Yangzhou | 江苏交通一卡通·扬州 |
+| 常州/ Changzhou | 江苏交通一卡通·常州 |
+| 宿迁/ Suqian | 江苏交通一卡通·宿迁 |
+| 泰州/ Taizhou, Jiangsu | 江苏交通一卡通·泰州 |
+| 昆山、苏州/ Kunshan, Suzhou | 江苏交通一卡通·苏州昆山 |
+| 无锡/ Wuxi | 江苏交通一卡通·无锡 |
+| 徐州/ Xuzhou | 江苏交通一卡通·淮海通 |
+| 淮安/ Huai'an | 江苏交通一卡通·淮安 |
+| 南通/ Nantong | 江苏交通一卡通·南通 |
+| 镇江/ Zhenjiang | 江苏交通一卡通·镇江 |
+| 杭州/ Hangzhou | 杭州通互联互通卡 |
+| 成都/ Chengdu | 成都天府通卡 |
+| 福州/ Fuzhou | 福州榕城通 |
+| 台州/ Taizhou, Zhejiang | 台州公共交通卡 |
+| 榆林/ Yulin | 驼城通 |
+| 烟台/ Yantai | 烟台市民卡 |
+| 金华/ Jinhua | 金华市民卡·八婺通交联版 |
+| 拉萨/ Lhasa | 西藏交通一卡通 |
+| 十堰/ Shiyan | 车城通 |
+| 银川/ Yinchuan | 银川交通一卡通 |
+| 东莞/ Dongguan | 东莞通 |
+| 宁波/ Ningbo | 宁波交通一卡通 |
+| 赣州/ Ganzhou | 赣州通 |
+| 包头/ Baotou | 包头市鹿城通互联互通卡 |
+| 乌鲁木齐/ Urumqi | 红山通·全国交通卡 |
+| 雄安/ Xiong'an | 雄安新区交通一卡通 |
+| 广西/ Guangxi | 广西交通一卡通 |
+| 兰州/ Lanzhou | 兰州公交一卡通 |
+| 西宁/ Xining | 西宁交通卡 |
+| 淄博/ Zibo | 齐达通交通联合卡 |
+| 沈阳/ Shenyang | 沈阳盛京通 |
+| 昆明/ Kunming | 昆明智慧通普通卡 |
+| 贵阳/ Guiyang | 一应黔行互联互通卡 |
+
 [^tco]: 太仓：OPPO上线的“澳门回归纪念卡”实为CU标准的太仓市民卡
 [^nc]: 南昌：华为及OPPO可能需要通过App开通
 [^cd]: 成都：vivo可能需要通过下载App开通
@@ -177,7 +252,7 @@
 
 ## NFC-SIM技术驱动的交通卡/ Transit Cards powered by NFC-SIM 
 
-大部分NFC-SIM卡已不再发行/ Most NFC-SIM cards are no longer issued
+中国移动仍提供超级SIM交通卡：将交通卡应用及个人化数据写入超级SIM卡，通过支持NFC的手机刷卡乘坐公交、地铁。来源：[中国移动超级SIM](https://dev.10086.cn/superSIM/portal-main/index)。
 
 ## 参考来源/ References
 - 小米：<http://www.miui.com/thread-17774691-1-1.html>
