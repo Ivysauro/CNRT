@@ -90,7 +90,7 @@
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wh.gif" width="20" hegiht="20"/>4201 武汉/ Wuhan | 2004 | ✅ | ✅ | ✅ | ✅ | ✅ | | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/cs.gif" width="20" hegiht="20"/>4301 长沙/ Changsha | 2014 | ✅ | | ✅ | ✅ | ✅ | | ✅ | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/12306.png" width="20" hegiht="20" alt="12306 App"/><img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/CMPay.png" width="20" hegiht="20" alt="CMPay"/> |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>4401 广州/ Guangzhou | 1997 | ✅ | ✅c[^gz] | ✅ | ✅ | ✅[^can] | V/M/J/AE[^gz2] | ✅ | |
-| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sz.gif" width="20" hegiht="20"/>4403 深圳/ Shenzhen | 2004 | ✅ | ✅ | ✅ | ✅ | ✅ | | ✅ | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/DiDi.png" width="20" hegiht="20" alt="DiDi"/> |
+| <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sz.gif" width="20" hegiht="20"/>4403 深圳/ Shenzhen | 2004 | ✅ | ✅ | ✅ | ✅ | ✅ | V/M/J/AE[^sz2] | ✅ | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/DiDi.png" width="20" hegiht="20" alt="DiDi"/> |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/fs.gif" width="20" hegiht="20"/>4406 佛山/ Foshan | 2021 | ✅ | ✅c[^gz] | ✅ | ✅ | ✅ | | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/dg.gif" width="20" hegiht="20"/>4419 东莞/ Dongguan | 2016 | ✅ | ⭕[^dg] | ✅ | ✅ | ✅ | ⏳ | ✅ | |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/nn.gif" width="20" hegiht="20"/>4501 南宁/ Nanning | 2016 | ✅ | ⭕[^nn] | ✅ | ✅ | ✅ | | ✅ | |
@@ -111,7 +111,7 @@
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/ty.gif" width="20" hegiht="20"/>8303 桃园/ Taoyuan | 2017 | | ✅c | ✅ | | | V/M/J | ⭕[^ty] | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Line Pay.png" width="20" hegiht="20" alt="Line Pay"/> |
 | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tc.gif" width="20" hegiht="20"/>8304 台中/ Taichung | 2021 | | ✅c | | | | V/M/J | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/TWQR.png" width="20" hegiht="20" alt="TWQR"/> | 
 | | | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/T-Union.png" width="25" hegiht="25" alt="T-Union"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay NFC.png" width="35" hegiht="35" alt="Unionpay Quickpass"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Alipay.png" width="25" hegiht="25" alt="Alipay"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/WeChat Pay.png" width="20" hegiht="20" alt="WeChat Pay"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Unionpay.png" width="20" hegiht="20" alt="Unionpay App"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/contactless.gif" width="25" hegiht="25" alt="Global Cards"/> | <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/Rail Transit.png" width="20" hegiht="20" alt="Transit Apps"/> | |
-| | | 44/51 | 34/51 | 47/51 | 39/51 | 40/51 | 8/51 | 47/51 | |
+| | | 44/51 | 34/51 | 47/51 | 39/51 | 40/51 | 9/51 | 47/51 | |
 
 [^bj]: 北京：交通联合采用专版白名单（具体参见“交通联合官方服务号”微信公众号）/ Beijing: Special whitelist (see detail in WeChat Official Account) in T-Union
 
@@ -126,6 +126,8 @@
 [^suz]: 苏州：地铁开通初期的旧版支付宝乘车码已下线，新版于2024年6月重新上线/ Suzhou: New Alipay Transit QR Launched on June 2024
 
 [^jh]: 金华：云闪付App“出行”中领取“金华轨道交通卡”后可使用乘车二维码过闸。来源：金华轨道交通《[乘客指南](http://www.jhmtr.net/rideGuide/)》。
+
+[^sz2]: 深圳：自2026年6月30日起，地铁全网17条运营线路、432座车站试运行国际银行卡拍卡过闸，支持境外发行的Visa、Mastercard、American Express、JCB卡。来源：深圳市文化广电旅游体育局《[境外旅客游深圳拍国际银行卡可乘地铁](http://wtl.sz.gov.cn/ztzl_78228/tszl/xjfdpd/fdzxzx/content/post_12876632.html)》。
 
 [^hrb]: 哈尔滨：银联闪付仅支持工行、交行、广发、浦发、邮储借记卡及信用卡和招商银行借记卡/ Harbin: Only CMB debit card and debit or credit cards by ICBC, COM, CGB, SPDB, CPG accepted in Quickpass
 
