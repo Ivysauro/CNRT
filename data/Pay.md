@@ -141,6 +141,10 @@
 
 [^mo]: 澳门：除交通卡外，其他非现金支付方式仅柜台购票支持/ Macao: Only buying tickets at the counter accepted Non-cash payment methods, but Transit Card can be used on TVM
 
+### 北京市郊铁路/ Beijing Suburban Railway
+
+- S2线、城市副中心线、怀柔—密云线、通密线可使用普通实体一卡通、北京一卡通App（含NFC）、支付宝App乘车码、亿通行App乘车码通乘北京地铁，并按同一票种合并累计优惠；S2线亦支持北京互通卡和市郊铁路一卡通。来源：北京市交通委员会《[本市推进地铁和市郊铁路“一票通行”](https://www.beijing.gov.cn/fuwu/bmfw/sy/jrts/tzxx/202312/t20231228_3517440.html)》、首都之窗《[市郊铁路S2线购票方式](https://www.beijing.gov.cn/renwen/zt/kwctdlc/yw/gpfs/202404/t20240410_3614569.html)》。
+
 ## 购票/ Tickets
 
 仅收录自动售票机购票的支付方式/ Only includes payment methods by TVM(ticket vending machine)

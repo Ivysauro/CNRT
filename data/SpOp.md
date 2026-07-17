@@ -19,7 +19,7 @@
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/tp.gif" width="20" hegiht="20"/>***台北捷运环状线***（2020.1-，未闭环）
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/hrb.gif" width="20" hegiht="20"/>***哈尔滨地铁3号线***（2017.1-，未闭环）
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/fz.gif" width="20" hegiht="20"/>***福州地铁4号线***（2023.8-，未闭环）
-- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>***北京地铁副中心2号线***
+- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>***北京地铁M102线（原副中心2号线，副中心一环）***（[来源](https://www.beijing.gov.cn/ywdt/gzdt/202105/t20210513_2388074.html)）
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>***广州地铁11号线***
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/gz.gif" width="20" hegiht="20"/>***广州地铁15号线***
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/wh.gif" width="20" hegiht="20"/>***武汉地铁12号线***
@@ -203,9 +203,6 @@
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/suz.gif" width="20" hegiht="20"/>苏州地铁4号线支线
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sz.gif" width="20" hegiht="20"/>***深圳地铁6号线支线***
 - <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/sz.gif" width="20" hegiht="20"/>***深圳地铁7号线(文体公园)支线***
-
-### 其他支线
-- <img src="https://raw.githubusercontent.com/Ivysauro/CNRT/master/images/city/bj.gif" width="20" hegiht="20"/>***北京地铁副中心2号线***
 
 ## 双线
 
