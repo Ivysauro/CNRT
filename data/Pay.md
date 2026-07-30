@@ -131,7 +131,7 @@
 
 [^wh]: 武汉：交通联合卡自2024年6月30日起可刷卡过闸；银联闪付支持带闪付标识的银联银行卡及相应手机Pay，不支持国际卡直接拍卡过闸。截至2026年7月，武汉地铁共有25款APP/小程序可扫码乘车，包括Metro新时代、支付宝、微信、云闪付、我的武汉通、抖音、滴滴、城市通、城市码、上海地铁、成都地铁、城轨易行和13家银行APP。来源：武汉市人民政府《[“交通联合”卡可通刷武汉地铁](https://www.wuhan.gov.cn/sy/whyw/202406/t20240625_2420407.shtml)》、武汉市交通运输局《[武汉地铁上线滴滴刷码乘车](https://jtj.wuhan.gov.cn/jtzx/zwdt/202511/t20251105_2672884.shtml)》《[武汉与成都地铁乘车码实现互通](https://jtj.wuhan.gov.cn/jtzx/zwdt/202607/t20260720_2823085.shtml)》。
 
-[^cs]: 长沙：目前不支持银联、Mastercard等银行卡直接刷卡过闸。支持长沙地铁、支付宝、微信（城市通小程序）、云闪付、我的长沙、和包、湘易办、Metro大都会、铁路12306及湘行一卡通等10款APP扫码乘车；铁路12306须使用“铁路e卡通”。来源：长沙市轨道交通集团《[扫码、刷卡、购票，您想知道的地铁出行方式都在这里](https://www.hncsmtr.com/905/918/content_83221.html)》、红网《[咨询能否刷卡乘坐长沙地铁公交](https://wz.rednet.cn/front/messages/mdetail?id=887777)》、新湖南《[长株潭城际铁路与长沙地铁APP票制实现双向融通](https://m.voc.com.cn/xhn/news/202412/21552797.html)》。
+[^cs]: 长沙：目前不支持普通金融银行卡直接拍卡过闸；长沙市轨道交通集团2025年3月明确回复暂不支持银联、Mastercard借记卡或信用卡刷卡乘车，现行公开受理清单也未列Visa等国际卡。可刷的潇湘卡、全国交通联合卡、耀行卡及已开通公交出行功能的第三代社保卡，均使用卡内交通应用或交通一卡通账户，不属于银行卡闪付。另支持长沙地铁、支付宝、微信（城市通小程序）、云闪付、我的长沙、和包、湘易办、Metro大都会、铁路12306及湘行一卡通等10款APP扫码乘车；铁路12306须使用“铁路e卡通”。来源：长沙市轨道交通集团《[扫码、刷卡、购票，您想知道的地铁出行方式都在这里](https://www.hncsmtr.com/905/918/content_83221.html)》、红网《[咨询能否刷卡乘坐长沙地铁公交](https://wz.rednet.cn/front/messages/mdetail?id=887777)》、长沙市人民政府《[刷社保卡坐地铁也能享优惠](http://www.changsha.gov.cn/jdhy/hygq/bmzx/ms/202511/t20251126_12079928.html)》、长投控股《[“耀行卡”重磅发布](https://www.cs-jk.com.cn/index/index/article/id/789.html)》、新湖南《[长株潭城际铁路与长沙地铁APP票制实现双向融通](https://m.voc.com.cn/xhn/news/202412/21552797.html)》。
 
 [^hrb]: 哈尔滨：银联闪付仅支持工行、交行、广发、浦发、邮储借记卡及信用卡和招商银行借记卡/ Harbin: Only CMB debit card and debit or credit cards by ICBC, COM, CGB, SPDB, CPG accepted in Quickpass
 
@@ -216,7 +216,7 @@
 
 [^wh2]: 武汉：武汉地铁当前公布的自动售票机购票方式为现金，以及支付宝、微信、云闪付和工银e支付扫码；“Metro新时代”用于乘车码直接过闸及购买电子定期票，不列作自动售票机支付方式。8座交通枢纽站客服中心另设POS机，支持Visa、Mastercard、American Express、JCB、Diners Club及Discover等外币卡购票，但不属于自动售票机支付或外卡直接过闸。来源：武汉地铁《[支付方式](https://www.wuhanrt.com/metro-operation.html?anchorPoint=OperationsTime)》《[丰富多元支付方式 优化地铁出行服务](http://m.toutiao.com/group/7377423949124092425/)》、武汉市人民政府《[“交通联合”卡可通刷武汉地铁](https://www.wuhan.gov.cn/sy/whyw/202406/t20240625_2420407.shtml)》。
 
-[^cs2]: 长沙：自动售票机支持现金，以及微信、支付宝、和包、银联在线支付购买单程票；银联在线支付属于扫码支付，不是银联闪付或银行卡拍卡。“长沙地铁”APP可购买电子单程票、电子储值票并直接扫码过闸，不列作自动售票机支付方式。来源：长沙市轨道交通集团《[扫码、刷卡、购票，您想知道的地铁出行方式都在这里](https://www.hncsmtr.com/905/918/content_83221.html)》《[票务信息](https://www.hncsmtr.com/905/941/index.htm)》、红网《[希望长沙地铁引入支付宝云闪付和包等多种支付方式](https://wz.rednet.cn/front/messages/mdetail?id=774404)》。
+[^cs2]: 长沙：自动售票机支持现金，以及微信、支付宝、和包、银联在线支付购买单程票；银联在线支付属于扫码支付，不是银联银行卡闪付或Visa等银行卡拍卡。“长沙地铁”APP可购买电子单程票、电子储值票并直接扫码过闸，不列作自动售票机支付方式。来源：长沙市轨道交通集团《[扫码、刷卡、购票，您想知道的地铁出行方式都在这里](https://www.hncsmtr.com/905/918/content_83221.html)》《[票务信息](https://www.hncsmtr.com/905/941/index.htm)》、红网《[希望长沙地铁引入支付宝云闪付和包等多种支付方式](https://wz.rednet.cn/front/messages/mdetail?id=774404)》。
 
 
 ## 感谢/ Thanks
